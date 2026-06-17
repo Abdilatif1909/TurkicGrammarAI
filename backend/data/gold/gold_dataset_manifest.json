@@ -1,0 +1,27 @@
+{
+  "morphology": {
+    "records": 5000,
+    "review_status": {
+      "candidate_requires_expert_review": 4621,
+      "candidate_synthetic_requires_expert_review": 379
+    }
+  },
+  "cognates": {
+    "records": 2000,
+    "review_status": {
+      "candidate_requires_expert_review": 2000
+    }
+  },
+  "historical": {
+    "records": 1000,
+    "review_status": {
+      "candidate_requires_expert_review": 1000
+    }
+  },
+  "qa": {
+    "records": 2000,
+    "review_status": {
+      "candidate_requires_expert_review": 2000
+    }
+  }
+}

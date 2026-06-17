@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Uzbek",
+    "native_name": "O'zbek tili",
+    "code": "uz",
+    "iso639_3": "uzb",
+    "family": "Turkic",
+    "branch": "Karluk",
+    "writing_system": "Latin, Cyrillic, Arabic",
+    "speakers_count": 44000000,
+    "country": "Uzbekistan",
+    "description": "A Karluk Turkic language spoken primarily in Uzbekistan and neighboring Central Asian countries.",
+    "flag_url": "https://flagcdn.com/uz.svg"
+  },
+  {
+    "name": "Turkish",
+    "native_name": "Türkçe",
+    "code": "tr",
+    "iso639_3": "tur",
+    "family": "Turkic",
+    "branch": "Oghuz",
+    "writing_system": "Latin",
+    "speakers_count": 85000000,
+    "country": "Turkey",
+    "description": "An Oghuz Turkic language and the official language of Turkey.",
+    "flag_url": "https://flagcdn.com/tr.svg"
+  },
+  {
+    "name": "Kazakh",
+    "native_name": "Қазақ тілі",
+    "code": "kk",
+    "iso639_3": "kaz",
+    "family": "Turkic",
+    "branch": "Kipchak",
+    "writing_system": "Cyrillic, Latin, Arabic",
+    "speakers_count": 17000000,
+    "country": "Kazakhstan",
+    "description": "A Kipchak Turkic language spoken mainly in Kazakhstan and by Kazakh communities abroad.",
+    "flag_url": "https://flagcdn.com/kz.svg"
+  },
+  {
+    "name": "Kyrgyz",
+    "native_name": "Кыргыз тили",
+    "code": "ky",
+    "iso639_3": "kir",
+    "family": "Turkic",
+    "branch": "Kipchak",
+    "writing_system": "Cyrillic, Arabic, Latin",
+    "speakers_count": 6000000,
+    "country": "Kyrgyzstan",
+    "description": "A Kipchak Turkic language spoken primarily in Kyrgyzstan.",
+    "flag_url": "https://flagcdn.com/kg.svg"
+  },
+  {
+    "name": "Azerbaijani",
+    "native_name": "Azərbaycan dili",
+    "code": "az",
+    "iso639_3": "aze",
+    "family": "Turkic",
+    "branch": "Oghuz",
+    "writing_system": "Latin, Arabic, Cyrillic",
+    "speakers_count": 30000000,
+    "country": "Azerbaijan",
+    "description": "An Oghuz Turkic language spoken in Azerbaijan, Iran, and neighboring regions.",
+    "flag_url": "https://flagcdn.com/az.svg"
+  },
+  {
+    "name": "Turkmen",
+    "native_name": "Türkmen dili",
+    "code": "tk",
+    "iso639_3": "tuk",
+    "family": "Turkic",
+    "branch": "Oghuz",
+    "writing_system": "Latin, Cyrillic, Arabic",
+    "speakers_count": 7000000,
+    "country": "Turkmenistan",
+    "description": "An Oghuz Turkic language spoken primarily in Turkmenistan and nearby regions.",
+    "flag_url": "https://flagcdn.com/tm.svg"
+  },
+  {
+    "name": "Old Turkic",
+    "native_name": "𐱅𐰇𐰼𐰰",
+    "code": "otk",
+    "iso639_3": "otk",
+    "family": "Turkic",
+    "branch": "Old Turkic",
+    "writing_system": "Old Turkic script, Uyghur script, Brahmi",
+    "speakers_count": 0,
+    "country": "Historical Central Asia",
+    "description": "The earliest directly attested Turkic language, known from inscriptions and manuscripts from Inner Asia.",
+    "flag_url": ""
+  }
+]

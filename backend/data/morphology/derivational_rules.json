@@ -1,0 +1,143 @@
+{
+  "language": "uz",
+  "categories": {
+    "Noun -> Profession": [
+      {
+        "suffix": "chi",
+        "derivation": "chi",
+        "result_pos": "NOUN",
+        "description": "profession or person associated with a noun",
+        "examples": [
+          "ish -> ishchi",
+          "ma'ruza -> ma'ruzachi"
+        ],
+        "confidence_score": 0.98
+      },
+      {
+        "suffix": "kor",
+        "derivation": "kor",
+        "result_pos": "NOUN",
+        "description": "person professionally associated with an activity or field",
+        "examples": [
+          "tadbir -> tadbirkor",
+          "shifo -> shifokor"
+        ],
+        "confidence_score": 0.96
+      },
+      {
+        "suffix": "gar",
+        "derivation": "gar",
+        "result_pos": "NOUN",
+        "description": "profession or habitual-role suffix in Persian/Arabic loan patterns",
+        "examples": [
+          "savdo -> savdogar",
+          "zar -> zargar"
+        ],
+        "confidence_score": 0.9
+      }
+    ],
+    "Verb -> Agent": [
+      {
+        "suffix": "uvchi",
+        "derivation": "uvchi",
+        "result_pos": "NOUN",
+        "description": "agentive participial noun from a verb stem",
+        "examples": [
+          "sot -> sotuvchi",
+          "yoz -> yozuvchi"
+        ],
+        "confidence_score": 0.98
+      },
+      {
+        "suffix": "tuvchi",
+        "derivation": "tuvchi",
+        "result_pos": "NOUN",
+        "min_root_length": 3,
+        "description": "agentive form after causative or stem-final vowel alternation",
+        "examples": [
+          "o'qi -> o'qituvchi",
+          "o'rgat -> o'rgatuvchi"
+        ],
+        "confidence_score": 0.97,
+        "stem_transforms": [
+          {
+            "surface_stem_suffix": "t",
+            "root_suffix": ""
+          }
+        ]
+      }
+    ],
+    "Verb -> Noun": [
+      {
+        "suffix": "ish",
+        "derivation": "ish",
+        "result_pos": "NOUN",
+        "description": "verbal noun or action nominalizer",
+        "examples": [
+          "o'qi -> o'qish",
+          "sot -> sotish"
+        ],
+        "confidence_score": 0.95
+      },
+      {
+        "suffix": "uv",
+        "derivation": "uv",
+        "result_pos": "NOUN",
+        "description": "process/result nominalizer from verb stems",
+        "examples": [
+          "sot -> sotuv",
+          "uchra -> uchrashuv"
+        ],
+        "confidence_score": 0.88
+      }
+    ],
+    "Noun -> Adjective": [
+      {
+        "suffix": "li",
+        "derivation": "li",
+        "result_pos": "ADJECTIVE",
+        "description": "having or characterized by the noun",
+        "examples": [
+          "suv -> suvli",
+          "madaniyat -> madaniyatli"
+        ],
+        "confidence_score": 0.96
+      },
+      {
+        "suffix": "siz",
+        "derivation": "siz",
+        "result_pos": "ADJECTIVE",
+        "description": "lacking or without the noun",
+        "examples": [
+          "uy -> uysiz",
+          "ish -> ishsiz"
+        ],
+        "confidence_score": 0.96
+      },
+      {
+        "suffix": "dosh",
+        "derivation": "dosh",
+        "result_pos": "NOUN",
+        "description": "shared association or companion relation",
+        "examples": [
+          "sinfi -> sinfdosh",
+          "yo'l -> yo'ldosh"
+        ],
+        "confidence_score": 0.9
+      }
+    ],
+    "Adjective -> Noun": [
+      {
+        "suffix": "lik",
+        "derivation": "lik",
+        "result_pos": "NOUN",
+        "description": "abstract noun, state, quality, or domain",
+        "examples": [
+          "yaxshi -> yaxshilik",
+          "band -> bandlik"
+        ],
+        "confidence_score": 0.96
+      }
+    ]
+  }
+}

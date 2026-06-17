@@ -1,0 +1,201 @@
+{
+  "generated_at": "2026-06-11T15:21:33",
+  "languages": {
+    "uz": {
+      "records": 14902,
+      "unique_lemmas": 5000,
+      "pos_counts": {
+        "adjective": 1913,
+        "adverb": 55,
+        "noun": 12452,
+        "numeral": 55,
+        "particle": 54,
+        "pronoun": 55,
+        "verb": 318
+      },
+      "pos_percentages": {
+        "adjective": 12.8372,
+        "adverb": 0.3691,
+        "noun": 83.5593,
+        "numeral": 0.3691,
+        "particle": 0.3624,
+        "pronoun": 0.3691,
+        "verb": 2.1339
+      },
+      "covered_pos_categories": 7
+    },
+    "tr": {
+      "records": 14905,
+      "unique_lemmas": 5000,
+      "pos_counts": {
+        "adjective": 1485,
+        "adverb": 1041,
+        "noun": 8217,
+        "numeral": 1040,
+        "particle": 1040,
+        "pronoun": 1041,
+        "verb": 1041
+      },
+      "pos_percentages": {
+        "adjective": 9.9631,
+        "adverb": 6.9842,
+        "noun": 55.1292,
+        "numeral": 6.9775,
+        "particle": 6.9775,
+        "pronoun": 6.9842,
+        "verb": 6.9842
+      },
+      "covered_pos_categories": 7
+    },
+    "az": {
+      "records": 11903,
+      "unique_lemmas": 4000,
+      "pos_counts": {
+        "adjective": 1116,
+        "adverb": 849,
+        "noun": 6541,
+        "numeral": 849,
+        "particle": 849,
+        "pronoun": 849,
+        "verb": 850
+      },
+      "pos_percentages": {
+        "adjective": 9.3758,
+        "adverb": 7.1327,
+        "noun": 54.9525,
+        "numeral": 7.1327,
+        "particle": 7.1327,
+        "pronoun": 7.1327,
+        "verb": 7.1411
+      },
+      "covered_pos_categories": 7
+    },
+    "kk": {
+      "records": 11904,
+      "unique_lemmas": 4000,
+      "pos_counts": {
+        "adjective": 1063,
+        "adverb": 848,
+        "noun": 6602,
+        "numeral": 848,
+        "particle": 847,
+        "pronoun": 848,
+        "verb": 848
+      },
+      "pos_percentages": {
+        "adjective": 8.9298,
+        "adverb": 7.1237,
+        "noun": 55.4603,
+        "numeral": 7.1237,
+        "particle": 7.1153,
+        "pronoun": 7.1237,
+        "verb": 7.1237
+      },
+      "covered_pos_categories": 7
+    },
+    "ky": {
+      "records": 11905,
+      "unique_lemmas": 4000,
+      "pos_counts": {
+        "adjective": 1079,
+        "adverb": 858,
+        "noun": 6539,
+        "numeral": 857,
+        "particle": 857,
+        "pronoun": 857,
+        "verb": 858
+      },
+      "pos_percentages": {
+        "adjective": 9.0634,
+        "adverb": 7.2071,
+        "noun": 54.9265,
+        "numeral": 7.1987,
+        "particle": 7.1987,
+        "pronoun": 7.1987,
+        "verb": 7.2071
+      },
+      "covered_pos_categories": 7
+    },
+    "tk": {
+      "records": 11904,
+      "unique_lemmas": 4000,
+      "pos_counts": {
+        "adjective": 1119,
+        "adverb": 854,
+        "noun": 6518,
+        "numeral": 853,
+        "particle": 853,
+        "pronoun": 853,
+        "verb": 854
+      },
+      "pos_percentages": {
+        "adjective": 9.4002,
+        "adverb": 7.1741,
+        "noun": 54.7547,
+        "numeral": 7.1657,
+        "particle": 7.1657,
+        "pronoun": 7.1657,
+        "verb": 7.1741
+      },
+      "covered_pos_categories": 7
+    },
+    "ug": {
+      "records": 11679,
+      "unique_lemmas": 4000,
+      "pos_counts": {
+        "adjective": 1139,
+        "adverb": 907,
+        "noun": 5800,
+        "numeral": 907,
+        "particle": 907,
+        "pronoun": 907,
+        "verb": 1112
+      },
+      "pos_percentages": {
+        "adjective": 9.7525,
+        "adverb": 7.7661,
+        "noun": 49.6618,
+        "numeral": 7.7661,
+        "particle": 7.7661,
+        "pronoun": 7.7661,
+        "verb": 9.5214
+      },
+      "covered_pos_categories": 7
+    },
+    "otk": {
+      "records": 10928,
+      "unique_lemmas": 3000,
+      "pos_counts": {
+        "adjective": 1287,
+        "adverb": 664,
+        "noun": 6323,
+        "numeral": 663,
+        "particle": 663,
+        "pronoun": 664,
+        "verb": 664
+      },
+      "pos_percentages": {
+        "adjective": 11.7771,
+        "adverb": 6.0761,
+        "noun": 57.8605,
+        "numeral": 6.067,
+        "particle": 6.067,
+        "pronoun": 6.0761,
+        "verb": 6.0761
+      },
+      "covered_pos_categories": 7
+    }
+  },
+  "summary": {
+    "covered_required_pos_categories": [
+      "adjective",
+      "adverb",
+      "noun",
+      "numeral",
+      "particle",
+      "pronoun",
+      "verb"
+    ],
+    "all_languages_cover_required_pos": true
+  }
+}

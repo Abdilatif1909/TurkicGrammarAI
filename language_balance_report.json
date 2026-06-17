@@ -1,0 +1,78 @@
+{
+  "generated_at": "2026-06-11T15:21:33",
+  "languages": {
+    "uz": {
+      "records": 14902,
+      "record_share": 14.8975,
+      "unique_lemmas": 5000,
+      "lemma_share": 15.1515,
+      "target_lemmas": 5000,
+      "target_met": true
+    },
+    "tr": {
+      "records": 14905,
+      "record_share": 14.9005,
+      "unique_lemmas": 5000,
+      "lemma_share": 15.1515,
+      "target_lemmas": 5000,
+      "target_met": true
+    },
+    "az": {
+      "records": 11903,
+      "record_share": 11.8994,
+      "unique_lemmas": 4000,
+      "lemma_share": 12.1212,
+      "target_lemmas": 4000,
+      "target_met": true
+    },
+    "kk": {
+      "records": 11904,
+      "record_share": 11.9004,
+      "unique_lemmas": 4000,
+      "lemma_share": 12.1212,
+      "target_lemmas": 4000,
+      "target_met": true
+    },
+    "ky": {
+      "records": 11905,
+      "record_share": 11.9014,
+      "unique_lemmas": 4000,
+      "lemma_share": 12.1212,
+      "target_lemmas": 4000,
+      "target_met": true
+    },
+    "tk": {
+      "records": 11904,
+      "record_share": 11.9004,
+      "unique_lemmas": 4000,
+      "lemma_share": 12.1212,
+      "target_lemmas": 4000,
+      "target_met": true
+    },
+    "ug": {
+      "records": 11679,
+      "record_share": 11.6755,
+      "unique_lemmas": 4000,
+      "lemma_share": 12.1212,
+      "target_lemmas": 4000,
+      "target_met": true
+    },
+    "otk": {
+      "records": 10928,
+      "record_share": 10.9247,
+      "unique_lemmas": 3000,
+      "lemma_share": 9.0909,
+      "target_lemmas": 3000,
+      "target_met": true
+    }
+  },
+  "summary": {
+    "total_records": 100030,
+    "total_language_lemmas": 33000,
+    "min_language_records": 10928,
+    "max_language_records": 14905,
+    "max_record_share": 14.9005,
+    "min_record_share": 10.9247,
+    "language_dominance_status": "pass"
+  }
+}

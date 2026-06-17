@@ -1,0 +1,495 @@
+{
+  "language": "uz",
+  "lemmas": [
+    {
+      "lemma": "uya",
+      "category": "NOUN",
+      "freq": 10
+    },
+    {
+      "lemma": "bozorish",
+      "category": "NOUN",
+      "freq": 9
+    },
+    {
+      "lemma": "uyvor",
+      "category": "NOUN",
+      "freq": 18
+    },
+    {
+      "lemma": "uydor",
+      "category": "NOUN",
+      "freq": 18
+    },
+    {
+      "lemma": "uyroq",
+      "category": "ADJECTIVE",
+      "freq": 12
+    },
+    {
+      "lemma": "ishiy",
+      "category": "ADJECTIVE",
+      "freq": 2
+    },
+    {
+      "lemma": "bozorvor",
+      "category": "NOUN",
+      "freq": 16
+    },
+    {
+      "lemma": "maktaba",
+      "category": "NOUN",
+      "freq": 8
+    },
+    {
+      "lemma": "bozori",
+      "category": "NOUN",
+      "freq": 14
+    },
+    {
+      "lemma": "tili",
+      "category": "NOUN",
+      "freq": 3
+    },
+    {
+      "lemma": "yozsiz",
+      "category": "NOUN",
+      "freq": 14
+    },
+    {
+      "lemma": "tiliy",
+      "category": "ADJECTIVE",
+      "freq": 14
+    },
+    {
+      "lemma": "maktablik",
+      "category": "NOUN",
+      "freq": 9
+    },
+    {
+      "lemma": "yozdor",
+      "category": "NOUN",
+      "freq": 2
+    },
+    {
+      "lemma": "ishli",
+      "category": "NOUN",
+      "freq": 5
+    },
+    {
+      "lemma": "uychi-chi",
+      "category": "NOUN",
+      "freq": 5
+    },
+    {
+      "lemma": "yoziy",
+      "category": "ADJECTIVE",
+      "freq": 13
+    },
+    {
+      "lemma": "yozi",
+      "category": "NOUN",
+      "freq": 2
+    },
+    {
+      "lemma": "bozorlik",
+      "category": "NOUN",
+      "freq": 13
+    },
+    {
+      "lemma": "tilvor",
+      "category": "NOUN",
+      "freq": 13
+    },
+    {
+      "lemma": "bozordor",
+      "category": "NOUN",
+      "freq": 16
+    },
+    {
+      "lemma": "kitob",
+      "category": "NOUN",
+      "freq": 10
+    },
+    {
+      "lemma": "ishchi-chi",
+      "category": "NOUN",
+      "freq": 8
+    },
+    {
+      "lemma": "kitobi",
+      "category": "NOUN",
+      "freq": 8
+    },
+    {
+      "lemma": "maktabchi",
+      "category": "NOUN",
+      "freq": 2
+    },
+    {
+      "lemma": "uylik",
+      "category": "NOUN",
+      "freq": 11
+    },
+    {
+      "lemma": "maktabvor",
+      "category": "NOUN",
+      "freq": 3
+    },
+    {
+      "lemma": "maktabi",
+      "category": "NOUN",
+      "freq": 4
+    },
+    {
+      "lemma": "ishdor",
+      "category": "NOUN",
+      "freq": 18
+    },
+    {
+      "lemma": "kitobroq",
+      "category": "ADJECTIVE",
+      "freq": 1
+    },
+    {
+      "lemma": "yozish",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "ishuvchi",
+      "category": "NOUN",
+      "freq": 14
+    },
+    {
+      "lemma": "ishi",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "maktabiy",
+      "category": "ADJECTIVE",
+      "freq": 8
+    },
+    {
+      "lemma": "tilchi-chi",
+      "category": "NOUN",
+      "freq": 17
+    },
+    {
+      "lemma": "tildor",
+      "category": "NOUN",
+      "freq": 4
+    },
+    {
+      "lemma": "ishlik",
+      "category": "NOUN",
+      "freq": 7
+    },
+    {
+      "lemma": "bozor",
+      "category": "NOUN",
+      "freq": 2
+    },
+    {
+      "lemma": "maktabsiz",
+      "category": "NOUN",
+      "freq": 9
+    },
+    {
+      "lemma": "kitobsiz",
+      "category": "NOUN",
+      "freq": 5
+    },
+    {
+      "lemma": "bozorsiz",
+      "category": "NOUN",
+      "freq": 13
+    },
+    {
+      "lemma": "yozlik",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "ishchi",
+      "category": "NOUN",
+      "freq": 4
+    },
+    {
+      "lemma": "uyli",
+      "category": "NOUN",
+      "freq": 5
+    },
+    {
+      "lemma": "yoza",
+      "category": "NOUN",
+      "freq": 19
+    },
+    {
+      "lemma": "uychi",
+      "category": "NOUN",
+      "freq": 1
+    },
+    {
+      "lemma": "isha",
+      "category": "NOUN",
+      "freq": 11
+    },
+    {
+      "lemma": "bozorchi-chi",
+      "category": "NOUN",
+      "freq": 20
+    },
+    {
+      "lemma": "bozoriy",
+      "category": "ADJECTIVE",
+      "freq": 7
+    },
+    {
+      "lemma": "ishvor",
+      "category": "NOUN",
+      "freq": 1
+    },
+    {
+      "lemma": "ishish",
+      "category": "NOUN",
+      "freq": 18
+    },
+    {
+      "lemma": "kitobchi-chi",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "kitoba",
+      "category": "NOUN",
+      "freq": 1
+    },
+    {
+      "lemma": "maktabuvchi",
+      "category": "NOUN",
+      "freq": 6
+    },
+    {
+      "lemma": "yozchi",
+      "category": "NOUN",
+      "freq": 9
+    },
+    {
+      "lemma": "tillik",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "tilroq",
+      "category": "ADJECTIVE",
+      "freq": 6
+    },
+    {
+      "lemma": "bozora",
+      "category": "NOUN",
+      "freq": 13
+    },
+    {
+      "lemma": "kitobvor",
+      "category": "NOUN",
+      "freq": 2
+    },
+    {
+      "lemma": "yozroq",
+      "category": "ADJECTIVE",
+      "freq": 13
+    },
+    {
+      "lemma": "tiluvchi",
+      "category": "NOUN",
+      "freq": 9
+    },
+    {
+      "lemma": "kitoblik",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "yozchi-chi",
+      "category": "NOUN",
+      "freq": 11
+    },
+    {
+      "lemma": "tilchi",
+      "category": "NOUN",
+      "freq": 18
+    },
+    {
+      "lemma": "maktabroq",
+      "category": "ADJECTIVE",
+      "freq": 9
+    },
+    {
+      "lemma": "bozorchi",
+      "category": "NOUN",
+      "freq": 7
+    },
+    {
+      "lemma": "kitobdor",
+      "category": "NOUN",
+      "freq": 19
+    },
+    {
+      "lemma": "maktabdor",
+      "category": "NOUN",
+      "freq": 14
+    },
+    {
+      "lemma": "maktab",
+      "category": "NOUN",
+      "freq": 18
+    },
+    {
+      "lemma": "ishsiz",
+      "category": "NOUN",
+      "freq": 19
+    },
+    {
+      "lemma": "kitobiy",
+      "category": "ADJECTIVE",
+      "freq": 7
+    },
+    {
+      "lemma": "maktabli",
+      "category": "NOUN",
+      "freq": 13
+    },
+    {
+      "lemma": "yozuvchi",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "til",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "bozorli",
+      "category": "NOUN",
+      "freq": 2
+    },
+    {
+      "lemma": "bozorroq",
+      "category": "ADJECTIVE",
+      "freq": 2
+    },
+    {
+      "lemma": "tila",
+      "category": "NOUN",
+      "freq": 3
+    },
+    {
+      "lemma": "yoz",
+      "category": "NOUN",
+      "freq": 13
+    },
+    {
+      "lemma": "uyish",
+      "category": "NOUN",
+      "freq": 18
+    },
+    {
+      "lemma": "ishroq",
+      "category": "ADJECTIVE",
+      "freq": 7
+    },
+    {
+      "lemma": "bozoruvchi",
+      "category": "NOUN",
+      "freq": 3
+    },
+    {
+      "lemma": "uyi",
+      "category": "NOUN",
+      "freq": 14
+    },
+    {
+      "lemma": "uy",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "yozli",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "kitobchi",
+      "category": "NOUN",
+      "freq": 17
+    },
+    {
+      "lemma": "tilsiz",
+      "category": "NOUN",
+      "freq": 11
+    },
+    {
+      "lemma": "ish",
+      "category": "NOUN",
+      "freq": 7
+    },
+    {
+      "lemma": "kitobuvchi",
+      "category": "NOUN",
+      "freq": 1
+    },
+    {
+      "lemma": "yozvor",
+      "category": "NOUN",
+      "freq": 7
+    },
+    {
+      "lemma": "uysiz",
+      "category": "NOUN",
+      "freq": 4
+    },
+    {
+      "lemma": "kitobli",
+      "category": "NOUN",
+      "freq": 18
+    },
+    {
+      "lemma": "maktabchi-chi",
+      "category": "NOUN",
+      "freq": 10
+    },
+    {
+      "lemma": "maktabish",
+      "category": "NOUN",
+      "freq": 19
+    },
+    {
+      "lemma": "kitobish",
+      "category": "NOUN",
+      "freq": 12
+    },
+    {
+      "lemma": "tilish",
+      "category": "NOUN",
+      "freq": 13
+    },
+    {
+      "lemma": "uyiy",
+      "category": "ADJECTIVE",
+      "freq": 11
+    },
+    {
+      "lemma": "uyuvchi",
+      "category": "NOUN",
+      "freq": 6
+    },
+    {
+      "lemma": "tilli",
+      "category": "NOUN",
+      "freq": 5
+    }
+  ]
+}

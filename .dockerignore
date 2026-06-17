@@ -1,0 +1,9 @@
+.git
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+logs/*.log
+postgres_data/
+node_modules/

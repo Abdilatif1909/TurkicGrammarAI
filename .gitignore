@@ -1,0 +1,58 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+backend/venv/
+env/
+ENV/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+!.env.production.example
+
+# Django/local runtime
+*.sqlite3
+*.db
+media/
+staticfiles/
+backend/logs/
+logs/
+*.log
+*.pid
+
+# Node/frontend
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+.npm/
+
+# Generated model artifacts
+backend/models/
+*.model
+*.vec
+*.npy
+
+# Generated embedding/search artifacts
+backend/data/embeddings/
+
+# Generated runtime/evaluation reports
+backend/data/reports/
+paper_package/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

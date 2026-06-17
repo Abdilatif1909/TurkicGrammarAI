@@ -1,0 +1,75 @@
+services:
+  django:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: turkicgrammarai-django
+    command: python manage.py runserver 0.0.0.0:8000
+    env_file:
+      - .env.example
+    volumes:
+      - ./backend:/app/backend
+      - ./logs:/app/logs
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: turkicgrammarai-postgres
+    env_file:
+      - .env.example
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    container_name: turkicgrammarai-redis
+    ports:
+      - "6379:6379"
+
+  celery:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: turkicgrammarai-celery
+    command: celery -A config worker -l info
+    env_file:
+      - .env.example
+    volumes:
+      - ./backend:/app/backend
+      - ./logs:/app/logs
+    depends_on:
+      - django
+      - redis
+      - postgres
+
+  celery-beat:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: turkicgrammarai-celery-beat
+    command: celery -A config beat -l info
+    env_file:
+      - .env.example
+    volumes:
+      - ./backend:/app/backend
+      - ./logs:/app/logs
+    depends_on:
+      - django
+      - redis
+      - postgres
+
+volumes:
+  postgres_data:

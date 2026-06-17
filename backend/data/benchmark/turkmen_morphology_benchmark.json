@@ -1,0 +1,4190 @@
+[
+  {
+    "surface": "kitaplar",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "kitaplarymyz",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "kitaplarymyzdan",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "kitapny",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "kitapa",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "kitapda",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "adamlar",
+    "stem": "adam",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "adamlarymyz",
+    "stem": "adam",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "adamlarymyzdan",
+    "stem": "adam",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "adamny",
+    "stem": "adam",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "adama",
+    "stem": "adam",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "adamda",
+    "stem": "adam",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "Ã§agalar",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "Ã§agalarymyz",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "Ã§agalarymyzdan",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "Ã§agany",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "Ã§agaa",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "Ã§agada",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "yollar",
+    "stem": "yol",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "yollarymyz",
+    "stem": "yol",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "yollarymyzdan",
+    "stem": "yol",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "yolny",
+    "stem": "yol",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "yola",
+    "stem": "yol",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "yolda",
+    "stem": "yol",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "obalar",
+    "stem": "oba",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "obalarymyz",
+    "stem": "oba",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "obalarymyzdan",
+    "stem": "oba",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "obany",
+    "stem": "oba",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "obaa",
+    "stem": "oba",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "obada",
+    "stem": "oba",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "daglar",
+    "stem": "dag",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "daglarymyz",
+    "stem": "dag",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "daglarymyzdan",
+    "stem": "dag",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "dagny",
+    "stem": "dag",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "daga",
+    "stem": "dag",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "dagda",
+    "stem": "dag",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "atalar",
+    "stem": "ata",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "atalarymyz",
+    "stem": "ata",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "atalarymyzdan",
+    "stem": "ata",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "atany",
+    "stem": "ata",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ataa",
+    "stem": "ata",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "atada",
+    "stem": "ata",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "dostlar",
+    "stem": "dost",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "dostlarymyz",
+    "stem": "dost",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "dostlarymyzdan",
+    "stem": "dost",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "dostny",
+    "stem": "dost",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "dosta",
+    "stem": "dost",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "dostda",
+    "stem": "dost",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "pullar",
+    "stem": "pul",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "pullarymyz",
+    "stem": "pul",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "pullarymyzdan",
+    "stem": "pul",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "pulny",
+    "stem": "pul",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "pula",
+    "stem": "pul",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "pulda",
+    "stem": "pul",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "suwlar",
+    "stem": "suw",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "suwlarymyz",
+    "stem": "suw",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "suwlarymyzdan",
+    "stem": "suw",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "suwny",
+    "stem": "suw",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "suwa",
+    "stem": "suw",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "suwda",
+    "stem": "suw",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "bazarlar",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "bazarlarymyz",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "bazarlarymyzdan",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "bazarny",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "bazara",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "bazarda",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "kanunlar",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "kanunlarymyz",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "kanunlarymyzdan",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "kanunny",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "kanuna",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "kanunda",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "hyzmatlar",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "hyzmatlarymyz",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "hyzmatlarymyzdan",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "hyzmatny",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "hyzmata",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "hyzmatda",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "otaglar",
+    "stem": "otag",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "otaglarymyz",
+    "stem": "otag",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "otaglarymyzdan",
+    "stem": "otag",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "otagny",
+    "stem": "otag",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "otaga",
+    "stem": "otag",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "otagda",
+    "stem": "otag",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "gapylar",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "gapylarymyz",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "gapylarymyzdan",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "gapyny",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "gapya",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "gapyda",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "öýler",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "öýlerimiz",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "öýlerimizden",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "öýni",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "öýe",
+    "stem": "öý",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "öýde",
+    "stem": "öý",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "mekdepler",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "mekdeplerimiz",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "mekdeplerimizden",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "mekdepni",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "mekdepe",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "mekdepde",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "diller",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "dillerimiz",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "dillerimizden",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "dilni",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "dile",
+    "stem": "dil",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "dilde",
+    "stem": "dil",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "sözler",
+    "stem": "söz",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "sözlerimiz",
+    "stem": "söz",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "sözlerimizden",
+    "stem": "söz",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "sözni",
+    "stem": "söz",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "söze",
+    "stem": "söz",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "sözde",
+    "stem": "söz",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "eller",
+    "stem": "el",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ellerimiz",
+    "stem": "el",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ellerimizden",
+    "stem": "el",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "elni",
+    "stem": "el",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ele",
+    "stem": "el",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "elde",
+    "stem": "el",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "göller",
+    "stem": "göl",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "göllerimiz",
+    "stem": "göl",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "göllerimizden",
+    "stem": "göl",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "gölni",
+    "stem": "göl",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "göle",
+    "stem": "göl",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "gölde",
+    "stem": "göl",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "günler",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "günlerimiz",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "günlerimizden",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "günni",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "güne",
+    "stem": "gün",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "günde",
+    "stem": "gün",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "güller",
+    "stem": "gül",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "güllerimiz",
+    "stem": "gül",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "güllerimizden",
+    "stem": "gül",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "gülni",
+    "stem": "gül",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "güle",
+    "stem": "gül",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "gülde",
+    "stem": "gül",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "eneler",
+    "stem": "ene",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "enelerimiz",
+    "stem": "ene",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "enelerimizden",
+    "stem": "ene",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "eneni",
+    "stem": "ene",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "enee",
+    "stem": "ene",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "enede",
+    "stem": "ene",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "işler",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "işlerimiz",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "işlerimizden",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "işni",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "işe",
+    "stem": "iş",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "işde",
+    "stem": "iş",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "bilimler",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "bilimlerimiz",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "bilimlerimizden",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "bilimni",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "bilime",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "bilimde",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "zähmetler",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "zähmetlerimiz",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "zähmetlerimizden",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "zähmetni",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "zähmete",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "zähmetde",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "Åäherler",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "Åäherlerimiz",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "Åäherlerimizden",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "Åäherni",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "Åähere",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "Åäherde",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "döwletler",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "döwletlerimiz",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "döwletlerimizden",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "döwletni",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "döwlete",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "döwletde",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "depderler",
+    "stem": "depder",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "depderlerimiz",
+    "stem": "depder",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "depderlerimizden",
+    "stem": "depder",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "depderni",
+    "stem": "depder",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "depdere",
+    "stem": "depder",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "depderde",
+    "stem": "depder",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "kitaplarymyzdan",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "öýler",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "öýlerimizden",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "adamlar",
+    "stem": "adam",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "yazdy",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "yazan",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "yazma",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "okady",
+    "stem": "oka",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "okaan",
+    "stem": "oka",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "okama",
+    "stem": "oka",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "bardy",
+    "stem": "bar",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "baran",
+    "stem": "bar",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "barma",
+    "stem": "bar",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "geldi",
+    "stem": "gel",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "gelen",
+    "stem": "gel",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "gelme",
+    "stem": "gel",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "aytdy",
+    "stem": "ayt",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "aytan",
+    "stem": "ayt",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "aytma",
+    "stem": "ayt",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "gördi",
+    "stem": "gör",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "gören",
+    "stem": "gör",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "görme",
+    "stem": "gör",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "berdi",
+    "stem": "ber",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "beren",
+    "stem": "ber",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "berme",
+    "stem": "ber",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "aldy",
+    "stem": "al",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "alan",
+    "stem": "al",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "alma",
+    "stem": "al",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "etdi",
+    "stem": "et",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "eten",
+    "stem": "et",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "etme",
+    "stem": "et",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "oylandy",
+    "stem": "oylan",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "oylanan",
+    "stem": "oylan",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "oylanma",
+    "stem": "oylan",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "sözledi",
+    "stem": "sözle",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "sözleen",
+    "stem": "sözle",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "sözleme",
+    "stem": "sözle",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "diňledi",
+    "stem": "diňle",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "diňleen",
+    "stem": "diňle",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "diňleme",
+    "stem": "diňle",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "öwrendi",
+    "stem": "öwren",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "öwrenen",
+    "stem": "öwren",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "öwrenme",
+    "stem": "öwren",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "açdy",
+    "stem": "aç",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "açan",
+    "stem": "aç",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "açma",
+    "stem": "aç",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "yapdy",
+    "stem": "yap",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "yapan",
+    "stem": "yap",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "yapma",
+    "stem": "yap",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ichdi",
+    "stem": "ich",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ichen",
+    "stem": "ich",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ichme",
+    "stem": "ich",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "iydy",
+    "stem": "iy",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "iyan",
+    "stem": "iy",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "iyma",
+    "stem": "iy",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "yurdy",
+    "stem": "yur",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "yuran",
+    "stem": "yur",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "yurma",
+    "stem": "yur",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "durdy",
+    "stem": "dur",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "duran",
+    "stem": "dur",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "durma",
+    "stem": "dur",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "bashlady",
+    "stem": "bashla",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "bashlaan",
+    "stem": "bashla",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "bashlama",
+    "stem": "bashla",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "işçi",
+    "stem": "iş",
+    "expected_suffixes": [
+      "çi"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "kitapçy",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "çy"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "adamlyk",
+    "stem": "adam",
+    "expected_suffixes": [
+      "lyk"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "bilimli",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "li"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "pulsyz",
+    "stem": "pul",
+    "expected_suffixes": [
+      "syz"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "yoldaş",
+    "stem": "yol",
+    "expected_suffixes": [
+      "daş"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "kitaplar",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "kitaplarymyz",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "kitaplarymyzdan",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "kitapny",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "kitapa",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "kitapda",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "adamlar",
+    "stem": "adam",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "adamlarymyz",
+    "stem": "adam",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "adamlarymyzdan",
+    "stem": "adam",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "adamny",
+    "stem": "adam",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "adama",
+    "stem": "adam",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "adamda",
+    "stem": "adam",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "Ã§agalar",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "Ã§agalarymyz",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "Ã§agalarymyzdan",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "Ã§agany",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "Ã§agaa",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "Ã§agada",
+    "stem": "Ã§aga",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "yollar",
+    "stem": "yol",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "yollarymyz",
+    "stem": "yol",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "yollarymyzdan",
+    "stem": "yol",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "yolny",
+    "stem": "yol",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "yola",
+    "stem": "yol",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "yolda",
+    "stem": "yol",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "obalar",
+    "stem": "oba",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "obalarymyz",
+    "stem": "oba",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "obalarymyzdan",
+    "stem": "oba",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "obany",
+    "stem": "oba",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "obaa",
+    "stem": "oba",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "obada",
+    "stem": "oba",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "daglar",
+    "stem": "dag",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "daglarymyz",
+    "stem": "dag",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "daglarymyzdan",
+    "stem": "dag",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "dagny",
+    "stem": "dag",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "daga",
+    "stem": "dag",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "dagda",
+    "stem": "dag",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "atalar",
+    "stem": "ata",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "atalarymyz",
+    "stem": "ata",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "atalarymyzdan",
+    "stem": "ata",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "atany",
+    "stem": "ata",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ataa",
+    "stem": "ata",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "atada",
+    "stem": "ata",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "dostlar",
+    "stem": "dost",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "dostlarymyz",
+    "stem": "dost",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "dostlarymyzdan",
+    "stem": "dost",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "dostny",
+    "stem": "dost",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "dosta",
+    "stem": "dost",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "dostda",
+    "stem": "dost",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "pullar",
+    "stem": "pul",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "pullarymyz",
+    "stem": "pul",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "pullarymyzdan",
+    "stem": "pul",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "pulny",
+    "stem": "pul",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "pula",
+    "stem": "pul",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "pulda",
+    "stem": "pul",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "suwlar",
+    "stem": "suw",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "suwlarymyz",
+    "stem": "suw",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "suwlarymyzdan",
+    "stem": "suw",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "suwny",
+    "stem": "suw",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "suwa",
+    "stem": "suw",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "suwda",
+    "stem": "suw",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "bazarlar",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "bazarlarymyz",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "bazarlarymyzdan",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "bazarny",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "bazara",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "bazarda",
+    "stem": "bazar",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "kanunlar",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "kanunlarymyz",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "kanunlarymyzdan",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "kanunny",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "kanuna",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "kanunda",
+    "stem": "kanun",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "hyzmatlar",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "hyzmatlarymyz",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "hyzmatlarymyzdan",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "hyzmatny",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "hyzmata",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "hyzmatda",
+    "stem": "hyzmat",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "otaglar",
+    "stem": "otag",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "otaglarymyz",
+    "stem": "otag",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "otaglarymyzdan",
+    "stem": "otag",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "otagny",
+    "stem": "otag",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "otaga",
+    "stem": "otag",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "otagda",
+    "stem": "otag",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "gapylar",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "gapylarymyz",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "lar",
+      "ymyz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "gapylarymyzdan",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "gapyny",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "ny"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "gapya",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "a"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "gapyda",
+    "stem": "gapy",
+    "expected_suffixes": [
+      "da"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "öýler",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "öýlerimiz",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "öýlerimizden",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "öýni",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "öýe",
+    "stem": "öý",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "öýde",
+    "stem": "öý",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "mekdepler",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "mekdeplerimiz",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "mekdeplerimizden",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "mekdepni",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "mekdepe",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "mekdepde",
+    "stem": "mekdep",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "diller",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "dillerimiz",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "dillerimizden",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "dilni",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "dile",
+    "stem": "dil",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "dilde",
+    "stem": "dil",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "sözler",
+    "stem": "söz",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "sözlerimiz",
+    "stem": "söz",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "sözlerimizden",
+    "stem": "söz",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "sözni",
+    "stem": "söz",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "söze",
+    "stem": "söz",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "sözde",
+    "stem": "söz",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "eller",
+    "stem": "el",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ellerimiz",
+    "stem": "el",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ellerimizden",
+    "stem": "el",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "elni",
+    "stem": "el",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ele",
+    "stem": "el",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "elde",
+    "stem": "el",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "göller",
+    "stem": "göl",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "göllerimiz",
+    "stem": "göl",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "göllerimizden",
+    "stem": "göl",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "gölni",
+    "stem": "göl",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "göle",
+    "stem": "göl",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "gölde",
+    "stem": "göl",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "günler",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "günlerimiz",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "günlerimizden",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "günni",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "güne",
+    "stem": "gün",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "günde",
+    "stem": "gün",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "güller",
+    "stem": "gül",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "güllerimiz",
+    "stem": "gül",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "güllerimizden",
+    "stem": "gül",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "gülni",
+    "stem": "gül",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "güle",
+    "stem": "gül",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "gülde",
+    "stem": "gül",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "eneler",
+    "stem": "ene",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "enelerimiz",
+    "stem": "ene",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "enelerimizden",
+    "stem": "ene",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "eneni",
+    "stem": "ene",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "enee",
+    "stem": "ene",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "enede",
+    "stem": "ene",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "işler",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "işlerimiz",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "işlerimizden",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "işni",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "işe",
+    "stem": "iş",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "işde",
+    "stem": "iş",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "bilimler",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "bilimlerimiz",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "bilimlerimizden",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "bilimni",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "bilime",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "bilimde",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "zähmetler",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "zähmetlerimiz",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "zähmetlerimizden",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "zähmetni",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "zähmete",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "zähmetde",
+    "stem": "zähmet",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "Åäherler",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "Åäherlerimiz",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "Åäherlerimizden",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "Åäherni",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "Åähere",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "Åäherde",
+    "stem": "Åäher",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "döwletler",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "döwletlerimiz",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "döwletlerimizden",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "döwletni",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "döwlete",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "döwletde",
+    "stem": "döwlet",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "depderler",
+    "stem": "depder",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "depderlerimiz",
+    "stem": "depder",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "depderlerimizden",
+    "stem": "depder",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "depderni",
+    "stem": "depder",
+    "expected_suffixes": [
+      "ni"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "depdere",
+    "stem": "depder",
+    "expected_suffixes": [
+      "e"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "depderde",
+    "stem": "depder",
+    "expected_suffixes": [
+      "de"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "kitaplarymyzdan",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar",
+      "ymyz",
+      "dan"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "öýler",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ler"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "öýlerimizden",
+    "stem": "öý",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "adamlar",
+    "stem": "adam",
+    "expected_suffixes": [
+      "lar"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "yazdy",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "yazan",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "yazma",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "okady",
+    "stem": "oka",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "okaan",
+    "stem": "oka",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "okama",
+    "stem": "oka",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "bardy",
+    "stem": "bar",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "baran",
+    "stem": "bar",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "barma",
+    "stem": "bar",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "geldi",
+    "stem": "gel",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "gelen",
+    "stem": "gel",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "gelme",
+    "stem": "gel",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "aytdy",
+    "stem": "ayt",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "aytan",
+    "stem": "ayt",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "aytma",
+    "stem": "ayt",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "gördi",
+    "stem": "gör",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "gören",
+    "stem": "gör",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "görme",
+    "stem": "gör",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "berdi",
+    "stem": "ber",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "beren",
+    "stem": "ber",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "berme",
+    "stem": "ber",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "aldy",
+    "stem": "al",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "alan",
+    "stem": "al",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "alma",
+    "stem": "al",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "etdi",
+    "stem": "et",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "eten",
+    "stem": "et",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "etme",
+    "stem": "et",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "oylandy",
+    "stem": "oylan",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "oylanan",
+    "stem": "oylan",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "oylanma",
+    "stem": "oylan",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "sözledi",
+    "stem": "sözle",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "sözleen",
+    "stem": "sözle",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "sözleme",
+    "stem": "sözle",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "diňledi",
+    "stem": "diňle",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "diňleen",
+    "stem": "diňle",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "diňleme",
+    "stem": "diňle",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "öwrendi",
+    "stem": "öwren",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "öwrenen",
+    "stem": "öwren",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "öwrenme",
+    "stem": "öwren",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "açdy",
+    "stem": "aç",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "açan",
+    "stem": "aç",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "açma",
+    "stem": "aç",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "yapdy",
+    "stem": "yap",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "yapan",
+    "stem": "yap",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "yapma",
+    "stem": "yap",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ichdi",
+    "stem": "ich",
+    "expected_suffixes": [
+      "di"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ichen",
+    "stem": "ich",
+    "expected_suffixes": [
+      "en"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ichme",
+    "stem": "ich",
+    "expected_suffixes": [
+      "me"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "iydy",
+    "stem": "iy",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "iyan",
+    "stem": "iy",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "iyma",
+    "stem": "iy",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "yurdy",
+    "stem": "yur",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "yuran",
+    "stem": "yur",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "yurma",
+    "stem": "yur",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "durdy",
+    "stem": "dur",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "duran",
+    "stem": "dur",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "durma",
+    "stem": "dur",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "bashlady",
+    "stem": "bashla",
+    "expected_suffixes": [
+      "dy"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "bashlaan",
+    "stem": "bashla",
+    "expected_suffixes": [
+      "an"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "bashlama",
+    "stem": "bashla",
+    "expected_suffixes": [
+      "ma"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "işçi",
+    "stem": "iş",
+    "expected_suffixes": [
+      "çi"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "kitapçy",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "çy"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "adamlyk",
+    "stem": "adam",
+    "expected_suffixes": [
+      "lyk"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "bilimli",
+    "stem": "bilim",
+    "expected_suffixes": [
+      "li"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "pulsyz",
+    "stem": "pul",
+    "expected_suffixes": [
+      "syz"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "yoldaş",
+    "stem": "yol",
+    "expected_suffixes": [
+      "daş"
+    ],
+    "category": "derivational"
+  }
+]

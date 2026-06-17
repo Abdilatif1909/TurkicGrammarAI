@@ -1,0 +1,159 @@
+{
+  "generated_at": "2026-06-11T15:21:33",
+  "languages": {
+    "uz": {
+      "word_count": 14902,
+      "unique_word_count": 14902,
+      "lemma_count": 5000,
+      "root_count": 5000,
+      "target_lemmas": 5000,
+      "target_met": true,
+      "pos_distribution": {
+        "noun": 12452,
+        "adjective": 1913,
+        "verb": 318,
+        "adverb": 55,
+        "pronoun": 55,
+        "numeral": 55,
+        "particle": 54
+      },
+      "type_token_ratio": 100.0
+    },
+    "tr": {
+      "word_count": 14905,
+      "unique_word_count": 14905,
+      "lemma_count": 5000,
+      "root_count": 5000,
+      "target_lemmas": 5000,
+      "target_met": true,
+      "pos_distribution": {
+        "noun": 8217,
+        "adjective": 1485,
+        "verb": 1041,
+        "adverb": 1041,
+        "pronoun": 1041,
+        "numeral": 1040,
+        "particle": 1040
+      },
+      "type_token_ratio": 100.0
+    },
+    "az": {
+      "word_count": 11903,
+      "unique_word_count": 11903,
+      "lemma_count": 4000,
+      "root_count": 4000,
+      "target_lemmas": 4000,
+      "target_met": true,
+      "pos_distribution": {
+        "noun": 6541,
+        "adjective": 1116,
+        "verb": 850,
+        "adverb": 849,
+        "pronoun": 849,
+        "numeral": 849,
+        "particle": 849
+      },
+      "type_token_ratio": 100.0
+    },
+    "kk": {
+      "word_count": 11904,
+      "unique_word_count": 11904,
+      "lemma_count": 4000,
+      "root_count": 4000,
+      "target_lemmas": 4000,
+      "target_met": true,
+      "pos_distribution": {
+        "noun": 6602,
+        "adjective": 1063,
+        "verb": 848,
+        "adverb": 848,
+        "pronoun": 848,
+        "numeral": 848,
+        "particle": 847
+      },
+      "type_token_ratio": 100.0
+    },
+    "ky": {
+      "word_count": 11905,
+      "unique_word_count": 11905,
+      "lemma_count": 4000,
+      "root_count": 4000,
+      "target_lemmas": 4000,
+      "target_met": true,
+      "pos_distribution": {
+        "noun": 6539,
+        "adjective": 1079,
+        "verb": 858,
+        "adverb": 858,
+        "pronoun": 857,
+        "numeral": 857,
+        "particle": 857
+      },
+      "type_token_ratio": 100.0
+    },
+    "tk": {
+      "word_count": 11904,
+      "unique_word_count": 11904,
+      "lemma_count": 4000,
+      "root_count": 4000,
+      "target_lemmas": 4000,
+      "target_met": true,
+      "pos_distribution": {
+        "noun": 6518,
+        "adjective": 1119,
+        "verb": 854,
+        "adverb": 854,
+        "pronoun": 853,
+        "numeral": 853,
+        "particle": 853
+      },
+      "type_token_ratio": 100.0
+    },
+    "ug": {
+      "word_count": 11679,
+      "unique_word_count": 11679,
+      "lemma_count": 4000,
+      "root_count": 4000,
+      "target_lemmas": 4000,
+      "target_met": true,
+      "pos_distribution": {
+        "noun": 5800,
+        "adjective": 1139,
+        "verb": 1112,
+        "adverb": 907,
+        "pronoun": 907,
+        "numeral": 907,
+        "particle": 907
+      },
+      "type_token_ratio": 100.0
+    },
+    "otk": {
+      "word_count": 10928,
+      "unique_word_count": 10928,
+      "lemma_count": 3000,
+      "root_count": 3000,
+      "target_lemmas": 3000,
+      "target_met": true,
+      "pos_distribution": {
+        "noun": 6323,
+        "adjective": 1287,
+        "verb": 664,
+        "adverb": 664,
+        "pronoun": 664,
+        "numeral": 663,
+        "particle": 663
+      },
+      "type_token_ratio": 100.0
+    }
+  },
+  "summary": {
+    "total_records": 100030,
+    "global_unique_words": 96940,
+    "global_unique_lemmas": 32776,
+    "global_unique_roots": 32776,
+    "total_language_lemmas": 33000,
+    "total_language_roots": 33000,
+    "languages_covered": 8,
+    "all_targets_met": true
+  }
+}

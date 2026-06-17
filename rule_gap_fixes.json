@@ -1,0 +1,57 @@
+[
+  {
+    "missing_pattern": "ingizda",
+    "added_rule": "Possessive-2pl-Locative",
+    "examples": [
+      "kitobingizda",
+      "tilingizdaimdena",
+      "davoingizda",
+      "ma'noingizdaliklar",
+      "uyingizda"
+    ]
+  },
+  {
+    "missing_pattern": "idan",
+    "added_rule": "Possessive-3sg-Ablative",
+    "examples": [
+      "o'qidanqaler",
+      "ta'limidan"
+    ]
+  },
+  {
+    "missing_pattern": "ishning",
+    "added_rule": "VerbalNoun-Genitive",
+    "examples": [
+      "yurakdirishning",
+      "qalbishning",
+      "oilaishningo'iyavornii"
+    ]
+  },
+  {
+    "missing_pattern": "magandi",
+    "added_rule": "Verb-NegPastPart-Past",
+    "examples": [
+      "uyquqamagandiisai",
+      "ishmagandichinialarichi",
+      "tiltaingmagandi"
+    ]
+  },
+  {
+    "missing_pattern": "inggina",
+    "added_rule": "Possessive-2sg-Restrictive",
+    "examples": [
+      "daryoingginaar",
+      "daryoingginao'iya",
+      "qalbishingginatadana",
+      "davoinggina"
+    ]
+  },
+  {
+    "missing_pattern": "ginacha",
+    "added_rule": "Restrictive-Approximation",
+    "examples": [
+      "ta'limmachiiginacha",
+      "qalbginachayorlaridirgaa"
+    ]
+  }
+]

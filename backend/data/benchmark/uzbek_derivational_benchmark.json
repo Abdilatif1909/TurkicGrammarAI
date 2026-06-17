@@ -1,0 +1,3502 @@
+[
+  {
+    "surface": "ishchi",
+    "expected_root": "ish",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 1
+  },
+  {
+    "surface": "ma'ruzachi",
+    "expected_root": "ma'ruza",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 2
+  },
+  {
+    "surface": "bozorchi",
+    "expected_root": "bozor",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 3
+  },
+  {
+    "surface": "tilchi",
+    "expected_root": "til",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 4
+  },
+  {
+    "surface": "adabiyotchi",
+    "expected_root": "adabiyot",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 5
+  },
+  {
+    "surface": "san'atchi",
+    "expected_root": "san'at",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 6
+  },
+  {
+    "surface": "soliqchi",
+    "expected_root": "soliq",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 7
+  },
+  {
+    "surface": "matematikachi",
+    "expected_root": "matematika",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 8
+  },
+  {
+    "surface": "dasturchi",
+    "expected_root": "dastur",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 9
+  },
+  {
+    "surface": "gazchi",
+    "expected_root": "gaz",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 10
+  },
+  {
+    "surface": "tadbirkor",
+    "expected_root": "tadbir",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 11
+  },
+  {
+    "surface": "shifokor",
+    "expected_root": "shifo",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 12
+  },
+  {
+    "surface": "ijodkor",
+    "expected_root": "ijod",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 13
+  },
+  {
+    "surface": "xizmatkor",
+    "expected_root": "xizmat",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 14
+  },
+  {
+    "surface": "hunarkor",
+    "expected_root": "hunar",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 15
+  },
+  {
+    "surface": "savdogar",
+    "expected_root": "savdo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 16
+  },
+  {
+    "surface": "zargar",
+    "expected_root": "zar",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 17
+  },
+  {
+    "surface": "misgar",
+    "expected_root": "mis",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 18
+  },
+  {
+    "surface": "kimyogar",
+    "expected_root": "kimyo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 19
+  },
+  {
+    "surface": "hiylagar",
+    "expected_root": "hiyla",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 20
+  },
+  {
+    "surface": "sotuvchi",
+    "expected_root": "sot",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 21
+  },
+  {
+    "surface": "yozuvchi",
+    "expected_root": "yoz",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 22
+  },
+  {
+    "surface": "boshqaruvchi",
+    "expected_root": "boshqar",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 23
+  },
+  {
+    "surface": "quruvchi",
+    "expected_root": "qur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 24
+  },
+  {
+    "surface": "beruvchi",
+    "expected_root": "ber",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 25
+  },
+  {
+    "surface": "oluvchi",
+    "expected_root": "ol",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 26
+  },
+  {
+    "surface": "keluvchi",
+    "expected_root": "kel",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 27
+  },
+  {
+    "surface": "boruvchi",
+    "expected_root": "bor",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 28
+  },
+  {
+    "surface": "turuvchi",
+    "expected_root": "tur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 29
+  },
+  {
+    "surface": "ko'ruvchi",
+    "expected_root": "ko'r",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 30
+  },
+  {
+    "surface": "o'qituvchi",
+    "expected_root": "o'qi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 31
+  },
+  {
+    "surface": "tanituvchi",
+    "expected_root": "tani",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 32
+  },
+  {
+    "surface": "boyituvchi",
+    "expected_root": "boyi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 33
+  },
+  {
+    "surface": "kengayituvchi",
+    "expected_root": "kengayi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 34
+  },
+  {
+    "surface": "qizituvchi",
+    "expected_root": "qizi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 35
+  },
+  {
+    "surface": "sotish",
+    "expected_root": "sot",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 36
+  },
+  {
+    "surface": "yozish",
+    "expected_root": "yoz",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 37
+  },
+  {
+    "surface": "qurish",
+    "expected_root": "qur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 38
+  },
+  {
+    "surface": "bilish",
+    "expected_root": "bil",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 39
+  },
+  {
+    "surface": "boshqarish",
+    "expected_root": "boshqar",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 40
+  },
+  {
+    "surface": "kelish",
+    "expected_root": "kel",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 41
+  },
+  {
+    "surface": "borish",
+    "expected_root": "bor",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 42
+  },
+  {
+    "surface": "olish",
+    "expected_root": "ol",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 43
+  },
+  {
+    "surface": "berish",
+    "expected_root": "ber",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 44
+  },
+  {
+    "surface": "turish",
+    "expected_root": "tur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 45
+  },
+  {
+    "surface": "ko'rish",
+    "expected_root": "ko'r",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 46
+  },
+  {
+    "surface": "sotuv",
+    "expected_root": "sot",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 47
+  },
+  {
+    "surface": "yozuv",
+    "expected_root": "yoz",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 48
+  },
+  {
+    "surface": "quruv",
+    "expected_root": "qur",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 49
+  },
+  {
+    "surface": "boruv",
+    "expected_root": "bor",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 50
+  },
+  {
+    "surface": "keluv",
+    "expected_root": "kel",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 51
+  },
+  {
+    "surface": "suvli",
+    "expected_root": "suv",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 52
+  },
+  {
+    "surface": "sutli",
+    "expected_root": "sut",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 53
+  },
+  {
+    "surface": "madaniyatli",
+    "expected_root": "madaniyat",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 54
+  },
+  {
+    "surface": "ma'noli",
+    "expected_root": "ma'no",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 55
+  },
+  {
+    "surface": "kuchli",
+    "expected_root": "kuch",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 56
+  },
+  {
+    "surface": "aqlli",
+    "expected_root": "aql",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 57
+  },
+  {
+    "surface": "tartibli",
+    "expected_root": "tartib",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 58
+  },
+  {
+    "surface": "foydali",
+    "expected_root": "foyda",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 59
+  },
+  {
+    "surface": "rangli",
+    "expected_root": "rang",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 60
+  },
+  {
+    "surface": "tajribali",
+    "expected_root": "tajriba",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 61
+  },
+  {
+    "surface": "uysiz",
+    "expected_root": "uy",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 62
+  },
+  {
+    "surface": "ishsiz",
+    "expected_root": "ish",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 63
+  },
+  {
+    "surface": "suvsiz",
+    "expected_root": "suv",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 64
+  },
+  {
+    "surface": "ma'nosiz",
+    "expected_root": "ma'no",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 65
+  },
+  {
+    "surface": "tartibsiz",
+    "expected_root": "tartib",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 66
+  },
+  {
+    "surface": "foydasiz",
+    "expected_root": "foyda",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 67
+  },
+  {
+    "surface": "xatosiz",
+    "expected_root": "xato",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 68
+  },
+  {
+    "surface": "chegarasiz",
+    "expected_root": "chegara",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 69
+  },
+  {
+    "surface": "kuchsiz",
+    "expected_root": "kuch",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 70
+  },
+  {
+    "surface": "tajribasiz",
+    "expected_root": "tajriba",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 71
+  },
+  {
+    "surface": "sinfdosh",
+    "expected_root": "sinf",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 72
+  },
+  {
+    "surface": "yo'ldosh",
+    "expected_root": "yo'l",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 73
+  },
+  {
+    "surface": "fikrdosh",
+    "expected_root": "fikr",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 74
+  },
+  {
+    "surface": "kursdosh",
+    "expected_root": "kurs",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 75
+  },
+  {
+    "surface": "mahalladosh",
+    "expected_root": "mahalla",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 76
+  },
+  {
+    "surface": "yaxshilik",
+    "expected_root": "yaxshi",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 77
+  },
+  {
+    "surface": "bandlik",
+    "expected_root": "band",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 78
+  },
+  {
+    "surface": "do'stlik",
+    "expected_root": "do'st",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 79
+  },
+  {
+    "surface": "tinchlik",
+    "expected_root": "tinch",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 80
+  },
+  {
+    "surface": "erkinlik",
+    "expected_root": "erkin",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 81
+  },
+  {
+    "surface": "go'zallik",
+    "expected_root": "go'zal",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 82
+  },
+  {
+    "surface": "tozalik",
+    "expected_root": "toza",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 83
+  },
+  {
+    "surface": "aniqlik",
+    "expected_root": "aniq",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 84
+  },
+  {
+    "surface": "tezlik",
+    "expected_root": "tez",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 85
+  },
+  {
+    "surface": "yoshlik",
+    "expected_root": "yosh",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 86
+  },
+  {
+    "surface": "ishchi",
+    "expected_root": "ish",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 87
+  },
+  {
+    "surface": "ma'ruzachi",
+    "expected_root": "ma'ruza",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 88
+  },
+  {
+    "surface": "bozorchi",
+    "expected_root": "bozor",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 89
+  },
+  {
+    "surface": "tilchi",
+    "expected_root": "til",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 90
+  },
+  {
+    "surface": "adabiyotchi",
+    "expected_root": "adabiyot",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 91
+  },
+  {
+    "surface": "san'atchi",
+    "expected_root": "san'at",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 92
+  },
+  {
+    "surface": "soliqchi",
+    "expected_root": "soliq",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 93
+  },
+  {
+    "surface": "matematikachi",
+    "expected_root": "matematika",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 94
+  },
+  {
+    "surface": "dasturchi",
+    "expected_root": "dastur",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 95
+  },
+  {
+    "surface": "gazchi",
+    "expected_root": "gaz",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 96
+  },
+  {
+    "surface": "tadbirkor",
+    "expected_root": "tadbir",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 97
+  },
+  {
+    "surface": "shifokor",
+    "expected_root": "shifo",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 98
+  },
+  {
+    "surface": "ijodkor",
+    "expected_root": "ijod",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 99
+  },
+  {
+    "surface": "xizmatkor",
+    "expected_root": "xizmat",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 100
+  },
+  {
+    "surface": "hunarkor",
+    "expected_root": "hunar",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 101
+  },
+  {
+    "surface": "savdogar",
+    "expected_root": "savdo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 102
+  },
+  {
+    "surface": "zargar",
+    "expected_root": "zar",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 103
+  },
+  {
+    "surface": "misgar",
+    "expected_root": "mis",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 104
+  },
+  {
+    "surface": "kimyogar",
+    "expected_root": "kimyo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 105
+  },
+  {
+    "surface": "hiylagar",
+    "expected_root": "hiyla",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 106
+  },
+  {
+    "surface": "sotuvchi",
+    "expected_root": "sot",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 107
+  },
+  {
+    "surface": "yozuvchi",
+    "expected_root": "yoz",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 108
+  },
+  {
+    "surface": "boshqaruvchi",
+    "expected_root": "boshqar",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 109
+  },
+  {
+    "surface": "quruvchi",
+    "expected_root": "qur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 110
+  },
+  {
+    "surface": "beruvchi",
+    "expected_root": "ber",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 111
+  },
+  {
+    "surface": "oluvchi",
+    "expected_root": "ol",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 112
+  },
+  {
+    "surface": "keluvchi",
+    "expected_root": "kel",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 113
+  },
+  {
+    "surface": "boruvchi",
+    "expected_root": "bor",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 114
+  },
+  {
+    "surface": "turuvchi",
+    "expected_root": "tur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 115
+  },
+  {
+    "surface": "ko'ruvchi",
+    "expected_root": "ko'r",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 116
+  },
+  {
+    "surface": "o'qituvchi",
+    "expected_root": "o'qi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 117
+  },
+  {
+    "surface": "tanituvchi",
+    "expected_root": "tani",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 118
+  },
+  {
+    "surface": "boyituvchi",
+    "expected_root": "boyi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 119
+  },
+  {
+    "surface": "kengayituvchi",
+    "expected_root": "kengayi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 120
+  },
+  {
+    "surface": "qizituvchi",
+    "expected_root": "qizi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 121
+  },
+  {
+    "surface": "sotish",
+    "expected_root": "sot",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 122
+  },
+  {
+    "surface": "yozish",
+    "expected_root": "yoz",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 123
+  },
+  {
+    "surface": "qurish",
+    "expected_root": "qur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 124
+  },
+  {
+    "surface": "bilish",
+    "expected_root": "bil",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 125
+  },
+  {
+    "surface": "boshqarish",
+    "expected_root": "boshqar",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 126
+  },
+  {
+    "surface": "kelish",
+    "expected_root": "kel",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 127
+  },
+  {
+    "surface": "borish",
+    "expected_root": "bor",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 128
+  },
+  {
+    "surface": "olish",
+    "expected_root": "ol",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 129
+  },
+  {
+    "surface": "berish",
+    "expected_root": "ber",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 130
+  },
+  {
+    "surface": "turish",
+    "expected_root": "tur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 131
+  },
+  {
+    "surface": "ko'rish",
+    "expected_root": "ko'r",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 132
+  },
+  {
+    "surface": "sotuv",
+    "expected_root": "sot",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 133
+  },
+  {
+    "surface": "yozuv",
+    "expected_root": "yoz",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 134
+  },
+  {
+    "surface": "quruv",
+    "expected_root": "qur",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 135
+  },
+  {
+    "surface": "boruv",
+    "expected_root": "bor",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 136
+  },
+  {
+    "surface": "keluv",
+    "expected_root": "kel",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 137
+  },
+  {
+    "surface": "suvli",
+    "expected_root": "suv",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 138
+  },
+  {
+    "surface": "sutli",
+    "expected_root": "sut",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 139
+  },
+  {
+    "surface": "madaniyatli",
+    "expected_root": "madaniyat",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 140
+  },
+  {
+    "surface": "ma'noli",
+    "expected_root": "ma'no",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 141
+  },
+  {
+    "surface": "kuchli",
+    "expected_root": "kuch",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 142
+  },
+  {
+    "surface": "aqlli",
+    "expected_root": "aql",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 143
+  },
+  {
+    "surface": "tartibli",
+    "expected_root": "tartib",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 144
+  },
+  {
+    "surface": "foydali",
+    "expected_root": "foyda",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 145
+  },
+  {
+    "surface": "rangli",
+    "expected_root": "rang",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 146
+  },
+  {
+    "surface": "tajribali",
+    "expected_root": "tajriba",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 147
+  },
+  {
+    "surface": "uysiz",
+    "expected_root": "uy",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 148
+  },
+  {
+    "surface": "ishsiz",
+    "expected_root": "ish",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 149
+  },
+  {
+    "surface": "suvsiz",
+    "expected_root": "suv",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 150
+  },
+  {
+    "surface": "ma'nosiz",
+    "expected_root": "ma'no",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 151
+  },
+  {
+    "surface": "tartibsiz",
+    "expected_root": "tartib",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 152
+  },
+  {
+    "surface": "foydasiz",
+    "expected_root": "foyda",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 153
+  },
+  {
+    "surface": "xatosiz",
+    "expected_root": "xato",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 154
+  },
+  {
+    "surface": "chegarasiz",
+    "expected_root": "chegara",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 155
+  },
+  {
+    "surface": "kuchsiz",
+    "expected_root": "kuch",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 156
+  },
+  {
+    "surface": "tajribasiz",
+    "expected_root": "tajriba",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 157
+  },
+  {
+    "surface": "sinfdosh",
+    "expected_root": "sinf",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 158
+  },
+  {
+    "surface": "yo'ldosh",
+    "expected_root": "yo'l",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 159
+  },
+  {
+    "surface": "fikrdosh",
+    "expected_root": "fikr",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 160
+  },
+  {
+    "surface": "kursdosh",
+    "expected_root": "kurs",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 161
+  },
+  {
+    "surface": "mahalladosh",
+    "expected_root": "mahalla",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 162
+  },
+  {
+    "surface": "yaxshilik",
+    "expected_root": "yaxshi",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 163
+  },
+  {
+    "surface": "bandlik",
+    "expected_root": "band",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 164
+  },
+  {
+    "surface": "do'stlik",
+    "expected_root": "do'st",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 165
+  },
+  {
+    "surface": "tinchlik",
+    "expected_root": "tinch",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 166
+  },
+  {
+    "surface": "erkinlik",
+    "expected_root": "erkin",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 167
+  },
+  {
+    "surface": "go'zallik",
+    "expected_root": "go'zal",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 168
+  },
+  {
+    "surface": "tozalik",
+    "expected_root": "toza",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 169
+  },
+  {
+    "surface": "aniqlik",
+    "expected_root": "aniq",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 170
+  },
+  {
+    "surface": "tezlik",
+    "expected_root": "tez",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 171
+  },
+  {
+    "surface": "yoshlik",
+    "expected_root": "yosh",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 172
+  },
+  {
+    "surface": "ishchi",
+    "expected_root": "ish",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 173
+  },
+  {
+    "surface": "ma'ruzachi",
+    "expected_root": "ma'ruza",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 174
+  },
+  {
+    "surface": "bozorchi",
+    "expected_root": "bozor",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 175
+  },
+  {
+    "surface": "tilchi",
+    "expected_root": "til",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 176
+  },
+  {
+    "surface": "adabiyotchi",
+    "expected_root": "adabiyot",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 177
+  },
+  {
+    "surface": "san'atchi",
+    "expected_root": "san'at",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 178
+  },
+  {
+    "surface": "soliqchi",
+    "expected_root": "soliq",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 179
+  },
+  {
+    "surface": "matematikachi",
+    "expected_root": "matematika",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 180
+  },
+  {
+    "surface": "dasturchi",
+    "expected_root": "dastur",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 181
+  },
+  {
+    "surface": "gazchi",
+    "expected_root": "gaz",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 182
+  },
+  {
+    "surface": "tadbirkor",
+    "expected_root": "tadbir",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 183
+  },
+  {
+    "surface": "shifokor",
+    "expected_root": "shifo",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 184
+  },
+  {
+    "surface": "ijodkor",
+    "expected_root": "ijod",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 185
+  },
+  {
+    "surface": "xizmatkor",
+    "expected_root": "xizmat",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 186
+  },
+  {
+    "surface": "hunarkor",
+    "expected_root": "hunar",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 187
+  },
+  {
+    "surface": "savdogar",
+    "expected_root": "savdo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 188
+  },
+  {
+    "surface": "zargar",
+    "expected_root": "zar",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 189
+  },
+  {
+    "surface": "misgar",
+    "expected_root": "mis",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 190
+  },
+  {
+    "surface": "kimyogar",
+    "expected_root": "kimyo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 191
+  },
+  {
+    "surface": "hiylagar",
+    "expected_root": "hiyla",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 192
+  },
+  {
+    "surface": "sotuvchi",
+    "expected_root": "sot",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 193
+  },
+  {
+    "surface": "yozuvchi",
+    "expected_root": "yoz",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 194
+  },
+  {
+    "surface": "boshqaruvchi",
+    "expected_root": "boshqar",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 195
+  },
+  {
+    "surface": "quruvchi",
+    "expected_root": "qur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 196
+  },
+  {
+    "surface": "beruvchi",
+    "expected_root": "ber",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 197
+  },
+  {
+    "surface": "oluvchi",
+    "expected_root": "ol",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 198
+  },
+  {
+    "surface": "keluvchi",
+    "expected_root": "kel",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 199
+  },
+  {
+    "surface": "boruvchi",
+    "expected_root": "bor",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 200
+  },
+  {
+    "surface": "turuvchi",
+    "expected_root": "tur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 201
+  },
+  {
+    "surface": "ko'ruvchi",
+    "expected_root": "ko'r",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 202
+  },
+  {
+    "surface": "o'qituvchi",
+    "expected_root": "o'qi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 203
+  },
+  {
+    "surface": "tanituvchi",
+    "expected_root": "tani",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 204
+  },
+  {
+    "surface": "boyituvchi",
+    "expected_root": "boyi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 205
+  },
+  {
+    "surface": "kengayituvchi",
+    "expected_root": "kengayi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 206
+  },
+  {
+    "surface": "qizituvchi",
+    "expected_root": "qizi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 207
+  },
+  {
+    "surface": "sotish",
+    "expected_root": "sot",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 208
+  },
+  {
+    "surface": "yozish",
+    "expected_root": "yoz",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 209
+  },
+  {
+    "surface": "qurish",
+    "expected_root": "qur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 210
+  },
+  {
+    "surface": "bilish",
+    "expected_root": "bil",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 211
+  },
+  {
+    "surface": "boshqarish",
+    "expected_root": "boshqar",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 212
+  },
+  {
+    "surface": "kelish",
+    "expected_root": "kel",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 213
+  },
+  {
+    "surface": "borish",
+    "expected_root": "bor",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 214
+  },
+  {
+    "surface": "olish",
+    "expected_root": "ol",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 215
+  },
+  {
+    "surface": "berish",
+    "expected_root": "ber",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 216
+  },
+  {
+    "surface": "turish",
+    "expected_root": "tur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 217
+  },
+  {
+    "surface": "ko'rish",
+    "expected_root": "ko'r",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 218
+  },
+  {
+    "surface": "sotuv",
+    "expected_root": "sot",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 219
+  },
+  {
+    "surface": "yozuv",
+    "expected_root": "yoz",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 220
+  },
+  {
+    "surface": "quruv",
+    "expected_root": "qur",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 221
+  },
+  {
+    "surface": "boruv",
+    "expected_root": "bor",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 222
+  },
+  {
+    "surface": "keluv",
+    "expected_root": "kel",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 223
+  },
+  {
+    "surface": "suvli",
+    "expected_root": "suv",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 224
+  },
+  {
+    "surface": "sutli",
+    "expected_root": "sut",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 225
+  },
+  {
+    "surface": "madaniyatli",
+    "expected_root": "madaniyat",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 226
+  },
+  {
+    "surface": "ma'noli",
+    "expected_root": "ma'no",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 227
+  },
+  {
+    "surface": "kuchli",
+    "expected_root": "kuch",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 228
+  },
+  {
+    "surface": "aqlli",
+    "expected_root": "aql",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 229
+  },
+  {
+    "surface": "tartibli",
+    "expected_root": "tartib",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 230
+  },
+  {
+    "surface": "foydali",
+    "expected_root": "foyda",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 231
+  },
+  {
+    "surface": "rangli",
+    "expected_root": "rang",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 232
+  },
+  {
+    "surface": "tajribali",
+    "expected_root": "tajriba",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 233
+  },
+  {
+    "surface": "uysiz",
+    "expected_root": "uy",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 234
+  },
+  {
+    "surface": "ishsiz",
+    "expected_root": "ish",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 235
+  },
+  {
+    "surface": "suvsiz",
+    "expected_root": "suv",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 236
+  },
+  {
+    "surface": "ma'nosiz",
+    "expected_root": "ma'no",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 237
+  },
+  {
+    "surface": "tartibsiz",
+    "expected_root": "tartib",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 238
+  },
+  {
+    "surface": "foydasiz",
+    "expected_root": "foyda",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 239
+  },
+  {
+    "surface": "xatosiz",
+    "expected_root": "xato",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 240
+  },
+  {
+    "surface": "chegarasiz",
+    "expected_root": "chegara",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 241
+  },
+  {
+    "surface": "kuchsiz",
+    "expected_root": "kuch",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 242
+  },
+  {
+    "surface": "tajribasiz",
+    "expected_root": "tajriba",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 243
+  },
+  {
+    "surface": "sinfdosh",
+    "expected_root": "sinf",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 244
+  },
+  {
+    "surface": "yo'ldosh",
+    "expected_root": "yo'l",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 245
+  },
+  {
+    "surface": "fikrdosh",
+    "expected_root": "fikr",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 246
+  },
+  {
+    "surface": "kursdosh",
+    "expected_root": "kurs",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 247
+  },
+  {
+    "surface": "mahalladosh",
+    "expected_root": "mahalla",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 248
+  },
+  {
+    "surface": "yaxshilik",
+    "expected_root": "yaxshi",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 249
+  },
+  {
+    "surface": "bandlik",
+    "expected_root": "band",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 250
+  },
+  {
+    "surface": "do'stlik",
+    "expected_root": "do'st",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 251
+  },
+  {
+    "surface": "tinchlik",
+    "expected_root": "tinch",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 252
+  },
+  {
+    "surface": "erkinlik",
+    "expected_root": "erkin",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 253
+  },
+  {
+    "surface": "go'zallik",
+    "expected_root": "go'zal",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 254
+  },
+  {
+    "surface": "tozalik",
+    "expected_root": "toza",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 255
+  },
+  {
+    "surface": "aniqlik",
+    "expected_root": "aniq",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 256
+  },
+  {
+    "surface": "tezlik",
+    "expected_root": "tez",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 257
+  },
+  {
+    "surface": "yoshlik",
+    "expected_root": "yosh",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 258
+  },
+  {
+    "surface": "ishchi",
+    "expected_root": "ish",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 259
+  },
+  {
+    "surface": "ma'ruzachi",
+    "expected_root": "ma'ruza",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 260
+  },
+  {
+    "surface": "bozorchi",
+    "expected_root": "bozor",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 261
+  },
+  {
+    "surface": "tilchi",
+    "expected_root": "til",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 262
+  },
+  {
+    "surface": "adabiyotchi",
+    "expected_root": "adabiyot",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 263
+  },
+  {
+    "surface": "san'atchi",
+    "expected_root": "san'at",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 264
+  },
+  {
+    "surface": "soliqchi",
+    "expected_root": "soliq",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 265
+  },
+  {
+    "surface": "matematikachi",
+    "expected_root": "matematika",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 266
+  },
+  {
+    "surface": "dasturchi",
+    "expected_root": "dastur",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 267
+  },
+  {
+    "surface": "gazchi",
+    "expected_root": "gaz",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 268
+  },
+  {
+    "surface": "tadbirkor",
+    "expected_root": "tadbir",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 269
+  },
+  {
+    "surface": "shifokor",
+    "expected_root": "shifo",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 270
+  },
+  {
+    "surface": "ijodkor",
+    "expected_root": "ijod",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 271
+  },
+  {
+    "surface": "xizmatkor",
+    "expected_root": "xizmat",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 272
+  },
+  {
+    "surface": "hunarkor",
+    "expected_root": "hunar",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 273
+  },
+  {
+    "surface": "savdogar",
+    "expected_root": "savdo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 274
+  },
+  {
+    "surface": "zargar",
+    "expected_root": "zar",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 275
+  },
+  {
+    "surface": "misgar",
+    "expected_root": "mis",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 276
+  },
+  {
+    "surface": "kimyogar",
+    "expected_root": "kimyo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 277
+  },
+  {
+    "surface": "hiylagar",
+    "expected_root": "hiyla",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 278
+  },
+  {
+    "surface": "sotuvchi",
+    "expected_root": "sot",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 279
+  },
+  {
+    "surface": "yozuvchi",
+    "expected_root": "yoz",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 280
+  },
+  {
+    "surface": "boshqaruvchi",
+    "expected_root": "boshqar",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 281
+  },
+  {
+    "surface": "quruvchi",
+    "expected_root": "qur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 282
+  },
+  {
+    "surface": "beruvchi",
+    "expected_root": "ber",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 283
+  },
+  {
+    "surface": "oluvchi",
+    "expected_root": "ol",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 284
+  },
+  {
+    "surface": "keluvchi",
+    "expected_root": "kel",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 285
+  },
+  {
+    "surface": "boruvchi",
+    "expected_root": "bor",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 286
+  },
+  {
+    "surface": "turuvchi",
+    "expected_root": "tur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 287
+  },
+  {
+    "surface": "ko'ruvchi",
+    "expected_root": "ko'r",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 288
+  },
+  {
+    "surface": "o'qituvchi",
+    "expected_root": "o'qi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 289
+  },
+  {
+    "surface": "tanituvchi",
+    "expected_root": "tani",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 290
+  },
+  {
+    "surface": "boyituvchi",
+    "expected_root": "boyi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 291
+  },
+  {
+    "surface": "kengayituvchi",
+    "expected_root": "kengayi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 292
+  },
+  {
+    "surface": "qizituvchi",
+    "expected_root": "qizi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 293
+  },
+  {
+    "surface": "sotish",
+    "expected_root": "sot",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 294
+  },
+  {
+    "surface": "yozish",
+    "expected_root": "yoz",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 295
+  },
+  {
+    "surface": "qurish",
+    "expected_root": "qur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 296
+  },
+  {
+    "surface": "bilish",
+    "expected_root": "bil",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 297
+  },
+  {
+    "surface": "boshqarish",
+    "expected_root": "boshqar",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 298
+  },
+  {
+    "surface": "kelish",
+    "expected_root": "kel",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 299
+  },
+  {
+    "surface": "borish",
+    "expected_root": "bor",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 300
+  },
+  {
+    "surface": "olish",
+    "expected_root": "ol",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 301
+  },
+  {
+    "surface": "berish",
+    "expected_root": "ber",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 302
+  },
+  {
+    "surface": "turish",
+    "expected_root": "tur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 303
+  },
+  {
+    "surface": "ko'rish",
+    "expected_root": "ko'r",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 304
+  },
+  {
+    "surface": "sotuv",
+    "expected_root": "sot",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 305
+  },
+  {
+    "surface": "yozuv",
+    "expected_root": "yoz",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 306
+  },
+  {
+    "surface": "quruv",
+    "expected_root": "qur",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 307
+  },
+  {
+    "surface": "boruv",
+    "expected_root": "bor",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 308
+  },
+  {
+    "surface": "keluv",
+    "expected_root": "kel",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 309
+  },
+  {
+    "surface": "suvli",
+    "expected_root": "suv",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 310
+  },
+  {
+    "surface": "sutli",
+    "expected_root": "sut",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 311
+  },
+  {
+    "surface": "madaniyatli",
+    "expected_root": "madaniyat",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 312
+  },
+  {
+    "surface": "ma'noli",
+    "expected_root": "ma'no",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 313
+  },
+  {
+    "surface": "kuchli",
+    "expected_root": "kuch",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 314
+  },
+  {
+    "surface": "aqlli",
+    "expected_root": "aql",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 315
+  },
+  {
+    "surface": "tartibli",
+    "expected_root": "tartib",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 316
+  },
+  {
+    "surface": "foydali",
+    "expected_root": "foyda",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 317
+  },
+  {
+    "surface": "rangli",
+    "expected_root": "rang",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 318
+  },
+  {
+    "surface": "tajribali",
+    "expected_root": "tajriba",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 319
+  },
+  {
+    "surface": "uysiz",
+    "expected_root": "uy",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 320
+  },
+  {
+    "surface": "ishsiz",
+    "expected_root": "ish",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 321
+  },
+  {
+    "surface": "suvsiz",
+    "expected_root": "suv",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 322
+  },
+  {
+    "surface": "ma'nosiz",
+    "expected_root": "ma'no",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 323
+  },
+  {
+    "surface": "tartibsiz",
+    "expected_root": "tartib",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 324
+  },
+  {
+    "surface": "foydasiz",
+    "expected_root": "foyda",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 325
+  },
+  {
+    "surface": "xatosiz",
+    "expected_root": "xato",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 326
+  },
+  {
+    "surface": "chegarasiz",
+    "expected_root": "chegara",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 327
+  },
+  {
+    "surface": "kuchsiz",
+    "expected_root": "kuch",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 328
+  },
+  {
+    "surface": "tajribasiz",
+    "expected_root": "tajriba",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 329
+  },
+  {
+    "surface": "sinfdosh",
+    "expected_root": "sinf",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 330
+  },
+  {
+    "surface": "yo'ldosh",
+    "expected_root": "yo'l",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 331
+  },
+  {
+    "surface": "fikrdosh",
+    "expected_root": "fikr",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 332
+  },
+  {
+    "surface": "kursdosh",
+    "expected_root": "kurs",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 333
+  },
+  {
+    "surface": "mahalladosh",
+    "expected_root": "mahalla",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 334
+  },
+  {
+    "surface": "yaxshilik",
+    "expected_root": "yaxshi",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 335
+  },
+  {
+    "surface": "bandlik",
+    "expected_root": "band",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 336
+  },
+  {
+    "surface": "do'stlik",
+    "expected_root": "do'st",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 337
+  },
+  {
+    "surface": "tinchlik",
+    "expected_root": "tinch",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 338
+  },
+  {
+    "surface": "erkinlik",
+    "expected_root": "erkin",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 339
+  },
+  {
+    "surface": "go'zallik",
+    "expected_root": "go'zal",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 340
+  },
+  {
+    "surface": "tozalik",
+    "expected_root": "toza",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 341
+  },
+  {
+    "surface": "aniqlik",
+    "expected_root": "aniq",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 342
+  },
+  {
+    "surface": "tezlik",
+    "expected_root": "tez",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 343
+  },
+  {
+    "surface": "yoshlik",
+    "expected_root": "yosh",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 344
+  },
+  {
+    "surface": "ishchi",
+    "expected_root": "ish",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 345
+  },
+  {
+    "surface": "ma'ruzachi",
+    "expected_root": "ma'ruza",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 346
+  },
+  {
+    "surface": "bozorchi",
+    "expected_root": "bozor",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 347
+  },
+  {
+    "surface": "tilchi",
+    "expected_root": "til",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 348
+  },
+  {
+    "surface": "adabiyotchi",
+    "expected_root": "adabiyot",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 349
+  },
+  {
+    "surface": "san'atchi",
+    "expected_root": "san'at",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 350
+  },
+  {
+    "surface": "soliqchi",
+    "expected_root": "soliq",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 351
+  },
+  {
+    "surface": "matematikachi",
+    "expected_root": "matematika",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 352
+  },
+  {
+    "surface": "dasturchi",
+    "expected_root": "dastur",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 353
+  },
+  {
+    "surface": "gazchi",
+    "expected_root": "gaz",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 354
+  },
+  {
+    "surface": "tadbirkor",
+    "expected_root": "tadbir",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 355
+  },
+  {
+    "surface": "shifokor",
+    "expected_root": "shifo",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 356
+  },
+  {
+    "surface": "ijodkor",
+    "expected_root": "ijod",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 357
+  },
+  {
+    "surface": "xizmatkor",
+    "expected_root": "xizmat",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 358
+  },
+  {
+    "surface": "hunarkor",
+    "expected_root": "hunar",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 359
+  },
+  {
+    "surface": "savdogar",
+    "expected_root": "savdo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 360
+  },
+  {
+    "surface": "zargar",
+    "expected_root": "zar",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 361
+  },
+  {
+    "surface": "misgar",
+    "expected_root": "mis",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 362
+  },
+  {
+    "surface": "kimyogar",
+    "expected_root": "kimyo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 363
+  },
+  {
+    "surface": "hiylagar",
+    "expected_root": "hiyla",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 364
+  },
+  {
+    "surface": "sotuvchi",
+    "expected_root": "sot",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 365
+  },
+  {
+    "surface": "yozuvchi",
+    "expected_root": "yoz",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 366
+  },
+  {
+    "surface": "boshqaruvchi",
+    "expected_root": "boshqar",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 367
+  },
+  {
+    "surface": "quruvchi",
+    "expected_root": "qur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 368
+  },
+  {
+    "surface": "beruvchi",
+    "expected_root": "ber",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 369
+  },
+  {
+    "surface": "oluvchi",
+    "expected_root": "ol",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 370
+  },
+  {
+    "surface": "keluvchi",
+    "expected_root": "kel",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 371
+  },
+  {
+    "surface": "boruvchi",
+    "expected_root": "bor",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 372
+  },
+  {
+    "surface": "turuvchi",
+    "expected_root": "tur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 373
+  },
+  {
+    "surface": "ko'ruvchi",
+    "expected_root": "ko'r",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 374
+  },
+  {
+    "surface": "o'qituvchi",
+    "expected_root": "o'qi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 375
+  },
+  {
+    "surface": "tanituvchi",
+    "expected_root": "tani",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 376
+  },
+  {
+    "surface": "boyituvchi",
+    "expected_root": "boyi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 377
+  },
+  {
+    "surface": "kengayituvchi",
+    "expected_root": "kengayi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 378
+  },
+  {
+    "surface": "qizituvchi",
+    "expected_root": "qizi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 379
+  },
+  {
+    "surface": "sotish",
+    "expected_root": "sot",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 380
+  },
+  {
+    "surface": "yozish",
+    "expected_root": "yoz",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 381
+  },
+  {
+    "surface": "qurish",
+    "expected_root": "qur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 382
+  },
+  {
+    "surface": "bilish",
+    "expected_root": "bil",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 383
+  },
+  {
+    "surface": "boshqarish",
+    "expected_root": "boshqar",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 384
+  },
+  {
+    "surface": "kelish",
+    "expected_root": "kel",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 385
+  },
+  {
+    "surface": "borish",
+    "expected_root": "bor",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 386
+  },
+  {
+    "surface": "olish",
+    "expected_root": "ol",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 387
+  },
+  {
+    "surface": "berish",
+    "expected_root": "ber",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 388
+  },
+  {
+    "surface": "turish",
+    "expected_root": "tur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 389
+  },
+  {
+    "surface": "ko'rish",
+    "expected_root": "ko'r",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 390
+  },
+  {
+    "surface": "sotuv",
+    "expected_root": "sot",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 391
+  },
+  {
+    "surface": "yozuv",
+    "expected_root": "yoz",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 392
+  },
+  {
+    "surface": "quruv",
+    "expected_root": "qur",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 393
+  },
+  {
+    "surface": "boruv",
+    "expected_root": "bor",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 394
+  },
+  {
+    "surface": "keluv",
+    "expected_root": "kel",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 395
+  },
+  {
+    "surface": "suvli",
+    "expected_root": "suv",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 396
+  },
+  {
+    "surface": "sutli",
+    "expected_root": "sut",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 397
+  },
+  {
+    "surface": "madaniyatli",
+    "expected_root": "madaniyat",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 398
+  },
+  {
+    "surface": "ma'noli",
+    "expected_root": "ma'no",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 399
+  },
+  {
+    "surface": "kuchli",
+    "expected_root": "kuch",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 400
+  },
+  {
+    "surface": "aqlli",
+    "expected_root": "aql",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 401
+  },
+  {
+    "surface": "tartibli",
+    "expected_root": "tartib",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 402
+  },
+  {
+    "surface": "foydali",
+    "expected_root": "foyda",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 403
+  },
+  {
+    "surface": "rangli",
+    "expected_root": "rang",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 404
+  },
+  {
+    "surface": "tajribali",
+    "expected_root": "tajriba",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 405
+  },
+  {
+    "surface": "uysiz",
+    "expected_root": "uy",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 406
+  },
+  {
+    "surface": "ishsiz",
+    "expected_root": "ish",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 407
+  },
+  {
+    "surface": "suvsiz",
+    "expected_root": "suv",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 408
+  },
+  {
+    "surface": "ma'nosiz",
+    "expected_root": "ma'no",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 409
+  },
+  {
+    "surface": "tartibsiz",
+    "expected_root": "tartib",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 410
+  },
+  {
+    "surface": "foydasiz",
+    "expected_root": "foyda",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 411
+  },
+  {
+    "surface": "xatosiz",
+    "expected_root": "xato",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 412
+  },
+  {
+    "surface": "chegarasiz",
+    "expected_root": "chegara",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 413
+  },
+  {
+    "surface": "kuchsiz",
+    "expected_root": "kuch",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 414
+  },
+  {
+    "surface": "tajribasiz",
+    "expected_root": "tajriba",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 415
+  },
+  {
+    "surface": "sinfdosh",
+    "expected_root": "sinf",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 416
+  },
+  {
+    "surface": "yo'ldosh",
+    "expected_root": "yo'l",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 417
+  },
+  {
+    "surface": "fikrdosh",
+    "expected_root": "fikr",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 418
+  },
+  {
+    "surface": "kursdosh",
+    "expected_root": "kurs",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 419
+  },
+  {
+    "surface": "mahalladosh",
+    "expected_root": "mahalla",
+    "expected_derivation": "dosh",
+    "category": "Noun -> Adjective",
+    "id": 420
+  },
+  {
+    "surface": "yaxshilik",
+    "expected_root": "yaxshi",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 421
+  },
+  {
+    "surface": "bandlik",
+    "expected_root": "band",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 422
+  },
+  {
+    "surface": "do'stlik",
+    "expected_root": "do'st",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 423
+  },
+  {
+    "surface": "tinchlik",
+    "expected_root": "tinch",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 424
+  },
+  {
+    "surface": "erkinlik",
+    "expected_root": "erkin",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 425
+  },
+  {
+    "surface": "go'zallik",
+    "expected_root": "go'zal",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 426
+  },
+  {
+    "surface": "tozalik",
+    "expected_root": "toza",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 427
+  },
+  {
+    "surface": "aniqlik",
+    "expected_root": "aniq",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 428
+  },
+  {
+    "surface": "tezlik",
+    "expected_root": "tez",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 429
+  },
+  {
+    "surface": "yoshlik",
+    "expected_root": "yosh",
+    "expected_derivation": "lik",
+    "category": "Adjective -> Noun",
+    "id": 430
+  },
+  {
+    "surface": "ishchi",
+    "expected_root": "ish",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 431
+  },
+  {
+    "surface": "ma'ruzachi",
+    "expected_root": "ma'ruza",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 432
+  },
+  {
+    "surface": "bozorchi",
+    "expected_root": "bozor",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 433
+  },
+  {
+    "surface": "tilchi",
+    "expected_root": "til",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 434
+  },
+  {
+    "surface": "adabiyotchi",
+    "expected_root": "adabiyot",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 435
+  },
+  {
+    "surface": "san'atchi",
+    "expected_root": "san'at",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 436
+  },
+  {
+    "surface": "soliqchi",
+    "expected_root": "soliq",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 437
+  },
+  {
+    "surface": "matematikachi",
+    "expected_root": "matematika",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 438
+  },
+  {
+    "surface": "dasturchi",
+    "expected_root": "dastur",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 439
+  },
+  {
+    "surface": "gazchi",
+    "expected_root": "gaz",
+    "expected_derivation": "chi",
+    "category": "Noun -> Profession",
+    "id": 440
+  },
+  {
+    "surface": "tadbirkor",
+    "expected_root": "tadbir",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 441
+  },
+  {
+    "surface": "shifokor",
+    "expected_root": "shifo",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 442
+  },
+  {
+    "surface": "ijodkor",
+    "expected_root": "ijod",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 443
+  },
+  {
+    "surface": "xizmatkor",
+    "expected_root": "xizmat",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 444
+  },
+  {
+    "surface": "hunarkor",
+    "expected_root": "hunar",
+    "expected_derivation": "kor",
+    "category": "Noun -> Profession",
+    "id": 445
+  },
+  {
+    "surface": "savdogar",
+    "expected_root": "savdo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 446
+  },
+  {
+    "surface": "zargar",
+    "expected_root": "zar",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 447
+  },
+  {
+    "surface": "misgar",
+    "expected_root": "mis",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 448
+  },
+  {
+    "surface": "kimyogar",
+    "expected_root": "kimyo",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 449
+  },
+  {
+    "surface": "hiylagar",
+    "expected_root": "hiyla",
+    "expected_derivation": "gar",
+    "category": "Noun -> Profession",
+    "id": 450
+  },
+  {
+    "surface": "sotuvchi",
+    "expected_root": "sot",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 451
+  },
+  {
+    "surface": "yozuvchi",
+    "expected_root": "yoz",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 452
+  },
+  {
+    "surface": "boshqaruvchi",
+    "expected_root": "boshqar",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 453
+  },
+  {
+    "surface": "quruvchi",
+    "expected_root": "qur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 454
+  },
+  {
+    "surface": "beruvchi",
+    "expected_root": "ber",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 455
+  },
+  {
+    "surface": "oluvchi",
+    "expected_root": "ol",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 456
+  },
+  {
+    "surface": "keluvchi",
+    "expected_root": "kel",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 457
+  },
+  {
+    "surface": "boruvchi",
+    "expected_root": "bor",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 458
+  },
+  {
+    "surface": "turuvchi",
+    "expected_root": "tur",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 459
+  },
+  {
+    "surface": "ko'ruvchi",
+    "expected_root": "ko'r",
+    "expected_derivation": "uvchi",
+    "category": "Verb -> Agent",
+    "id": 460
+  },
+  {
+    "surface": "o'qituvchi",
+    "expected_root": "o'qi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 461
+  },
+  {
+    "surface": "tanituvchi",
+    "expected_root": "tani",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 462
+  },
+  {
+    "surface": "boyituvchi",
+    "expected_root": "boyi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 463
+  },
+  {
+    "surface": "kengayituvchi",
+    "expected_root": "kengayi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 464
+  },
+  {
+    "surface": "qizituvchi",
+    "expected_root": "qizi",
+    "expected_derivation": "tuvchi",
+    "category": "Verb -> Agent",
+    "id": 465
+  },
+  {
+    "surface": "sotish",
+    "expected_root": "sot",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 466
+  },
+  {
+    "surface": "yozish",
+    "expected_root": "yoz",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 467
+  },
+  {
+    "surface": "qurish",
+    "expected_root": "qur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 468
+  },
+  {
+    "surface": "bilish",
+    "expected_root": "bil",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 469
+  },
+  {
+    "surface": "boshqarish",
+    "expected_root": "boshqar",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 470
+  },
+  {
+    "surface": "kelish",
+    "expected_root": "kel",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 471
+  },
+  {
+    "surface": "borish",
+    "expected_root": "bor",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 472
+  },
+  {
+    "surface": "olish",
+    "expected_root": "ol",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 473
+  },
+  {
+    "surface": "berish",
+    "expected_root": "ber",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 474
+  },
+  {
+    "surface": "turish",
+    "expected_root": "tur",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 475
+  },
+  {
+    "surface": "ko'rish",
+    "expected_root": "ko'r",
+    "expected_derivation": "ish",
+    "category": "Verb -> Noun",
+    "id": 476
+  },
+  {
+    "surface": "sotuv",
+    "expected_root": "sot",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 477
+  },
+  {
+    "surface": "yozuv",
+    "expected_root": "yoz",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 478
+  },
+  {
+    "surface": "quruv",
+    "expected_root": "qur",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 479
+  },
+  {
+    "surface": "boruv",
+    "expected_root": "bor",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 480
+  },
+  {
+    "surface": "keluv",
+    "expected_root": "kel",
+    "expected_derivation": "uv",
+    "category": "Verb -> Noun",
+    "id": 481
+  },
+  {
+    "surface": "suvli",
+    "expected_root": "suv",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 482
+  },
+  {
+    "surface": "sutli",
+    "expected_root": "sut",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 483
+  },
+  {
+    "surface": "madaniyatli",
+    "expected_root": "madaniyat",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 484
+  },
+  {
+    "surface": "ma'noli",
+    "expected_root": "ma'no",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 485
+  },
+  {
+    "surface": "kuchli",
+    "expected_root": "kuch",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 486
+  },
+  {
+    "surface": "aqlli",
+    "expected_root": "aql",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 487
+  },
+  {
+    "surface": "tartibli",
+    "expected_root": "tartib",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 488
+  },
+  {
+    "surface": "foydali",
+    "expected_root": "foyda",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 489
+  },
+  {
+    "surface": "rangli",
+    "expected_root": "rang",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 490
+  },
+  {
+    "surface": "tajribali",
+    "expected_root": "tajriba",
+    "expected_derivation": "li",
+    "category": "Noun -> Adjective",
+    "id": 491
+  },
+  {
+    "surface": "uysiz",
+    "expected_root": "uy",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 492
+  },
+  {
+    "surface": "ishsiz",
+    "expected_root": "ish",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 493
+  },
+  {
+    "surface": "suvsiz",
+    "expected_root": "suv",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 494
+  },
+  {
+    "surface": "ma'nosiz",
+    "expected_root": "ma'no",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 495
+  },
+  {
+    "surface": "tartibsiz",
+    "expected_root": "tartib",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 496
+  },
+  {
+    "surface": "foydasiz",
+    "expected_root": "foyda",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 497
+  },
+  {
+    "surface": "xatosiz",
+    "expected_root": "xato",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 498
+  },
+  {
+    "surface": "chegarasiz",
+    "expected_root": "chegara",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 499
+  },
+  {
+    "surface": "kuchsiz",
+    "expected_root": "kuch",
+    "expected_derivation": "siz",
+    "category": "Noun -> Adjective",
+    "id": 500
+  }
+]

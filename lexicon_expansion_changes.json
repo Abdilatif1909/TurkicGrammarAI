@@ -1,0 +1,295 @@
+{
+  "uz": {
+    "target": 5000,
+    "before": {
+      "records": 10000,
+      "lemmas": 98,
+      "roots": 98,
+      "pos": {
+        "noun": 8184,
+        "adjective": 1498,
+        "verb": 318
+      }
+    },
+    "after": {
+      "records": 14902,
+      "lemmas": 5000,
+      "roots": 5000,
+      "pos": {
+        "noun": 12452,
+        "adjective": 1913,
+        "verb": 318,
+        "adverb": 55,
+        "pronoun": 55,
+        "numeral": 55,
+        "particle": 54
+      }
+    },
+    "added_records": 4902,
+    "added_pos": {
+      "adverb": 55,
+      "pronoun": 55,
+      "numeral": 55,
+      "particle": 54,
+      "noun": 4268,
+      "adjective": 415
+    }
+  },
+  "tr": {
+    "target": 5000,
+    "before": {
+      "records": 10000,
+      "lemmas": 95,
+      "roots": 95,
+      "pos": {
+        "noun": 8179,
+        "adjective": 1470,
+        "verb": 351
+      }
+    },
+    "after": {
+      "records": 14905,
+      "lemmas": 5000,
+      "roots": 5000,
+      "pos": {
+        "noun": 8217,
+        "adjective": 1485,
+        "verb": 1041,
+        "adverb": 1041,
+        "pronoun": 1041,
+        "numeral": 1040,
+        "particle": 1040
+      }
+    },
+    "added_records": 4905,
+    "added_pos": {
+      "noun": 38,
+      "verb": 690,
+      "adjective": 15,
+      "adverb": 1041,
+      "pronoun": 1041,
+      "numeral": 1040,
+      "particle": 1040
+    }
+  },
+  "az": {
+    "target": 4000,
+    "before": {
+      "records": 8000,
+      "lemmas": 97,
+      "roots": 97,
+      "pos": {
+        "noun": 6498,
+        "adjective": 1102,
+        "verb": 400
+      }
+    },
+    "after": {
+      "records": 11903,
+      "lemmas": 4000,
+      "roots": 4000,
+      "pos": {
+        "noun": 6541,
+        "adjective": 1116,
+        "verb": 850,
+        "adverb": 849,
+        "pronoun": 849,
+        "numeral": 849,
+        "particle": 849
+      }
+    },
+    "added_records": 3903,
+    "added_pos": {
+      "noun": 43,
+      "verb": 450,
+      "adjective": 14,
+      "adverb": 849,
+      "pronoun": 849,
+      "numeral": 849,
+      "particle": 849
+    }
+  },
+  "kk": {
+    "target": 4000,
+    "before": {
+      "records": 8000,
+      "lemmas": 96,
+      "roots": 96,
+      "pos": {
+        "noun": 6564,
+        "adjective": 1055,
+        "verb": 381
+      }
+    },
+    "after": {
+      "records": 11904,
+      "lemmas": 4000,
+      "roots": 4000,
+      "pos": {
+        "noun": 6602,
+        "adjective": 1063,
+        "verb": 848,
+        "adverb": 848,
+        "pronoun": 848,
+        "numeral": 848,
+        "particle": 847
+      }
+    },
+    "added_records": 3904,
+    "added_pos": {
+      "noun": 38,
+      "adverb": 848,
+      "pronoun": 848,
+      "numeral": 848,
+      "particle": 847,
+      "verb": 467,
+      "adjective": 8
+    }
+  },
+  "ky": {
+    "target": 4000,
+    "before": {
+      "records": 8000,
+      "lemmas": 95,
+      "roots": 95,
+      "pos": {
+        "noun": 6534,
+        "adjective": 1069,
+        "verb": 397
+      }
+    },
+    "after": {
+      "records": 11905,
+      "lemmas": 4000,
+      "roots": 4000,
+      "pos": {
+        "noun": 6539,
+        "adjective": 1079,
+        "verb": 858,
+        "adverb": 858,
+        "pronoun": 857,
+        "numeral": 857,
+        "particle": 857
+      }
+    },
+    "added_records": 3905,
+    "added_pos": {
+      "adverb": 858,
+      "pronoun": 857,
+      "numeral": 857,
+      "particle": 857,
+      "noun": 5,
+      "verb": 461,
+      "adjective": 10
+    }
+  },
+  "tk": {
+    "target": 4000,
+    "before": {
+      "records": 8000,
+      "lemmas": 96,
+      "roots": 96,
+      "pos": {
+        "noun": 6495,
+        "adjective": 1106,
+        "verb": 399
+      }
+    },
+    "after": {
+      "records": 11904,
+      "lemmas": 4000,
+      "roots": 4000,
+      "pos": {
+        "noun": 6518,
+        "adjective": 1119,
+        "verb": 854,
+        "adverb": 854,
+        "pronoun": 853,
+        "numeral": 853,
+        "particle": 853
+      }
+    },
+    "added_records": 3904,
+    "added_pos": {
+      "adverb": 854,
+      "pronoun": 853,
+      "numeral": 853,
+      "particle": 853,
+      "noun": 23,
+      "verb": 455,
+      "adjective": 13
+    }
+  },
+  "ug": {
+    "target": 4000,
+    "before": {
+      "records": 8000,
+      "lemmas": 321,
+      "roots": 321,
+      "pos": {
+        "noun": 5778,
+        "adjective": 1125,
+        "verb": 1097
+      }
+    },
+    "after": {
+      "records": 11679,
+      "lemmas": 4000,
+      "roots": 4000,
+      "pos": {
+        "noun": 5800,
+        "adjective": 1139,
+        "verb": 1112,
+        "adverb": 907,
+        "pronoun": 907,
+        "numeral": 907,
+        "particle": 907
+      }
+    },
+    "added_records": 3679,
+    "added_pos": {
+      "adverb": 907,
+      "pronoun": 907,
+      "numeral": 907,
+      "particle": 907,
+      "noun": 22,
+      "verb": 15,
+      "adjective": 14
+    }
+  },
+  "otk": {
+    "target": 3000,
+    "before": {
+      "records": 8000,
+      "lemmas": 72,
+      "roots": 72,
+      "pos": {
+        "noun": 6323,
+        "adjective": 1287,
+        "verb": 390
+      }
+    },
+    "after": {
+      "records": 10928,
+      "lemmas": 3000,
+      "roots": 3000,
+      "pos": {
+        "noun": 6323,
+        "adjective": 1287,
+        "verb": 664,
+        "adverb": 664,
+        "pronoun": 664,
+        "numeral": 663,
+        "particle": 663
+      }
+    },
+    "added_records": 2928,
+    "added_pos": {
+      "adverb": 664,
+      "pronoun": 664,
+      "numeral": 663,
+      "particle": 663,
+      "verb": 274
+    }
+  }
+}

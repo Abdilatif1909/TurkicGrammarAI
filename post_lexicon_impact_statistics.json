@@ -1,0 +1,152 @@
+{
+  "generated_at": "2026-06-11T16:42:30",
+  "phase": "Phase 35 - Post-Lexicon Impact Evaluation",
+  "baseline_availability": {
+    "morphology": "post metrics available; comparable pre-Phase34 snapshots unavailable because evaluator statistic files were overwritten/not preserved",
+    "cognates": "post metrics available; comparable pre-Phase34 snapshot unavailable",
+    "embeddings": "comparable Phase 23 cognate-aware baseline available from COGNATE_AWARE_EMBEDDING_REPORT.md",
+    "semantic_search": "post metrics available; comparable pre-Phase34 snapshot unavailable because report/statistics were overwritten",
+    "rag": "post metrics available; comparable pre-Phase34 snapshot unavailable because report/statistics were overwritten",
+    "qa": "post metrics available; comparable pre-Phase34 snapshot unavailable because report/statistics were overwritten"
+  },
+  "lexicon_after_phase34": {
+    "total_records": 100030,
+    "global_unique_words": 96940,
+    "total_language_lemmas": 33000,
+    "total_language_roots": 33000,
+    "languages_covered": 8
+  },
+  "morphology": {
+    "uz": {
+      "benchmark_cases": 500,
+      "coverage": 100.0,
+      "top1": 23.4,
+      "top3": 47.6,
+      "any_match": 91.4,
+      "avg_ambiguity": 67.6,
+      "before": null,
+      "before_source": "No preserved pre-Phase34 same-command snapshot found; current statistics file was overwritten by this evaluation run."
+    },
+    "tr": {
+      "benchmark_cases": 500,
+      "coverage": 100.0,
+      "top1": 99.8,
+      "top3": 99.8,
+      "any_match": 100.0,
+      "avg_ambiguity": 6.38,
+      "before": null,
+      "before_source": "No preserved pre-Phase34 same-command snapshot found; current statistics file was overwritten by this evaluation run."
+    },
+    "az": {
+      "benchmark_cases": 500,
+      "coverage": 100.0,
+      "top1": 99.8,
+      "top3": 99.8,
+      "any_match": 100.0,
+      "avg_ambiguity": 5.93,
+      "before": null,
+      "before_source": "No preserved pre-Phase34 same-command snapshot found; current statistics file was overwritten by this evaluation run."
+    },
+    "kk": {
+      "benchmark_cases": 500,
+      "coverage": 100.0,
+      "top1": 99.8,
+      "top3": 99.8,
+      "any_match": 100.0,
+      "avg_ambiguity": 8.4,
+      "before": null,
+      "before_source": "No preserved pre-Phase34 same-command snapshot found; current statistics file was overwritten by this evaluation run."
+    },
+    "ky": {
+      "benchmark_cases": 500,
+      "coverage": 100.0,
+      "top1": 100.0,
+      "top3": 100.0,
+      "any_match": 100.0,
+      "avg_ambiguity": 5.03,
+      "before": null,
+      "before_source": "No preserved pre-Phase34 same-command snapshot found; current statistics file was overwritten by this evaluation run."
+    },
+    "tk": {
+      "benchmark_cases": 500,
+      "coverage": 100.0,
+      "top1": 100.0,
+      "top3": 100.0,
+      "any_match": 100.0,
+      "avg_ambiguity": 7.22,
+      "before": null,
+      "before_source": "No preserved pre-Phase34 same-command snapshot found; current statistics file was overwritten by this evaluation run."
+    },
+    "ug": {
+      "benchmark_cases": 500,
+      "coverage": 100.0,
+      "top1": 99.6,
+      "top3": 100.0,
+      "any_match": 100.0,
+      "avg_ambiguity": 6.3,
+      "before": null,
+      "before_source": "No preserved pre-Phase34 same-command snapshot found; current statistics file was overwritten by this evaluation run."
+    },
+    "otk": {
+      "benchmark_cases": 1000,
+      "coverage": 100.0,
+      "top1": 90.9,
+      "top3": 92.9,
+      "any_match": 100.0,
+      "avg_ambiguity": 7.56,
+      "before": null,
+      "before_source": "No preserved pre-Phase34 same-command snapshot found; current statistics file was overwritten by this evaluation run."
+    }
+  },
+  "cognates": {
+    "total_cases": 2000,
+    "coverage": 100.0,
+    "alignment_accuracy": 100.0,
+    "new_cognate_coverage": "not separately reported by existing evaluator",
+    "before": null
+  },
+  "embeddings": {
+    "before": {
+      "top1": 41.17,
+      "top5": 71.86,
+      "top10": 85.06,
+      "positive_pair_similarity": 0.594379,
+      "negative_pair_similarity": 0.464821,
+      "separation_margin": 0.129558,
+      "source": "COGNATE_AWARE_EMBEDDING_REPORT.md Phase 23 after metrics"
+    },
+    "after": {
+      "benchmark_pairs": 5000,
+      "top1": 40.8,
+      "top5": 73.66,
+      "top10": 86.06,
+      "positive_pair_similarity": 0.595108,
+      "negative_pair_similarity": 0.472318,
+      "separation_margin": 0.12279
+    }
+  },
+  "semantic_search": {
+    "queries": 2000,
+    "recall_at_1": 36.25,
+    "recall_at_5": 72.95,
+    "recall_at_10": 82.3,
+    "mrr": 0.529888,
+    "before": null
+  },
+  "rag": {
+    "queries": 1000,
+    "recall_at_1": 27.0,
+    "recall_at_5": 65.9,
+    "recall_at_10": 84.3,
+    "mrr": 0.455756,
+    "average_retrieval_latency_ms": 53.173,
+    "before": null
+  },
+  "qa": {
+    "questions": 1000,
+    "answer_accuracy": 83.8,
+    "source_accuracy": 99.7,
+    "coverage": 83.8,
+    "before": null
+  }
+}

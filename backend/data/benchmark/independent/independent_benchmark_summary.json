@@ -1,0 +1,34 @@
+{
+  "uz": {
+    "count": 1000,
+    "path": "backend\\data\\benchmark\\independent\\uz_independent_morphology.json"
+  },
+  "tr": {
+    "count": 1000,
+    "path": "backend\\data\\benchmark\\independent\\tr_independent_morphology.json"
+  },
+  "az": {
+    "count": 1000,
+    "path": "backend\\data\\benchmark\\independent\\az_independent_morphology.json"
+  },
+  "kk": {
+    "count": 1000,
+    "path": "backend\\data\\benchmark\\independent\\kk_independent_morphology.json"
+  },
+  "ky": {
+    "count": 1000,
+    "path": "backend\\data\\benchmark\\independent\\ky_independent_morphology.json"
+  },
+  "tk": {
+    "count": 1000,
+    "path": "backend\\data\\benchmark\\independent\\tk_independent_morphology.json"
+  },
+  "ug": {
+    "count": 1000,
+    "path": "backend\\data\\benchmark\\independent\\ug_independent_morphology.json"
+  },
+  "otk": {
+    "count": 1000,
+    "path": "backend\\data\\benchmark\\independent\\otk_independent_morphology.json"
+  }
+}

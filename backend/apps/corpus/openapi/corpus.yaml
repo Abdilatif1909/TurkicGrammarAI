@@ -1,0 +1,37 @@
+openapi: 3.0.0
+info:
+  title: Corpus API
+  version: '1.0'
+  description: OpenAPI snippet for Corpus endpoints (statistics)
+paths:
+  /api/corpus/statistics/:
+    get:
+      summary: Corpus statistics summary
+      tags:
+        - corpus
+      responses:
+        '200':
+          description: Summary of corpus counts
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  documents:
+                    type: integer
+                  sentences:
+                    type: integer
+                  tokens:
+                    type: integer
+                  languages:
+                    type: object
+                    additionalProperties:
+                      type: integer
+      security:
+        - bearerAuth: []
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT

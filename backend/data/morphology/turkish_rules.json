@@ -1,0 +1,5081 @@
+{
+  "language": "tr",
+  "rules": [
+    {
+      "suffix": "ler",
+      "suffix_type": "Plural",
+      "description": "major harmony plural",
+      "examples": [
+        "ev -> evler"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "imiz",
+      "suffix_type": "Possessive-1pl",
+      "description": "1pl possessive",
+      "examples": [
+        "ev -> evimiz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "iniz",
+      "suffix_type": "Possessive-2pl",
+      "description": "2pl possessive",
+      "examples": [
+        "ev -> eviniz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "i",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "ev -> evi"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nin",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive case with buffer n only after vowel-final stems",
+      "examples": [
+        "bah?e -> bah?enin"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "i",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "ev -> evi"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "e",
+      "suffix_type": "Case-Dative",
+      "description": "dative",
+      "examples": [
+        "ev -> eve"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "de",
+      "suffix_type": "Case-Locative",
+      "description": "locative",
+      "examples": [
+        "ev -> evde"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "den",
+      "suffix_type": "Case-Ablative",
+      "description": "ablative",
+      "examples": [
+        "ev -> evden"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "lar",
+      "suffix_type": "Plural",
+      "description": "major harmony plural",
+      "examples": [
+        "kitap -> kitaplar"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ımız",
+      "suffix_type": "Possessive-1pl",
+      "description": "1pl possessive",
+      "examples": [
+        "kitap -> kitapımız"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ınız",
+      "suffix_type": "Possessive-2pl",
+      "description": "2pl possessive",
+      "examples": [
+        "kitap -> kitapınız"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ı",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "kitap -> kitapı"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nın",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive case with buffer n only after vowel-final stems",
+      "examples": [
+        "araba -> arabanın"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ı",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "kitap -> kitapı"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "a",
+      "suffix_type": "Case-Dative",
+      "description": "dative",
+      "examples": [
+        "kitap -> kitapa"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ta",
+      "suffix_type": "Case-Locative",
+      "description": "locative",
+      "examples": [
+        "kitap -> kitapta"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "tan",
+      "suffix_type": "Case-Ablative",
+      "description": "ablative",
+      "examples": [
+        "kitap -> kitaptan"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "umuz",
+      "suffix_type": "Possessive-1pl",
+      "description": "1pl possessive",
+      "examples": [
+        "okul -> okulumuz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "unuz",
+      "suffix_type": "Possessive-2pl",
+      "description": "2pl possessive",
+      "examples": [
+        "okul -> okulunuz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "u",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "okul -> okulu"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nun",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive case with buffer n only after vowel-final stems",
+      "examples": [
+        "su -> sunun"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "u",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "okul -> okulu"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "da",
+      "suffix_type": "Case-Locative",
+      "description": "locative",
+      "examples": [
+        "okul -> okulda"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "dan",
+      "suffix_type": "Case-Ablative",
+      "description": "ablative",
+      "examples": [
+        "okul -> okuldan"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "sı",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "araba -> arabası"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "yı",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "araba -> arabayı"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ya",
+      "suffix_type": "Case-Dative",
+      "description": "dative",
+      "examples": [
+        "araba -> arabaya"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ümüz",
+      "suffix_type": "Possessive-1pl",
+      "description": "1pl possessive",
+      "examples": [
+        "göz -> gözümüz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ünüz",
+      "suffix_type": "Possessive-2pl",
+      "description": "2pl possessive",
+      "examples": [
+        "göz -> gözünüz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ü",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "göz -> gözü"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nün",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive case with buffer n only after vowel-final stems",
+      "examples": [
+        "k?t? -> k?t?n?n"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ü",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "göz -> gözü"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "si",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "bahçe -> bahçesi"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "yi",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "bahçe -> bahçeyi"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ye",
+      "suffix_type": "Case-Dative",
+      "description": "dative",
+      "examples": [
+        "bahçe -> bahçeye"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "te",
+      "suffix_type": "Case-Locative",
+      "description": "locative",
+      "examples": [
+        "iş -> işte"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ten",
+      "suffix_type": "Case-Ablative",
+      "description": "ablative",
+      "examples": [
+        "iş -> işten"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "su",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "su -> susu"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "yu",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "su -> suyu"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "sü",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "kötü -> kötüsü"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "yü",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "kötü -> kötüyü"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "lerimiz",
+      "suffix_type": "Plural-Possessive-1pl",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "ev -> evlerimiz"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lerimizden",
+      "suffix_type": "Plural-Possessive-1pl-Ablative",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "ev -> evlerimizden"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lerimizde",
+      "suffix_type": "Plural-Possessive-1pl-Locative",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "ev -> evlerimizde"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lerimiznin",
+      "suffix_type": "Plural-Possessive-1pl-Genitive",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "ev -> evlerimiznin"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lerinizde",
+      "suffix_type": "Plural-Possessive-2pl-Locative",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "ev -> evlerinizde"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lerden",
+      "suffix_type": "Plural-Ablative",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "ev -> evlerden"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lerde",
+      "suffix_type": "Plural-Locative",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "ev -> evlerde"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larımız",
+      "suffix_type": "Plural-Possessive-1pl",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "kitap -> kitaplarımız"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larımızdan",
+      "suffix_type": "Plural-Possessive-1pl-Ablative",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "kitap -> kitaplarımızdan"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larımızda",
+      "suffix_type": "Plural-Possessive-1pl-Locative",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "kitap -> kitaplarımızda"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larımıznın",
+      "suffix_type": "Plural-Possessive-1pl-Genitive",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "kitap -> kitaplarımıznın"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larınızda",
+      "suffix_type": "Plural-Possessive-2pl-Locative",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "kitap -> kitaplarınızda"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lardan",
+      "suffix_type": "Plural-Ablative",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "kitap -> kitaplardan"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larda",
+      "suffix_type": "Plural-Locative",
+      "description": "productive noun suffix chain",
+      "examples": [
+        "kitap -> kitaplarda"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "ıyor",
+      "suffix_type": "Verb-Progressive",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazıyor"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "dı",
+      "suffix_type": "Verb-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazdı"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "mış",
+      "suffix_type": "Verb-Evidential",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazmış"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "acak",
+      "suffix_type": "Verb-Future",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazacak"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ma",
+      "suffix_type": "Verb-Negative",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazma"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ar",
+      "suffix_type": "Verb-Aorist",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazar"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "sa",
+      "suffix_type": "Verb-Conditional",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazsa"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "malı",
+      "suffix_type": "Verb-Necessitative",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazmalı"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "madı",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazmadı"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "maıyor",
+      "suffix_type": "Verb-Negative-Progressive",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazmaıyor"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "acakımız",
+      "suffix_type": "Verb-Future-1pl",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazacakımız"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "iyor",
+      "suffix_type": "Verb-Progressive",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> geliyor"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "di",
+      "suffix_type": "Verb-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> geldi"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "miş",
+      "suffix_type": "Verb-Evidential",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> gelmiş"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ecek",
+      "suffix_type": "Verb-Future",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> gelecek"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "me",
+      "suffix_type": "Verb-Negative",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> gelme"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "er",
+      "suffix_type": "Verb-Aorist",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> geler"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "se",
+      "suffix_type": "Verb-Conditional",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> gelse"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "meli",
+      "suffix_type": "Verb-Necessitative",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> gelmeli"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "medi",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> gelmedi"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "meiyor",
+      "suffix_type": "Verb-Negative-Progressive",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> gelmeiyor"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ecekimiz",
+      "suffix_type": "Verb-Future-1pl",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gel -> gelecekimiz"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ti",
+      "suffix_type": "Verb-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "git -> gitti"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "meti",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "git -> gitmeti"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "uyor",
+      "suffix_type": "Verb-Progressive",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "oku -> okuuyor"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "du",
+      "suffix_type": "Verb-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "oku -> okudu"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "muş",
+      "suffix_type": "Verb-Evidential",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "oku -> okumuş"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "malu",
+      "suffix_type": "Verb-Necessitative",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "oku -> okumalu"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "madu",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "oku -> okumadu"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "mauyor",
+      "suffix_type": "Verb-Negative-Progressive",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "oku -> okumauyor"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "üyor",
+      "suffix_type": "Verb-Progressive",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gör -> görüyor"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "dü",
+      "suffix_type": "Verb-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gör -> gördü"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "müş",
+      "suffix_type": "Verb-Evidential",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gör -> görmüş"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "melü",
+      "suffix_type": "Verb-Necessitative",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gör -> görmelü"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "medü",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gör -> görmedü"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "meüyor",
+      "suffix_type": "Verb-Negative-Progressive",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "gör -> görmeüyor"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "tı",
+      "suffix_type": "Verb-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yap -> yaptı"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "matı",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "yap -> yapmatı"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "tu",
+      "suffix_type": "Verb-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "konuş -> konuştu"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "matu",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Turkish verb TAM/mood suffix",
+      "examples": [
+        "konuş -> konuşmatu"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ci",
+      "suffix_type": "Deriv-Agent",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "ev -> evci"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lik",
+      "suffix_type": "Deriv-Noun",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "ev -> evlik"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "li",
+      "suffix_type": "Deriv-Adjective-With",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "ev -> evli"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "siz",
+      "suffix_type": "Deriv-Adjective-Without",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "ev -> evsiz"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "deş",
+      "suffix_type": "Deriv-Associate",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "ev -> evdeş"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "sel",
+      "suffix_type": "Deriv-Relational",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "ev -> evsel"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "im",
+      "suffix_type": "Deriv-Deverbal-Noun",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "ev -> evim"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "çı",
+      "suffix_type": "Deriv-Agent",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "kitap -> kitapçı"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lık",
+      "suffix_type": "Deriv-Noun",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "kitap -> kitaplık"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lı",
+      "suffix_type": "Deriv-Adjective-With",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "kitap -> kitaplı"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "sız",
+      "suffix_type": "Deriv-Adjective-Without",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "kitap -> kitapsız"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "daş",
+      "suffix_type": "Deriv-Associate",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "kitap -> kitapdaş"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "sal",
+      "suffix_type": "Deriv-Relational",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "kitap -> kitapsal"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "ım",
+      "suffix_type": "Deriv-Deverbal-Noun",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "kitap -> kitapım"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "cu",
+      "suffix_type": "Deriv-Agent",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "okul -> okulcu"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "luk",
+      "suffix_type": "Deriv-Noun",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "okul -> okulluk"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lu",
+      "suffix_type": "Deriv-Adjective-With",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "okul -> okullu"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "suz",
+      "suffix_type": "Deriv-Adjective-Without",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "okul -> okulsuz"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "um",
+      "suffix_type": "Deriv-Deverbal-Noun",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "okul -> okulum"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "cı",
+      "suffix_type": "Deriv-Agent",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "araba -> arabacı"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "cü",
+      "suffix_type": "Deriv-Agent",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "göz -> gözcü"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lük",
+      "suffix_type": "Deriv-Noun",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "göz -> gözlük"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lü",
+      "suffix_type": "Deriv-Adjective-With",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "göz -> gözlü"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "süz",
+      "suffix_type": "Deriv-Adjective-Without",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "göz -> gözsüz"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "üm",
+      "suffix_type": "Deriv-Deverbal-Noun",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "göz -> gözüm"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "çu",
+      "suffix_type": "Deriv-Agent",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "çocuk -> çocukçu"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "çi",
+      "suffix_type": "Deriv-Agent",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "iş -> işçi"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "çü",
+      "suffix_type": "Deriv-Agent",
+      "description": "Turkish derivational suffix",
+      "examples": [
+        "büyük -> büyükçü"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "ciler",
+      "suffix_type": "TR-001-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evciler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilerimizden",
+      "suffix_type": "TR-002-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evcilerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilerimizde",
+      "suffix_type": "TR-003-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evcilerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilerinizde",
+      "suffix_type": "TR-004-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evcilerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cisinin",
+      "suffix_type": "TR-005-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evcisinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ciden",
+      "suffix_type": "TR-006-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evciden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cide",
+      "suffix_type": "TR-007-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evcide"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likler",
+      "suffix_type": "TR-008-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evlikler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklerimizden",
+      "suffix_type": "TR-009-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evliklerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklerimizde",
+      "suffix_type": "TR-010-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evliklerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklerinizde",
+      "suffix_type": "TR-011-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evliklerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likinin",
+      "suffix_type": "TR-012-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evlikinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likten",
+      "suffix_type": "TR-013-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evlikten"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likte",
+      "suffix_type": "TR-014-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evlikte"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liler",
+      "suffix_type": "TR-015-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evliler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilerimizden",
+      "suffix_type": "TR-016-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evlilerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilerimizde",
+      "suffix_type": "TR-017-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evlilerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilerinizde",
+      "suffix_type": "TR-018-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evlilerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lisinin",
+      "suffix_type": "TR-019-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evlisinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liden",
+      "suffix_type": "TR-020-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evliden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lide",
+      "suffix_type": "TR-021-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evlide"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizler",
+      "suffix_type": "TR-022-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evsizler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlerimizden",
+      "suffix_type": "TR-023-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evsizlerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlerimizde",
+      "suffix_type": "TR-024-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evsizlerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlerinizde",
+      "suffix_type": "TR-025-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evsizlerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizinin",
+      "suffix_type": "TR-026-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evsizinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizden",
+      "suffix_type": "TR-027-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evsizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizde",
+      "suffix_type": "TR-028-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evsizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşler",
+      "suffix_type": "TR-029-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evdeşler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşlerimizden",
+      "suffix_type": "TR-030-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evdeşlerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşlerimizde",
+      "suffix_type": "TR-031-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evdeşlerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşlerinizde",
+      "suffix_type": "TR-032-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evdeşlerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşinin",
+      "suffix_type": "TR-033-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evdeşinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşten",
+      "suffix_type": "TR-034-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evdeşten"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşte",
+      "suffix_type": "TR-035-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evdeşte"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "seller",
+      "suffix_type": "TR-036-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evseller"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sellerimizden",
+      "suffix_type": "TR-037-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evsellerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sellerimizde",
+      "suffix_type": "TR-038-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evsellerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sellerinizde",
+      "suffix_type": "TR-039-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evsellerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "selinin",
+      "suffix_type": "TR-040-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evselinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "selden",
+      "suffix_type": "TR-041-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evselden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "selde",
+      "suffix_type": "TR-042-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evselde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imler",
+      "suffix_type": "TR-043-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evimler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlerimizden",
+      "suffix_type": "TR-044-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evimlerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlerimizde",
+      "suffix_type": "TR-045-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evimlerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlerinizde",
+      "suffix_type": "TR-046-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evimlerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "iminin",
+      "suffix_type": "TR-047-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> eviminin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imden",
+      "suffix_type": "TR-048-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evimden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imde",
+      "suffix_type": "TR-049-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "ev -> evimde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çılar",
+      "suffix_type": "TR-050-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapçılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çılarımızdan",
+      "suffix_type": "TR-051-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapçılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çılarımızda",
+      "suffix_type": "TR-052-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapçılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çılarınızda",
+      "suffix_type": "TR-053-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapçılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çısının",
+      "suffix_type": "TR-054-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapçısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çıdan",
+      "suffix_type": "TR-055-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapçıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çıda",
+      "suffix_type": "TR-056-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapçıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklar",
+      "suffix_type": "TR-057-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplıklar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarımızdan",
+      "suffix_type": "TR-058-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplıklarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarımızda",
+      "suffix_type": "TR-059-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplıklarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarınızda",
+      "suffix_type": "TR-060-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplıklarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıkının",
+      "suffix_type": "TR-061-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplıkının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıktan",
+      "suffix_type": "TR-062-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplıktan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıkta",
+      "suffix_type": "TR-063-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplıkta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılar",
+      "suffix_type": "TR-064-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızdan",
+      "suffix_type": "TR-065-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızda",
+      "suffix_type": "TR-066-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarınızda",
+      "suffix_type": "TR-067-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lısının",
+      "suffix_type": "TR-068-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıdan",
+      "suffix_type": "TR-069-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıda",
+      "suffix_type": "TR-070-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitaplıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlar",
+      "suffix_type": "TR-071-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsızlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızdan",
+      "suffix_type": "TR-072-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsızlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızda",
+      "suffix_type": "TR-073-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsızlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarınızda",
+      "suffix_type": "TR-074-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsızlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızının",
+      "suffix_type": "TR-075-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsızının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızdan",
+      "suffix_type": "TR-076-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızda",
+      "suffix_type": "TR-077-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "TR-078-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapdaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "TR-079-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapdaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "TR-080-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapdaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "TR-081-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapdaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "TR-082-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapdaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daştan",
+      "suffix_type": "TR-083-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapdaştan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşta",
+      "suffix_type": "TR-084-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapdaşta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "TR-085-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "TR-086-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "TR-087-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "TR-088-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "TR-089-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "TR-090-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "TR-091-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapsalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlar",
+      "suffix_type": "TR-092-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapımlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızdan",
+      "suffix_type": "TR-093-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapımlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızda",
+      "suffix_type": "TR-094-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapımlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarınızda",
+      "suffix_type": "TR-095-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapımlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımının",
+      "suffix_type": "TR-096-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapımının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımdan",
+      "suffix_type": "TR-097-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapımdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımda",
+      "suffix_type": "TR-098-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kitap -> kitapımda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cular",
+      "suffix_type": "TR-099-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulcular"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cularımızdan",
+      "suffix_type": "TR-100-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulcularımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cularımızda",
+      "suffix_type": "TR-101-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulcularımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cularınızda",
+      "suffix_type": "TR-102-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulcularınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cusunun",
+      "suffix_type": "TR-103-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulcusunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cudan",
+      "suffix_type": "TR-104-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulcudan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cuda",
+      "suffix_type": "TR-105-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulcuda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luklar",
+      "suffix_type": "TR-106-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulluklar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luklarımızdan",
+      "suffix_type": "TR-107-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulluklarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luklarımızda",
+      "suffix_type": "TR-108-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulluklarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luklarınızda",
+      "suffix_type": "TR-109-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulluklarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lukunun",
+      "suffix_type": "TR-110-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okullukunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luktan",
+      "suffix_type": "TR-111-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulluktan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lukta",
+      "suffix_type": "TR-112-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okullukta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lular",
+      "suffix_type": "TR-113-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okullular"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lularımızdan",
+      "suffix_type": "TR-114-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okullularımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lularımızda",
+      "suffix_type": "TR-115-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okullularımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lularınızda",
+      "suffix_type": "TR-116-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okullularınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lusunun",
+      "suffix_type": "TR-117-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okullusunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ludan",
+      "suffix_type": "TR-118-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulludan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luda",
+      "suffix_type": "TR-119-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulluda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlar",
+      "suffix_type": "TR-120-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsuzlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlarımızdan",
+      "suffix_type": "TR-121-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsuzlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlarımızda",
+      "suffix_type": "TR-122-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsuzlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlarınızda",
+      "suffix_type": "TR-123-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsuzlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzunun",
+      "suffix_type": "TR-124-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsuzunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzdan",
+      "suffix_type": "TR-125-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsuzdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzda",
+      "suffix_type": "TR-126-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsuzda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "TR-127-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okuldaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "TR-128-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okuldaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "TR-129-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okuldaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "TR-130-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okuldaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "TR-131-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okuldaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daştan",
+      "suffix_type": "TR-132-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okuldaştan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşta",
+      "suffix_type": "TR-133-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okuldaşta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "TR-134-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "TR-135-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "TR-136-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "TR-137-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "TR-138-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "TR-139-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "TR-140-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulsalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlar",
+      "suffix_type": "TR-141-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulumlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlarımızdan",
+      "suffix_type": "TR-142-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulumlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlarımızda",
+      "suffix_type": "TR-143-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulumlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlarınızda",
+      "suffix_type": "TR-144-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulumlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umunun",
+      "suffix_type": "TR-145-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulumunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umdan",
+      "suffix_type": "TR-146-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulumdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umda",
+      "suffix_type": "TR-147-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "okul -> okulumda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ciler",
+      "suffix_type": "TR-148-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirciler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilerimizden",
+      "suffix_type": "TR-149-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehircilerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilerimizde",
+      "suffix_type": "TR-150-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehircilerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilerinizde",
+      "suffix_type": "TR-151-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehircilerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cisinin",
+      "suffix_type": "TR-152-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehircisinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ciden",
+      "suffix_type": "TR-153-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirciden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cide",
+      "suffix_type": "TR-154-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehircide"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likler",
+      "suffix_type": "TR-155-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirlikler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklerimizden",
+      "suffix_type": "TR-156-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirliklerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklerimizde",
+      "suffix_type": "TR-157-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirliklerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklerinizde",
+      "suffix_type": "TR-158-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirliklerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likinin",
+      "suffix_type": "TR-159-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirlikinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likten",
+      "suffix_type": "TR-160-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirlikten"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likte",
+      "suffix_type": "TR-161-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirlikte"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liler",
+      "suffix_type": "TR-162-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirliler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilerimizden",
+      "suffix_type": "TR-163-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirlilerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilerimizde",
+      "suffix_type": "TR-164-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirlilerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilerinizde",
+      "suffix_type": "TR-165-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirlilerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lisinin",
+      "suffix_type": "TR-166-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirlisinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liden",
+      "suffix_type": "TR-167-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirliden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lide",
+      "suffix_type": "TR-168-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirlide"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizler",
+      "suffix_type": "TR-169-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirsizler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlerimizden",
+      "suffix_type": "TR-170-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirsizlerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlerimizde",
+      "suffix_type": "TR-171-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirsizlerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlerinizde",
+      "suffix_type": "TR-172-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirsizlerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizinin",
+      "suffix_type": "TR-173-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirsizinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizden",
+      "suffix_type": "TR-174-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirsizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizde",
+      "suffix_type": "TR-175-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirsizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşler",
+      "suffix_type": "TR-176-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirdeşler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşlerimizden",
+      "suffix_type": "TR-177-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirdeşlerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşlerimizde",
+      "suffix_type": "TR-178-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirdeşlerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşlerinizde",
+      "suffix_type": "TR-179-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirdeşlerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşinin",
+      "suffix_type": "TR-180-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirdeşinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşten",
+      "suffix_type": "TR-181-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirdeşten"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşte",
+      "suffix_type": "TR-182-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirdeşte"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "seller",
+      "suffix_type": "TR-183-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirseller"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sellerimizden",
+      "suffix_type": "TR-184-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirsellerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sellerimizde",
+      "suffix_type": "TR-185-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirsellerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sellerinizde",
+      "suffix_type": "TR-186-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirsellerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "selinin",
+      "suffix_type": "TR-187-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirselinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "selden",
+      "suffix_type": "TR-188-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirselden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "selde",
+      "suffix_type": "TR-189-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirselde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imler",
+      "suffix_type": "TR-190-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirimler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlerimizden",
+      "suffix_type": "TR-191-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirimlerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlerimizde",
+      "suffix_type": "TR-192-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirimlerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlerinizde",
+      "suffix_type": "TR-193-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirimlerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "iminin",
+      "suffix_type": "TR-194-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehiriminin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imden",
+      "suffix_type": "TR-195-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirimden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imde",
+      "suffix_type": "TR-196-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "şehir -> şehirimde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılar",
+      "suffix_type": "TR-197-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabacılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızdan",
+      "suffix_type": "TR-198-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabacılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızda",
+      "suffix_type": "TR-199-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabacılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarınızda",
+      "suffix_type": "TR-200-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabacılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cısının",
+      "suffix_type": "TR-201-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabacısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıdan",
+      "suffix_type": "TR-202-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabacıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıda",
+      "suffix_type": "TR-203-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabacıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklar",
+      "suffix_type": "TR-204-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalıklar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarımızdan",
+      "suffix_type": "TR-205-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalıklarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarımızda",
+      "suffix_type": "TR-206-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalıklarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarınızda",
+      "suffix_type": "TR-207-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalıklarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıkının",
+      "suffix_type": "TR-208-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalıkının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıktan",
+      "suffix_type": "TR-209-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalıktan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıkta",
+      "suffix_type": "TR-210-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalıkta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılar",
+      "suffix_type": "TR-211-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızdan",
+      "suffix_type": "TR-212-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızda",
+      "suffix_type": "TR-213-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarınızda",
+      "suffix_type": "TR-214-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lısının",
+      "suffix_type": "TR-215-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıdan",
+      "suffix_type": "TR-216-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıda",
+      "suffix_type": "TR-217-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabalıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlar",
+      "suffix_type": "TR-218-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasızlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızdan",
+      "suffix_type": "TR-219-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasızlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızda",
+      "suffix_type": "TR-220-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasızlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarınızda",
+      "suffix_type": "TR-221-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasızlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızının",
+      "suffix_type": "TR-222-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasızının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızdan",
+      "suffix_type": "TR-223-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızda",
+      "suffix_type": "TR-224-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "TR-225-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabadaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "TR-226-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabadaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "TR-227-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabadaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "TR-228-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabadaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "TR-229-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabadaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daştan",
+      "suffix_type": "TR-230-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabadaştan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşta",
+      "suffix_type": "TR-231-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabadaşta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "TR-232-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "TR-233-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "TR-234-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "TR-235-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "TR-236-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "TR-237-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "TR-238-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabasalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlar",
+      "suffix_type": "TR-239-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabaımlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızdan",
+      "suffix_type": "TR-240-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabaımlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızda",
+      "suffix_type": "TR-241-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabaımlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarınızda",
+      "suffix_type": "TR-242-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabaımlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımının",
+      "suffix_type": "TR-243-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabaımının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımdan",
+      "suffix_type": "TR-244-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabaımdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımda",
+      "suffix_type": "TR-245-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "araba -> arabaımda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılar",
+      "suffix_type": "TR-246-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıcılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızdan",
+      "suffix_type": "TR-247-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıcılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızda",
+      "suffix_type": "TR-248-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıcılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarınızda",
+      "suffix_type": "TR-249-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıcılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cısının",
+      "suffix_type": "TR-250-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıcısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıdan",
+      "suffix_type": "TR-251-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıcıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıda",
+      "suffix_type": "TR-252-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıcıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklar",
+      "suffix_type": "TR-253-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılıklar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarımızdan",
+      "suffix_type": "TR-254-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılıklarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarımızda",
+      "suffix_type": "TR-255-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılıklarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarınızda",
+      "suffix_type": "TR-256-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılıklarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıkının",
+      "suffix_type": "TR-257-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılıkının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıktan",
+      "suffix_type": "TR-258-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılıktan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıkta",
+      "suffix_type": "TR-259-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılıkta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılar",
+      "suffix_type": "TR-260-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızdan",
+      "suffix_type": "TR-261-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızda",
+      "suffix_type": "TR-262-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarınızda",
+      "suffix_type": "TR-263-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lısının",
+      "suffix_type": "TR-264-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıdan",
+      "suffix_type": "TR-265-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıda",
+      "suffix_type": "TR-266-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapılıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlar",
+      "suffix_type": "TR-267-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısızlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızdan",
+      "suffix_type": "TR-268-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısızlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızda",
+      "suffix_type": "TR-269-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısızlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarınızda",
+      "suffix_type": "TR-270-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısızlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızının",
+      "suffix_type": "TR-271-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısızının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızdan",
+      "suffix_type": "TR-272-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızda",
+      "suffix_type": "TR-273-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "TR-274-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıdaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "TR-275-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıdaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "TR-276-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıdaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "TR-277-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıdaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "TR-278-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıdaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daştan",
+      "suffix_type": "TR-279-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıdaştan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşta",
+      "suffix_type": "TR-280-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıdaşta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "TR-281-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "TR-282-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "TR-283-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "TR-284-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "TR-285-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "TR-286-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "TR-287-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapısalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlar",
+      "suffix_type": "TR-288-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıımlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızdan",
+      "suffix_type": "TR-289-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıımlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızda",
+      "suffix_type": "TR-290-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıımlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarınızda",
+      "suffix_type": "TR-291-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıımlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımının",
+      "suffix_type": "TR-292-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıımının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımdan",
+      "suffix_type": "TR-293-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıımdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımda",
+      "suffix_type": "TR-294-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "kapı -> kapıımda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cüler",
+      "suffix_type": "TR-295-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözcüler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cülerimizden",
+      "suffix_type": "TR-296-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözcülerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cülerimizde",
+      "suffix_type": "TR-297-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözcülerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cülerinizde",
+      "suffix_type": "TR-298-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözcülerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cüsünün",
+      "suffix_type": "TR-299-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözcüsünün"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cüden",
+      "suffix_type": "TR-300-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözcüden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cüde",
+      "suffix_type": "TR-301-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözcüde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lükler",
+      "suffix_type": "TR-302-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlükler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüklerimizden",
+      "suffix_type": "TR-303-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlüklerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüklerimizde",
+      "suffix_type": "TR-304-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlüklerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüklerinizde",
+      "suffix_type": "TR-305-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlüklerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lükünün",
+      "suffix_type": "TR-306-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlükünün"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lükten",
+      "suffix_type": "TR-307-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlükten"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lükte",
+      "suffix_type": "TR-308-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlükte"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüler",
+      "suffix_type": "TR-309-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlüler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lülerimizden",
+      "suffix_type": "TR-310-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlülerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lülerimizde",
+      "suffix_type": "TR-311-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlülerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lülerinizde",
+      "suffix_type": "TR-312-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlülerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüsünün",
+      "suffix_type": "TR-313-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlüsünün"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüden",
+      "suffix_type": "TR-314-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlüden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüde",
+      "suffix_type": "TR-315-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözlüde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzler",
+      "suffix_type": "TR-316-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözsüzler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzlerimizden",
+      "suffix_type": "TR-317-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözsüzlerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzlerimizde",
+      "suffix_type": "TR-318-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözsüzlerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzlerinizde",
+      "suffix_type": "TR-319-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözsüzlerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzünün",
+      "suffix_type": "TR-320-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözsüzünün"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzden",
+      "suffix_type": "TR-321-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözsüzden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzde",
+      "suffix_type": "TR-322-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözsüzde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşler",
+      "suffix_type": "TR-323-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözdeşler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşlerimizden",
+      "suffix_type": "TR-324-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözdeşlerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşlerimizde",
+      "suffix_type": "TR-325-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözdeşlerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşlerinizde",
+      "suffix_type": "TR-326-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözdeşlerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşinin",
+      "suffix_type": "TR-327-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözdeşinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşten",
+      "suffix_type": "TR-328-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözdeşten"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "deşte",
+      "suffix_type": "TR-329-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözdeşte"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "seller",
+      "suffix_type": "TR-330-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözseller"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sellerimizden",
+      "suffix_type": "TR-331-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözsellerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sellerimizde",
+      "suffix_type": "TR-332-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözsellerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sellerinizde",
+      "suffix_type": "TR-333-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözsellerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "selinin",
+      "suffix_type": "TR-334-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözselinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "selden",
+      "suffix_type": "TR-335-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözselden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "selde",
+      "suffix_type": "TR-336-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözselde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümler",
+      "suffix_type": "TR-337-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözümler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümlerimizden",
+      "suffix_type": "TR-338-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözümlerimizden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümlerimizde",
+      "suffix_type": "TR-339-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözümlerimizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümlerinizde",
+      "suffix_type": "TR-340-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözümlerinizde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümünün",
+      "suffix_type": "TR-341-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözümünün"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümden",
+      "suffix_type": "TR-342-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözümden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümde",
+      "suffix_type": "TR-343-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "göz -> gözümde"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çular",
+      "suffix_type": "TR-344-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukçular"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çularımızdan",
+      "suffix_type": "TR-345-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukçularımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çularımızda",
+      "suffix_type": "TR-346-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukçularımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çularınızda",
+      "suffix_type": "TR-347-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukçularınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çusunun",
+      "suffix_type": "TR-348-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukçusunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çudan",
+      "suffix_type": "TR-349-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukçudan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "çuda",
+      "suffix_type": "TR-350-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukçuda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luklar",
+      "suffix_type": "TR-351-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukluklar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luklarımızdan",
+      "suffix_type": "TR-352-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukluklarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luklarımızda",
+      "suffix_type": "TR-353-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukluklarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luklarınızda",
+      "suffix_type": "TR-354-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukluklarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lukunun",
+      "suffix_type": "TR-355-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuklukunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luktan",
+      "suffix_type": "TR-356-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukluktan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lukta",
+      "suffix_type": "TR-357-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuklukta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lular",
+      "suffix_type": "TR-358-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuklular"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lularımızdan",
+      "suffix_type": "TR-359-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuklularımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lularımızda",
+      "suffix_type": "TR-360-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuklularımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lularınızda",
+      "suffix_type": "TR-361-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuklularınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lusunun",
+      "suffix_type": "TR-362-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuklusunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ludan",
+      "suffix_type": "TR-363-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukludan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luda",
+      "suffix_type": "TR-364-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukluda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlar",
+      "suffix_type": "TR-365-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksuzlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlarımızdan",
+      "suffix_type": "TR-366-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksuzlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlarımızda",
+      "suffix_type": "TR-367-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksuzlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlarınızda",
+      "suffix_type": "TR-368-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksuzlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzunun",
+      "suffix_type": "TR-369-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksuzunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzdan",
+      "suffix_type": "TR-370-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksuzdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzda",
+      "suffix_type": "TR-371-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksuzda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "TR-372-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukdaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "TR-373-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukdaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "TR-374-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukdaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "TR-375-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukdaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "TR-376-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukdaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daştan",
+      "suffix_type": "TR-377-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukdaştan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşta",
+      "suffix_type": "TR-378-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukdaşta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "TR-379-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "TR-380-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "TR-381-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "TR-382-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "TR-383-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "TR-384-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "TR-385-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocuksalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlar",
+      "suffix_type": "TR-386-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukumlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlarımızdan",
+      "suffix_type": "TR-387-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukumlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlarımızda",
+      "suffix_type": "TR-388-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukumlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlarınızda",
+      "suffix_type": "TR-389-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukumlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umunun",
+      "suffix_type": "TR-390-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukumunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umdan",
+      "suffix_type": "TR-391-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukumdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umda",
+      "suffix_type": "TR-392-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "çocuk -> çocukumda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılar",
+      "suffix_type": "TR-393-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masacılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızdan",
+      "suffix_type": "TR-394-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masacılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızda",
+      "suffix_type": "TR-395-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masacılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarınızda",
+      "suffix_type": "TR-396-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masacılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cısının",
+      "suffix_type": "TR-397-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masacısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıdan",
+      "suffix_type": "TR-398-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masacıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıda",
+      "suffix_type": "TR-399-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masacıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklar",
+      "suffix_type": "TR-400-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalıklar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarımızdan",
+      "suffix_type": "TR-401-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalıklarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarımızda",
+      "suffix_type": "TR-402-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalıklarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıklarınızda",
+      "suffix_type": "TR-403-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalıklarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıkının",
+      "suffix_type": "TR-404-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalıkının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıktan",
+      "suffix_type": "TR-405-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalıktan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıkta",
+      "suffix_type": "TR-406-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalıkta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılar",
+      "suffix_type": "TR-407-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızdan",
+      "suffix_type": "TR-408-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızda",
+      "suffix_type": "TR-409-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarınızda",
+      "suffix_type": "TR-410-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lısının",
+      "suffix_type": "TR-411-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıdan",
+      "suffix_type": "TR-412-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıda",
+      "suffix_type": "TR-413-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masalıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlar",
+      "suffix_type": "TR-414-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasızlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızdan",
+      "suffix_type": "TR-415-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasızlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızda",
+      "suffix_type": "TR-416-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasızlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarınızda",
+      "suffix_type": "TR-417-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasızlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızının",
+      "suffix_type": "TR-418-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasızının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızdan",
+      "suffix_type": "TR-419-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızda",
+      "suffix_type": "TR-420-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "TR-421-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masadaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "TR-422-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masadaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "TR-423-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masadaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "TR-424-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masadaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "TR-425-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masadaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daştan",
+      "suffix_type": "TR-426-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masadaştan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşta",
+      "suffix_type": "TR-427-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masadaşta"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "TR-428-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "TR-429-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "TR-430-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "TR-431-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "TR-432-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "TR-433-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "TR-434-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masasalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlar",
+      "suffix_type": "TR-435-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masaımlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızdan",
+      "suffix_type": "TR-436-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Turkish morphology chain",
+      "examples": [
+        "masa -> masaımlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "in",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive case with buffer n only after vowel-final stems",
+      "examples": [
+        "ev -> evin"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ın",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive case with buffer n only after vowel-final stems",
+      "examples": [
+        "kitap -> kitabın"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "un",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive case with buffer n only after vowel-final stems",
+      "examples": [
+        "okul -> okulun"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ün",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive case with buffer n only after vowel-final stems",
+      "examples": [
+        "göz -> gözün"
+      ],
+      "confidence_score": 0.98
+    }
+  ]
+}

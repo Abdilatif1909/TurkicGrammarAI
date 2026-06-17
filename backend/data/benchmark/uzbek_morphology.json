@@ -1,0 +1,4425 @@
+[
+  {
+    "id": 1,
+    "surface": "kitobmagina",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "magina"
+    ]
+  },
+  {
+    "id": 2,
+    "surface": "tilniadii",
+    "stem": "til",
+    "expected_suffixes": [
+      "niadii"
+    ]
+  },
+  {
+    "id": 3,
+    "surface": "daryouvdeniingish",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "uvdeni",
+      "ingish"
+    ]
+  },
+  {
+    "id": 4,
+    "surface": "ma'nolariyoro'",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "lariyor",
+      "o'"
+    ]
+  },
+  {
+    "id": 5,
+    "surface": "uyquqaimizishvortaara",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "qaimiz",
+      "ishvor",
+      "taara"
+    ]
+  },
+  {
+    "id": 6,
+    "surface": "ma'noadinii",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "adinii"
+    ]
+  },
+  {
+    "id": 7,
+    "surface": "daryochadichi",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "cha",
+      "dichi"
+    ]
+  },
+  {
+    "id": 8,
+    "surface": "o'qdiga",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "diga"
+    ]
+  },
+  {
+    "id": 9,
+    "surface": "ishadiniitadan",
+    "stem": "ish",
+    "expected_suffixes": [
+      "adinii",
+      "tadan"
+    ]
+  },
+  {
+    "id": 10,
+    "surface": "so'zdaningyor",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "dan",
+      "ingyor"
+    ]
+  },
+  {
+    "id": 11,
+    "surface": "yurakuv",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "uv"
+    ]
+  },
+  {
+    "id": 12,
+    "surface": "o'qadiniiyma",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "adini",
+      "iyma"
+    ]
+  },
+  {
+    "id": 13,
+    "surface": "maktabmaganden",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "maganden"
+    ]
+  },
+  {
+    "id": 14,
+    "surface": "daryodiringiz",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "diringiz"
+    ]
+  },
+  {
+    "id": 15,
+    "surface": "uyo'gindaamaler",
+    "stem": "uy",
+    "expected_suffixes": [
+      "o'",
+      "gindaa",
+      "maler"
+    ]
+  },
+  {
+    "id": 16,
+    "surface": "daryoningadi",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "ning",
+      "adi"
+    ]
+  },
+  {
+    "id": 17,
+    "surface": "bozordatadeni",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "data",
+      "deni"
+    ]
+  },
+  {
+    "id": 18,
+    "surface": "bozormalaraarler",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "malara",
+      "ar",
+      "ler"
+    ]
+  },
+  {
+    "id": 19,
+    "surface": "kitobingizda",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "ingizda"
+    ]
+  },
+  {
+    "id": 20,
+    "surface": "daryoo'chaaimiz",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "o'chaa",
+      "imiz"
+    ]
+  },
+  {
+    "id": 21,
+    "surface": "ishyorning",
+    "stem": "ish",
+    "expected_suffixes": [
+      "yorning"
+    ]
+  },
+  {
+    "id": 22,
+    "surface": "ishimdanayor",
+    "stem": "ish",
+    "expected_suffixes": [
+      "imdana",
+      "yor"
+    ]
+  },
+  {
+    "id": 23,
+    "surface": "daryotamagan",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "tamagan"
+    ]
+  },
+  {
+    "id": 24,
+    "surface": "ta'limmachiiginacha",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "machii",
+      "ginacha"
+    ]
+  },
+  {
+    "id": 25,
+    "surface": "so'zimdai",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "imdai"
+    ]
+  },
+  {
+    "id": 26,
+    "surface": "uyqudanimayor",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "danima",
+      "yor"
+    ]
+  },
+  {
+    "id": 27,
+    "surface": "yozganlaryoro'i",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ganlar",
+      "yoro'i"
+    ]
+  },
+  {
+    "id": 28,
+    "surface": "yurakmalara",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "malara"
+    ]
+  },
+  {
+    "id": 29,
+    "surface": "ma'noiyga",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "iyga"
+    ]
+  },
+  {
+    "id": 30,
+    "surface": "bozorlikmasaaimdaa",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "lik",
+      "masaa",
+      "imdaa"
+    ]
+  },
+  {
+    "id": 31,
+    "surface": "maktabimleryoro'ta",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "im",
+      "leryor",
+      "o'ta"
+    ]
+  },
+  {
+    "id": 32,
+    "surface": "daryoniingiz",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "niingiz"
+    ]
+  },
+  {
+    "id": 33,
+    "surface": "uyqulerta",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "lerta"
+    ]
+  },
+  {
+    "id": 34,
+    "surface": "oilachaqa",
+    "stem": "oila",
+    "expected_suffixes": [
+      "chaqa"
+    ]
+  },
+  {
+    "id": 35,
+    "surface": "qalbtaishginauvchi",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "taish",
+      "gina",
+      "uvchi"
+    ]
+  },
+  {
+    "id": 36,
+    "surface": "ma'nodatao'roqilerning",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "data",
+      "o'roqi",
+      "lerning"
+    ]
+  },
+  {
+    "id": 37,
+    "surface": "yurakchi",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 38,
+    "surface": "tilarginiqaingizgingaa",
+    "stem": "til",
+    "expected_suffixes": [
+      "argini",
+      "qaingiz",
+      "gingaa"
+    ]
+  },
+  {
+    "id": 39,
+    "surface": "ishgamasai",
+    "stem": "ish",
+    "expected_suffixes": [
+      "ga",
+      "masai"
+    ]
+  },
+  {
+    "id": 40,
+    "surface": "o'qingizim",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "ingizim"
+    ]
+  },
+  {
+    "id": 41,
+    "surface": "ta'limari",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "ari"
+    ]
+  },
+  {
+    "id": 42,
+    "surface": "oiladalara",
+    "stem": "oila",
+    "expected_suffixes": [
+      "dalara"
+    ]
+  },
+  {
+    "id": 43,
+    "surface": "maktabmaganler",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "maganler"
+    ]
+  },
+  {
+    "id": 44,
+    "surface": "uyiyimiz",
+    "stem": "uy",
+    "expected_suffixes": [
+      "iyimiz"
+    ]
+  },
+  {
+    "id": 45,
+    "surface": "uyilariroqmoqda",
+    "stem": "uy",
+    "expected_suffixes": [
+      "ilari",
+      "roqmoqda"
+    ]
+  },
+  {
+    "id": 46,
+    "surface": "davomoqdadan",
+    "stem": "davo",
+    "expected_suffixes": [
+      "moqdadan"
+    ]
+  },
+  {
+    "id": 47,
+    "surface": "yurakdirishning",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "dir",
+      "ishning"
+    ]
+  },
+  {
+    "id": 48,
+    "surface": "qalbliklariymao'ta",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "liklar",
+      "iyma",
+      "o'ta"
+    ]
+  },
+  {
+    "id": 49,
+    "surface": "ta'limo'moqdauvdeni",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "o'moqda",
+      "uvdeni"
+    ]
+  },
+  {
+    "id": 50,
+    "surface": "qalbiyimiz",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "iyimiz"
+    ]
+  },
+  {
+    "id": 51,
+    "surface": "tilleryoryor",
+    "stem": "til",
+    "expected_suffixes": [
+      "leryor",
+      "yor"
+    ]
+  },
+  {
+    "id": 52,
+    "surface": "tilormachii",
+    "stem": "til",
+    "expected_suffixes": [
+      "or",
+      "machii"
+    ]
+  },
+  {
+    "id": 53,
+    "surface": "bozoruvganachiish",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "uvgana",
+      "chiish"
+    ]
+  },
+  {
+    "id": 54,
+    "surface": "so'zlarnimagan",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "lar",
+      "nimagan"
+    ]
+  },
+  {
+    "id": 55,
+    "surface": "yozvordaiari",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "vordai",
+      "ari"
+    ]
+  },
+  {
+    "id": 56,
+    "surface": "davouvqaalarroq",
+    "stem": "davo",
+    "expected_suffixes": [
+      "uvqaa",
+      "larroq"
+    ]
+  },
+  {
+    "id": 57,
+    "surface": "davogamagindaa",
+    "stem": "davo",
+    "expected_suffixes": [
+      "gama",
+      "gindaa"
+    ]
+  },
+  {
+    "id": 58,
+    "surface": "ma'noninguvchimamasi",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "ninguvchi",
+      "mamasi"
+    ]
+  },
+  {
+    "id": 59,
+    "surface": "ishnimaganishimalarimagan",
+    "stem": "ish",
+    "expected_suffixes": [
+      "nimagan",
+      "ishima",
+      "larimagan"
+    ]
+  },
+  {
+    "id": 60,
+    "surface": "daryoingginaar",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "inggina",
+      "ar"
+    ]
+  },
+  {
+    "id": 61,
+    "surface": "yurakgachiish",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "ga",
+      "chiish"
+    ]
+  },
+  {
+    "id": 62,
+    "surface": "maktabimdendaganginalik",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "imden",
+      "dagan",
+      "ginalik"
+    ]
+  },
+  {
+    "id": 63,
+    "surface": "yurakdasaa",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "dasaa"
+    ]
+  },
+  {
+    "id": 64,
+    "surface": "maktabmaginachiing",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "magina",
+      "chi",
+      "ing"
+    ]
+  },
+  {
+    "id": 65,
+    "surface": "tilingizdaimdena",
+    "stem": "til",
+    "expected_suffixes": [
+      "ingizda",
+      "imdena"
+    ]
+  },
+  {
+    "id": 66,
+    "surface": "ta'limmaso'i",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "maso'i"
+    ]
+  },
+  {
+    "id": 67,
+    "surface": "oilayoruvchi",
+    "stem": "oila",
+    "expected_suffixes": [
+      "yoruvchi"
+    ]
+  },
+  {
+    "id": 68,
+    "surface": "uyqudensai",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "densai"
+    ]
+  },
+  {
+    "id": 69,
+    "surface": "ma'nodenarinidai",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "denari",
+      "nidai"
+    ]
+  },
+  {
+    "id": 70,
+    "surface": "davogindaingdaa",
+    "stem": "davo",
+    "expected_suffixes": [
+      "ginda",
+      "ingdaa"
+    ]
+  },
+  {
+    "id": 71,
+    "surface": "maktabyoriya",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "yoriya"
+    ]
+  },
+  {
+    "id": 72,
+    "surface": "bozormalararoqmoqda",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "malara",
+      "roqmoqda"
+    ]
+  },
+  {
+    "id": 73,
+    "surface": "ma'nochadaio'iyaliklar",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "chadai",
+      "o'iya",
+      "liklar"
+    ]
+  },
+  {
+    "id": 74,
+    "surface": "o'qchachidi",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "cha",
+      "chidi"
+    ]
+  },
+  {
+    "id": 75,
+    "surface": "ta'limadiniroqmoqda",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "adini",
+      "roqmoqda"
+    ]
+  },
+  {
+    "id": 76,
+    "surface": "tiladilarichi",
+    "stem": "til",
+    "expected_suffixes": [
+      "adi",
+      "larichi"
+    ]
+  },
+  {
+    "id": 77,
+    "surface": "daryomoqdadan",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "moqdadan"
+    ]
+  },
+  {
+    "id": 78,
+    "surface": "tilniyorima",
+    "stem": "til",
+    "expected_suffixes": [
+      "niyori",
+      "ma"
+    ]
+  },
+  {
+    "id": 79,
+    "surface": "uyyoriyaisailor",
+    "stem": "uy",
+    "expected_suffixes": [
+      "yoriya",
+      "isai",
+      "lor"
+    ]
+  },
+  {
+    "id": 80,
+    "surface": "ishning",
+    "stem": "ish",
+    "expected_suffixes": [
+      "ning"
+    ]
+  },
+  {
+    "id": 81,
+    "surface": "so'zchiishgaadiidamoqda",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "chiish",
+      "gaadii",
+      "damoqda"
+    ]
+  },
+  {
+    "id": 82,
+    "surface": "yozadiniigamas",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "adinii",
+      "gamas"
+    ]
+  },
+  {
+    "id": 83,
+    "surface": "qalbganmai",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "ganmai"
+    ]
+  },
+  {
+    "id": 84,
+    "surface": "oiladiadii",
+    "stem": "oila",
+    "expected_suffixes": [
+      "diadii"
+    ]
+  },
+  {
+    "id": 85,
+    "surface": "bozorvorniigantaa",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "vornii",
+      "gantaa"
+    ]
+  },
+  {
+    "id": 86,
+    "surface": "bozoro'inga",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "o'inga"
+    ]
+  },
+  {
+    "id": 87,
+    "surface": "o'qliko'ar",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "lik",
+      "o'ar"
+    ]
+  },
+  {
+    "id": 88,
+    "surface": "davomasuvavordaiadiroq",
+    "stem": "davo",
+    "expected_suffixes": [
+      "masuva",
+      "vordai",
+      "adiroq"
+    ]
+  },
+  {
+    "id": 89,
+    "surface": "qalbsaingalar",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "sainga",
+      "lar"
+    ]
+  },
+  {
+    "id": 90,
+    "surface": "davodeni",
+    "stem": "davo",
+    "expected_suffixes": [
+      "deni"
+    ]
+  },
+  {
+    "id": 91,
+    "surface": "ta'limditaalariyor",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "ditaa",
+      "lariyor"
+    ]
+  },
+  {
+    "id": 92,
+    "surface": "daryoninguvchi",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "ninguvchi"
+    ]
+  },
+  {
+    "id": 93,
+    "surface": "o'qdirmaingizimginaa",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "dirma",
+      "ingizim",
+      "ginaa"
+    ]
+  },
+  {
+    "id": 94,
+    "surface": "yuraknidaiimtaa",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "nidai",
+      "imtaa"
+    ]
+  },
+  {
+    "id": 95,
+    "surface": "bozordiruvadichini",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "diruva",
+      "dichi",
+      "ni"
+    ]
+  },
+  {
+    "id": 96,
+    "surface": "ishdaingnidir",
+    "stem": "ish",
+    "expected_suffixes": [
+      "daing",
+      "nidir"
+    ]
+  },
+  {
+    "id": 97,
+    "surface": "oilaingniadii",
+    "stem": "oila",
+    "expected_suffixes": [
+      "ing",
+      "niadii"
+    ]
+  },
+  {
+    "id": 98,
+    "surface": "ma'noginaginaadi",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "gina",
+      "ginaadi"
+    ]
+  },
+  {
+    "id": 99,
+    "surface": "yozyoruvniyori",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "yoruv",
+      "niyori"
+    ]
+  },
+  {
+    "id": 100,
+    "surface": "uyquingniyortaa",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "ingni",
+      "yortaa"
+    ]
+  },
+  {
+    "id": 101,
+    "surface": "uyquimdaa",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "imdaa"
+    ]
+  },
+  {
+    "id": 102,
+    "surface": "oilaqao'ivordao'",
+    "stem": "oila",
+    "expected_suffixes": [
+      "qao'i",
+      "vorda",
+      "o'"
+    ]
+  },
+  {
+    "id": 103,
+    "surface": "ma'nolar",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 104,
+    "surface": "o'qidanqaler",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "idan",
+      "qaler"
+    ]
+  },
+  {
+    "id": 105,
+    "surface": "ma'noo'ingagantaa",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "o'inga",
+      "gantaa"
+    ]
+  },
+  {
+    "id": 106,
+    "surface": "ta'limariuvchii",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "ari",
+      "uvchii"
+    ]
+  },
+  {
+    "id": 107,
+    "surface": "o'qchivorqaler",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "chivor",
+      "qaler"
+    ]
+  },
+  {
+    "id": 108,
+    "surface": "ta'limo'chiachi",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "o'chia",
+      "chi"
+    ]
+  },
+  {
+    "id": 109,
+    "surface": "tilmasaiimizta",
+    "stem": "til",
+    "expected_suffixes": [
+      "masai",
+      "imizta"
+    ]
+  },
+  {
+    "id": 110,
+    "surface": "bozoruv",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "uv"
+    ]
+  },
+  {
+    "id": 111,
+    "surface": "kitobliklarimmasi",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "liklar",
+      "immasi"
+    ]
+  },
+  {
+    "id": 112,
+    "surface": "o'qdandaa",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "dandaa"
+    ]
+  },
+  {
+    "id": 113,
+    "surface": "tilo'ningdalari",
+    "stem": "til",
+    "expected_suffixes": [
+      "o'ning",
+      "dalari"
+    ]
+  },
+  {
+    "id": 114,
+    "surface": "oilataimagin",
+    "stem": "oila",
+    "expected_suffixes": [
+      "taima",
+      "gin"
+    ]
+  },
+  {
+    "id": 115,
+    "surface": "so'ziishilari",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "iishi",
+      "lari"
+    ]
+  },
+  {
+    "id": 116,
+    "surface": "davodiruvaishta",
+    "stem": "davo",
+    "expected_suffixes": [
+      "diruva",
+      "ishta"
+    ]
+  },
+  {
+    "id": 117,
+    "surface": "maktablor",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "lor"
+    ]
+  },
+  {
+    "id": 118,
+    "surface": "davoginaingingdaaning",
+    "stem": "davo",
+    "expected_suffixes": [
+      "ginaing",
+      "ingdaa",
+      "ning"
+    ]
+  },
+  {
+    "id": 119,
+    "surface": "uyningmaginao'chia",
+    "stem": "uy",
+    "expected_suffixes": [
+      "ning",
+      "magina",
+      "o'chia"
+    ]
+  },
+  {
+    "id": 120,
+    "surface": "ma'notaiyaimdir",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "taiya",
+      "imdir"
+    ]
+  },
+  {
+    "id": 121,
+    "surface": "o'qgingaa",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "gingaa"
+    ]
+  },
+  {
+    "id": 122,
+    "surface": "kitobimimmasi",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "im",
+      "immasi"
+    ]
+  },
+  {
+    "id": 123,
+    "surface": "tiluvdenita",
+    "stem": "til",
+    "expected_suffixes": [
+      "uvdeni",
+      "ta"
+    ]
+  },
+  {
+    "id": 124,
+    "surface": "uyquliklaruvchilar",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "liklar",
+      "uvchilar"
+    ]
+  },
+  {
+    "id": 125,
+    "surface": "so'zadidaa",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "adidaa"
+    ]
+  },
+  {
+    "id": 126,
+    "surface": "qalbiylariari",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "iylari",
+      "ari"
+    ]
+  },
+  {
+    "id": 127,
+    "surface": "bozorginada",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "ginada"
+    ]
+  },
+  {
+    "id": 128,
+    "surface": "so'zgantaa",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "gantaa"
+    ]
+  },
+  {
+    "id": 129,
+    "surface": "yozganaingiza",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "gana",
+      "ingiza"
+    ]
+  },
+  {
+    "id": 130,
+    "surface": "qalbadiniiga",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "adinii",
+      "ga"
+    ]
+  },
+  {
+    "id": 131,
+    "surface": "daryotaimatamaganargini",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "taima",
+      "tamagan",
+      "argini"
+    ]
+  },
+  {
+    "id": 132,
+    "surface": "uyquchauvi",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "cha",
+      "uvi"
+    ]
+  },
+  {
+    "id": 133,
+    "surface": "ishdiqaamagina",
+    "stem": "ish",
+    "expected_suffixes": [
+      "diqaa",
+      "magina"
+    ]
+  },
+  {
+    "id": 134,
+    "surface": "ta'limganmaidensai",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "ganmai",
+      "densai"
+    ]
+  },
+  {
+    "id": 135,
+    "surface": "o'qdanvordi",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "dan",
+      "vor",
+      "di"
+    ]
+  },
+  {
+    "id": 136,
+    "surface": "o'qchi",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 137,
+    "surface": "ma'noishtaningda",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "ishta",
+      "ningda"
+    ]
+  },
+  {
+    "id": 138,
+    "surface": "o'qdaadidaa",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "da",
+      "adidaa"
+    ]
+  },
+  {
+    "id": 139,
+    "surface": "tilo'roqita",
+    "stem": "til",
+    "expected_suffixes": [
+      "o'roqi",
+      "ta"
+    ]
+  },
+  {
+    "id": 140,
+    "surface": "tilroqler",
+    "stem": "til",
+    "expected_suffixes": [
+      "roq",
+      "ler"
+    ]
+  },
+  {
+    "id": 141,
+    "surface": "uyqudirta",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "dirta"
+    ]
+  },
+  {
+    "id": 142,
+    "surface": "yurakingmachii",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "ing",
+      "machii"
+    ]
+  },
+  {
+    "id": 143,
+    "surface": "yozo'chaa",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "o'chaa"
+    ]
+  },
+  {
+    "id": 144,
+    "surface": "kitobqasaagindaler",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "qasaa",
+      "ginda",
+      "ler"
+    ]
+  },
+  {
+    "id": 145,
+    "surface": "oilaiyarimaqai",
+    "stem": "oila",
+    "expected_suffixes": [
+      "iy",
+      "ari",
+      "maqai"
+    ]
+  },
+  {
+    "id": 146,
+    "surface": "uyqulariii",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "lariii"
+    ]
+  },
+  {
+    "id": 147,
+    "surface": "daryoishtaniamaler",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "ishta",
+      "nia",
+      "maler"
+    ]
+  },
+  {
+    "id": 148,
+    "surface": "ta'limdiringizyoruv",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "diringiz",
+      "yoruv"
+    ]
+  },
+  {
+    "id": 149,
+    "surface": "so'zuvchi-ningmoqda",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "uvchi-ning",
+      "moqda"
+    ]
+  },
+  {
+    "id": 150,
+    "surface": "so'zuviyadiadii",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "uviya",
+      "diadii"
+    ]
+  },
+  {
+    "id": 151,
+    "surface": "ta'limganmai",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "ganmai"
+    ]
+  },
+  {
+    "id": 152,
+    "surface": "ta'limginaadi",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "ginaadi"
+    ]
+  },
+  {
+    "id": 153,
+    "surface": "davouvchi",
+    "stem": "davo",
+    "expected_suffixes": [
+      "uvchi"
+    ]
+  },
+  {
+    "id": 154,
+    "surface": "ma'nomao'ta",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "ma",
+      "o'ta"
+    ]
+  },
+  {
+    "id": 155,
+    "surface": "oilaqaingiz",
+    "stem": "oila",
+    "expected_suffixes": [
+      "qaingiz"
+    ]
+  },
+  {
+    "id": 156,
+    "surface": "ma'nogindaniroq",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "ginda",
+      "ni",
+      "roq"
+    ]
+  },
+  {
+    "id": 157,
+    "surface": "kitobchidilertaliklar",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "chidi",
+      "lerta",
+      "liklar"
+    ]
+  },
+  {
+    "id": 158,
+    "surface": "so'zdaingma-chilarroq",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "daing",
+      "ma-chi",
+      "larroq"
+    ]
+  },
+  {
+    "id": 159,
+    "surface": "uyquvora",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "vora"
+    ]
+  },
+  {
+    "id": 160,
+    "surface": "yurakdensai",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "densai"
+    ]
+  },
+  {
+    "id": 161,
+    "surface": "daryoroq",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "roq"
+    ]
+  },
+  {
+    "id": 162,
+    "surface": "yozdaroqlikdir",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "da",
+      "roqlik",
+      "dir"
+    ]
+  },
+  {
+    "id": 163,
+    "surface": "uyquqamagandiisai",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "qa",
+      "magandi",
+      "isai"
+    ]
+  },
+  {
+    "id": 164,
+    "surface": "ma'nolariiiimtai",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "lariii",
+      "imtai"
+    ]
+  },
+  {
+    "id": 165,
+    "surface": "daryolartaa",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "lartaa"
+    ]
+  },
+  {
+    "id": 166,
+    "surface": "bozorlik-chiimdira",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "lik-chi",
+      "imdira"
+    ]
+  },
+  {
+    "id": 167,
+    "surface": "ta'limleryormaganden",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "leryor",
+      "maganden"
+    ]
+  },
+  {
+    "id": 168,
+    "surface": "daryoo'ganga",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "o'gan",
+      "ga"
+    ]
+  },
+  {
+    "id": 169,
+    "surface": "tilniingizcha",
+    "stem": "til",
+    "expected_suffixes": [
+      "niingiz",
+      "cha"
+    ]
+  },
+  {
+    "id": 170,
+    "surface": "maktabdirgaaadidaa",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "dirgaa",
+      "adidaa"
+    ]
+  },
+  {
+    "id": 171,
+    "surface": "qalbma",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "ma"
+    ]
+  },
+  {
+    "id": 172,
+    "surface": "qalbyoro'iimizii",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "yoro'i",
+      "imizii"
+    ]
+  },
+  {
+    "id": 173,
+    "surface": "ta'limtaishniga",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "taish",
+      "ni",
+      "ga"
+    ]
+  },
+  {
+    "id": 174,
+    "surface": "o'qqaingizimmasiimiz",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "qaingiz",
+      "immasi",
+      "imiz"
+    ]
+  },
+  {
+    "id": 175,
+    "surface": "davoingizda",
+    "stem": "davo",
+    "expected_suffixes": [
+      "ingizda"
+    ]
+  },
+  {
+    "id": 176,
+    "surface": "o'qimyoranimagan",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "imyora",
+      "nimagan"
+    ]
+  },
+  {
+    "id": 177,
+    "surface": "ma'noo'iya",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "o'iya"
+    ]
+  },
+  {
+    "id": 178,
+    "surface": "uyimdira",
+    "stem": "uy",
+    "expected_suffixes": [
+      "imdira"
+    ]
+  },
+  {
+    "id": 179,
+    "surface": "ma'noingizdaliklar",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "ingizda",
+      "liklar"
+    ]
+  },
+  {
+    "id": 180,
+    "surface": "qalbimishi",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "imishi"
+    ]
+  },
+  {
+    "id": 181,
+    "surface": "tillarigadira",
+    "stem": "til",
+    "expected_suffixes": [
+      "lari",
+      "gadira"
+    ]
+  },
+  {
+    "id": 182,
+    "surface": "yurakdanmadeni",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "danma",
+      "deni"
+    ]
+  },
+  {
+    "id": 183,
+    "surface": "davogaginidanima",
+    "stem": "davo",
+    "expected_suffixes": [
+      "gagini",
+      "danima"
+    ]
+  },
+  {
+    "id": 184,
+    "surface": "ishginaaingni",
+    "stem": "ish",
+    "expected_suffixes": [
+      "ginaa",
+      "ingni"
+    ]
+  },
+  {
+    "id": 185,
+    "surface": "daryochadaitamas",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "chadai",
+      "tamas"
+    ]
+  },
+  {
+    "id": 186,
+    "surface": "yozimdana",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "imdana"
+    ]
+  },
+  {
+    "id": 187,
+    "surface": "daryovor",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "vor"
+    ]
+  },
+  {
+    "id": 188,
+    "surface": "ishuvningtadan",
+    "stem": "ish",
+    "expected_suffixes": [
+      "uv",
+      "ning",
+      "tadan"
+    ]
+  },
+  {
+    "id": 189,
+    "surface": "o'qganiyori",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "ga",
+      "niyori"
+    ]
+  },
+  {
+    "id": 190,
+    "surface": "ma'nodimaimdana",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "di",
+      "ma",
+      "imdana"
+    ]
+  },
+  {
+    "id": 191,
+    "surface": "ta'limargini",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "argini"
+    ]
+  },
+  {
+    "id": 192,
+    "surface": "ta'limda",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 193,
+    "surface": "ta'limimganisa",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "imgani",
+      "sa"
+    ]
+  },
+  {
+    "id": 194,
+    "surface": "so'zyorningimishi",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "yorning",
+      "imishi"
+    ]
+  },
+  {
+    "id": 195,
+    "surface": "uyquingmasaamaso'i",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "ing",
+      "masaa",
+      "maso'i"
+    ]
+  },
+  {
+    "id": 196,
+    "surface": "oilaganlardirgin",
+    "stem": "oila",
+    "expected_suffixes": [
+      "ganlar",
+      "dirgin"
+    ]
+  },
+  {
+    "id": 197,
+    "surface": "ta'limdanuvchiuvdeni",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "dan",
+      "uvchi",
+      "uvdeni"
+    ]
+  },
+  {
+    "id": 198,
+    "surface": "so'zdiiyi",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "diiyi"
+    ]
+  },
+  {
+    "id": 199,
+    "surface": "ta'limqasaalik-chi",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "qasaa",
+      "lik-chi"
+    ]
+  },
+  {
+    "id": 200,
+    "surface": "uyquiqaimiz",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "i",
+      "qaimiz"
+    ]
+  },
+  {
+    "id": 201,
+    "surface": "so'zyortaa",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "yortaa"
+    ]
+  },
+  {
+    "id": 202,
+    "surface": "daryolarmaaadiniiingdaa",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "larmaa",
+      "adinii",
+      "ingdaa"
+    ]
+  },
+  {
+    "id": 203,
+    "surface": "ta'limimvoriingizgingaa",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "imvori",
+      "ingiz",
+      "gingaa"
+    ]
+  },
+  {
+    "id": 204,
+    "surface": "qalbimuvchi",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "imuvchi"
+    ]
+  },
+  {
+    "id": 205,
+    "surface": "daryomasdiringizlar",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "mas",
+      "diringiz",
+      "lar"
+    ]
+  },
+  {
+    "id": 206,
+    "surface": "so'zishdiitaish",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "ishdii",
+      "taish"
+    ]
+  },
+  {
+    "id": 207,
+    "surface": "bozorcha",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "cha"
+    ]
+  },
+  {
+    "id": 208,
+    "surface": "so'ztaarataimamaler",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "taara",
+      "taima",
+      "maler"
+    ]
+  },
+  {
+    "id": 209,
+    "surface": "oilaliklarroqlik",
+    "stem": "oila",
+    "expected_suffixes": [
+      "liklar",
+      "roqlik"
+    ]
+  },
+  {
+    "id": 210,
+    "surface": "davomagan",
+    "stem": "davo",
+    "expected_suffixes": [
+      "magan"
+    ]
+  },
+  {
+    "id": 211,
+    "surface": "uyqumagina",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "magina"
+    ]
+  },
+  {
+    "id": 212,
+    "surface": "tilvoro'alariyorlerning",
+    "stem": "til",
+    "expected_suffixes": [
+      "voro'a",
+      "lariyor",
+      "lerning"
+    ]
+  },
+  {
+    "id": 213,
+    "surface": "kitobimizchi-chi",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "imiz",
+      "chi-chi"
+    ]
+  },
+  {
+    "id": 214,
+    "surface": "maktabgin",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "gin"
+    ]
+  },
+  {
+    "id": 215,
+    "surface": "o'qroqlik",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "roqlik"
+    ]
+  },
+  {
+    "id": 216,
+    "surface": "o'qgandiachidi",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "gandia",
+      "chidi"
+    ]
+  },
+  {
+    "id": 217,
+    "surface": "daryotaish",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "taish"
+    ]
+  },
+  {
+    "id": 218,
+    "surface": "davolaridalari",
+    "stem": "davo",
+    "expected_suffixes": [
+      "larida",
+      "lari"
+    ]
+  },
+  {
+    "id": 219,
+    "surface": "uychimachiing",
+    "stem": "uy",
+    "expected_suffixes": [
+      "chima",
+      "chi",
+      "ing"
+    ]
+  },
+  {
+    "id": 220,
+    "surface": "maktabishuvilarlikqa",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "ishuvi",
+      "lar",
+      "likqa"
+    ]
+  },
+  {
+    "id": 221,
+    "surface": "davoyoriya",
+    "stem": "davo",
+    "expected_suffixes": [
+      "yoriya"
+    ]
+  },
+  {
+    "id": 222,
+    "surface": "ta'limlariiichididan",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "lariii",
+      "chidi",
+      "dan"
+    ]
+  },
+  {
+    "id": 223,
+    "surface": "ta'limgaginiyorlariii",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "gagini",
+      "yor",
+      "lariii"
+    ]
+  },
+  {
+    "id": 224,
+    "surface": "qalbdendir",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "dendir"
+    ]
+  },
+  {
+    "id": 225,
+    "surface": "yozginadadichigina",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ginada",
+      "dichi",
+      "gina"
+    ]
+  },
+  {
+    "id": 226,
+    "surface": "daryomalerningimizingish",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "maler",
+      "ningimiz",
+      "ingish"
+    ]
+  },
+  {
+    "id": 227,
+    "surface": "bozormoqdadanginda",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "moqdadan",
+      "ginda"
+    ]
+  },
+  {
+    "id": 228,
+    "surface": "ta'limqa",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "qa"
+    ]
+  },
+  {
+    "id": 229,
+    "surface": "bozorchiaring",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "chiar",
+      "ing"
+    ]
+  },
+  {
+    "id": 230,
+    "surface": "bozoradiuvchiilari",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "adiuvchi",
+      "ilari"
+    ]
+  },
+  {
+    "id": 231,
+    "surface": "uyqularida",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "larida"
+    ]
+  },
+  {
+    "id": 232,
+    "surface": "yozo'arim",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "o'ar",
+      "im"
+    ]
+  },
+  {
+    "id": 233,
+    "surface": "ma'noginaingmasuva",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "ginaing",
+      "masuva"
+    ]
+  },
+  {
+    "id": 234,
+    "surface": "yozingiyauvchi-lar",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ingiya",
+      "uvchi-lar"
+    ]
+  },
+  {
+    "id": 235,
+    "surface": "ma'noiyimiz",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "iyimiz"
+    ]
+  },
+  {
+    "id": 236,
+    "surface": "o'qdirmaigamasdirgin",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "dirmai",
+      "gamas",
+      "dirgin"
+    ]
+  },
+  {
+    "id": 237,
+    "surface": "yuraklikimiyorari",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "likimi",
+      "yorari"
+    ]
+  },
+  {
+    "id": 238,
+    "surface": "so'zdiiyi",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "diiyi"
+    ]
+  },
+  {
+    "id": 239,
+    "surface": "uyquchidigindaa",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "chidi",
+      "gindaa"
+    ]
+  },
+  {
+    "id": 240,
+    "surface": "uyyorari",
+    "stem": "uy",
+    "expected_suffixes": [
+      "yorari"
+    ]
+  },
+  {
+    "id": 241,
+    "surface": "so'zmoqdadanadiiadiuvchi",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "moqdadan",
+      "adii",
+      "adiuvchi"
+    ]
+  },
+  {
+    "id": 242,
+    "surface": "tilchi",
+    "stem": "til",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 243,
+    "surface": "yozmaso'ilerimi",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "maso'i",
+      "lerimi"
+    ]
+  },
+  {
+    "id": 244,
+    "surface": "daryouv",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "uv"
+    ]
+  },
+  {
+    "id": 245,
+    "surface": "kitobilari",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "ilari"
+    ]
+  },
+  {
+    "id": 246,
+    "surface": "daryotalikmadendir",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "talik",
+      "ma",
+      "dendir"
+    ]
+  },
+  {
+    "id": 247,
+    "surface": "qalbdanma",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "danma"
+    ]
+  },
+  {
+    "id": 248,
+    "surface": "daryotaima",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "taima"
+    ]
+  },
+  {
+    "id": 249,
+    "surface": "oilaimdiralari",
+    "stem": "oila",
+    "expected_suffixes": [
+      "imdira",
+      "lari"
+    ]
+  },
+  {
+    "id": 250,
+    "surface": "davolerningchi-chio'roqi",
+    "stem": "davo",
+    "expected_suffixes": [
+      "lerning",
+      "chi-chi",
+      "o'roqi"
+    ]
+  },
+  {
+    "id": 251,
+    "surface": "davochauv",
+    "stem": "davo",
+    "expected_suffixes": [
+      "chauv"
+    ]
+  },
+  {
+    "id": 252,
+    "surface": "ma'noingizgamoqdaningma",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "ingiz",
+      "gamoqda",
+      "ningma"
+    ]
+  },
+  {
+    "id": 253,
+    "surface": "qalbdiryormaso'idan",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "diryor",
+      "maso'i",
+      "dan"
+    ]
+  },
+  {
+    "id": 254,
+    "surface": "maktabtaingiychadir",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "taing",
+      "iycha",
+      "dir"
+    ]
+  },
+  {
+    "id": 255,
+    "surface": "ishmaqaiginaadenii",
+    "stem": "ish",
+    "expected_suffixes": [
+      "maqai",
+      "ginaa",
+      "denii"
+    ]
+  },
+  {
+    "id": 256,
+    "surface": "ma'nomaginadiringiz",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "magina",
+      "diringiz"
+    ]
+  },
+  {
+    "id": 257,
+    "surface": "daryoma",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "ma"
+    ]
+  },
+  {
+    "id": 258,
+    "surface": "bozordata",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "data"
+    ]
+  },
+  {
+    "id": 259,
+    "surface": "qalbishning",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "ishning"
+    ]
+  },
+  {
+    "id": 260,
+    "surface": "daryoingginao'iya",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "inggina",
+      "o'iya"
+    ]
+  },
+  {
+    "id": 261,
+    "surface": "o'qo'sai",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "o'sai"
+    ]
+  },
+  {
+    "id": 262,
+    "surface": "oilaisharimtaa",
+    "stem": "oila",
+    "expected_suffixes": [
+      "ishar",
+      "imtaa"
+    ]
+  },
+  {
+    "id": 263,
+    "surface": "qalbingdaaimizta",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "ingdaa",
+      "imizta"
+    ]
+  },
+  {
+    "id": 264,
+    "surface": "ma'novormagan",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "vor",
+      "magan"
+    ]
+  },
+  {
+    "id": 265,
+    "surface": "daryoimo'",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "imo'"
+    ]
+  },
+  {
+    "id": 266,
+    "surface": "tilginalikish",
+    "stem": "til",
+    "expected_suffixes": [
+      "ginalik",
+      "ish"
+    ]
+  },
+  {
+    "id": 267,
+    "surface": "yozliklardaniyi",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "liklar",
+      "daniyi"
+    ]
+  },
+  {
+    "id": 268,
+    "surface": "ishdaingo'sai",
+    "stem": "ish",
+    "expected_suffixes": [
+      "daing",
+      "o'sai"
+    ]
+  },
+  {
+    "id": 269,
+    "surface": "uyqusamoqda",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "samoqda"
+    ]
+  },
+  {
+    "id": 270,
+    "surface": "ishqachiayorningma",
+    "stem": "ish",
+    "expected_suffixes": [
+      "qachia",
+      "yor",
+      "ningma"
+    ]
+  },
+  {
+    "id": 271,
+    "surface": "ishgana",
+    "stem": "ish",
+    "expected_suffixes": [
+      "gana"
+    ]
+  },
+  {
+    "id": 272,
+    "surface": "maktabingiz",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "ingiz"
+    ]
+  },
+  {
+    "id": 273,
+    "surface": "davoimtaaganima",
+    "stem": "davo",
+    "expected_suffixes": [
+      "imtaa",
+      "ganima"
+    ]
+  },
+  {
+    "id": 274,
+    "surface": "yozlergin",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ler",
+      "gin"
+    ]
+  },
+  {
+    "id": 275,
+    "surface": "davoimmagina",
+    "stem": "davo",
+    "expected_suffixes": [
+      "im",
+      "ma",
+      "gina"
+    ]
+  },
+  {
+    "id": 276,
+    "surface": "oiladanimavordia",
+    "stem": "oila",
+    "expected_suffixes": [
+      "danima",
+      "vordia"
+    ]
+  },
+  {
+    "id": 277,
+    "surface": "yozqaingiz",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "qaingiz"
+    ]
+  },
+  {
+    "id": 278,
+    "surface": "so'zmamasi",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "mamasi"
+    ]
+  },
+  {
+    "id": 279,
+    "surface": "maktabtaara",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "taara"
+    ]
+  },
+  {
+    "id": 280,
+    "surface": "so'zdiqaa",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "diqaa"
+    ]
+  },
+  {
+    "id": 281,
+    "surface": "qalbishingginatadana",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "ish",
+      "inggina",
+      "tadana"
+    ]
+  },
+  {
+    "id": 282,
+    "surface": "qalbginachayorlaridirgaa",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "ginacha",
+      "yorlari",
+      "dirgaa"
+    ]
+  },
+  {
+    "id": 283,
+    "surface": "daryochiar",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "chiar"
+    ]
+  },
+  {
+    "id": 284,
+    "surface": "o'qingizmaganimyoragan",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "ingizmagan",
+      "imyora",
+      "gan"
+    ]
+  },
+  {
+    "id": 285,
+    "surface": "yurako'tailari",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "o'ta",
+      "ilari"
+    ]
+  },
+  {
+    "id": 286,
+    "surface": "o'quvchidenii",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "uvchi",
+      "denii"
+    ]
+  },
+  {
+    "id": 287,
+    "surface": "o'qmao'qaingiz",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "mao'",
+      "qaingiz"
+    ]
+  },
+  {
+    "id": 288,
+    "surface": "uyningimizlarimlik",
+    "stem": "uy",
+    "expected_suffixes": [
+      "ningimiz",
+      "lar",
+      "imlik"
+    ]
+  },
+  {
+    "id": 289,
+    "surface": "kitobimyorasainga",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "imyora",
+      "sainga"
+    ]
+  },
+  {
+    "id": 290,
+    "surface": "uydirmaidirma",
+    "stem": "uy",
+    "expected_suffixes": [
+      "dirmai",
+      "dirma"
+    ]
+  },
+  {
+    "id": 291,
+    "surface": "yozsalararayoruvchi",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "sa",
+      "larara",
+      "yoruvchi"
+    ]
+  },
+  {
+    "id": 292,
+    "surface": "davoyora",
+    "stem": "davo",
+    "expected_suffixes": [
+      "yora"
+    ]
+  },
+  {
+    "id": 293,
+    "surface": "kitobvorniiishuvi",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "vornii",
+      "ishuvi"
+    ]
+  },
+  {
+    "id": 294,
+    "surface": "oiladenii",
+    "stem": "oila",
+    "expected_suffixes": [
+      "denii"
+    ]
+  },
+  {
+    "id": 295,
+    "surface": "so'zyortaaniadii",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "yortaa",
+      "niadii"
+    ]
+  },
+  {
+    "id": 296,
+    "surface": "tilmoqdamoqda",
+    "stem": "til",
+    "expected_suffixes": [
+      "moqda",
+      "moqda"
+    ]
+  },
+  {
+    "id": 297,
+    "surface": "ta'limiyma",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "iyma"
+    ]
+  },
+  {
+    "id": 298,
+    "surface": "kitobadi",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "adi"
+    ]
+  },
+  {
+    "id": 299,
+    "surface": "uyquimo'",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "imo'"
+    ]
+  },
+  {
+    "id": 300,
+    "surface": "daryosadirchimagan",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "sadir",
+      "chi",
+      "magan"
+    ]
+  },
+  {
+    "id": 301,
+    "surface": "daryochi",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 302,
+    "surface": "davogaadii",
+    "stem": "davo",
+    "expected_suffixes": [
+      "gaadii"
+    ]
+  },
+  {
+    "id": 303,
+    "surface": "qalbdiro'i",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "diro'i"
+    ]
+  },
+  {
+    "id": 304,
+    "surface": "maktabiy",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "iy"
+    ]
+  },
+  {
+    "id": 305,
+    "surface": "daryolarilarara",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "lari",
+      "larara"
+    ]
+  },
+  {
+    "id": 306,
+    "surface": "tilisainga",
+    "stem": "til",
+    "expected_suffixes": [
+      "i",
+      "sainga"
+    ]
+  },
+  {
+    "id": 307,
+    "surface": "kitobvoro'adalari-(i)sh",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "voro'a",
+      "dalari",
+      "-(i)sh"
+    ]
+  },
+  {
+    "id": 308,
+    "surface": "yozadivora",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "adi",
+      "vora"
+    ]
+  },
+  {
+    "id": 309,
+    "surface": "kitoblikgana",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "lik",
+      "gana"
+    ]
+  },
+  {
+    "id": 310,
+    "surface": "davosamoqdaiyimizchadai",
+    "stem": "davo",
+    "expected_suffixes": [
+      "samoqda",
+      "iyimiz",
+      "chadai"
+    ]
+  },
+  {
+    "id": 311,
+    "surface": "oilaingniing",
+    "stem": "oila",
+    "expected_suffixes": [
+      "ingni",
+      "ing"
+    ]
+  },
+  {
+    "id": 312,
+    "surface": "yurakmavoritaaralari",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "mavori",
+      "taara",
+      "lari"
+    ]
+  },
+  {
+    "id": 313,
+    "surface": "so'zmagina",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "magina"
+    ]
+  },
+  {
+    "id": 314,
+    "surface": "bozorimtai",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "imtai"
+    ]
+  },
+  {
+    "id": 315,
+    "surface": "yoziylariargini",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "iylari",
+      "argini"
+    ]
+  },
+  {
+    "id": 316,
+    "surface": "oilaganarvordainimagan",
+    "stem": "oila",
+    "expected_suffixes": [
+      "ganar",
+      "vordai",
+      "nimagan"
+    ]
+  },
+  {
+    "id": 317,
+    "surface": "ta'limimdaa",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "imdaa"
+    ]
+  },
+  {
+    "id": 318,
+    "surface": "tillik-chiimganiyoruvchi",
+    "stem": "til",
+    "expected_suffixes": [
+      "lik-chi",
+      "imgani",
+      "yoruvchi"
+    ]
+  },
+  {
+    "id": 319,
+    "surface": "qalbtaiyada",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "taiya",
+      "da"
+    ]
+  },
+  {
+    "id": 320,
+    "surface": "qalbgaadiiqagaliklar",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "gaadii",
+      "qaga",
+      "liklar"
+    ]
+  },
+  {
+    "id": 321,
+    "surface": "maktabdasaa",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "dasaa"
+    ]
+  },
+  {
+    "id": 322,
+    "surface": "yuraklarimagan",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "larimagan"
+    ]
+  },
+  {
+    "id": 323,
+    "surface": "o'qlarida",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "larida"
+    ]
+  },
+  {
+    "id": 324,
+    "surface": "kitobchadaiiylari",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "chadai",
+      "iylari"
+    ]
+  },
+  {
+    "id": 325,
+    "surface": "yozqao'i",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "qao'i"
+    ]
+  },
+  {
+    "id": 326,
+    "surface": "qalbiylarilardamasdai",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "iylari",
+      "larda",
+      "masdai"
+    ]
+  },
+  {
+    "id": 327,
+    "surface": "oilamaadi",
+    "stem": "oila",
+    "expected_suffixes": [
+      "maadi"
+    ]
+  },
+  {
+    "id": 328,
+    "surface": "maktabginamaganarichinia",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "ginamagan",
+      "ari",
+      "chinia"
+    ]
+  },
+  {
+    "id": 329,
+    "surface": "yozarganlaradini",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ar",
+      "ganlar",
+      "adini"
+    ]
+  },
+  {
+    "id": 330,
+    "surface": "yurakingni",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "ingni"
+    ]
+  },
+  {
+    "id": 331,
+    "surface": "ta'limiysailarmaa",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "iysai",
+      "larmaa"
+    ]
+  },
+  {
+    "id": 332,
+    "surface": "bozorgadeniginuvi",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "gadeni",
+      "ginuvi"
+    ]
+  },
+  {
+    "id": 333,
+    "surface": "yurakniadiichiniachitai",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "niadii",
+      "chinia",
+      "chitai"
+    ]
+  },
+  {
+    "id": 334,
+    "surface": "kitobuvchi-laradinii",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "uvchi-lar",
+      "adinii"
+    ]
+  },
+  {
+    "id": 335,
+    "surface": "uytamaaginamagangindaa",
+    "stem": "uy",
+    "expected_suffixes": [
+      "tamaa",
+      "ginamagan",
+      "gindaa"
+    ]
+  },
+  {
+    "id": 336,
+    "surface": "oiladandaaimmasi",
+    "stem": "oila",
+    "expected_suffixes": [
+      "dandaa",
+      "immasi"
+    ]
+  },
+  {
+    "id": 337,
+    "surface": "yozish",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ish"
+    ]
+  },
+  {
+    "id": 338,
+    "surface": "qalblerta",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "lerta"
+    ]
+  },
+  {
+    "id": 339,
+    "surface": "kitobo'ganauvchi",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "o'",
+      "gana",
+      "uvchi"
+    ]
+  },
+  {
+    "id": 340,
+    "surface": "maktabdirgaatamaa",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "dirgaa",
+      "tamaa"
+    ]
+  },
+  {
+    "id": 341,
+    "surface": "kitobuvqaa",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "uvqaa"
+    ]
+  },
+  {
+    "id": 342,
+    "surface": "yurakdaniyigadasaa",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "daniyi",
+      "ga",
+      "dasaa"
+    ]
+  },
+  {
+    "id": 343,
+    "surface": "maktabdamoqda",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "damoqda"
+    ]
+  },
+  {
+    "id": 344,
+    "surface": "bozorishuvidagan",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "ishuvi",
+      "dagan"
+    ]
+  },
+  {
+    "id": 345,
+    "surface": "bozorvordia",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "vordia"
+    ]
+  },
+  {
+    "id": 346,
+    "surface": "oiladachai",
+    "stem": "oila",
+    "expected_suffixes": [
+      "dachai"
+    ]
+  },
+  {
+    "id": 347,
+    "surface": "davoningmagantaa",
+    "stem": "davo",
+    "expected_suffixes": [
+      "ningma",
+      "gantaa"
+    ]
+  },
+  {
+    "id": 348,
+    "surface": "uyqulargan",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "largan"
+    ]
+  },
+  {
+    "id": 349,
+    "surface": "ishmagandichinialarichi",
+    "stem": "ish",
+    "expected_suffixes": [
+      "magandi",
+      "chinia",
+      "larichi"
+    ]
+  },
+  {
+    "id": 350,
+    "surface": "qalbgamasiyga",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "gamas",
+      "iyga"
+    ]
+  },
+  {
+    "id": 351,
+    "surface": "davoyoruv",
+    "stem": "davo",
+    "expected_suffixes": [
+      "yoruv"
+    ]
+  },
+  {
+    "id": 352,
+    "surface": "uyquniyoriyorlari",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "niyori",
+      "yorlari"
+    ]
+  },
+  {
+    "id": 353,
+    "surface": "kitobmacha",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "macha"
+    ]
+  },
+  {
+    "id": 354,
+    "surface": "yurakningmagingaa",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "ningma",
+      "gingaa"
+    ]
+  },
+  {
+    "id": 355,
+    "surface": "uyquisai",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "isai"
+    ]
+  },
+  {
+    "id": 356,
+    "surface": "davoingiz",
+    "stem": "davo",
+    "expected_suffixes": [
+      "ingiz"
+    ]
+  },
+  {
+    "id": 357,
+    "surface": "tilo'iyalik",
+    "stem": "til",
+    "expected_suffixes": [
+      "o'iya",
+      "lik"
+    ]
+  },
+  {
+    "id": 358,
+    "surface": "ta'limo'lerimio'iya",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "o'",
+      "lerimi",
+      "o'iya"
+    ]
+  },
+  {
+    "id": 359,
+    "surface": "so'zdirginginaadigaadii",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "dirgin",
+      "ginaadi",
+      "gaadii"
+    ]
+  },
+  {
+    "id": 360,
+    "surface": "uymachalari",
+    "stem": "uy",
+    "expected_suffixes": [
+      "macha",
+      "lari"
+    ]
+  },
+  {
+    "id": 361,
+    "surface": "ta'limqao'ingalartaa",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "qa",
+      "o'inga",
+      "lartaa"
+    ]
+  },
+  {
+    "id": 362,
+    "surface": "yozishyoriy",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ish",
+      "yoriy"
+    ]
+  },
+  {
+    "id": 363,
+    "surface": "qalbginalikdirmai",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "ginalik",
+      "dirmai"
+    ]
+  },
+  {
+    "id": 364,
+    "surface": "ishqaimizmachii",
+    "stem": "ish",
+    "expected_suffixes": [
+      "qaimiz",
+      "machii"
+    ]
+  },
+  {
+    "id": 365,
+    "surface": "qalbchialarida",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "chia",
+      "larida"
+    ]
+  },
+  {
+    "id": 366,
+    "surface": "ma'nolerimiz",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "ler",
+      "imiz"
+    ]
+  },
+  {
+    "id": 367,
+    "surface": "yuraklarimaganvorimdena",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "larimagan",
+      "vor",
+      "imdena"
+    ]
+  },
+  {
+    "id": 368,
+    "surface": "ma'nochadai",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "chadai"
+    ]
+  },
+  {
+    "id": 369,
+    "surface": "uyqudiro'iyoriyadeni",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "diro'i",
+      "yoriya",
+      "deni"
+    ]
+  },
+  {
+    "id": 370,
+    "surface": "maktabingmasmai",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "ing",
+      "masmai"
+    ]
+  },
+  {
+    "id": 371,
+    "surface": "yozuvchi-ning",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "uvchi-ning"
+    ]
+  },
+  {
+    "id": 372,
+    "surface": "bozordiqaa",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "diqaa"
+    ]
+  },
+  {
+    "id": 373,
+    "surface": "oilaishningo'iyavornii",
+    "stem": "oila",
+    "expected_suffixes": [
+      "ishning",
+      "o'iya",
+      "vornii"
+    ]
+  },
+  {
+    "id": 374,
+    "surface": "ma'nomaganlerdirvordai",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "maganler",
+      "dir",
+      "vordai"
+    ]
+  },
+  {
+    "id": 375,
+    "surface": "oilaginaimizginaadi",
+    "stem": "oila",
+    "expected_suffixes": [
+      "ginaimiz",
+      "ginaadi"
+    ]
+  },
+  {
+    "id": 376,
+    "surface": "so'zingyor",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "ingyor"
+    ]
+  },
+  {
+    "id": 377,
+    "surface": "maktabimizvordai",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "imiz",
+      "vordai"
+    ]
+  },
+  {
+    "id": 378,
+    "surface": "oilayorningimyora",
+    "stem": "oila",
+    "expected_suffixes": [
+      "yorning",
+      "imyora"
+    ]
+  },
+  {
+    "id": 379,
+    "surface": "yurakgindatalik",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "ginda",
+      "talik"
+    ]
+  },
+  {
+    "id": 380,
+    "surface": "ishgandiiiymaliki",
+    "stem": "ish",
+    "expected_suffixes": [
+      "gandii",
+      "iyma",
+      "liki"
+    ]
+  },
+  {
+    "id": 381,
+    "surface": "ta'limidan",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "idan"
+    ]
+  },
+  {
+    "id": 382,
+    "surface": "maktabadiyordaishta",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "adi",
+      "yorda",
+      "ishta"
+    ]
+  },
+  {
+    "id": 383,
+    "surface": "bozormaganiycha",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "magan",
+      "iycha"
+    ]
+  },
+  {
+    "id": 384,
+    "surface": "maktabuviyaganalerning",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "uviya",
+      "gana",
+      "lerning"
+    ]
+  },
+  {
+    "id": 385,
+    "surface": "so'ziiynidai",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "i",
+      "iy",
+      "nidai"
+    ]
+  },
+  {
+    "id": 386,
+    "surface": "kitobingish",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "ingish"
+    ]
+  },
+  {
+    "id": 387,
+    "surface": "oiladitaalikdir",
+    "stem": "oila",
+    "expected_suffixes": [
+      "ditaa",
+      "likdir"
+    ]
+  },
+  {
+    "id": 388,
+    "surface": "oilaliklarleringyor",
+    "stem": "oila",
+    "expected_suffixes": [
+      "liklar",
+      "ler",
+      "ingyor"
+    ]
+  },
+  {
+    "id": 389,
+    "surface": "ishginuvimagina",
+    "stem": "ish",
+    "expected_suffixes": [
+      "ginuvi",
+      "magina"
+    ]
+  },
+  {
+    "id": 390,
+    "surface": "uyqudalarichinia",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "dalari",
+      "chinia"
+    ]
+  },
+  {
+    "id": 391,
+    "surface": "oilachauv",
+    "stem": "oila",
+    "expected_suffixes": [
+      "chauv"
+    ]
+  },
+  {
+    "id": 392,
+    "surface": "ishginamagan",
+    "stem": "ish",
+    "expected_suffixes": [
+      "ginamagan"
+    ]
+  },
+  {
+    "id": 393,
+    "surface": "qalbadiimaganler",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "adii",
+      "maganler"
+    ]
+  },
+  {
+    "id": 394,
+    "surface": "oilachi",
+    "stem": "oila",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 395,
+    "surface": "yurakvordai",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "vordai"
+    ]
+  },
+  {
+    "id": 396,
+    "surface": "yuraklero'iya",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "ler",
+      "o'iya"
+    ]
+  },
+  {
+    "id": 397,
+    "surface": "ishimmasilikimichivor",
+    "stem": "ish",
+    "expected_suffixes": [
+      "immasi",
+      "likimi",
+      "chivor"
+    ]
+  },
+  {
+    "id": 398,
+    "surface": "ta'limo'moqdaden",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "o'moqda",
+      "den"
+    ]
+  },
+  {
+    "id": 399,
+    "surface": "ishiyimizgindaa",
+    "stem": "ish",
+    "expected_suffixes": [
+      "iyimiz",
+      "gindaa"
+    ]
+  },
+  {
+    "id": 400,
+    "surface": "tiltaingmagandi",
+    "stem": "til",
+    "expected_suffixes": [
+      "taing",
+      "magandi"
+    ]
+  },
+  {
+    "id": 401,
+    "surface": "yuraktaish",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "taish"
+    ]
+  },
+  {
+    "id": 402,
+    "surface": "uyo'ar",
+    "stem": "uy",
+    "expected_suffixes": [
+      "o'ar"
+    ]
+  },
+  {
+    "id": 403,
+    "surface": "ishdendirganarlergai",
+    "stem": "ish",
+    "expected_suffixes": [
+      "dendir",
+      "ganar",
+      "lergai"
+    ]
+  },
+  {
+    "id": 404,
+    "surface": "uyquyordiga",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "yor",
+      "diga"
+    ]
+  },
+  {
+    "id": 405,
+    "surface": "maktabvordauvi",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "vorda",
+      "uvi"
+    ]
+  },
+  {
+    "id": 406,
+    "surface": "tillariyor",
+    "stem": "til",
+    "expected_suffixes": [
+      "lariyor"
+    ]
+  },
+  {
+    "id": 407,
+    "surface": "daryoleryor",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "leryor"
+    ]
+  },
+  {
+    "id": 408,
+    "surface": "uyquleriminiadii",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "lerimi",
+      "niadii"
+    ]
+  },
+  {
+    "id": 409,
+    "surface": "uyginaao'ning",
+    "stem": "uy",
+    "expected_suffixes": [
+      "ginaa",
+      "o'ning"
+    ]
+  },
+  {
+    "id": 410,
+    "surface": "yurakgandiayorari",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "gandia",
+      "yorari"
+    ]
+  },
+  {
+    "id": 411,
+    "surface": "uyingizda",
+    "stem": "uy",
+    "expected_suffixes": [
+      "ingizda"
+    ]
+  },
+  {
+    "id": 412,
+    "surface": "yozor",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "or"
+    ]
+  },
+  {
+    "id": 413,
+    "surface": "o'qgantaayoriymasdai",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "gantaa",
+      "yoriy",
+      "masdai"
+    ]
+  },
+  {
+    "id": 414,
+    "surface": "daryoish",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "ish"
+    ]
+  },
+  {
+    "id": 415,
+    "surface": "daryolaridiqaa",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "lari",
+      "diqaa"
+    ]
+  },
+  {
+    "id": 416,
+    "surface": "davodata",
+    "stem": "davo",
+    "expected_suffixes": [
+      "data"
+    ]
+  },
+  {
+    "id": 417,
+    "surface": "bozormasaa",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "masaa"
+    ]
+  },
+  {
+    "id": 418,
+    "surface": "so'zorivordai",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "ori",
+      "vordai"
+    ]
+  },
+  {
+    "id": 419,
+    "surface": "kitobvorda",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "vorda"
+    ]
+  },
+  {
+    "id": 420,
+    "surface": "ta'limning",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "ning"
+    ]
+  },
+  {
+    "id": 421,
+    "surface": "oiladandaavordamasai",
+    "stem": "oila",
+    "expected_suffixes": [
+      "dandaa",
+      "vorda",
+      "masai"
+    ]
+  },
+  {
+    "id": 422,
+    "surface": "bozoringiz",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "ingiz"
+    ]
+  },
+  {
+    "id": 423,
+    "surface": "yozmauvqaa",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ma",
+      "uvqaa"
+    ]
+  },
+  {
+    "id": 424,
+    "surface": "uyyorari",
+    "stem": "uy",
+    "expected_suffixes": [
+      "yorari"
+    ]
+  },
+  {
+    "id": 425,
+    "surface": "bozorishima",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "ishima"
+    ]
+  },
+  {
+    "id": 426,
+    "surface": "uylariii",
+    "stem": "uy",
+    "expected_suffixes": [
+      "lariii"
+    ]
+  },
+  {
+    "id": 427,
+    "surface": "o'qyortaadiryoryorning",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "yortaa",
+      "diryor",
+      "yorning"
+    ]
+  },
+  {
+    "id": 428,
+    "surface": "davotaing",
+    "stem": "davo",
+    "expected_suffixes": [
+      "taing"
+    ]
+  },
+  {
+    "id": 429,
+    "surface": "o'qingniyor",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "ingni",
+      "yor"
+    ]
+  },
+  {
+    "id": 430,
+    "surface": "so'zleryoriycha",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "leryor",
+      "iycha"
+    ]
+  },
+  {
+    "id": 431,
+    "surface": "tillarroqimuvchi",
+    "stem": "til",
+    "expected_suffixes": [
+      "larroq",
+      "imuvchi"
+    ]
+  },
+  {
+    "id": 432,
+    "surface": "ta'limiygaqaler",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "iyga",
+      "qaler"
+    ]
+  },
+  {
+    "id": 433,
+    "surface": "ma'nodanlariyor",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "dan",
+      "lariyor"
+    ]
+  },
+  {
+    "id": 434,
+    "surface": "daryoginuvchi-ning",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "gin",
+      "uvchi-ning"
+    ]
+  },
+  {
+    "id": 435,
+    "surface": "maktabnilaruva",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "ni",
+      "laruva"
+    ]
+  },
+  {
+    "id": 436,
+    "surface": "ishyoruv",
+    "stem": "ish",
+    "expected_suffixes": [
+      "yoruv"
+    ]
+  },
+  {
+    "id": 437,
+    "surface": "kitobmaganimdana",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "magan",
+      "imdana"
+    ]
+  },
+  {
+    "id": 438,
+    "surface": "qalbchadaiimvori",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "chadai",
+      "imvori"
+    ]
+  },
+  {
+    "id": 439,
+    "surface": "uyqulari",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "lari"
+    ]
+  },
+  {
+    "id": 440,
+    "surface": "tildalarigagini",
+    "stem": "til",
+    "expected_suffixes": [
+      "dalari",
+      "gagini"
+    ]
+  },
+  {
+    "id": 441,
+    "surface": "uyadiroqchiish",
+    "stem": "uy",
+    "expected_suffixes": [
+      "adiroq",
+      "chiish"
+    ]
+  },
+  {
+    "id": 442,
+    "surface": "ma'nouvchilergai",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "uvchi",
+      "lergai"
+    ]
+  },
+  {
+    "id": 443,
+    "surface": "yozlariuvchi",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "lari",
+      "uvchi"
+    ]
+  },
+  {
+    "id": 444,
+    "surface": "yozningga",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ning",
+      "ga"
+    ]
+  },
+  {
+    "id": 445,
+    "surface": "bozorishimadaginaa",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "ishima",
+      "da",
+      "ginaa"
+    ]
+  },
+  {
+    "id": 446,
+    "surface": "kitobingizyora",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "ingiz",
+      "yora"
+    ]
+  },
+  {
+    "id": 447,
+    "surface": "qalbleryorning",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "leryor",
+      "ning"
+    ]
+  },
+  {
+    "id": 448,
+    "surface": "uyquyoro'i",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "yoro'i"
+    ]
+  },
+  {
+    "id": 449,
+    "surface": "yuraklergaiga",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "lergai",
+      "ga"
+    ]
+  },
+  {
+    "id": 450,
+    "surface": "uyquganarlaruva",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "ganar",
+      "laruva"
+    ]
+  },
+  {
+    "id": 451,
+    "surface": "kitobtaarao'chia",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "taara",
+      "o'chia"
+    ]
+  },
+  {
+    "id": 452,
+    "surface": "qalbnimaganchima",
+    "stem": "qalb",
+    "expected_suffixes": [
+      "nimagan",
+      "chima"
+    ]
+  },
+  {
+    "id": 453,
+    "surface": "uychiardi",
+    "stem": "uy",
+    "expected_suffixes": [
+      "chiar",
+      "di"
+    ]
+  },
+  {
+    "id": 454,
+    "surface": "o'qginama-chi",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "gina",
+      "ma-chi"
+    ]
+  },
+  {
+    "id": 455,
+    "surface": "ishnimaganlariiidensai",
+    "stem": "ish",
+    "expected_suffixes": [
+      "nimagan",
+      "lariii",
+      "densai"
+    ]
+  },
+  {
+    "id": 456,
+    "surface": "yozchidiisaivordia",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "chidi",
+      "isai",
+      "vordia"
+    ]
+  },
+  {
+    "id": 457,
+    "surface": "kitobningmaishuvi",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "ningma",
+      "ishuvi"
+    ]
+  },
+  {
+    "id": 458,
+    "surface": "ta'limchadai",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "chadai"
+    ]
+  },
+  {
+    "id": 459,
+    "surface": "uyyorningma",
+    "stem": "uy",
+    "expected_suffixes": [
+      "yorning",
+      "ma"
+    ]
+  },
+  {
+    "id": 460,
+    "surface": "tilsamoqdaishuvi",
+    "stem": "til",
+    "expected_suffixes": [
+      "samoqda",
+      "ishuvi"
+    ]
+  },
+  {
+    "id": 461,
+    "surface": "ishgadira",
+    "stem": "ish",
+    "expected_suffixes": [
+      "gadira"
+    ]
+  },
+  {
+    "id": 462,
+    "surface": "kitobdiryordasaa",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "diryor",
+      "dasaa"
+    ]
+  },
+  {
+    "id": 463,
+    "surface": "tiladiroqdirmai",
+    "stem": "til",
+    "expected_suffixes": [
+      "adiroq",
+      "dirmai"
+    ]
+  },
+  {
+    "id": 464,
+    "surface": "o'qniyori",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "niyori"
+    ]
+  },
+  {
+    "id": 465,
+    "surface": "uyquing",
+    "stem": "uyqu",
+    "expected_suffixes": [
+      "ing"
+    ]
+  },
+  {
+    "id": 466,
+    "surface": "yurakni",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "ni"
+    ]
+  },
+  {
+    "id": 467,
+    "surface": "oilayoruvchiingish",
+    "stem": "oila",
+    "expected_suffixes": [
+      "yoruvchi",
+      "ingish"
+    ]
+  },
+  {
+    "id": 468,
+    "surface": "davoinggina",
+    "stem": "davo",
+    "expected_suffixes": [
+      "inggina"
+    ]
+  },
+  {
+    "id": 469,
+    "surface": "kitobarimtai",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "ar",
+      "imtai"
+    ]
+  },
+  {
+    "id": 470,
+    "surface": "tiliysai",
+    "stem": "til",
+    "expected_suffixes": [
+      "iysai"
+    ]
+  },
+  {
+    "id": 471,
+    "surface": "kitobdiadiiyorda",
+    "stem": "kitob",
+    "expected_suffixes": [
+      "diadii",
+      "yorda"
+    ]
+  },
+  {
+    "id": 472,
+    "surface": "bozorqaimiz",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "qaimiz"
+    ]
+  },
+  {
+    "id": 473,
+    "surface": "maktablerta",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "lerta"
+    ]
+  },
+  {
+    "id": 474,
+    "surface": "daryoish",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "ish"
+    ]
+  },
+  {
+    "id": 475,
+    "surface": "yozganmai",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ganmai"
+    ]
+  },
+  {
+    "id": 476,
+    "surface": "ma'noingizmaganningimiztamas",
+    "stem": "ma'no",
+    "expected_suffixes": [
+      "ingizmagan",
+      "ningimiz",
+      "tamas"
+    ]
+  },
+  {
+    "id": 477,
+    "surface": "tilyoradiroq",
+    "stem": "til",
+    "expected_suffixes": [
+      "yor",
+      "adiroq"
+    ]
+  },
+  {
+    "id": 478,
+    "surface": "tilyoro'i",
+    "stem": "til",
+    "expected_suffixes": [
+      "yoro'i"
+    ]
+  },
+  {
+    "id": 479,
+    "surface": "uygadira",
+    "stem": "uy",
+    "expected_suffixes": [
+      "gadira"
+    ]
+  },
+  {
+    "id": 480,
+    "surface": "daryomagandenorimuvchi",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "maganden",
+      "or",
+      "imuvchi"
+    ]
+  },
+  {
+    "id": 481,
+    "surface": "bozoryorlarimadasaa",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "yorlari",
+      "ma",
+      "dasaa"
+    ]
+  },
+  {
+    "id": 482,
+    "surface": "yozarishdii",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "ar",
+      "ishdii"
+    ]
+  },
+  {
+    "id": 483,
+    "surface": "yozdamoqda",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "damoqda"
+    ]
+  },
+  {
+    "id": 484,
+    "surface": "oilamagandenlartaa",
+    "stem": "oila",
+    "expected_suffixes": [
+      "maganden",
+      "lartaa"
+    ]
+  },
+  {
+    "id": 485,
+    "surface": "maktablerta",
+    "stem": "maktab",
+    "expected_suffixes": [
+      "lerta"
+    ]
+  },
+  {
+    "id": 486,
+    "surface": "uygamaslariii",
+    "stem": "uy",
+    "expected_suffixes": [
+      "gamas",
+      "lariii"
+    ]
+  },
+  {
+    "id": 487,
+    "surface": "yurakniimizta",
+    "stem": "yurak",
+    "expected_suffixes": [
+      "ni",
+      "imizta"
+    ]
+  },
+  {
+    "id": 488,
+    "surface": "uyo'ta",
+    "stem": "uy",
+    "expected_suffixes": [
+      "o'ta"
+    ]
+  },
+  {
+    "id": 489,
+    "surface": "daryomaschiuvgana",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "mas",
+      "chi",
+      "uvgana"
+    ]
+  },
+  {
+    "id": 490,
+    "surface": "yozleriida",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "lerii",
+      "da"
+    ]
+  },
+  {
+    "id": 491,
+    "surface": "ta'limqaimiz",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "qaimiz"
+    ]
+  },
+  {
+    "id": 492,
+    "surface": "yozimganiadidaaginaa",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "imgani",
+      "adidaa",
+      "ginaa"
+    ]
+  },
+  {
+    "id": 493,
+    "surface": "so'zari",
+    "stem": "so'z",
+    "expected_suffixes": [
+      "ari"
+    ]
+  },
+  {
+    "id": 494,
+    "surface": "daryochiarimizta",
+    "stem": "daryo",
+    "expected_suffixes": [
+      "chiar",
+      "imizta"
+    ]
+  },
+  {
+    "id": 495,
+    "surface": "tilmaadi",
+    "stem": "til",
+    "expected_suffixes": [
+      "maadi"
+    ]
+  },
+  {
+    "id": 496,
+    "surface": "bozormalara",
+    "stem": "bozor",
+    "expected_suffixes": [
+      "malara"
+    ]
+  },
+  {
+    "id": 497,
+    "surface": "ta'limma-chitadana",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "ma-chi",
+      "tadana"
+    ]
+  },
+  {
+    "id": 498,
+    "surface": "o'qginao'ar",
+    "stem": "o'q",
+    "expected_suffixes": [
+      "gina",
+      "o'ar"
+    ]
+  },
+  {
+    "id": 499,
+    "surface": "yozqasaao'ning",
+    "stem": "yoz",
+    "expected_suffixes": [
+      "qasaa",
+      "o'ning"
+    ]
+  },
+  {
+    "id": 500,
+    "surface": "ta'limdachai",
+    "stem": "ta'lim",
+    "expected_suffixes": [
+      "dachai"
+    ]
+  }
+]

@@ -1,0 +1,5598 @@
+[
+  {
+    "word": "daryouvdeniingish",
+    "expected": [
+      "uvdeni",
+      "ingish"
+    ],
+    "predicted": [
+      "ni",
+      "ing",
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ma'nolariyoro'",
+    "expected": [
+      "lariyor",
+      "o'"
+    ],
+    "predicted": [
+      "lari",
+      "yor",
+      "o'"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyquqaimizishvortaara",
+    "expected": [
+      "qaimiz",
+      "ishvor",
+      "taara"
+    ],
+    "predicted": [
+      "qa",
+      "imiz",
+      "ish",
+      "vor",
+      "taara"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "daryochadichi",
+    "expected": [
+      "cha",
+      "dichi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qdiga",
+    "expected": [
+      "diga"
+    ],
+    "predicted": [
+      "i",
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ishadiniitadan",
+    "expected": [
+      "adinii",
+      "tadan"
+    ],
+    "predicted": [
+      "dan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'zdaningyor",
+    "expected": [
+      "dan",
+      "ingyor"
+    ],
+    "predicted": [
+      "dan",
+      "ing",
+      "yor"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "o'qadiniiyma",
+    "expected": [
+      "adini",
+      "iyma"
+    ],
+    "predicted": [
+      "i",
+      "iy",
+      "ma"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "maktabmaganden",
+    "expected": [
+      "maganden"
+    ],
+    "predicted": [
+      "magan",
+      "den"
+    ],
+    "rank": 1,
+    "score": 0.48,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryodiringiz",
+    "expected": [
+      "diringiz"
+    ],
+    "predicted": [
+      "dir",
+      "ingiz"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyo'gindaamaler",
+    "expected": [
+      "o'",
+      "gindaa",
+      "maler"
+    ],
+    "predicted": [
+      "o'",
+      "gindaa",
+      "ma",
+      "ler"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "daryoningadi",
+    "expected": [
+      "ning",
+      "adi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozordatadeni",
+    "expected": [
+      "data",
+      "deni"
+    ],
+    "predicted": [
+      "ni"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozormalaraarler",
+    "expected": [
+      "malara",
+      "ar",
+      "ler"
+    ],
+    "predicted": [
+      "or",
+      "malara",
+      "ar",
+      "ler"
+    ],
+    "rank": 1,
+    "score": 0.2871,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "kitobingizda",
+    "expected": [
+      "ingizda"
+    ],
+    "predicted": [
+      "ingiz",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ishyorning",
+    "expected": [
+      "yorning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryotamagan",
+    "expected": [
+      "tamagan"
+    ],
+    "predicted": [
+      "magan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ta'limmachiiginacha",
+    "expected": [
+      "machii",
+      "ginacha"
+    ],
+    "predicted": [
+      "i",
+      "i",
+      "gina",
+      "cha"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozganlaryoro'i",
+    "expected": [
+      "ganlar",
+      "yoro'i"
+    ],
+    "predicted": [
+      "ar",
+      "yor",
+      "o'",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ma'noiyga",
+    "expected": [
+      "iyga"
+    ],
+    "predicted": [
+      "iy",
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "bozorlikmasaaimdaa",
+    "expected": [
+      "lik",
+      "masaa",
+      "imdaa"
+    ],
+    "predicted": [
+      "or",
+      "lik",
+      "masaa",
+      "imdaa"
+    ],
+    "rank": 1,
+    "score": 0.3234,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "maktabimleryoro'ta",
+    "expected": [
+      "im",
+      "leryor",
+      "o'ta"
+    ],
+    "predicted": [
+      "im",
+      "ler",
+      "yor",
+      "o'ta"
+    ],
+    "rank": 1,
+    "score": 0.17,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "daryoniingiz",
+    "expected": [
+      "niingiz"
+    ],
+    "predicted": [
+      "i",
+      "ingiz"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilachaqa",
+    "expected": [
+      "chaqa"
+    ],
+    "predicted": [
+      "cha",
+      "qa"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "qalbtaishginauvchi",
+    "expected": [
+      "taish",
+      "gina",
+      "uvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ma'nodatao'roqilerning",
+    "expected": [
+      "data",
+      "o'roqi",
+      "lerning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yurakchi",
+    "expected": [
+      "chi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tilarginiqaingizgingaa",
+    "expected": [
+      "argini",
+      "qaingiz",
+      "gingaa"
+    ],
+    "predicted": [
+      "argini",
+      "qa",
+      "ingiz",
+      "gingaa"
+    ],
+    "rank": 1,
+    "score": 0.485,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ishgamasai",
+    "expected": [
+      "ga",
+      "masai"
+    ],
+    "predicted": [
+      "ga",
+      "ma",
+      "sa",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "o'qingizim",
+    "expected": [
+      "ingizim"
+    ],
+    "predicted": [
+      "ingiz",
+      "im"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ta'limari",
+    "expected": [
+      "ari"
+    ],
+    "predicted": [
+      "im",
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "maktabmaganler",
+    "expected": [
+      "maganler"
+    ],
+    "predicted": [
+      "magan",
+      "ler"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyiyimiz",
+    "expected": [
+      "iyimiz"
+    ],
+    "predicted": [
+      "iy",
+      "imiz"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "uyilariroqmoqda",
+    "expected": [
+      "ilari",
+      "roqmoqda"
+    ],
+    "predicted": [
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "davomoqdadan",
+    "expected": [
+      "moqdadan"
+    ],
+    "predicted": [
+      "da",
+      "dan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yurakdirishning",
+    "expected": [
+      "dir",
+      "ishning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "qalbliklariymao'ta",
+    "expected": [
+      "liklar",
+      "iyma",
+      "o'ta"
+    ],
+    "predicted": [
+      "ar",
+      "iy",
+      "ma",
+      "o'ta"
+    ],
+    "rank": 1,
+    "score": 0.17,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ta'limo'moqdauvdeni",
+    "expected": [
+      "o'moqda",
+      "uvdeni"
+    ],
+    "predicted": [
+      "ni"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "qalbiyimiz",
+    "expected": [
+      "iyimiz"
+    ],
+    "predicted": [
+      "iy",
+      "imiz"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "tilleryoryor",
+    "expected": [
+      "leryor",
+      "yor"
+    ],
+    "predicted": [
+      "ler",
+      "yor",
+      "yor"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "tilormachii",
+    "expected": [
+      "or",
+      "machii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozoruvganachiish",
+    "expected": [
+      "uvgana",
+      "chiish"
+    ],
+    "predicted": [
+      "i",
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'zlarnimagan",
+    "expected": [
+      "lar",
+      "nimagan"
+    ],
+    "predicted": [
+      "i",
+      "magan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozvordaiari",
+    "expected": [
+      "vordai",
+      "ari"
+    ],
+    "predicted": [
+      "vordai",
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "davouvqaalarroq",
+    "expected": [
+      "uvqaa",
+      "larroq"
+    ],
+    "predicted": [
+      "ar",
+      "roq"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "davogamagindaa",
+    "expected": [
+      "gama",
+      "gindaa"
+    ],
+    "predicted": [
+      "ga",
+      "ma",
+      "gindaa"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ma'noninguvchimamasi",
+    "expected": [
+      "ninguvchi",
+      "mamasi"
+    ],
+    "predicted": [
+      "i",
+      "ma",
+      "mas",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ishnimaganishimalarimagan",
+    "expected": [
+      "nimagan",
+      "ishima",
+      "larimagan"
+    ],
+    "predicted": [
+      "ar",
+      "i",
+      "magan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryoingginaar",
+    "expected": [
+      "inggina",
+      "ar"
+    ],
+    "predicted": [
+      "ing",
+      "gina",
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yurakgachiish",
+    "expected": [
+      "ga",
+      "chiish"
+    ],
+    "predicted": [
+      "i",
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "maktabimdendaganginalik",
+    "expected": [
+      "imden",
+      "dagan",
+      "ginalik"
+    ],
+    "predicted": [
+      "im",
+      "den",
+      "da",
+      "gan",
+      "gina",
+      "lik"
+    ],
+    "rank": 1,
+    "score": 0.48,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "maktabmaginachiing",
+    "expected": [
+      "magina",
+      "chi",
+      "ing"
+    ],
+    "predicted": [
+      "i",
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tilingizdaimdena",
+    "expected": [
+      "ingizda",
+      "imdena"
+    ],
+    "predicted": [
+      "ingiz",
+      "da",
+      "imdena"
+    ],
+    "rank": 1,
+    "score": 0.92,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ta'limmaso'i",
+    "expected": [
+      "maso'i"
+    ],
+    "predicted": [
+      "im",
+      "maso'i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oilayoruvchi",
+    "expected": [
+      "yoruvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "davogindaingdaa",
+    "expected": [
+      "ginda",
+      "ingdaa"
+    ],
+    "predicted": [
+      "gin",
+      "da",
+      "ingdaa"
+    ],
+    "rank": 1,
+    "score": 0.38,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "bozormalararoqmoqda",
+    "expected": [
+      "malara",
+      "roqmoqda"
+    ],
+    "predicted": [
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ma'nochadaio'iyaliklar",
+    "expected": [
+      "chadai",
+      "o'iya",
+      "liklar"
+    ],
+    "predicted": [
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qchachidi",
+    "expected": [
+      "cha",
+      "chidi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limadiniroqmoqda",
+    "expected": [
+      "adini",
+      "roqmoqda"
+    ],
+    "predicted": [
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "tiladilarichi",
+    "expected": [
+      "adi",
+      "larichi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "daryomoqdadan",
+    "expected": [
+      "moqdadan"
+    ],
+    "predicted": [
+      "da",
+      "dan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "tilniyorima",
+    "expected": [
+      "niyori",
+      "ma"
+    ],
+    "predicted": [
+      "iy",
+      "ori",
+      "ma"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyyoriyaisailor",
+    "expected": [
+      "yoriya",
+      "isai",
+      "lor"
+    ],
+    "predicted": [
+      "or"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ishning",
+    "expected": [
+      "ning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'zchiishgaadiidamoqda",
+    "expected": [
+      "chiish",
+      "gaadii",
+      "damoqda"
+    ],
+    "predicted": [
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozadiniigamas",
+    "expected": [
+      "adinii",
+      "gamas"
+    ],
+    "predicted": [
+      "adinii",
+      "ga",
+      "mas"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "qalbganmai",
+    "expected": [
+      "ganmai"
+    ],
+    "predicted": [
+      "gan",
+      "ma",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "oiladiadii",
+    "expected": [
+      "diadii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozorvorniigantaa",
+    "expected": [
+      "vornii",
+      "gantaa"
+    ],
+    "predicted": [
+      "i",
+      "i",
+      "gantaa"
+    ],
+    "rank": 1,
+    "score": 0.8,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozoro'inga",
+    "expected": [
+      "o'inga"
+    ],
+    "predicted": [
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qliko'ar",
+    "expected": [
+      "lik",
+      "o'ar"
+    ],
+    "predicted": [
+      "lik",
+      "o'",
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "davomasuvavordaiadiroq",
+    "expected": [
+      "masuva",
+      "vordai",
+      "adiroq"
+    ],
+    "predicted": [
+      "i",
+      "roq"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "qalbsaingalar",
+    "expected": [
+      "sainga",
+      "lar"
+    ],
+    "predicted": [
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "davodeni",
+    "expected": [
+      "deni"
+    ],
+    "predicted": [
+      "ni"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limditaalariyor",
+    "expected": [
+      "ditaa",
+      "lariyor"
+    ],
+    "predicted": [
+      "ar",
+      "i",
+      "yor"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryoninguvchi",
+    "expected": [
+      "ninguvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "o'qdirmaingizimginaa",
+    "expected": [
+      "dirma",
+      "ingizim",
+      "ginaa"
+    ],
+    "predicted": [
+      "dir",
+      "ma",
+      "ingiz",
+      "im",
+      "ginaa"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "bozordiruvadichini",
+    "expected": [
+      "diruva",
+      "dichi",
+      "ni"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ishdaingnidir",
+    "expected": [
+      "daing",
+      "nidir"
+    ],
+    "predicted": [
+      "i",
+      "dir"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilaingniadii",
+    "expected": [
+      "ing",
+      "niadii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ma'noginaginaadi",
+    "expected": [
+      "gina",
+      "ginaadi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozyoruvniyori",
+    "expected": [
+      "yoruv",
+      "niyori"
+    ],
+    "predicted": [
+      "iy",
+      "ori"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyquingniyortaa",
+    "expected": [
+      "ingni",
+      "yortaa"
+    ],
+    "predicted": [
+      "i",
+      "yortaa"
+    ],
+    "rank": 1,
+    "score": 0.96,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oilaqao'ivordao'",
+    "expected": [
+      "qao'i",
+      "vorda",
+      "o'"
+    ],
+    "predicted": [
+      "qao'i",
+      "vor",
+      "da",
+      "o'"
+    ],
+    "rank": 1,
+    "score": 0.81,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "o'qidanqaler",
+    "expected": [
+      "idan",
+      "qaler"
+    ],
+    "predicted": [
+      "i",
+      "dan",
+      "qa",
+      "ler"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ma'noo'ingagantaa",
+    "expected": [
+      "o'inga",
+      "gantaa"
+    ],
+    "predicted": [
+      "ga",
+      "gantaa"
+    ],
+    "rank": 1,
+    "score": 0.8,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limariuvchii",
+    "expected": [
+      "ari",
+      "uvchii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qchivorqaler",
+    "expected": [
+      "chivor",
+      "qaler"
+    ],
+    "predicted": [
+      "i",
+      "vor",
+      "qa",
+      "ler"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ta'limo'chiachi",
+    "expected": [
+      "o'chia",
+      "chi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tilmasaiimizta",
+    "expected": [
+      "masai",
+      "imizta"
+    ],
+    "predicted": [
+      "ma",
+      "sa",
+      "i",
+      "imizta"
+    ],
+    "rank": 1,
+    "score": 0.31,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "bozoruv",
+    "expected": [
+      "uv"
+    ],
+    "predicted": [
+      "or",
+      "uv"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "kitobliklarimmasi",
+    "expected": [
+      "liklar",
+      "immasi"
+    ],
+    "predicted": [
+      "ar",
+      "immasi"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tilo'ningdalari",
+    "expected": [
+      "o'ning",
+      "dalari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilataimagin",
+    "expected": [
+      "taima",
+      "gin"
+    ],
+    "predicted": [
+      "i",
+      "ma",
+      "gin"
+    ],
+    "rank": 1,
+    "score": 0.38,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'ziishilari",
+    "expected": [
+      "iishi",
+      "lari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "maktablor",
+    "expected": [
+      "lor"
+    ],
+    "predicted": [
+      "or"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "davoginaingingdaaning",
+    "expected": [
+      "ginaing",
+      "ingdaa",
+      "ning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyningmaginao'chia",
+    "expected": [
+      "ning",
+      "magina",
+      "o'chia"
+    ],
+    "predicted": [
+      "ing",
+      "magina",
+      "o'chia"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ma'notaiyaimdir",
+    "expected": [
+      "taiya",
+      "imdir"
+    ],
+    "predicted": [
+      "taiya",
+      "im",
+      "dir"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "tiluvdenita",
+    "expected": [
+      "uvdeni",
+      "ta"
+    ],
+    "predicted": [],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyquliklaruvchilar",
+    "expected": [
+      "liklar",
+      "uvchilar"
+    ],
+    "predicted": [
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "qalbiylariari",
+    "expected": [
+      "iylari",
+      "ari"
+    ],
+    "predicted": [
+      "ar",
+      "i",
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozorginada",
+    "expected": [
+      "ginada"
+    ],
+    "predicted": [
+      "or",
+      "gina",
+      "da"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "daryotaimatamaganargini",
+    "expected": [
+      "taima",
+      "tamagan",
+      "argini"
+    ],
+    "predicted": [
+      "i",
+      "ni"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyquchauvi",
+    "expected": [
+      "cha",
+      "uvi"
+    ],
+    "predicted": [
+      "cha",
+      "uv",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ta'limganmaidensai",
+    "expected": [
+      "ganmai",
+      "densai"
+    ],
+    "predicted": [
+      "im",
+      "gan",
+      "ma",
+      "i",
+      "densai"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qdanvordi",
+    "expected": [
+      "dan",
+      "vor",
+      "di"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qchi",
+    "expected": [
+      "chi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ma'noishtaningda",
+    "expected": [
+      "ishta",
+      "ningda"
+    ],
+    "predicted": [
+      "ing",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "tilo'roqita",
+    "expected": [
+      "o'roqi",
+      "ta"
+    ],
+    "predicted": [],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yurakingmachii",
+    "expected": [
+      "ing",
+      "machii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "kitobqasaagindaler",
+    "expected": [
+      "qasaa",
+      "ginda",
+      "ler"
+    ],
+    "predicted": [
+      "qasaa",
+      "gin",
+      "da",
+      "ler"
+    ],
+    "rank": 1,
+    "score": 0.3116,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilaiyarimaqai",
+    "expected": [
+      "iy",
+      "ari",
+      "maqai"
+    ],
+    "predicted": [
+      "iy",
+      "ar",
+      "i",
+      "maqai"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "daryoishtaniamaler",
+    "expected": [
+      "ishta",
+      "nia",
+      "maler"
+    ],
+    "predicted": [
+      "ishta",
+      "nia",
+      "ma",
+      "ler"
+    ],
+    "rank": 1,
+    "score": 0.17,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ta'limdiringizyoruv",
+    "expected": [
+      "diringiz",
+      "yoruv"
+    ],
+    "predicted": [
+      "im",
+      "dir",
+      "ingiz",
+      "yor",
+      "uv"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "so'zuvchi-ningmoqda",
+    "expected": [
+      "uvchi-ning",
+      "moqda"
+    ],
+    "predicted": [
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'zuviyadiadii",
+    "expected": [
+      "uviya",
+      "diadii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limganmai",
+    "expected": [
+      "ganmai"
+    ],
+    "predicted": [
+      "im",
+      "gan",
+      "ma",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limginaadi",
+    "expected": [
+      "ginaadi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "davouvchi",
+    "expected": [
+      "uvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oilaqaingiz",
+    "expected": [
+      "qaingiz"
+    ],
+    "predicted": [
+      "qa",
+      "ingiz"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ma'nogindaniroq",
+    "expected": [
+      "ginda",
+      "ni",
+      "roq"
+    ],
+    "predicted": [
+      "gin",
+      "dan",
+      "i",
+      "roq"
+    ],
+    "rank": 1,
+    "score": 0.38,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "kitobchidilertaliklar",
+    "expected": [
+      "chidi",
+      "lerta",
+      "liklar"
+    ],
+    "predicted": [
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'zdaingma-chilarroq",
+    "expected": [
+      "daing",
+      "ma-chi",
+      "larroq"
+    ],
+    "predicted": [
+      "ar",
+      "roq"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozdaroqlikdir",
+    "expected": [
+      "da",
+      "roqlik",
+      "dir"
+    ],
+    "predicted": [
+      "da",
+      "roq",
+      "lik",
+      "dir"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "uyquqamagandiisai",
+    "expected": [
+      "qa",
+      "magandi",
+      "isai"
+    ],
+    "predicted": [
+      "i",
+      "isai"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ma'nolariiiimtai",
+    "expected": [
+      "lariii",
+      "imtai"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozorlik-chiimdira",
+    "expected": [
+      "lik-chi",
+      "imdira"
+    ],
+    "predicted": [
+      "i",
+      "imdira"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limleryormaganden",
+    "expected": [
+      "leryor",
+      "maganden"
+    ],
+    "predicted": [
+      "im",
+      "ler",
+      "yor",
+      "magan",
+      "den"
+    ],
+    "rank": 1,
+    "score": 0.48,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryoo'ganga",
+    "expected": [
+      "o'gan",
+      "ga"
+    ],
+    "predicted": [
+      "o'",
+      "gan",
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "tilniingizcha",
+    "expected": [
+      "niingiz",
+      "cha"
+    ],
+    "predicted": [
+      "i",
+      "ingiz",
+      "cha"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "qalbyoro'iimizii",
+    "expected": [
+      "yoro'i",
+      "imizii"
+    ],
+    "predicted": [
+      "yor",
+      "o'",
+      "i",
+      "imiz",
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ta'limtaishniga",
+    "expected": [
+      "taish",
+      "ni",
+      "ga"
+    ],
+    "predicted": [
+      "i",
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "o'qqaingizimmasiimiz",
+    "expected": [
+      "qaingiz",
+      "immasi",
+      "imiz"
+    ],
+    "predicted": [
+      "qa",
+      "ingiz",
+      "immasi",
+      "imiz"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "davoingizda",
+    "expected": [
+      "ingizda"
+    ],
+    "predicted": [
+      "ingiz",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "o'qimyoranimagan",
+    "expected": [
+      "imyora",
+      "nimagan"
+    ],
+    "predicted": [
+      "i",
+      "magan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ma'noingizdaliklar",
+    "expected": [
+      "ingizda",
+      "liklar"
+    ],
+    "predicted": [
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yurakdanmadeni",
+    "expected": [
+      "danma",
+      "deni"
+    ],
+    "predicted": [
+      "ni"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ishginaaingni",
+    "expected": [
+      "ginaa",
+      "ingni"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "daryochadaitamas",
+    "expected": [
+      "chadai",
+      "tamas"
+    ],
+    "predicted": [
+      "mas"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ishuvningtadan",
+    "expected": [
+      "uv",
+      "ning",
+      "tadan"
+    ],
+    "predicted": [
+      "dan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qganiyori",
+    "expected": [
+      "ga",
+      "niyori"
+    ],
+    "predicted": [
+      "gan",
+      "iy",
+      "ori"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ma'nodimaimdana",
+    "expected": [
+      "di",
+      "ma",
+      "imdana"
+    ],
+    "predicted": [
+      "i",
+      "ma",
+      "imdana"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limargini",
+    "expected": [
+      "argini"
+    ],
+    "predicted": [
+      "i",
+      "ni"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limda",
+    "expected": [
+      "da"
+    ],
+    "predicted": [
+      "im",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limimganisa",
+    "expected": [
+      "imgani",
+      "sa"
+    ],
+    "predicted": [
+      "im",
+      "imgani",
+      "sa"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'zyorningimishi",
+    "expected": [
+      "yorning",
+      "imishi"
+    ],
+    "predicted": [
+      "ing",
+      "imishi"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilaganlardirgin",
+    "expected": [
+      "ganlar",
+      "dirgin"
+    ],
+    "predicted": [
+      "ar",
+      "dirgin"
+    ],
+    "rank": 1,
+    "score": 0.49,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limdanuvchiuvdeni",
+    "expected": [
+      "dan",
+      "uvchi",
+      "uvdeni"
+    ],
+    "predicted": [
+      "ni"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limqasaalik-chi",
+    "expected": [
+      "qasaa",
+      "lik-chi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyquiqaimiz",
+    "expected": [
+      "i",
+      "qaimiz"
+    ],
+    "predicted": [
+      "i",
+      "qa",
+      "imiz"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "daryolarmaaadiniiingdaa",
+    "expected": [
+      "larmaa",
+      "adinii",
+      "ingdaa"
+    ],
+    "predicted": [
+      "i",
+      "i",
+      "ingdaa"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limimvoriingizgingaa",
+    "expected": [
+      "imvori",
+      "ingiz",
+      "gingaa"
+    ],
+    "predicted": [
+      "ori",
+      "ingiz",
+      "gingaa"
+    ],
+    "rank": 1,
+    "score": 0.97,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "qalbimuvchi",
+    "expected": [
+      "imuvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryomasdiringizlar",
+    "expected": [
+      "mas",
+      "diringiz",
+      "lar"
+    ],
+    "predicted": [
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "so'zishdiitaish",
+    "expected": [
+      "ishdii",
+      "taish"
+    ],
+    "predicted": [
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "bozorcha",
+    "expected": [
+      "cha"
+    ],
+    "predicted": [
+      "or",
+      "cha"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'ztaarataimamaler",
+    "expected": [
+      "taara",
+      "taima",
+      "maler"
+    ],
+    "predicted": [
+      "i",
+      "ma",
+      "ma",
+      "ler"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oilaliklarroqlik",
+    "expected": [
+      "liklar",
+      "roqlik"
+    ],
+    "predicted": [
+      "ar",
+      "roq",
+      "lik"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tilvoro'alariyorlerning",
+    "expected": [
+      "voro'a",
+      "lariyor",
+      "lerning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "kitobimizchi-chi",
+    "expected": [
+      "imiz",
+      "chi-chi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qroqlik",
+    "expected": [
+      "roqlik"
+    ],
+    "predicted": [
+      "roq",
+      "lik"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "o'qgandiachidi",
+    "expected": [
+      "gandia",
+      "chidi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "daryotaish",
+    "expected": [
+      "taish"
+    ],
+    "predicted": [
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "davolaridalari",
+    "expected": [
+      "larida",
+      "lari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uychimachiing",
+    "expected": [
+      "chima",
+      "chi",
+      "ing"
+    ],
+    "predicted": [
+      "i",
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "maktabishuvilarlikqa",
+    "expected": [
+      "ishuvi",
+      "lar",
+      "likqa"
+    ],
+    "predicted": [
+      "ar",
+      "lik",
+      "qa"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limlariiichididan",
+    "expected": [
+      "lariii",
+      "chidi",
+      "dan"
+    ],
+    "predicted": [
+      "i",
+      "dan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limgaginiyorlariii",
+    "expected": [
+      "gagini",
+      "yor",
+      "lariii"
+    ],
+    "predicted": [
+      "ar",
+      "i",
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "qalbdendir",
+    "expected": [
+      "dendir"
+    ],
+    "predicted": [
+      "den",
+      "dir"
+    ],
+    "rank": 1,
+    "score": 0.48,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "yozginadadichigina",
+    "expected": [
+      "ginada",
+      "dichi",
+      "gina"
+    ],
+    "predicted": [
+      "i",
+      "gina"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "daryomalerningimizingish",
+    "expected": [
+      "maler",
+      "ningimiz",
+      "ingish"
+    ],
+    "predicted": [
+      "ing",
+      "imiz",
+      "ing",
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "bozormoqdadanginda",
+    "expected": [
+      "moqdadan",
+      "ginda"
+    ],
+    "predicted": [
+      "da",
+      "dan",
+      "gin",
+      "da"
+    ],
+    "rank": 1,
+    "score": 0.38,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ta'limqa",
+    "expected": [
+      "qa"
+    ],
+    "predicted": [
+      "im",
+      "qa"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozorchiaring",
+    "expected": [
+      "chiar",
+      "ing"
+    ],
+    "predicted": [
+      "i",
+      "ar",
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozoradiuvchiilari",
+    "expected": [
+      "adiuvchi",
+      "ilari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyqularida",
+    "expected": [
+      "larida"
+    ],
+    "predicted": [
+      "lari",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "yozo'arim",
+    "expected": [
+      "o'ar",
+      "im"
+    ],
+    "predicted": [
+      "o'",
+      "ar",
+      "im"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ma'noginaingmasuva",
+    "expected": [
+      "ginaing",
+      "masuva"
+    ],
+    "predicted": [
+      "gina",
+      "ing",
+      "masuva"
+    ],
+    "rank": 1,
+    "score": 0.81,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozingiyauvchi-lar",
+    "expected": [
+      "ingiya",
+      "uvchi-lar"
+    ],
+    "predicted": [
+      "lar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ma'noiyimiz",
+    "expected": [
+      "iyimiz"
+    ],
+    "predicted": [
+      "iy",
+      "imiz"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "o'qdirmaigamasdirgin",
+    "expected": [
+      "dirmai",
+      "gamas",
+      "dirgin"
+    ],
+    "predicted": [
+      "dir",
+      "ma",
+      "i",
+      "ga",
+      "mas",
+      "dirgin"
+    ],
+    "rank": 1,
+    "score": 0.49,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "yuraklikimiyorari",
+    "expected": [
+      "likimi",
+      "yorari"
+    ],
+    "predicted": [
+      "lik",
+      "im",
+      "i",
+      "yor",
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "uyquchidigindaa",
+    "expected": [
+      "chidi",
+      "gindaa"
+    ],
+    "predicted": [
+      "i",
+      "gindaa"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyyorari",
+    "expected": [
+      "yorari"
+    ],
+    "predicted": [
+      "yor",
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "so'zmoqdadanadiiadiuvchi",
+    "expected": [
+      "moqdadan",
+      "adii",
+      "adiuvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "tilchi",
+    "expected": [
+      "chi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "kitobilari",
+    "expected": [
+      "ilari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryotalikmadendir",
+    "expected": [
+      "talik",
+      "ma",
+      "dendir"
+    ],
+    "predicted": [
+      "lik",
+      "ma",
+      "den",
+      "dir"
+    ],
+    "rank": 1,
+    "score": 0.48,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "qalbdanma",
+    "expected": [
+      "danma"
+    ],
+    "predicted": [
+      "dan",
+      "ma"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "daryotaima",
+    "expected": [
+      "taima"
+    ],
+    "predicted": [
+      "i",
+      "ma"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oilaimdiralari",
+    "expected": [
+      "imdira",
+      "lari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "davolerningchi-chio'roqi",
+    "expected": [
+      "lerning",
+      "chi-chi",
+      "o'roqi"
+    ],
+    "predicted": [
+      "i",
+      "o'roqi"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "davochauv",
+    "expected": [
+      "chauv"
+    ],
+    "predicted": [
+      "cha",
+      "uv"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ma'noingizgamoqdaningma",
+    "expected": [
+      "ingiz",
+      "gamoqda",
+      "ningma"
+    ],
+    "predicted": [
+      "dan",
+      "ing",
+      "ma"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "qalbdiryormaso'idan",
+    "expected": [
+      "diryor",
+      "maso'i",
+      "dan"
+    ],
+    "predicted": [
+      "dir",
+      "yor",
+      "maso'i",
+      "dan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "maktabtaingiychadir",
+    "expected": [
+      "taing",
+      "iycha",
+      "dir"
+    ],
+    "predicted": [
+      "ing",
+      "iy",
+      "cha",
+      "dir"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ishmaqaiginaadenii",
+    "expected": [
+      "maqai",
+      "ginaa",
+      "denii"
+    ],
+    "predicted": [
+      "ni",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ma'nomaginadiringiz",
+    "expected": [
+      "magina",
+      "diringiz"
+    ],
+    "predicted": [
+      "magina",
+      "dir",
+      "ingiz"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "bozordata",
+    "expected": [
+      "data"
+    ],
+    "predicted": [
+      "or",
+      "data"
+    ],
+    "rank": 1,
+    "score": 0.1221,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "qalbishning",
+    "expected": [
+      "ishning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryoingginao'iya",
+    "expected": [
+      "inggina",
+      "o'iya"
+    ],
+    "predicted": [
+      "ing",
+      "gina",
+      "o'iya"
+    ],
+    "rank": 1,
+    "score": 0.82,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilaisharimtaa",
+    "expected": [
+      "ishar",
+      "imtaa"
+    ],
+    "predicted": [
+      "ish",
+      "ar",
+      "imtaa"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "daryoimo'",
+    "expected": [
+      "imo'"
+    ],
+    "predicted": [
+      "im",
+      "o'"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "tilginalikish",
+    "expected": [
+      "ginalik",
+      "ish"
+    ],
+    "predicted": [
+      "gina",
+      "lik",
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozliklardaniyi",
+    "expected": [
+      "liklar",
+      "daniyi"
+    ],
+    "predicted": [
+      "ar",
+      "dan",
+      "iy",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ishdaingo'sai",
+    "expected": [
+      "daing",
+      "o'sai"
+    ],
+    "predicted": [
+      "da",
+      "ing",
+      "o'sai"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyqusamoqda",
+    "expected": [
+      "samoqda"
+    ],
+    "predicted": [
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ishqachiayorningma",
+    "expected": [
+      "qachia",
+      "yor",
+      "ningma"
+    ],
+    "predicted": [
+      "ing",
+      "ma"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "davoimmagina",
+    "expected": [
+      "im",
+      "ma",
+      "gina"
+    ],
+    "predicted": [
+      "im",
+      "magina"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "yozqaingiz",
+    "expected": [
+      "qaingiz"
+    ],
+    "predicted": [
+      "qa",
+      "ingiz"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "so'zmamasi",
+    "expected": [
+      "mamasi"
+    ],
+    "predicted": [
+      "ma",
+      "mas",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "qalbishingginatadana",
+    "expected": [
+      "ish",
+      "inggina",
+      "tadana"
+    ],
+    "predicted": [
+      "ish",
+      "ing",
+      "gina",
+      "tadana"
+    ],
+    "rank": 1,
+    "score": 0.83,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "qalbginachayorlaridirgaa",
+    "expected": [
+      "ginacha",
+      "yorlari",
+      "dirgaa"
+    ],
+    "predicted": [
+      "ar",
+      "i",
+      "dirgaa"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryochiar",
+    "expected": [
+      "chiar"
+    ],
+    "predicted": [
+      "i",
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qingizmaganimyoragan",
+    "expected": [
+      "ingizmagan",
+      "imyora",
+      "gan"
+    ],
+    "predicted": [
+      "ingiz",
+      "magan",
+      "im",
+      "yora",
+      "gan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yurako'tailari",
+    "expected": [
+      "o'ta",
+      "ilari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "o'quvchidenii",
+    "expected": [
+      "uvchi",
+      "denii"
+    ],
+    "predicted": [
+      "ni",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qmao'qaingiz",
+    "expected": [
+      "mao'",
+      "qaingiz"
+    ],
+    "predicted": [
+      "ma",
+      "o'",
+      "qa",
+      "ingiz"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyningimizlarimlik",
+    "expected": [
+      "ningimiz",
+      "lar",
+      "imlik"
+    ],
+    "predicted": [
+      "ar",
+      "im",
+      "lik"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "kitobimyorasainga",
+    "expected": [
+      "imyora",
+      "sainga"
+    ],
+    "predicted": [
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uydirmaidirma",
+    "expected": [
+      "dirmai",
+      "dirma"
+    ],
+    "predicted": [
+      "dir",
+      "ma",
+      "i",
+      "dir",
+      "ma"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "yozsalararayoruvchi",
+    "expected": [
+      "sa",
+      "larara",
+      "yoruvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "kitobvorniiishuvi",
+    "expected": [
+      "vornii",
+      "ishuvi"
+    ],
+    "predicted": [
+      "vornii",
+      "ish",
+      "uv",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "so'zyortaaniadii",
+    "expected": [
+      "yortaa",
+      "niadii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tilmoqdamoqda",
+    "expected": [
+      "moqda",
+      "moqda"
+    ],
+    "predicted": [
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limiyma",
+    "expected": [
+      "iyma"
+    ],
+    "predicted": [
+      "im",
+      "iy",
+      "ma"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "kitobadi",
+    "expected": [
+      "adi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyquimo'",
+    "expected": [
+      "imo'"
+    ],
+    "predicted": [
+      "im",
+      "o'"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryosadirchimagan",
+    "expected": [
+      "sadir",
+      "chi",
+      "magan"
+    ],
+    "predicted": [
+      "i",
+      "magan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "daryochi",
+    "expected": [
+      "chi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tilisainga",
+    "expected": [
+      "i",
+      "sainga"
+    ],
+    "predicted": [
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "kitobvoro'adalari-(i)sh",
+    "expected": [
+      "voro'a",
+      "dalari",
+      "-(i)sh"
+    ],
+    "predicted": [
+      "ar",
+      "i",
+      "-(i)sh"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozadivora",
+    "expected": [
+      "adi",
+      "vora"
+    ],
+    "predicted": [
+      "i",
+      "vora"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "davosamoqdaiyimizchadai",
+    "expected": [
+      "samoqda",
+      "iyimiz",
+      "chadai"
+    ],
+    "predicted": [
+      "da",
+      "iy",
+      "imiz",
+      "chadai"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilaingniing",
+    "expected": [
+      "ingni",
+      "ing"
+    ],
+    "predicted": [
+      "i",
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yurakmavoritaaralari",
+    "expected": [
+      "mavori",
+      "taara",
+      "lari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozorimtai",
+    "expected": [
+      "imtai"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yoziylariargini",
+    "expected": [
+      "iylari",
+      "argini"
+    ],
+    "predicted": [
+      "i",
+      "ni"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oilaganarvordainimagan",
+    "expected": [
+      "ganar",
+      "vordai",
+      "nimagan"
+    ],
+    "predicted": [
+      "i",
+      "magan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ta'limimdaa",
+    "expected": [
+      "imdaa"
+    ],
+    "predicted": [
+      "im",
+      "imdaa"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tillik-chiimganiyoruvchi",
+    "expected": [
+      "lik-chi",
+      "imgani",
+      "yoruvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "qalbgaadiiqagaliklar",
+    "expected": [
+      "gaadii",
+      "qaga",
+      "liklar"
+    ],
+    "predicted": [
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yuraklarimagan",
+    "expected": [
+      "larimagan"
+    ],
+    "predicted": [
+      "larima",
+      "gan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "o'qlarida",
+    "expected": [
+      "larida"
+    ],
+    "predicted": [
+      "lari",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "kitobchadaiiylari",
+    "expected": [
+      "chadai",
+      "iylari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "qalbiylarilardamasdai",
+    "expected": [
+      "iylari",
+      "larda",
+      "masdai"
+    ],
+    "predicted": [
+      "ar",
+      "da",
+      "masdai"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oilamaadi",
+    "expected": [
+      "maadi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "maktabginamaganarichinia",
+    "expected": [
+      "ginamagan",
+      "ari",
+      "chinia"
+    ],
+    "predicted": [
+      "i",
+      "nia"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozarganlaradini",
+    "expected": [
+      "ar",
+      "ganlar",
+      "adini"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yurakingni",
+    "expected": [
+      "ingni"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limiysailarmaa",
+    "expected": [
+      "iysai",
+      "larmaa"
+    ],
+    "predicted": [
+      "im",
+      "iy",
+      "sa",
+      "i",
+      "larmaa"
+    ],
+    "rank": 1,
+    "score": 0.88,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozorgadeniginuvi",
+    "expected": [
+      "gadeni",
+      "ginuvi"
+    ],
+    "predicted": [
+      "ni",
+      "ginuvi"
+    ],
+    "rank": 1,
+    "score": 0.98,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yurakniadiichiniachitai",
+    "expected": [
+      "niadii",
+      "chinia",
+      "chitai"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "kitobuvchi-laradinii",
+    "expected": [
+      "uvchi-lar",
+      "adinii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uytamaaginamagangindaa",
+    "expected": [
+      "tamaa",
+      "ginamagan",
+      "gindaa"
+    ],
+    "predicted": [
+      "tamaa",
+      "gina",
+      "magan",
+      "gindaa"
+    ],
+    "rank": 1,
+    "score": 0.88,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "kitobo'ganauvchi",
+    "expected": [
+      "o'",
+      "gana",
+      "uvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yurakdaniyigadasaa",
+    "expected": [
+      "daniyi",
+      "ga",
+      "dasaa"
+    ],
+    "predicted": [
+      "dan",
+      "iy",
+      "i",
+      "ga",
+      "dasaa"
+    ],
+    "rank": 1,
+    "score": 0.85,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "maktabdamoqda",
+    "expected": [
+      "damoqda"
+    ],
+    "predicted": [
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "bozorishuvidagan",
+    "expected": [
+      "ishuvi",
+      "dagan"
+    ],
+    "predicted": [
+      "or",
+      "ish",
+      "uv",
+      "i",
+      "da",
+      "gan"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozorvordia",
+    "expected": [
+      "vordia"
+    ],
+    "predicted": [
+      "or",
+      "vordia"
+    ],
+    "rank": 1,
+    "score": 0.3102,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oiladachai",
+    "expected": [
+      "dachai"
+    ],
+    "predicted": [
+      "da",
+      "cha",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "davoningmagantaa",
+    "expected": [
+      "ningma",
+      "gantaa"
+    ],
+    "predicted": [
+      "ing",
+      "ma",
+      "gantaa"
+    ],
+    "rank": 1,
+    "score": 0.8,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyqulargan",
+    "expected": [
+      "largan"
+    ],
+    "predicted": [
+      "lar",
+      "gan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ishmagandichinialarichi",
+    "expected": [
+      "magandi",
+      "chinia",
+      "larichi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "qalbgamasiyga",
+    "expected": [
+      "gamas",
+      "iyga"
+    ],
+    "predicted": [
+      "ga",
+      "mas",
+      "iy",
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "davoyoruv",
+    "expected": [
+      "yoruv"
+    ],
+    "predicted": [
+      "yor",
+      "uv"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "uyquniyoriyorlari",
+    "expected": [
+      "niyori",
+      "yorlari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "kitobmacha",
+    "expected": [
+      "macha"
+    ],
+    "predicted": [
+      "ma",
+      "cha"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "yurakningmagingaa",
+    "expected": [
+      "ningma",
+      "gingaa"
+    ],
+    "predicted": [
+      "ing",
+      "ma",
+      "gingaa"
+    ],
+    "rank": 1,
+    "score": 0.97,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limo'lerimio'iya",
+    "expected": [
+      "o'",
+      "lerimi",
+      "o'iya"
+    ],
+    "predicted": [
+      "im",
+      "o'",
+      "lerimi",
+      "o'iya"
+    ],
+    "rank": 1,
+    "score": 0.82,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'zdirginginaadigaadii",
+    "expected": [
+      "dirgin",
+      "ginaadi",
+      "gaadii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uymachalari",
+    "expected": [
+      "macha",
+      "lari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limqao'ingalartaa",
+    "expected": [
+      "qa",
+      "o'inga",
+      "lartaa"
+    ],
+    "predicted": [
+      "ga",
+      "lartaa"
+    ],
+    "rank": 1,
+    "score": 0.91,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yozishyoriy",
+    "expected": [
+      "ish",
+      "yoriy"
+    ],
+    "predicted": [
+      "ish",
+      "yor",
+      "iy"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "qalbginalikdirmai",
+    "expected": [
+      "ginalik",
+      "dirmai"
+    ],
+    "predicted": [
+      "gina",
+      "lik",
+      "dir",
+      "ma",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ishqaimizmachii",
+    "expected": [
+      "qaimiz",
+      "machii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "qalbchialarida",
+    "expected": [
+      "chia",
+      "larida"
+    ],
+    "predicted": [
+      "ar",
+      "i",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yuraklarimaganvorimdena",
+    "expected": [
+      "larimagan",
+      "vor",
+      "imdena"
+    ],
+    "predicted": [
+      "larima",
+      "gan",
+      "vor",
+      "imdena"
+    ],
+    "rank": 1,
+    "score": 0.92,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyqudiro'iyoriyadeni",
+    "expected": [
+      "diro'i",
+      "yoriya",
+      "deni"
+    ],
+    "predicted": [
+      "ni"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "maktabingmasmai",
+    "expected": [
+      "ing",
+      "masmai"
+    ],
+    "predicted": [
+      "ing",
+      "mas",
+      "ma",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "yozuvchi-ning",
+    "expected": [
+      "uvchi-ning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozordiqaa",
+    "expected": [
+      "diqaa"
+    ],
+    "predicted": [
+      "or",
+      "diqaa"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oilaishningo'iyavornii",
+    "expected": [
+      "ishning",
+      "o'iya",
+      "vornii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ma'nomaganlerdirvordai",
+    "expected": [
+      "maganler",
+      "dir",
+      "vordai"
+    ],
+    "predicted": [
+      "magan",
+      "ler",
+      "dir",
+      "vordai"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilaginaimizginaadi",
+    "expected": [
+      "ginaimiz",
+      "ginaadi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "so'zingyor",
+    "expected": [
+      "ingyor"
+    ],
+    "predicted": [
+      "ing",
+      "yor"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "oilayorningimyora",
+    "expected": [
+      "yorning",
+      "imyora"
+    ],
+    "predicted": [
+      "ing",
+      "im",
+      "yora"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yurakgindatalik",
+    "expected": [
+      "ginda",
+      "talik"
+    ],
+    "predicted": [
+      "gin",
+      "data",
+      "lik"
+    ],
+    "rank": 1,
+    "score": 0.1406,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ishgandiiiymaliki",
+    "expected": [
+      "gandii",
+      "iyma",
+      "liki"
+    ],
+    "predicted": [
+      "i",
+      "i",
+      "iy",
+      "ma",
+      "lik",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ta'limidan",
+    "expected": [
+      "idan"
+    ],
+    "predicted": [
+      "im",
+      "i",
+      "dan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "maktabadiyordaishta",
+    "expected": [
+      "adi",
+      "yorda",
+      "ishta"
+    ],
+    "predicted": [
+      "i",
+      "yor",
+      "da",
+      "ishta"
+    ],
+    "rank": 1,
+    "score": 0.17,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozormaganiycha",
+    "expected": [
+      "magan",
+      "iycha"
+    ],
+    "predicted": [
+      "or",
+      "magan",
+      "iy",
+      "cha"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "maktabuviyaganalerning",
+    "expected": [
+      "uviya",
+      "gana",
+      "lerning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "so'ziiynidai",
+    "expected": [
+      "i",
+      "iy",
+      "nidai"
+    ],
+    "predicted": [
+      "i",
+      "da",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "kitobingish",
+    "expected": [
+      "ingish"
+    ],
+    "predicted": [
+      "ing",
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oiladitaalikdir",
+    "expected": [
+      "ditaa",
+      "likdir"
+    ],
+    "predicted": [
+      "ditaa",
+      "lik",
+      "dir"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "oilaliklarleringyor",
+    "expected": [
+      "liklar",
+      "ler",
+      "ingyor"
+    ],
+    "predicted": [
+      "ar",
+      "ler",
+      "ing",
+      "yor"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyqudalarichinia",
+    "expected": [
+      "dalari",
+      "chinia"
+    ],
+    "predicted": [
+      "i",
+      "nia"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilachauv",
+    "expected": [
+      "chauv"
+    ],
+    "predicted": [
+      "cha",
+      "uv"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ishginamagan",
+    "expected": [
+      "ginamagan"
+    ],
+    "predicted": [
+      "gina",
+      "magan"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "qalbadiimaganler",
+    "expected": [
+      "adii",
+      "maganler"
+    ],
+    "predicted": [
+      "adii",
+      "magan",
+      "ler"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilachi",
+    "expected": [
+      "chi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ishimmasilikimichivor",
+    "expected": [
+      "immasi",
+      "likimi",
+      "chivor"
+    ],
+    "predicted": [
+      "i",
+      "vor"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ta'limo'moqdaden",
+    "expected": [
+      "o'moqda",
+      "den"
+    ],
+    "predicted": [
+      "da",
+      "den"
+    ],
+    "rank": 1,
+    "score": 0.48,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ishiyimizgindaa",
+    "expected": [
+      "iyimiz",
+      "gindaa"
+    ],
+    "predicted": [
+      "iy",
+      "imiz",
+      "gindaa"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "tiltaingmagandi",
+    "expected": [
+      "taing",
+      "magandi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yuraktaish",
+    "expected": [
+      "taish"
+    ],
+    "predicted": [
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyo'ar",
+    "expected": [
+      "o'ar"
+    ],
+    "predicted": [
+      "o'",
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ishdendirganarlergai",
+    "expected": [
+      "dendir",
+      "ganar",
+      "lergai"
+    ],
+    "predicted": [
+      "den",
+      "dir",
+      "gan",
+      "ar",
+      "lergai"
+    ],
+    "rank": 1,
+    "score": 0.45119999999999993,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "uyquyordiga",
+    "expected": [
+      "yor",
+      "diga"
+    ],
+    "predicted": [
+      "i",
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "maktabvordauvi",
+    "expected": [
+      "vorda",
+      "uvi"
+    ],
+    "predicted": [
+      "vor",
+      "da",
+      "uv",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "tillariyor",
+    "expected": [
+      "lariyor"
+    ],
+    "predicted": [
+      "lari",
+      "yor"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryoleryor",
+    "expected": [
+      "leryor"
+    ],
+    "predicted": [
+      "ler",
+      "yor"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "uyquleriminiadii",
+    "expected": [
+      "lerimi",
+      "niadii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyginaao'ning",
+    "expected": [
+      "ginaa",
+      "o'ning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yurakgandiayorari",
+    "expected": [
+      "gandia",
+      "yorari"
+    ],
+    "predicted": [
+      "gandia",
+      "yor",
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 0.91,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "uyingizda",
+    "expected": [
+      "ingizda"
+    ],
+    "predicted": [
+      "ingiz",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "o'qgantaayoriymasdai",
+    "expected": [
+      "gantaa",
+      "yoriy",
+      "masdai"
+    ],
+    "predicted": [
+      "gantaa",
+      "yor",
+      "iy",
+      "masdai"
+    ],
+    "rank": 1,
+    "score": 0.8,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "bozormasaa",
+    "expected": [
+      "masaa"
+    ],
+    "predicted": [
+      "or",
+      "masaa"
+    ],
+    "rank": 1,
+    "score": 0.3234,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "kitobvorda",
+    "expected": [
+      "vorda"
+    ],
+    "predicted": [
+      "vor",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ta'limning",
+    "expected": [
+      "ning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oiladandaavordamasai",
+    "expected": [
+      "dandaa",
+      "vorda",
+      "masai"
+    ],
+    "predicted": [
+      "dandaa",
+      "vor",
+      "da",
+      "ma",
+      "sa",
+      "i"
+    ],
+    "rank": 1,
+    "score": 0.65,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "bozoringiz",
+    "expected": [
+      "ingiz"
+    ],
+    "predicted": [
+      "or",
+      "ingiz"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyyorari",
+    "expected": [
+      "yorari"
+    ],
+    "predicted": [
+      "yor",
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "bozorishima",
+    "expected": [
+      "ishima"
+    ],
+    "predicted": [
+      "or",
+      "ishima"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qyortaadiryoryorning",
+    "expected": [
+      "yortaa",
+      "diryor",
+      "yorning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "davotaing",
+    "expected": [
+      "taing"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qingniyor",
+    "expected": [
+      "ingni",
+      "yor"
+    ],
+    "predicted": [
+      "i",
+      "yor"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'zleryoriycha",
+    "expected": [
+      "leryor",
+      "iycha"
+    ],
+    "predicted": [
+      "ler",
+      "yor",
+      "iy",
+      "cha"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "tillarroqimuvchi",
+    "expected": [
+      "larroq",
+      "imuvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "ta'limiygaqaler",
+    "expected": [
+      "iyga",
+      "qaler"
+    ],
+    "predicted": [
+      "im",
+      "iy",
+      "ga",
+      "qa",
+      "ler"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ma'nodanlariyor",
+    "expected": [
+      "dan",
+      "lariyor"
+    ],
+    "predicted": [
+      "ar",
+      "i",
+      "yor"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "daryoginuvchi-ning",
+    "expected": [
+      "gin",
+      "uvchi-ning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "maktabnilaruva",
+    "expected": [
+      "ni",
+      "laruva"
+    ],
+    "predicted": [
+      "i",
+      "laruva"
+    ],
+    "rank": 1,
+    "score": 0.96,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ishyoruv",
+    "expected": [
+      "yoruv"
+    ],
+    "predicted": [
+      "yor",
+      "uv"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "qalbchadaiimvori",
+    "expected": [
+      "chadai",
+      "imvori"
+    ],
+    "predicted": [
+      "ori"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tildalarigagini",
+    "expected": [
+      "dalari",
+      "gagini"
+    ],
+    "predicted": [
+      "i",
+      "ni"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uyadiroqchiish",
+    "expected": [
+      "adiroq",
+      "chiish"
+    ],
+    "predicted": [
+      "i",
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ma'nouvchilergai",
+    "expected": [
+      "uvchi",
+      "lergai"
+    ],
+    "predicted": [
+      "i",
+      "ler",
+      "ga",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yozlariuvchi",
+    "expected": [
+      "lari",
+      "uvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yozningga",
+    "expected": [
+      "ning",
+      "ga"
+    ],
+    "predicted": [
+      "ing",
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozorishimadaginaa",
+    "expected": [
+      "ishima",
+      "da",
+      "ginaa"
+    ],
+    "predicted": [
+      "or",
+      "ishima",
+      "da",
+      "ginaa"
+    ],
+    "rank": 1,
+    "score": 0.33,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "qalbleryorning",
+    "expected": [
+      "leryor",
+      "ning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyquyoro'i",
+    "expected": [
+      "yoro'i"
+    ],
+    "predicted": [
+      "yor",
+      "o'",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "yuraklergaiga",
+    "expected": [
+      "lergai",
+      "ga"
+    ],
+    "predicted": [
+      "ler",
+      "ga",
+      "i",
+      "ga"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "uyquganarlaruva",
+    "expected": [
+      "ganar",
+      "laruva"
+    ],
+    "predicted": [
+      "gan",
+      "ar",
+      "laruva"
+    ],
+    "rank": 1,
+    "score": 0.96,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "qalbnimaganchima",
+    "expected": [
+      "nimagan",
+      "chima"
+    ],
+    "predicted": [
+      "i",
+      "ma"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uychiardi",
+    "expected": [
+      "chiar",
+      "di"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qginama-chi",
+    "expected": [
+      "gina",
+      "ma-chi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ishnimaganlariiidensai",
+    "expected": [
+      "nimagan",
+      "lariii",
+      "densai"
+    ],
+    "predicted": [
+      "i",
+      "magan",
+      "lariii",
+      "densai"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozchidiisaivordia",
+    "expected": [
+      "chidi",
+      "isai",
+      "vordia"
+    ],
+    "predicted": [
+      "i",
+      "isai",
+      "vordia"
+    ],
+    "rank": 1,
+    "score": 0.94,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "kitobningmaishuvi",
+    "expected": [
+      "ningma",
+      "ishuvi"
+    ],
+    "predicted": [
+      "ing",
+      "ma",
+      "ish",
+      "uv",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limchadai",
+    "expected": [
+      "chadai"
+    ],
+    "predicted": [
+      "im",
+      "chadai"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "uyyorningma",
+    "expected": [
+      "yorning",
+      "ma"
+    ],
+    "predicted": [
+      "ing",
+      "ma"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "tilsamoqdaishuvi",
+    "expected": [
+      "samoqda",
+      "ishuvi"
+    ],
+    "predicted": [
+      "da",
+      "ish",
+      "uv",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "kitobdiryordasaa",
+    "expected": [
+      "diryor",
+      "dasaa"
+    ],
+    "predicted": [
+      "dir",
+      "yor",
+      "dasaa"
+    ],
+    "rank": 1,
+    "score": 0.85,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "tiladiroqdirmai",
+    "expected": [
+      "adiroq",
+      "dirmai"
+    ],
+    "predicted": [
+      "i",
+      "roq",
+      "dir",
+      "ma",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qniyori",
+    "expected": [
+      "niyori"
+    ],
+    "predicted": [
+      "iy",
+      "ori"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yurakni",
+    "expected": [
+      "ni"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "oilayoruvchiingish",
+    "expected": [
+      "yoruvchi",
+      "ingish"
+    ],
+    "predicted": [
+      "i",
+      "ing",
+      "ish"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "davoinggina",
+    "expected": [
+      "inggina"
+    ],
+    "predicted": [
+      "ing",
+      "gina"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "kitobarimtai",
+    "expected": [
+      "ar",
+      "imtai"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tiliysai",
+    "expected": [
+      "iysai"
+    ],
+    "predicted": [
+      "iy",
+      "sa",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "kitobdiadiiyorda",
+    "expected": [
+      "diadii",
+      "yorda"
+    ],
+    "predicted": [
+      "i",
+      "i",
+      "yor",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozorqaimiz",
+    "expected": [
+      "qaimiz"
+    ],
+    "predicted": [
+      "or",
+      "qa",
+      "imiz"
+    ],
+    "rank": 1,
+    "score": 0.165,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yozganmai",
+    "expected": [
+      "ganmai"
+    ],
+    "predicted": [
+      "gan",
+      "ma",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ma'noingizmaganningimiztamas",
+    "expected": [
+      "ingizmagan",
+      "ningimiz",
+      "tamas"
+    ],
+    "predicted": [
+      "ing",
+      "imizta",
+      "mas"
+    ],
+    "rank": 1,
+    "score": 0.31,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "tilyoradiroq",
+    "expected": [
+      "yor",
+      "adiroq"
+    ],
+    "predicted": [
+      "i",
+      "roq"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tilyoro'i",
+    "expected": [
+      "yoro'i"
+    ],
+    "predicted": [
+      "yor",
+      "o'",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "daryomagandenorimuvchi",
+    "expected": [
+      "maganden",
+      "or",
+      "imuvchi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "bozoryorlarimadasaa",
+    "expected": [
+      "yorlari",
+      "ma",
+      "dasaa"
+    ],
+    "predicted": [
+      "ar",
+      "i",
+      "ma",
+      "dasaa"
+    ],
+    "rank": 1,
+    "score": 0.85,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "yozarishdii",
+    "expected": [
+      "ar",
+      "ishdii"
+    ],
+    "predicted": [
+      "i",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yozdamoqda",
+    "expected": [
+      "damoqda"
+    ],
+    "predicted": [
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "oilamagandenlartaa",
+    "expected": [
+      "maganden",
+      "lartaa"
+    ],
+    "predicted": [
+      "magan",
+      "den",
+      "lartaa"
+    ],
+    "rank": 1,
+    "score": 0.4368,
+    "type": "RULE_MISSING"
+  },
+  {
+    "word": "uygamaslariii",
+    "expected": [
+      "gamas",
+      "lariii"
+    ],
+    "predicted": [
+      "ga",
+      "mas",
+      "lariii"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "yurakniimizta",
+    "expected": [
+      "ni",
+      "imizta"
+    ],
+    "predicted": [
+      "i",
+      "imizta"
+    ],
+    "rank": 1,
+    "score": 0.31,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "daryomaschiuvgana",
+    "expected": [
+      "mas",
+      "chi",
+      "uvgana"
+    ],
+    "predicted": [
+      "i",
+      "uv",
+      "gana"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "yozleriida",
+    "expected": [
+      "lerii",
+      "da"
+    ],
+    "predicted": [
+      "ler",
+      "i",
+      "i",
+      "da"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "ta'limqaimiz",
+    "expected": [
+      "qaimiz"
+    ],
+    "predicted": [
+      "im",
+      "qa",
+      "imiz"
+    ],
+    "rank": 1,
+    "score": 0.5,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "so'zari",
+    "expected": [
+      "ari"
+    ],
+    "predicted": [
+      "ar",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "daryochiarimizta",
+    "expected": [
+      "chiar",
+      "imizta"
+    ],
+    "predicted": [
+      "i",
+      "ar",
+      "imizta"
+    ],
+    "rank": 1,
+    "score": 0.31,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "tilmaadi",
+    "expected": [
+      "maadi"
+    ],
+    "predicted": [
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "bozormalara",
+    "expected": [
+      "malara"
+    ],
+    "predicted": [
+      "or",
+      "malara"
+    ],
+    "rank": 1,
+    "score": 0.2871,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limma-chitadana",
+    "expected": [
+      "ma-chi",
+      "tadana"
+    ],
+    "predicted": [
+      "i",
+      "tadana"
+    ],
+    "rank": 1,
+    "score": 0.83,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "o'qginao'ar",
+    "expected": [
+      "gina",
+      "o'ar"
+    ],
+    "predicted": [
+      "gina",
+      "o'",
+      "ar"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "SCORING_ERROR"
+  },
+  {
+    "word": "yozqasaao'ning",
+    "expected": [
+      "qasaa",
+      "o'ning"
+    ],
+    "predicted": [
+      "ing"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  },
+  {
+    "word": "ta'limdachai",
+    "expected": [
+      "dachai"
+    ],
+    "predicted": [
+      "im",
+      "da",
+      "cha",
+      "i"
+    ],
+    "rank": 1,
+    "score": 1.0,
+    "type": "ROOT_ERROR"
+  }
+]

@@ -1,0 +1,4227 @@
+[
+  {
+    "id": 1,
+    "surface": "kitaplarımızdan",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 2,
+    "surface": "evler",
+    "stem": "ev",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 3,
+    "surface": "kitaplar",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 4,
+    "surface": "evden",
+    "stem": "ev",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 5,
+    "surface": "kitapçı",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "çı"
+    ]
+  },
+  {
+    "id": 6,
+    "surface": "işçi",
+    "stem": "iş",
+    "expected_suffixes": [
+      "çi"
+    ]
+  },
+  {
+    "id": 7,
+    "surface": "yazıcı",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "ıcı"
+    ]
+  },
+  {
+    "id": 8,
+    "surface": "evler",
+    "stem": "ev",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 9,
+    "surface": "evden",
+    "stem": "ev",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 10,
+    "surface": "evde",
+    "stem": "ev",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 11,
+    "surface": "evin",
+    "stem": "ev",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 12,
+    "surface": "evi",
+    "stem": "ev",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 13,
+    "surface": "eve",
+    "stem": "ev",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 14,
+    "surface": "evlerimizden",
+    "stem": "ev",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 15,
+    "surface": "evlerimizde",
+    "stem": "ev",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 16,
+    "surface": "evlerden",
+    "stem": "ev",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 17,
+    "surface": "kitaplar",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 18,
+    "surface": "kitaptan",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "tan"
+    ]
+  },
+  {
+    "id": 19,
+    "surface": "kitapta",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "ta"
+    ]
+  },
+  {
+    "id": 20,
+    "surface": "kitapın",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "ın"
+    ]
+  },
+  {
+    "id": 21,
+    "surface": "kitapı",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "ı"
+    ]
+  },
+  {
+    "id": 22,
+    "surface": "kitapa",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 23,
+    "surface": "kitaplarımızdan",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 24,
+    "surface": "kitaplarımızda",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 25,
+    "surface": "kitaplardan",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 26,
+    "surface": "okullar",
+    "stem": "okul",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 27,
+    "surface": "okuldan",
+    "stem": "okul",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 28,
+    "surface": "okulda",
+    "stem": "okul",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 29,
+    "surface": "okulun",
+    "stem": "okul",
+    "expected_suffixes": [
+      "un"
+    ]
+  },
+  {
+    "id": 30,
+    "surface": "okulu",
+    "stem": "okul",
+    "expected_suffixes": [
+      "u"
+    ]
+  },
+  {
+    "id": 31,
+    "surface": "okula",
+    "stem": "okul",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 32,
+    "surface": "okullarımızdan",
+    "stem": "okul",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 33,
+    "surface": "okullarımızda",
+    "stem": "okul",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 34,
+    "surface": "okullardan",
+    "stem": "okul",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 35,
+    "surface": "şehirler",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 36,
+    "surface": "şehirden",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 37,
+    "surface": "şehirde",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 38,
+    "surface": "şehirin",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 39,
+    "surface": "şehiri",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 40,
+    "surface": "şehire",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 41,
+    "surface": "şehirlerimizden",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 42,
+    "surface": "şehirlerimizde",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 43,
+    "surface": "şehirlerden",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 44,
+    "surface": "arabalar",
+    "stem": "araba",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 45,
+    "surface": "arabadan",
+    "stem": "araba",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 46,
+    "surface": "arabada",
+    "stem": "araba",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 47,
+    "surface": "arabanın",
+    "stem": "araba",
+    "expected_suffixes": [
+      "nın"
+    ]
+  },
+  {
+    "id": 48,
+    "surface": "arabayı",
+    "stem": "araba",
+    "expected_suffixes": [
+      "yı"
+    ]
+  },
+  {
+    "id": 49,
+    "surface": "arabaya",
+    "stem": "araba",
+    "expected_suffixes": [
+      "ya"
+    ]
+  },
+  {
+    "id": 50,
+    "surface": "arabalarımızdan",
+    "stem": "araba",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 51,
+    "surface": "arabalarımızda",
+    "stem": "araba",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 52,
+    "surface": "arabalardan",
+    "stem": "araba",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 53,
+    "surface": "kapılar",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 54,
+    "surface": "kapıdan",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 55,
+    "surface": "kapıda",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 56,
+    "surface": "kapının",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "nın"
+    ]
+  },
+  {
+    "id": 57,
+    "surface": "kapıyı",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "yı"
+    ]
+  },
+  {
+    "id": 58,
+    "surface": "kapıya",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "ya"
+    ]
+  },
+  {
+    "id": 59,
+    "surface": "kapılarımızdan",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 60,
+    "surface": "kapılarımızda",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 61,
+    "surface": "kapılardan",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 62,
+    "surface": "gözler",
+    "stem": "göz",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 63,
+    "surface": "gözden",
+    "stem": "göz",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 64,
+    "surface": "gözde",
+    "stem": "göz",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 65,
+    "surface": "gözün",
+    "stem": "göz",
+    "expected_suffixes": [
+      "ün"
+    ]
+  },
+  {
+    "id": 66,
+    "surface": "gözü",
+    "stem": "göz",
+    "expected_suffixes": [
+      "ü"
+    ]
+  },
+  {
+    "id": 67,
+    "surface": "göze",
+    "stem": "göz",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 68,
+    "surface": "gözlerimizden",
+    "stem": "göz",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 69,
+    "surface": "gözlerimizde",
+    "stem": "göz",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 70,
+    "surface": "gözlerden",
+    "stem": "göz",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 71,
+    "surface": "çocuklar",
+    "stem": "çocuk",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 72,
+    "surface": "çocuktan",
+    "stem": "çocuk",
+    "expected_suffixes": [
+      "tan"
+    ]
+  },
+  {
+    "id": 73,
+    "surface": "çocukta",
+    "stem": "çocuk",
+    "expected_suffixes": [
+      "ta"
+    ]
+  },
+  {
+    "id": 74,
+    "surface": "çocukun",
+    "stem": "çocuk",
+    "expected_suffixes": [
+      "un"
+    ]
+  },
+  {
+    "id": 75,
+    "surface": "çocuku",
+    "stem": "çocuk",
+    "expected_suffixes": [
+      "u"
+    ]
+  },
+  {
+    "id": 76,
+    "surface": "çocuka",
+    "stem": "çocuk",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 77,
+    "surface": "çocuklarımızdan",
+    "stem": "çocuk",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 78,
+    "surface": "çocuklarımızda",
+    "stem": "çocuk",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 79,
+    "surface": "çocuklardan",
+    "stem": "çocuk",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 80,
+    "surface": "masalar",
+    "stem": "masa",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 81,
+    "surface": "masadan",
+    "stem": "masa",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 82,
+    "surface": "masada",
+    "stem": "masa",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 83,
+    "surface": "masanın",
+    "stem": "masa",
+    "expected_suffixes": [
+      "nın"
+    ]
+  },
+  {
+    "id": 84,
+    "surface": "masayı",
+    "stem": "masa",
+    "expected_suffixes": [
+      "yı"
+    ]
+  },
+  {
+    "id": 85,
+    "surface": "masaya",
+    "stem": "masa",
+    "expected_suffixes": [
+      "ya"
+    ]
+  },
+  {
+    "id": 86,
+    "surface": "masalarımızdan",
+    "stem": "masa",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 87,
+    "surface": "masalarımızda",
+    "stem": "masa",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 88,
+    "surface": "masalardan",
+    "stem": "masa",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 89,
+    "surface": "kalemler",
+    "stem": "kalem",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 90,
+    "surface": "kalemden",
+    "stem": "kalem",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 91,
+    "surface": "kalemde",
+    "stem": "kalem",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 92,
+    "surface": "kalemin",
+    "stem": "kalem",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 93,
+    "surface": "kalemi",
+    "stem": "kalem",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 94,
+    "surface": "kaleme",
+    "stem": "kalem",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 95,
+    "surface": "kalemlerimizden",
+    "stem": "kalem",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 96,
+    "surface": "kalemlerimizde",
+    "stem": "kalem",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 97,
+    "surface": "kalemlerden",
+    "stem": "kalem",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 98,
+    "surface": "defterler",
+    "stem": "defter",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 99,
+    "surface": "defterden",
+    "stem": "defter",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 100,
+    "surface": "defterde",
+    "stem": "defter",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 101,
+    "surface": "defterin",
+    "stem": "defter",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 102,
+    "surface": "defteri",
+    "stem": "defter",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 103,
+    "surface": "deftere",
+    "stem": "defter",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 104,
+    "surface": "defterlerimizden",
+    "stem": "defter",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 105,
+    "surface": "defterlerimizde",
+    "stem": "defter",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 106,
+    "surface": "defterlerden",
+    "stem": "defter",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 107,
+    "surface": "bahçeler",
+    "stem": "bahçe",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 108,
+    "surface": "bahçeden",
+    "stem": "bahçe",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 109,
+    "surface": "bahçede",
+    "stem": "bahçe",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 110,
+    "surface": "bahçenin",
+    "stem": "bahçe",
+    "expected_suffixes": [
+      "nin"
+    ]
+  },
+  {
+    "id": 111,
+    "surface": "bahçeyi",
+    "stem": "bahçe",
+    "expected_suffixes": [
+      "yi"
+    ]
+  },
+  {
+    "id": 112,
+    "surface": "bahçeye",
+    "stem": "bahçe",
+    "expected_suffixes": [
+      "ye"
+    ]
+  },
+  {
+    "id": 113,
+    "surface": "bahçelerimizden",
+    "stem": "bahçe",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 114,
+    "surface": "bahçelerimizde",
+    "stem": "bahçe",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 115,
+    "surface": "bahçelerden",
+    "stem": "bahçe",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 116,
+    "surface": "yollar",
+    "stem": "yol",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 117,
+    "surface": "yoldan",
+    "stem": "yol",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 118,
+    "surface": "yolda",
+    "stem": "yol",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 119,
+    "surface": "yolun",
+    "stem": "yol",
+    "expected_suffixes": [
+      "un"
+    ]
+  },
+  {
+    "id": 120,
+    "surface": "yolu",
+    "stem": "yol",
+    "expected_suffixes": [
+      "u"
+    ]
+  },
+  {
+    "id": 121,
+    "surface": "yola",
+    "stem": "yol",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 122,
+    "surface": "yollarımızdan",
+    "stem": "yol",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 123,
+    "surface": "yollarımızda",
+    "stem": "yol",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 124,
+    "surface": "yollardan",
+    "stem": "yol",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 125,
+    "surface": "köyler",
+    "stem": "köy",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 126,
+    "surface": "köyden",
+    "stem": "köy",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 127,
+    "surface": "köyde",
+    "stem": "köy",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 128,
+    "surface": "köyün",
+    "stem": "köy",
+    "expected_suffixes": [
+      "ün"
+    ]
+  },
+  {
+    "id": 129,
+    "surface": "köyü",
+    "stem": "köy",
+    "expected_suffixes": [
+      "ü"
+    ]
+  },
+  {
+    "id": 130,
+    "surface": "köye",
+    "stem": "köy",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 131,
+    "surface": "köylerimizden",
+    "stem": "köy",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 132,
+    "surface": "köylerimizde",
+    "stem": "köy",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 133,
+    "surface": "köylerden",
+    "stem": "köy",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 134,
+    "surface": "işler",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 135,
+    "surface": "işten",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ten"
+    ]
+  },
+  {
+    "id": 136,
+    "surface": "işte",
+    "stem": "iş",
+    "expected_suffixes": [
+      "te"
+    ]
+  },
+  {
+    "id": 137,
+    "surface": "işin",
+    "stem": "iş",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 138,
+    "surface": "işi",
+    "stem": "iş",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 139,
+    "surface": "işe",
+    "stem": "iş",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 140,
+    "surface": "işlerimizden",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 141,
+    "surface": "işlerimizde",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 142,
+    "surface": "işlerden",
+    "stem": "iş",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 143,
+    "surface": "diller",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 144,
+    "surface": "dilden",
+    "stem": "dil",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 145,
+    "surface": "dilde",
+    "stem": "dil",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 146,
+    "surface": "dilin",
+    "stem": "dil",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 147,
+    "surface": "dili",
+    "stem": "dil",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 148,
+    "surface": "dile",
+    "stem": "dil",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 149,
+    "surface": "dillerimizden",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 150,
+    "surface": "dillerimizde",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 151,
+    "surface": "dillerden",
+    "stem": "dil",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 152,
+    "surface": "sular",
+    "stem": "su",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 153,
+    "surface": "sudan",
+    "stem": "su",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 154,
+    "surface": "suda",
+    "stem": "su",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 155,
+    "surface": "sunun",
+    "stem": "su",
+    "expected_suffixes": [
+      "nun"
+    ]
+  },
+  {
+    "id": 156,
+    "surface": "suyu",
+    "stem": "su",
+    "expected_suffixes": [
+      "yu"
+    ]
+  },
+  {
+    "id": 157,
+    "surface": "suya",
+    "stem": "su",
+    "expected_suffixes": [
+      "ya"
+    ]
+  },
+  {
+    "id": 158,
+    "surface": "sularımızdan",
+    "stem": "su",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 159,
+    "surface": "sularımızda",
+    "stem": "su",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 160,
+    "surface": "sulardan",
+    "stem": "su",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 161,
+    "surface": "günler",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 162,
+    "surface": "günden",
+    "stem": "gün",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 163,
+    "surface": "günde",
+    "stem": "gün",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 164,
+    "surface": "günün",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ün"
+    ]
+  },
+  {
+    "id": 165,
+    "surface": "günü",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ü"
+    ]
+  },
+  {
+    "id": 166,
+    "surface": "güne",
+    "stem": "gün",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 167,
+    "surface": "günlerimizden",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 168,
+    "surface": "günlerimizde",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 169,
+    "surface": "günlerden",
+    "stem": "gün",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 170,
+    "surface": "eller",
+    "stem": "el",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 171,
+    "surface": "elden",
+    "stem": "el",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 172,
+    "surface": "elde",
+    "stem": "el",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 173,
+    "surface": "elin",
+    "stem": "el",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 174,
+    "surface": "eli",
+    "stem": "el",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 175,
+    "surface": "ele",
+    "stem": "el",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 176,
+    "surface": "ellerimizden",
+    "stem": "el",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 177,
+    "surface": "ellerimizde",
+    "stem": "el",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 178,
+    "surface": "ellerden",
+    "stem": "el",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 179,
+    "surface": "başlar",
+    "stem": "baş",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 180,
+    "surface": "baştan",
+    "stem": "baş",
+    "expected_suffixes": [
+      "tan"
+    ]
+  },
+  {
+    "id": 181,
+    "surface": "başta",
+    "stem": "baş",
+    "expected_suffixes": [
+      "ta"
+    ]
+  },
+  {
+    "id": 182,
+    "surface": "başın",
+    "stem": "baş",
+    "expected_suffixes": [
+      "ın"
+    ]
+  },
+  {
+    "id": 183,
+    "surface": "başı",
+    "stem": "baş",
+    "expected_suffixes": [
+      "ı"
+    ]
+  },
+  {
+    "id": 184,
+    "surface": "başa",
+    "stem": "baş",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 185,
+    "surface": "başlarımızdan",
+    "stem": "baş",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 186,
+    "surface": "başlarımızda",
+    "stem": "baş",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 187,
+    "surface": "başlardan",
+    "stem": "baş",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 188,
+    "surface": "odalar",
+    "stem": "oda",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 189,
+    "surface": "odadan",
+    "stem": "oda",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 190,
+    "surface": "odada",
+    "stem": "oda",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 191,
+    "surface": "odanın",
+    "stem": "oda",
+    "expected_suffixes": [
+      "nın"
+    ]
+  },
+  {
+    "id": 192,
+    "surface": "odayı",
+    "stem": "oda",
+    "expected_suffixes": [
+      "yı"
+    ]
+  },
+  {
+    "id": 193,
+    "surface": "odaya",
+    "stem": "oda",
+    "expected_suffixes": [
+      "ya"
+    ]
+  },
+  {
+    "id": 194,
+    "surface": "odalarımızdan",
+    "stem": "oda",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 195,
+    "surface": "odalarımızda",
+    "stem": "oda",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 196,
+    "surface": "odalardan",
+    "stem": "oda",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 197,
+    "surface": "dersler",
+    "stem": "ders",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 198,
+    "surface": "dersten",
+    "stem": "ders",
+    "expected_suffixes": [
+      "ten"
+    ]
+  },
+  {
+    "id": 199,
+    "surface": "derste",
+    "stem": "ders",
+    "expected_suffixes": [
+      "te"
+    ]
+  },
+  {
+    "id": 200,
+    "surface": "dersin",
+    "stem": "ders",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 201,
+    "surface": "dersi",
+    "stem": "ders",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 202,
+    "surface": "derse",
+    "stem": "ders",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 203,
+    "surface": "derslerimizden",
+    "stem": "ders",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 204,
+    "surface": "derslerimizde",
+    "stem": "ders",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 205,
+    "surface": "derslerden",
+    "stem": "ders",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 206,
+    "surface": "öğrenciler",
+    "stem": "öğrenci",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 207,
+    "surface": "öğrenciden",
+    "stem": "öğrenci",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 208,
+    "surface": "öğrencide",
+    "stem": "öğrenci",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 209,
+    "surface": "öğrencinin",
+    "stem": "öğrenci",
+    "expected_suffixes": [
+      "nin"
+    ]
+  },
+  {
+    "id": 210,
+    "surface": "öğrenciyi",
+    "stem": "öğrenci",
+    "expected_suffixes": [
+      "yi"
+    ]
+  },
+  {
+    "id": 211,
+    "surface": "öğrenciye",
+    "stem": "öğrenci",
+    "expected_suffixes": [
+      "ye"
+    ]
+  },
+  {
+    "id": 212,
+    "surface": "öğrencilerimizden",
+    "stem": "öğrenci",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 213,
+    "surface": "öğrencilerimizde",
+    "stem": "öğrenci",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 214,
+    "surface": "öğrencilerden",
+    "stem": "öğrenci",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 215,
+    "surface": "öğretmenler",
+    "stem": "öğretmen",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 216,
+    "surface": "öğretmenden",
+    "stem": "öğretmen",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 217,
+    "surface": "öğretmende",
+    "stem": "öğretmen",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 218,
+    "surface": "öğretmenin",
+    "stem": "öğretmen",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 219,
+    "surface": "öğretmeni",
+    "stem": "öğretmen",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 220,
+    "surface": "öğretmene",
+    "stem": "öğretmen",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 221,
+    "surface": "öğretmenlerimizden",
+    "stem": "öğretmen",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 222,
+    "surface": "öğretmenlerimizde",
+    "stem": "öğretmen",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 223,
+    "surface": "öğretmenlerden",
+    "stem": "öğretmen",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 224,
+    "surface": "bilgiler",
+    "stem": "bilgi",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 225,
+    "surface": "bilgiden",
+    "stem": "bilgi",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 226,
+    "surface": "bilgide",
+    "stem": "bilgi",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 227,
+    "surface": "bilginin",
+    "stem": "bilgi",
+    "expected_suffixes": [
+      "nin"
+    ]
+  },
+  {
+    "id": 228,
+    "surface": "bilgiyi",
+    "stem": "bilgi",
+    "expected_suffixes": [
+      "yi"
+    ]
+  },
+  {
+    "id": 229,
+    "surface": "bilgiye",
+    "stem": "bilgi",
+    "expected_suffixes": [
+      "ye"
+    ]
+  },
+  {
+    "id": 230,
+    "surface": "bilgilerimizden",
+    "stem": "bilgi",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 231,
+    "surface": "bilgilerimizde",
+    "stem": "bilgi",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 232,
+    "surface": "bilgilerden",
+    "stem": "bilgi",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 233,
+    "surface": "aileler",
+    "stem": "aile",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 234,
+    "surface": "aileden",
+    "stem": "aile",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 235,
+    "surface": "ailede",
+    "stem": "aile",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 236,
+    "surface": "ailenin",
+    "stem": "aile",
+    "expected_suffixes": [
+      "nin"
+    ]
+  },
+  {
+    "id": 237,
+    "surface": "aileyi",
+    "stem": "aile",
+    "expected_suffixes": [
+      "yi"
+    ]
+  },
+  {
+    "id": 238,
+    "surface": "aileye",
+    "stem": "aile",
+    "expected_suffixes": [
+      "ye"
+    ]
+  },
+  {
+    "id": 239,
+    "surface": "ailelerimizden",
+    "stem": "aile",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 240,
+    "surface": "ailelerimizde",
+    "stem": "aile",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 241,
+    "surface": "ailelerden",
+    "stem": "aile",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 242,
+    "surface": "arkadaşlar",
+    "stem": "arkadaş",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 243,
+    "surface": "arkadaştan",
+    "stem": "arkadaş",
+    "expected_suffixes": [
+      "tan"
+    ]
+  },
+  {
+    "id": 244,
+    "surface": "arkadaşta",
+    "stem": "arkadaş",
+    "expected_suffixes": [
+      "ta"
+    ]
+  },
+  {
+    "id": 245,
+    "surface": "arkadaşın",
+    "stem": "arkadaş",
+    "expected_suffixes": [
+      "ın"
+    ]
+  },
+  {
+    "id": 246,
+    "surface": "arkadaşı",
+    "stem": "arkadaş",
+    "expected_suffixes": [
+      "ı"
+    ]
+  },
+  {
+    "id": 247,
+    "surface": "arkadaşa",
+    "stem": "arkadaş",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 248,
+    "surface": "arkadaşlarımızdan",
+    "stem": "arkadaş",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 249,
+    "surface": "arkadaşlarımızda",
+    "stem": "arkadaş",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 250,
+    "surface": "arkadaşlardan",
+    "stem": "arkadaş",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 251,
+    "surface": "zamanlar",
+    "stem": "zaman",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 252,
+    "surface": "zamandan",
+    "stem": "zaman",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 253,
+    "surface": "zamanda",
+    "stem": "zaman",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 254,
+    "surface": "zamanın",
+    "stem": "zaman",
+    "expected_suffixes": [
+      "ın"
+    ]
+  },
+  {
+    "id": 255,
+    "surface": "zamanı",
+    "stem": "zaman",
+    "expected_suffixes": [
+      "ı"
+    ]
+  },
+  {
+    "id": 256,
+    "surface": "zamana",
+    "stem": "zaman",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 257,
+    "surface": "zamanlarımızdan",
+    "stem": "zaman",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 258,
+    "surface": "zamanlarımızda",
+    "stem": "zaman",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 259,
+    "surface": "zamanlardan",
+    "stem": "zaman",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 260,
+    "surface": "ülkeler",
+    "stem": "ülke",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 261,
+    "surface": "ülkeden",
+    "stem": "ülke",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 262,
+    "surface": "ülkede",
+    "stem": "ülke",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 263,
+    "surface": "ülkenin",
+    "stem": "ülke",
+    "expected_suffixes": [
+      "nin"
+    ]
+  },
+  {
+    "id": 264,
+    "surface": "ülkeyi",
+    "stem": "ülke",
+    "expected_suffixes": [
+      "yi"
+    ]
+  },
+  {
+    "id": 265,
+    "surface": "ülkeye",
+    "stem": "ülke",
+    "expected_suffixes": [
+      "ye"
+    ]
+  },
+  {
+    "id": 266,
+    "surface": "ülkelerimizden",
+    "stem": "ülke",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 267,
+    "surface": "ülkelerimizde",
+    "stem": "ülke",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 268,
+    "surface": "ülkelerden",
+    "stem": "ülke",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 269,
+    "surface": "denizler",
+    "stem": "deniz",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 270,
+    "surface": "denizden",
+    "stem": "deniz",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 271,
+    "surface": "denizde",
+    "stem": "deniz",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 272,
+    "surface": "denizin",
+    "stem": "deniz",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 273,
+    "surface": "denizi",
+    "stem": "deniz",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 274,
+    "surface": "denize",
+    "stem": "deniz",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 275,
+    "surface": "denizlerimizden",
+    "stem": "deniz",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 276,
+    "surface": "denizlerimizde",
+    "stem": "deniz",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 277,
+    "surface": "denizlerden",
+    "stem": "deniz",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 278,
+    "surface": "dağlar",
+    "stem": "dağ",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 279,
+    "surface": "dağdan",
+    "stem": "dağ",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 280,
+    "surface": "dağda",
+    "stem": "dağ",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 281,
+    "surface": "dağın",
+    "stem": "dağ",
+    "expected_suffixes": [
+      "ın"
+    ]
+  },
+  {
+    "id": 282,
+    "surface": "dağı",
+    "stem": "dağ",
+    "expected_suffixes": [
+      "ı"
+    ]
+  },
+  {
+    "id": 283,
+    "surface": "dağa",
+    "stem": "dağ",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 284,
+    "surface": "dağlarımızdan",
+    "stem": "dağ",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 285,
+    "surface": "dağlarımızda",
+    "stem": "dağ",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 286,
+    "surface": "dağlardan",
+    "stem": "dağ",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 287,
+    "surface": "ormanlar",
+    "stem": "orman",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 288,
+    "surface": "ormandan",
+    "stem": "orman",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 289,
+    "surface": "ormanda",
+    "stem": "orman",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 290,
+    "surface": "ormanın",
+    "stem": "orman",
+    "expected_suffixes": [
+      "ın"
+    ]
+  },
+  {
+    "id": 291,
+    "surface": "ormanı",
+    "stem": "orman",
+    "expected_suffixes": [
+      "ı"
+    ]
+  },
+  {
+    "id": 292,
+    "surface": "ormana",
+    "stem": "orman",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 293,
+    "surface": "ormanlarımızdan",
+    "stem": "orman",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 294,
+    "surface": "ormanlarımızda",
+    "stem": "orman",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 295,
+    "surface": "ormanlardan",
+    "stem": "orman",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 296,
+    "surface": "çiçekler",
+    "stem": "çiçek",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 297,
+    "surface": "çiçekten",
+    "stem": "çiçek",
+    "expected_suffixes": [
+      "ten"
+    ]
+  },
+  {
+    "id": 298,
+    "surface": "çiçekte",
+    "stem": "çiçek",
+    "expected_suffixes": [
+      "te"
+    ]
+  },
+  {
+    "id": 299,
+    "surface": "çiçekin",
+    "stem": "çiçek",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 300,
+    "surface": "çiçeki",
+    "stem": "çiçek",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 301,
+    "surface": "çiçeke",
+    "stem": "çiçek",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 302,
+    "surface": "çiçeklerimizden",
+    "stem": "çiçek",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 303,
+    "surface": "çiçeklerimizde",
+    "stem": "çiçek",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 304,
+    "surface": "çiçeklerden",
+    "stem": "çiçek",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 305,
+    "surface": "sesler",
+    "stem": "ses",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 306,
+    "surface": "sesten",
+    "stem": "ses",
+    "expected_suffixes": [
+      "ten"
+    ]
+  },
+  {
+    "id": 307,
+    "surface": "seste",
+    "stem": "ses",
+    "expected_suffixes": [
+      "te"
+    ]
+  },
+  {
+    "id": 308,
+    "surface": "sesin",
+    "stem": "ses",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 309,
+    "surface": "sesi",
+    "stem": "ses",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 310,
+    "surface": "sese",
+    "stem": "ses",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 311,
+    "surface": "seslerimizden",
+    "stem": "ses",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 312,
+    "surface": "seslerimizde",
+    "stem": "ses",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 313,
+    "surface": "seslerden",
+    "stem": "ses",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 314,
+    "surface": "renkler",
+    "stem": "renk",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 315,
+    "surface": "renkten",
+    "stem": "renk",
+    "expected_suffixes": [
+      "ten"
+    ]
+  },
+  {
+    "id": 316,
+    "surface": "renkte",
+    "stem": "renk",
+    "expected_suffixes": [
+      "te"
+    ]
+  },
+  {
+    "id": 317,
+    "surface": "renkin",
+    "stem": "renk",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 318,
+    "surface": "renki",
+    "stem": "renk",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 319,
+    "surface": "renke",
+    "stem": "renk",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 320,
+    "surface": "renklerimizden",
+    "stem": "renk",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 321,
+    "surface": "renklerimizde",
+    "stem": "renk",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 322,
+    "surface": "renklerden",
+    "stem": "renk",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 323,
+    "surface": "geceler",
+    "stem": "gece",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 324,
+    "surface": "geceden",
+    "stem": "gece",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 325,
+    "surface": "gecede",
+    "stem": "gece",
+    "expected_suffixes": [
+      "de"
+    ]
+  },
+  {
+    "id": 326,
+    "surface": "gecenin",
+    "stem": "gece",
+    "expected_suffixes": [
+      "nin"
+    ]
+  },
+  {
+    "id": 327,
+    "surface": "geceyi",
+    "stem": "gece",
+    "expected_suffixes": [
+      "yi"
+    ]
+  },
+  {
+    "id": 328,
+    "surface": "geceye",
+    "stem": "gece",
+    "expected_suffixes": [
+      "ye"
+    ]
+  },
+  {
+    "id": 329,
+    "surface": "gecelerimizden",
+    "stem": "gece",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 330,
+    "surface": "gecelerimizde",
+    "stem": "gece",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 331,
+    "surface": "gecelerden",
+    "stem": "gece",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 332,
+    "surface": "sabahlar",
+    "stem": "sabah",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 333,
+    "surface": "sabahtan",
+    "stem": "sabah",
+    "expected_suffixes": [
+      "tan"
+    ]
+  },
+  {
+    "id": 334,
+    "surface": "sabahta",
+    "stem": "sabah",
+    "expected_suffixes": [
+      "ta"
+    ]
+  },
+  {
+    "id": 335,
+    "surface": "sabahın",
+    "stem": "sabah",
+    "expected_suffixes": [
+      "ın"
+    ]
+  },
+  {
+    "id": 336,
+    "surface": "sabahı",
+    "stem": "sabah",
+    "expected_suffixes": [
+      "ı"
+    ]
+  },
+  {
+    "id": 337,
+    "surface": "sabaha",
+    "stem": "sabah",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 338,
+    "surface": "sabahlarımızdan",
+    "stem": "sabah",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 339,
+    "surface": "sabahlarımızda",
+    "stem": "sabah",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 340,
+    "surface": "sabahlardan",
+    "stem": "sabah",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 341,
+    "surface": "akşamlar",
+    "stem": "akşam",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 342,
+    "surface": "akşamdan",
+    "stem": "akşam",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 343,
+    "surface": "akşamda",
+    "stem": "akşam",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 344,
+    "surface": "akşamın",
+    "stem": "akşam",
+    "expected_suffixes": [
+      "ın"
+    ]
+  },
+  {
+    "id": 345,
+    "surface": "akşamı",
+    "stem": "akşam",
+    "expected_suffixes": [
+      "ı"
+    ]
+  },
+  {
+    "id": 346,
+    "surface": "akşama",
+    "stem": "akşam",
+    "expected_suffixes": [
+      "a"
+    ]
+  },
+  {
+    "id": 347,
+    "surface": "akşamlarımızdan",
+    "stem": "akşam",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "dan"
+    ]
+  },
+  {
+    "id": 348,
+    "surface": "akşamlarımızda",
+    "stem": "akşam",
+    "expected_suffixes": [
+      "lar",
+      "ımız",
+      "da"
+    ]
+  },
+  {
+    "id": 349,
+    "surface": "akşamlardan",
+    "stem": "akşam",
+    "expected_suffixes": [
+      "lar",
+      "dan"
+    ]
+  },
+  {
+    "id": 350,
+    "surface": "yemekler",
+    "stem": "yemek",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 351,
+    "surface": "yemekten",
+    "stem": "yemek",
+    "expected_suffixes": [
+      "ten"
+    ]
+  },
+  {
+    "id": 352,
+    "surface": "yemekte",
+    "stem": "yemek",
+    "expected_suffixes": [
+      "te"
+    ]
+  },
+  {
+    "id": 353,
+    "surface": "yemekin",
+    "stem": "yemek",
+    "expected_suffixes": [
+      "in"
+    ]
+  },
+  {
+    "id": 354,
+    "surface": "yemeki",
+    "stem": "yemek",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 355,
+    "surface": "yemeke",
+    "stem": "yemek",
+    "expected_suffixes": [
+      "e"
+    ]
+  },
+  {
+    "id": 356,
+    "surface": "yemeklerimizden",
+    "stem": "yemek",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "den"
+    ]
+  },
+  {
+    "id": 357,
+    "surface": "yemeklerimizde",
+    "stem": "yemek",
+    "expected_suffixes": [
+      "ler",
+      "imiz",
+      "de"
+    ]
+  },
+  {
+    "id": 358,
+    "surface": "yemeklerden",
+    "stem": "yemek",
+    "expected_suffixes": [
+      "ler",
+      "den"
+    ]
+  },
+  {
+    "id": 359,
+    "surface": "ekmekler",
+    "stem": "ekmek",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 360,
+    "surface": "ekmekten",
+    "stem": "ekmek",
+    "expected_suffixes": [
+      "ten"
+    ]
+  },
+  {
+    "id": 361,
+    "surface": "yazıyor",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "ıyor"
+    ]
+  },
+  {
+    "id": 362,
+    "surface": "yazdı",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "dı"
+    ]
+  },
+  {
+    "id": 363,
+    "surface": "yazmış",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "mış"
+    ]
+  },
+  {
+    "id": 364,
+    "surface": "yazacak",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "acak"
+    ]
+  },
+  {
+    "id": 365,
+    "surface": "yazmadı",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "ma",
+      "dı"
+    ]
+  },
+  {
+    "id": 366,
+    "surface": "yazmaıyor",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "ma",
+      "ıyor"
+    ]
+  },
+  {
+    "id": 367,
+    "surface": "yazsa",
+    "stem": "yaz",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 368,
+    "surface": "geliyor",
+    "stem": "gel",
+    "expected_suffixes": [
+      "iyor"
+    ]
+  },
+  {
+    "id": 369,
+    "surface": "geldi",
+    "stem": "gel",
+    "expected_suffixes": [
+      "di"
+    ]
+  },
+  {
+    "id": 370,
+    "surface": "gelmiş",
+    "stem": "gel",
+    "expected_suffixes": [
+      "miş"
+    ]
+  },
+  {
+    "id": 371,
+    "surface": "gelecek",
+    "stem": "gel",
+    "expected_suffixes": [
+      "ecek"
+    ]
+  },
+  {
+    "id": 372,
+    "surface": "gelmedi",
+    "stem": "gel",
+    "expected_suffixes": [
+      "me",
+      "di"
+    ]
+  },
+  {
+    "id": 373,
+    "surface": "gelmeiyor",
+    "stem": "gel",
+    "expected_suffixes": [
+      "me",
+      "iyor"
+    ]
+  },
+  {
+    "id": 374,
+    "surface": "gelse",
+    "stem": "gel",
+    "expected_suffixes": [
+      "se"
+    ]
+  },
+  {
+    "id": 375,
+    "surface": "gitiyor",
+    "stem": "git",
+    "expected_suffixes": [
+      "iyor"
+    ]
+  },
+  {
+    "id": 376,
+    "surface": "gitti",
+    "stem": "git",
+    "expected_suffixes": [
+      "ti"
+    ]
+  },
+  {
+    "id": 377,
+    "surface": "gitmiş",
+    "stem": "git",
+    "expected_suffixes": [
+      "miş"
+    ]
+  },
+  {
+    "id": 378,
+    "surface": "gitecek",
+    "stem": "git",
+    "expected_suffixes": [
+      "ecek"
+    ]
+  },
+  {
+    "id": 379,
+    "surface": "gitmeti",
+    "stem": "git",
+    "expected_suffixes": [
+      "me",
+      "ti"
+    ]
+  },
+  {
+    "id": 380,
+    "surface": "gitmeiyor",
+    "stem": "git",
+    "expected_suffixes": [
+      "me",
+      "iyor"
+    ]
+  },
+  {
+    "id": 381,
+    "surface": "gitse",
+    "stem": "git",
+    "expected_suffixes": [
+      "se"
+    ]
+  },
+  {
+    "id": 382,
+    "surface": "okuuyor",
+    "stem": "oku",
+    "expected_suffixes": [
+      "uyor"
+    ]
+  },
+  {
+    "id": 383,
+    "surface": "okudu",
+    "stem": "oku",
+    "expected_suffixes": [
+      "du"
+    ]
+  },
+  {
+    "id": 384,
+    "surface": "okumuş",
+    "stem": "oku",
+    "expected_suffixes": [
+      "muş"
+    ]
+  },
+  {
+    "id": 385,
+    "surface": "okuacak",
+    "stem": "oku",
+    "expected_suffixes": [
+      "acak"
+    ]
+  },
+  {
+    "id": 386,
+    "surface": "okumadu",
+    "stem": "oku",
+    "expected_suffixes": [
+      "ma",
+      "du"
+    ]
+  },
+  {
+    "id": 387,
+    "surface": "okumauyor",
+    "stem": "oku",
+    "expected_suffixes": [
+      "ma",
+      "uyor"
+    ]
+  },
+  {
+    "id": 388,
+    "surface": "okusa",
+    "stem": "oku",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 389,
+    "surface": "görüyor",
+    "stem": "gör",
+    "expected_suffixes": [
+      "üyor"
+    ]
+  },
+  {
+    "id": 390,
+    "surface": "gördü",
+    "stem": "gör",
+    "expected_suffixes": [
+      "dü"
+    ]
+  },
+  {
+    "id": 391,
+    "surface": "görmüş",
+    "stem": "gör",
+    "expected_suffixes": [
+      "müş"
+    ]
+  },
+  {
+    "id": 392,
+    "surface": "görecek",
+    "stem": "gör",
+    "expected_suffixes": [
+      "ecek"
+    ]
+  },
+  {
+    "id": 393,
+    "surface": "görmedü",
+    "stem": "gör",
+    "expected_suffixes": [
+      "me",
+      "dü"
+    ]
+  },
+  {
+    "id": 394,
+    "surface": "görmeüyor",
+    "stem": "gör",
+    "expected_suffixes": [
+      "me",
+      "üyor"
+    ]
+  },
+  {
+    "id": 395,
+    "surface": "görse",
+    "stem": "gör",
+    "expected_suffixes": [
+      "se"
+    ]
+  },
+  {
+    "id": 396,
+    "surface": "alıyor",
+    "stem": "al",
+    "expected_suffixes": [
+      "ıyor"
+    ]
+  },
+  {
+    "id": 397,
+    "surface": "aldı",
+    "stem": "al",
+    "expected_suffixes": [
+      "dı"
+    ]
+  },
+  {
+    "id": 398,
+    "surface": "almış",
+    "stem": "al",
+    "expected_suffixes": [
+      "mış"
+    ]
+  },
+  {
+    "id": 399,
+    "surface": "alacak",
+    "stem": "al",
+    "expected_suffixes": [
+      "acak"
+    ]
+  },
+  {
+    "id": 400,
+    "surface": "almadı",
+    "stem": "al",
+    "expected_suffixes": [
+      "ma",
+      "dı"
+    ]
+  },
+  {
+    "id": 401,
+    "surface": "almaıyor",
+    "stem": "al",
+    "expected_suffixes": [
+      "ma",
+      "ıyor"
+    ]
+  },
+  {
+    "id": 402,
+    "surface": "alsa",
+    "stem": "al",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 403,
+    "surface": "veriyor",
+    "stem": "ver",
+    "expected_suffixes": [
+      "iyor"
+    ]
+  },
+  {
+    "id": 404,
+    "surface": "verdi",
+    "stem": "ver",
+    "expected_suffixes": [
+      "di"
+    ]
+  },
+  {
+    "id": 405,
+    "surface": "vermiş",
+    "stem": "ver",
+    "expected_suffixes": [
+      "miş"
+    ]
+  },
+  {
+    "id": 406,
+    "surface": "verecek",
+    "stem": "ver",
+    "expected_suffixes": [
+      "ecek"
+    ]
+  },
+  {
+    "id": 407,
+    "surface": "vermedi",
+    "stem": "ver",
+    "expected_suffixes": [
+      "me",
+      "di"
+    ]
+  },
+  {
+    "id": 408,
+    "surface": "vermeiyor",
+    "stem": "ver",
+    "expected_suffixes": [
+      "me",
+      "iyor"
+    ]
+  },
+  {
+    "id": 409,
+    "surface": "verse",
+    "stem": "ver",
+    "expected_suffixes": [
+      "se"
+    ]
+  },
+  {
+    "id": 410,
+    "surface": "biliyor",
+    "stem": "bil",
+    "expected_suffixes": [
+      "iyor"
+    ]
+  },
+  {
+    "id": 411,
+    "surface": "bildi",
+    "stem": "bil",
+    "expected_suffixes": [
+      "di"
+    ]
+  },
+  {
+    "id": 412,
+    "surface": "bilmiş",
+    "stem": "bil",
+    "expected_suffixes": [
+      "miş"
+    ]
+  },
+  {
+    "id": 413,
+    "surface": "bilecek",
+    "stem": "bil",
+    "expected_suffixes": [
+      "ecek"
+    ]
+  },
+  {
+    "id": 414,
+    "surface": "bilmedi",
+    "stem": "bil",
+    "expected_suffixes": [
+      "me",
+      "di"
+    ]
+  },
+  {
+    "id": 415,
+    "surface": "bilmeiyor",
+    "stem": "bil",
+    "expected_suffixes": [
+      "me",
+      "iyor"
+    ]
+  },
+  {
+    "id": 416,
+    "surface": "bilse",
+    "stem": "bil",
+    "expected_suffixes": [
+      "se"
+    ]
+  },
+  {
+    "id": 417,
+    "surface": "seviyor",
+    "stem": "sev",
+    "expected_suffixes": [
+      "iyor"
+    ]
+  },
+  {
+    "id": 418,
+    "surface": "sevdi",
+    "stem": "sev",
+    "expected_suffixes": [
+      "di"
+    ]
+  },
+  {
+    "id": 419,
+    "surface": "sevmiş",
+    "stem": "sev",
+    "expected_suffixes": [
+      "miş"
+    ]
+  },
+  {
+    "id": 420,
+    "surface": "sevecek",
+    "stem": "sev",
+    "expected_suffixes": [
+      "ecek"
+    ]
+  },
+  {
+    "id": 421,
+    "surface": "sevmedi",
+    "stem": "sev",
+    "expected_suffixes": [
+      "me",
+      "di"
+    ]
+  },
+  {
+    "id": 422,
+    "surface": "sevmeiyor",
+    "stem": "sev",
+    "expected_suffixes": [
+      "me",
+      "iyor"
+    ]
+  },
+  {
+    "id": 423,
+    "surface": "sevse",
+    "stem": "sev",
+    "expected_suffixes": [
+      "se"
+    ]
+  },
+  {
+    "id": 424,
+    "surface": "yapıyor",
+    "stem": "yap",
+    "expected_suffixes": [
+      "ıyor"
+    ]
+  },
+  {
+    "id": 425,
+    "surface": "yaptı",
+    "stem": "yap",
+    "expected_suffixes": [
+      "tı"
+    ]
+  },
+  {
+    "id": 426,
+    "surface": "yapmış",
+    "stem": "yap",
+    "expected_suffixes": [
+      "mış"
+    ]
+  },
+  {
+    "id": 427,
+    "surface": "yapacak",
+    "stem": "yap",
+    "expected_suffixes": [
+      "acak"
+    ]
+  },
+  {
+    "id": 428,
+    "surface": "yapmatı",
+    "stem": "yap",
+    "expected_suffixes": [
+      "ma",
+      "tı"
+    ]
+  },
+  {
+    "id": 429,
+    "surface": "yapmaıyor",
+    "stem": "yap",
+    "expected_suffixes": [
+      "ma",
+      "ıyor"
+    ]
+  },
+  {
+    "id": 430,
+    "surface": "yapsa",
+    "stem": "yap",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 431,
+    "surface": "çalışıyor",
+    "stem": "çalış",
+    "expected_suffixes": [
+      "ıyor"
+    ]
+  },
+  {
+    "id": 432,
+    "surface": "çalıştı",
+    "stem": "çalış",
+    "expected_suffixes": [
+      "tı"
+    ]
+  },
+  {
+    "id": 433,
+    "surface": "çalışmış",
+    "stem": "çalış",
+    "expected_suffixes": [
+      "mış"
+    ]
+  },
+  {
+    "id": 434,
+    "surface": "çalışacak",
+    "stem": "çalış",
+    "expected_suffixes": [
+      "acak"
+    ]
+  },
+  {
+    "id": 435,
+    "surface": "çalışmatı",
+    "stem": "çalış",
+    "expected_suffixes": [
+      "ma",
+      "tı"
+    ]
+  },
+  {
+    "id": 436,
+    "surface": "çalışmaıyor",
+    "stem": "çalış",
+    "expected_suffixes": [
+      "ma",
+      "ıyor"
+    ]
+  },
+  {
+    "id": 437,
+    "surface": "çalışsa",
+    "stem": "çalış",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 438,
+    "surface": "konuşuyor",
+    "stem": "konuş",
+    "expected_suffixes": [
+      "uyor"
+    ]
+  },
+  {
+    "id": 439,
+    "surface": "konuştu",
+    "stem": "konuş",
+    "expected_suffixes": [
+      "tu"
+    ]
+  },
+  {
+    "id": 440,
+    "surface": "konuşmuş",
+    "stem": "konuş",
+    "expected_suffixes": [
+      "muş"
+    ]
+  },
+  {
+    "id": 441,
+    "surface": "konuşacak",
+    "stem": "konuş",
+    "expected_suffixes": [
+      "acak"
+    ]
+  },
+  {
+    "id": 442,
+    "surface": "konuşmatu",
+    "stem": "konuş",
+    "expected_suffixes": [
+      "ma",
+      "tu"
+    ]
+  },
+  {
+    "id": 443,
+    "surface": "konuşmauyor",
+    "stem": "konuş",
+    "expected_suffixes": [
+      "ma",
+      "uyor"
+    ]
+  },
+  {
+    "id": 444,
+    "surface": "konuşsa",
+    "stem": "konuş",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 445,
+    "surface": "araıyor",
+    "stem": "ara",
+    "expected_suffixes": [
+      "ıyor"
+    ]
+  },
+  {
+    "id": 446,
+    "surface": "aradı",
+    "stem": "ara",
+    "expected_suffixes": [
+      "dı"
+    ]
+  },
+  {
+    "id": 447,
+    "surface": "aramış",
+    "stem": "ara",
+    "expected_suffixes": [
+      "mış"
+    ]
+  },
+  {
+    "id": 448,
+    "surface": "araacak",
+    "stem": "ara",
+    "expected_suffixes": [
+      "acak"
+    ]
+  },
+  {
+    "id": 449,
+    "surface": "aramadı",
+    "stem": "ara",
+    "expected_suffixes": [
+      "ma",
+      "dı"
+    ]
+  },
+  {
+    "id": 450,
+    "surface": "aramaıyor",
+    "stem": "ara",
+    "expected_suffixes": [
+      "ma",
+      "ıyor"
+    ]
+  },
+  {
+    "id": 451,
+    "surface": "arasa",
+    "stem": "ara",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 452,
+    "surface": "buluyor",
+    "stem": "bul",
+    "expected_suffixes": [
+      "uyor"
+    ]
+  },
+  {
+    "id": 453,
+    "surface": "buldu",
+    "stem": "bul",
+    "expected_suffixes": [
+      "du"
+    ]
+  },
+  {
+    "id": 454,
+    "surface": "bulmuş",
+    "stem": "bul",
+    "expected_suffixes": [
+      "muş"
+    ]
+  },
+  {
+    "id": 455,
+    "surface": "bulacak",
+    "stem": "bul",
+    "expected_suffixes": [
+      "acak"
+    ]
+  },
+  {
+    "id": 456,
+    "surface": "bulmadu",
+    "stem": "bul",
+    "expected_suffixes": [
+      "ma",
+      "du"
+    ]
+  },
+  {
+    "id": 457,
+    "surface": "bulmauyor",
+    "stem": "bul",
+    "expected_suffixes": [
+      "ma",
+      "uyor"
+    ]
+  },
+  {
+    "id": 458,
+    "surface": "bulsa",
+    "stem": "bul",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 459,
+    "surface": "duruyor",
+    "stem": "dur",
+    "expected_suffixes": [
+      "uyor"
+    ]
+  },
+  {
+    "id": 460,
+    "surface": "durdu",
+    "stem": "dur",
+    "expected_suffixes": [
+      "du"
+    ]
+  },
+  {
+    "id": 461,
+    "surface": "evci",
+    "stem": "ev",
+    "expected_suffixes": [
+      "ci"
+    ]
+  },
+  {
+    "id": 462,
+    "surface": "evlik",
+    "stem": "ev",
+    "expected_suffixes": [
+      "lik"
+    ]
+  },
+  {
+    "id": 463,
+    "surface": "evli",
+    "stem": "ev",
+    "expected_suffixes": [
+      "li"
+    ]
+  },
+  {
+    "id": 464,
+    "surface": "evsiz",
+    "stem": "ev",
+    "expected_suffixes": [
+      "siz"
+    ]
+  },
+  {
+    "id": 465,
+    "surface": "evdeş",
+    "stem": "ev",
+    "expected_suffixes": [
+      "deş"
+    ]
+  },
+  {
+    "id": 466,
+    "surface": "evsel",
+    "stem": "ev",
+    "expected_suffixes": [
+      "sel"
+    ]
+  },
+  {
+    "id": 467,
+    "surface": "evim",
+    "stem": "ev",
+    "expected_suffixes": [
+      "im"
+    ]
+  },
+  {
+    "id": 468,
+    "surface": "kitapçı",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "çı"
+    ]
+  },
+  {
+    "id": 469,
+    "surface": "kitaplık",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lık"
+    ]
+  },
+  {
+    "id": 470,
+    "surface": "kitaplı",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "lı"
+    ]
+  },
+  {
+    "id": 471,
+    "surface": "kitapsız",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "sız"
+    ]
+  },
+  {
+    "id": 472,
+    "surface": "kitapdaş",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "daş"
+    ]
+  },
+  {
+    "id": 473,
+    "surface": "kitapsal",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "sal"
+    ]
+  },
+  {
+    "id": 474,
+    "surface": "kitapım",
+    "stem": "kitap",
+    "expected_suffixes": [
+      "ım"
+    ]
+  },
+  {
+    "id": 475,
+    "surface": "okulcu",
+    "stem": "okul",
+    "expected_suffixes": [
+      "cu"
+    ]
+  },
+  {
+    "id": 476,
+    "surface": "okulluk",
+    "stem": "okul",
+    "expected_suffixes": [
+      "luk"
+    ]
+  },
+  {
+    "id": 477,
+    "surface": "okullu",
+    "stem": "okul",
+    "expected_suffixes": [
+      "lu"
+    ]
+  },
+  {
+    "id": 478,
+    "surface": "okulsuz",
+    "stem": "okul",
+    "expected_suffixes": [
+      "suz"
+    ]
+  },
+  {
+    "id": 479,
+    "surface": "okuldaş",
+    "stem": "okul",
+    "expected_suffixes": [
+      "daş"
+    ]
+  },
+  {
+    "id": 480,
+    "surface": "okulsal",
+    "stem": "okul",
+    "expected_suffixes": [
+      "sal"
+    ]
+  },
+  {
+    "id": 481,
+    "surface": "okulum",
+    "stem": "okul",
+    "expected_suffixes": [
+      "um"
+    ]
+  },
+  {
+    "id": 482,
+    "surface": "şehirci",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "ci"
+    ]
+  },
+  {
+    "id": 483,
+    "surface": "şehirlik",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "lik"
+    ]
+  },
+  {
+    "id": 484,
+    "surface": "şehirli",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "li"
+    ]
+  },
+  {
+    "id": 485,
+    "surface": "şehirsiz",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "siz"
+    ]
+  },
+  {
+    "id": 486,
+    "surface": "şehirdeş",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "deş"
+    ]
+  },
+  {
+    "id": 487,
+    "surface": "şehirsel",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "sel"
+    ]
+  },
+  {
+    "id": 488,
+    "surface": "şehirim",
+    "stem": "şehir",
+    "expected_suffixes": [
+      "im"
+    ]
+  },
+  {
+    "id": 489,
+    "surface": "arabacı",
+    "stem": "araba",
+    "expected_suffixes": [
+      "cı"
+    ]
+  },
+  {
+    "id": 490,
+    "surface": "arabalık",
+    "stem": "araba",
+    "expected_suffixes": [
+      "lık"
+    ]
+  },
+  {
+    "id": 491,
+    "surface": "arabalı",
+    "stem": "araba",
+    "expected_suffixes": [
+      "lı"
+    ]
+  },
+  {
+    "id": 492,
+    "surface": "arabasız",
+    "stem": "araba",
+    "expected_suffixes": [
+      "sız"
+    ]
+  },
+  {
+    "id": 493,
+    "surface": "arabadaş",
+    "stem": "araba",
+    "expected_suffixes": [
+      "daş"
+    ]
+  },
+  {
+    "id": 494,
+    "surface": "arabasal",
+    "stem": "araba",
+    "expected_suffixes": [
+      "sal"
+    ]
+  },
+  {
+    "id": 495,
+    "surface": "arabaım",
+    "stem": "araba",
+    "expected_suffixes": [
+      "ım"
+    ]
+  },
+  {
+    "id": 496,
+    "surface": "kapıcı",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "cı"
+    ]
+  },
+  {
+    "id": 497,
+    "surface": "kapılık",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "lık"
+    ]
+  },
+  {
+    "id": 498,
+    "surface": "kapılı",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "lı"
+    ]
+  },
+  {
+    "id": 499,
+    "surface": "kapısız",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "sız"
+    ]
+  },
+  {
+    "id": 500,
+    "surface": "kapıdaş",
+    "stem": "kapı",
+    "expected_suffixes": [
+      "daş"
+    ]
+  }
+]

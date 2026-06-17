@@ -1,0 +1,39 @@
+{
+  "version": "1.0",
+  "description": "Universal Turkic morphology feature inventory used for cross-language normalization.",
+  "features": [
+    "NOUN",
+    "VERB",
+    "ADJECTIVE",
+    "PLURAL",
+    "POSS_1SG",
+    "POSS_2SG",
+    "POSS_3SG",
+    "POSS_1PL",
+    "POSS_2PL",
+    "POSS_3PL",
+    "DATIVE",
+    "ACCUSATIVE",
+    "LOCATIVE",
+    "ABLATIVE",
+    "GENITIVE",
+    "PAST",
+    "PRESENT",
+    "FUTURE",
+    "CONVERB",
+    "CONDITIONAL",
+    "NEGATIVE",
+    "DERIVATIONAL"
+  ],
+  "example_equivalence": {
+    "uz": "kitoblarimizdan",
+    "tr": "kitaplar?m?zdan",
+    "kk": "???????????????",
+    "ug": "???????????????",
+    "normalized_features": [
+      "PLURAL",
+      "POSS_1PL",
+      "ABLATIVE"
+    ]
+  }
+}

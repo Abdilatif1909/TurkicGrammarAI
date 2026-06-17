@@ -1,0 +1,138 @@
+[
+  {
+    "language": "uzbek",
+    "records": 14902,
+    "schema": [
+      "word",
+      "lemma",
+      "root",
+      "language",
+      "pos",
+      "ipa",
+      "meaning",
+      "frequency",
+      "source",
+      "notes"
+    ],
+    "sha256": "668d9dee9316687c4b8625a17530fe770937431f738691d158cf63e4146483c2"
+  },
+  {
+    "language": "turkish",
+    "records": 14905,
+    "schema": [
+      "word",
+      "lemma",
+      "root",
+      "language",
+      "pos",
+      "ipa",
+      "meaning",
+      "frequency",
+      "source",
+      "notes"
+    ],
+    "sha256": "d9cb6e84554fe3a56708844d86fa70f24142f4048dae22b1b43af2ff0b0a47d7"
+  },
+  {
+    "language": "azerbaijani",
+    "records": 11903,
+    "schema": [
+      "word",
+      "lemma",
+      "root",
+      "language",
+      "pos",
+      "ipa",
+      "meaning",
+      "frequency",
+      "source",
+      "notes"
+    ],
+    "sha256": "643ac3ad72be03838c2f4397af8e402fcb6f5588090f57ca172baee95a0b93aa"
+  },
+  {
+    "language": "kazakh",
+    "records": 11904,
+    "schema": [
+      "word",
+      "lemma",
+      "root",
+      "language",
+      "pos",
+      "ipa",
+      "meaning",
+      "frequency",
+      "source",
+      "notes"
+    ],
+    "sha256": "8ab27fe24a65ef0f5b928b83aa045cf386777e4110870fd2d9bbcfb43e2cb53b"
+  },
+  {
+    "language": "kyrgyz",
+    "records": 11905,
+    "schema": [
+      "word",
+      "lemma",
+      "root",
+      "language",
+      "pos",
+      "ipa",
+      "meaning",
+      "frequency",
+      "source",
+      "notes"
+    ],
+    "sha256": "3c263077791cfaa5e687e734e24064f7c95e2c6b760d017e133c2c9439463ff4"
+  },
+  {
+    "language": "turkmen",
+    "records": 11904,
+    "schema": [
+      "word",
+      "lemma",
+      "root",
+      "language",
+      "pos",
+      "ipa",
+      "meaning",
+      "frequency",
+      "source",
+      "notes"
+    ],
+    "sha256": "2561ea3dba16651f30dde60d1ed56c1a52e817931f9ee3680bd5bcb132f97509"
+  },
+  {
+    "language": "uyghur",
+    "records": 11679,
+    "schema": [
+      "word",
+      "lemma",
+      "root",
+      "language",
+      "pos",
+      "ipa",
+      "meaning",
+      "frequency",
+      "source",
+      "notes"
+    ],
+    "sha256": "dacbfa2fee248d4c00fc9a15037f34845d88ed6e8f866e604e5d5a18f5b101a4"
+  },
+  {
+    "language": "old_turkic",
+    "records": 10928,
+    "schema": [
+      "word",
+      "lemma",
+      "root",
+      "language",
+      "pos",
+      "ipa",
+      "meaning",
+      "frequency",
+      "source",
+      "notes"
+    ],
+    "sha256": "09eeca0eb1510b732b18fda67702d136ba6192a0c8bd834a17d5edb4165b0408"
+  }
+]

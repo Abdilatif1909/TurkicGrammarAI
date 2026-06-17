@@ -1,0 +1,7722 @@
+[
+  {
+    "id": 1,
+    "surface": "san'atlarara",
+    "expected_root": "san'at",
+    "expected_suffixes": [
+      "larara"
+    ]
+  },
+  {
+    "id": 2,
+    "surface": "yo'l",
+    "expected_root": "yo'l",
+    "expected_suffixes": []
+  },
+  {
+    "id": 3,
+    "surface": "g'allaingdaagadeni",
+    "expected_root": "g'alla",
+    "expected_suffixes": [
+      "ingdaa",
+      "gadeni"
+    ]
+  },
+  {
+    "id": 4,
+    "surface": "tug'ilish",
+    "expected_root": "tug'ilish",
+    "expected_suffixes": []
+  },
+  {
+    "id": 5,
+    "surface": "matematikanidirlergai",
+    "expected_root": "matematika",
+    "expected_suffixes": [
+      "nidir",
+      "lergai"
+    ]
+  },
+  {
+    "id": 6,
+    "surface": "adabiyotma",
+    "expected_root": "adabiyot",
+    "expected_suffixes": [
+      "ma"
+    ]
+  },
+  {
+    "id": 7,
+    "surface": "savdo",
+    "expected_root": "savdo",
+    "expected_suffixes": []
+  },
+  {
+    "id": 8,
+    "surface": "xodimishvor",
+    "expected_root": "xodim",
+    "expected_suffixes": [
+      "ishvor"
+    ]
+  },
+  {
+    "id": 9,
+    "surface": "bandlikisai",
+    "expected_root": "bandlik",
+    "expected_suffixes": [
+      "isai"
+    ]
+  },
+  {
+    "id": 10,
+    "surface": "otalariii",
+    "expected_root": "ota",
+    "expected_suffixes": [
+      "lariii"
+    ]
+  },
+  {
+    "id": 11,
+    "surface": "sotuvchilaruva",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "laruva"
+    ]
+  },
+  {
+    "id": 12,
+    "surface": "yurakmoqdadan",
+    "expected_root": "yurak",
+    "expected_suffixes": [
+      "moqdadan"
+    ]
+  },
+  {
+    "id": 13,
+    "surface": "bog'ninguvchi",
+    "expected_root": "bog'",
+    "expected_suffixes": [
+      "ninguvchi"
+    ]
+  },
+  {
+    "id": 14,
+    "surface": "insoniyatimmasi",
+    "expected_root": "insoniyat",
+    "expected_suffixes": [
+      "immasi"
+    ]
+  },
+  {
+    "id": 15,
+    "surface": "sayrmagan",
+    "expected_root": "sayr",
+    "expected_suffixes": [
+      "magan"
+    ]
+  },
+  {
+    "id": 16,
+    "surface": "shifoxonaingiya",
+    "expected_root": "shifoxona",
+    "expected_suffixes": [
+      "ingiya"
+    ]
+  },
+  {
+    "id": 17,
+    "surface": "madaniyat",
+    "expected_root": "madaniyat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 18,
+    "surface": "sotuvchiuvish",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "uvish"
+    ]
+  },
+  {
+    "id": 19,
+    "surface": "gaz",
+    "expected_root": "gaz",
+    "expected_suffixes": []
+  },
+  {
+    "id": 20,
+    "surface": "qalb",
+    "expected_root": "qalb",
+    "expected_suffixes": []
+  },
+  {
+    "id": 21,
+    "surface": "otgamassadir",
+    "expected_root": "ot",
+    "expected_suffixes": [
+      "gamas",
+      "sadir"
+    ]
+  },
+  {
+    "id": 22,
+    "surface": "suv",
+    "expected_root": "suv",
+    "expected_suffixes": []
+  },
+  {
+    "id": 23,
+    "surface": "mashinalarroq",
+    "expected_root": "mashina",
+    "expected_suffixes": [
+      "larroq"
+    ]
+  },
+  {
+    "id": 24,
+    "surface": "ma'ruzachiimgani",
+    "expected_root": "ma'ruzachi",
+    "expected_suffixes": [
+      "imgani"
+    ]
+  },
+  {
+    "id": 25,
+    "surface": "don",
+    "expected_root": "don",
+    "expected_suffixes": []
+  },
+  {
+    "id": 26,
+    "surface": "bemorchiar",
+    "expected_root": "bemor",
+    "expected_suffixes": [
+      "chiar"
+    ]
+  },
+  {
+    "id": 27,
+    "surface": "yoz",
+    "expected_root": "yoz",
+    "expected_suffixes": []
+  },
+  {
+    "id": 28,
+    "surface": "fermavora",
+    "expected_root": "ferma",
+    "expected_suffixes": [
+      "vora"
+    ]
+  },
+  {
+    "id": 29,
+    "surface": "g'allayorari",
+    "expected_root": "g'alla",
+    "expected_suffixes": [
+      "yorari"
+    ]
+  },
+  {
+    "id": 30,
+    "surface": "shifokorimden-(i)sh",
+    "expected_root": "shifokor",
+    "expected_suffixes": [
+      "imden",
+      "-(i)sh"
+    ]
+  },
+  {
+    "id": 31,
+    "surface": "tarixnia",
+    "expected_root": "tarix",
+    "expected_suffixes": [
+      "nia"
+    ]
+  },
+  {
+    "id": 32,
+    "surface": "yozqachiadiiyi",
+    "expected_root": "yoz",
+    "expected_suffixes": [
+      "qachia",
+      "diiyi"
+    ]
+  },
+  {
+    "id": 33,
+    "surface": "shartnomaliklar",
+    "expected_root": "shartnoma",
+    "expected_suffixes": [
+      "liklar"
+    ]
+  },
+  {
+    "id": 34,
+    "surface": "yoqilg'iarchiar",
+    "expected_root": "yoqilg'i",
+    "expected_suffixes": [
+      "ar",
+      "chiar"
+    ]
+  },
+  {
+    "id": 35,
+    "surface": "joyginadagama",
+    "expected_root": "joy",
+    "expected_suffixes": [
+      "ginada",
+      "gama"
+    ]
+  },
+  {
+    "id": 36,
+    "surface": "ismgamas",
+    "expected_root": "ism",
+    "expected_suffixes": [
+      "gamas"
+    ]
+  },
+  {
+    "id": 37,
+    "surface": "muallifim",
+    "expected_root": "muallif",
+    "expected_suffixes": [
+      "im"
+    ]
+  },
+  {
+    "id": 38,
+    "surface": "insonmagandi",
+    "expected_root": "inson",
+    "expected_suffixes": [
+      "magandi"
+    ]
+  },
+  {
+    "id": 39,
+    "surface": "madaniyatishvor",
+    "expected_root": "madaniyat",
+    "expected_suffixes": [
+      "ishvor"
+    ]
+  },
+  {
+    "id": 40,
+    "surface": "tilimizginacha",
+    "expected_root": "tilimiz",
+    "expected_suffixes": [
+      "gina",
+      "cha"
+    ]
+  },
+  {
+    "id": 41,
+    "surface": "uy-joy",
+    "expected_root": "uy-joy",
+    "expected_suffixes": []
+  },
+  {
+    "id": 42,
+    "surface": "nonvoyxona",
+    "expected_root": "nonvoyxona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 43,
+    "surface": "bemormalergandii",
+    "expected_root": "bemor",
+    "expected_suffixes": [
+      "maler",
+      "gandii"
+    ]
+  },
+  {
+    "id": 44,
+    "surface": "yillarimdana",
+    "expected_root": "yillar",
+    "expected_suffixes": [
+      "imdana"
+    ]
+  },
+  {
+    "id": 45,
+    "surface": "darajagina",
+    "expected_root": "daraja",
+    "expected_suffixes": [
+      "gina"
+    ]
+  },
+  {
+    "id": 46,
+    "surface": "sonditaa",
+    "expected_root": "son",
+    "expected_suffixes": [
+      "ditaa"
+    ]
+  },
+  {
+    "id": 47,
+    "surface": "universitetvor",
+    "expected_root": "universitet",
+    "expected_suffixes": [
+      "vor"
+    ]
+  },
+  {
+    "id": 48,
+    "surface": "sinfxona",
+    "expected_root": "sinfxona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 49,
+    "surface": "universitet",
+    "expected_root": "universitet",
+    "expected_suffixes": []
+  },
+  {
+    "id": 50,
+    "surface": "temiro'",
+    "expected_root": "temir",
+    "expected_suffixes": [
+      "o'"
+    ]
+  },
+  {
+    "id": 51,
+    "surface": "temirchiaruvi",
+    "expected_root": "temir",
+    "expected_suffixes": [
+      "chiar",
+      "uvi"
+    ]
+  },
+  {
+    "id": 52,
+    "surface": "odamlergingaa",
+    "expected_root": "odam",
+    "expected_suffixes": [
+      "ler",
+      "gingaa"
+    ]
+  },
+  {
+    "id": 53,
+    "surface": "kuno'",
+    "expected_root": "kun",
+    "expected_suffixes": [
+      "o'"
+    ]
+  },
+  {
+    "id": 54,
+    "surface": "kimyodalara",
+    "expected_root": "kimyo",
+    "expected_suffixes": [
+      "dalara"
+    ]
+  },
+  {
+    "id": 55,
+    "surface": "gullaro'saimaadi",
+    "expected_root": "gullar",
+    "expected_suffixes": [
+      "o'sai",
+      "maadi"
+    ]
+  },
+  {
+    "id": 56,
+    "surface": "dehqonlerning",
+    "expected_root": "dehqon",
+    "expected_suffixes": [
+      "lerning"
+    ]
+  },
+  {
+    "id": 57,
+    "surface": "dehqonqao'i",
+    "expected_root": "dehqon",
+    "expected_suffixes": [
+      "qao'i"
+    ]
+  },
+  {
+    "id": 58,
+    "surface": "shifoxona",
+    "expected_root": "shifoxona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 59,
+    "surface": "kun",
+    "expected_root": "kun",
+    "expected_suffixes": []
+  },
+  {
+    "id": 60,
+    "surface": "oymoqdasauviya",
+    "expected_root": "oy",
+    "expected_suffixes": [
+      "moqdasa",
+      "uviya"
+    ]
+  },
+  {
+    "id": 61,
+    "surface": "bol",
+    "expected_root": "bol",
+    "expected_suffixes": []
+  },
+  {
+    "id": 62,
+    "surface": "ilmdan",
+    "expected_root": "ilm",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 63,
+    "surface": "insonchi-larimtai",
+    "expected_root": "inson",
+    "expected_suffixes": [
+      "chi-lar",
+      "imtai"
+    ]
+  },
+  {
+    "id": 64,
+    "surface": "ismiyga",
+    "expected_root": "ism",
+    "expected_suffixes": [
+      "iyga"
+    ]
+  },
+  {
+    "id": 65,
+    "surface": "bemor",
+    "expected_root": "bemor",
+    "expected_suffixes": []
+  },
+  {
+    "id": 66,
+    "surface": "sifat",
+    "expected_root": "sifat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 67,
+    "surface": "kitob",
+    "expected_root": "kitob",
+    "expected_suffixes": []
+  },
+  {
+    "id": 68,
+    "surface": "fizikaleryorvora",
+    "expected_root": "fizika",
+    "expected_suffixes": [
+      "leryor",
+      "vora"
+    ]
+  },
+  {
+    "id": 69,
+    "surface": "dokondiruva",
+    "expected_root": "dokon",
+    "expected_suffixes": [
+      "diruva"
+    ]
+  },
+  {
+    "id": 70,
+    "surface": "oilaiy",
+    "expected_root": "oila",
+    "expected_suffixes": [
+      "iy"
+    ]
+  },
+  {
+    "id": 71,
+    "surface": "sotuvchiuvia",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "uvia"
+    ]
+  },
+  {
+    "id": 72,
+    "surface": "marosimimdira",
+    "expected_root": "marosim",
+    "expected_suffixes": [
+      "imdira"
+    ]
+  },
+  {
+    "id": 73,
+    "surface": "viloyatgan",
+    "expected_root": "viloyat",
+    "expected_suffixes": [
+      "gan"
+    ]
+  },
+  {
+    "id": 74,
+    "surface": "oila a'zoslarimaganimdaa",
+    "expected_root": "oila a'zos",
+    "expected_suffixes": [
+      "larimagan",
+      "imdaa"
+    ]
+  },
+  {
+    "id": 75,
+    "surface": "ofisar",
+    "expected_root": "ofis",
+    "expected_suffixes": [
+      "ar"
+    ]
+  },
+  {
+    "id": 76,
+    "surface": "nontaimalarichi",
+    "expected_root": "non",
+    "expected_suffixes": [
+      "taima",
+      "larichi"
+    ]
+  },
+  {
+    "id": 77,
+    "surface": "kitoblarmasuva",
+    "expected_root": "kitoblar",
+    "expected_suffixes": [
+      "masuva"
+    ]
+  },
+  {
+    "id": 78,
+    "surface": "kungaadiivordia",
+    "expected_root": "kun",
+    "expected_suffixes": [
+      "gaadii",
+      "vordia"
+    ]
+  },
+  {
+    "id": 79,
+    "surface": "sutli",
+    "expected_root": "sutli",
+    "expected_suffixes": []
+  },
+  {
+    "id": 80,
+    "surface": "to'lov",
+    "expected_root": "to'lov",
+    "expected_suffixes": []
+  },
+  {
+    "id": 81,
+    "surface": "sinfxonanimagan",
+    "expected_root": "sinfxona",
+    "expected_suffixes": [
+      "nimagan"
+    ]
+  },
+  {
+    "id": 82,
+    "surface": "yo'l",
+    "expected_root": "yo'l",
+    "expected_suffixes": []
+  },
+  {
+    "id": 83,
+    "surface": "sutma",
+    "expected_root": "sut",
+    "expected_suffixes": [
+      "ma"
+    ]
+  },
+  {
+    "id": 84,
+    "surface": "yo'ldamoqda",
+    "expected_root": "yo'l",
+    "expected_suffixes": [
+      "damoqda"
+    ]
+  },
+  {
+    "id": 85,
+    "surface": "konsertningma",
+    "expected_root": "konsert",
+    "expected_suffixes": [
+      "ningma"
+    ]
+  },
+  {
+    "id": 86,
+    "surface": "ta'limchii",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 87,
+    "surface": "elektring",
+    "expected_root": "elektr",
+    "expected_suffixes": [
+      "ing"
+    ]
+  },
+  {
+    "id": 88,
+    "surface": "bandlikninguvchigindaa",
+    "expected_root": "bandlik",
+    "expected_suffixes": [
+      "ninguvchi",
+      "gindaa"
+    ]
+  },
+  {
+    "id": 89,
+    "surface": "yo'l",
+    "expected_root": "yo'l",
+    "expected_suffixes": []
+  },
+  {
+    "id": 90,
+    "surface": "firmaimlikiishi",
+    "expected_root": "firma",
+    "expected_suffixes": [
+      "imlik",
+      "iishi"
+    ]
+  },
+  {
+    "id": 91,
+    "surface": "shartnomachauv",
+    "expected_root": "shartnoma",
+    "expected_suffixes": [
+      "chauv"
+    ]
+  },
+  {
+    "id": 92,
+    "surface": "kasaltaish",
+    "expected_root": "kasal",
+    "expected_suffixes": [
+      "taish"
+    ]
+  },
+  {
+    "id": 93,
+    "surface": "oilalik",
+    "expected_root": "oila",
+    "expected_suffixes": [
+      "lik"
+    ]
+  },
+  {
+    "id": 94,
+    "surface": "investitsiya",
+    "expected_root": "investitsiya",
+    "expected_suffixes": []
+  },
+  {
+    "id": 95,
+    "surface": "madaniyat",
+    "expected_root": "madaniyat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 96,
+    "surface": "bozorliklari",
+    "expected_root": "bozor",
+    "expected_suffixes": [
+      "liklari"
+    ]
+  },
+  {
+    "id": 97,
+    "surface": "poyezd",
+    "expected_root": "poyezd",
+    "expected_suffixes": []
+  },
+  {
+    "id": 98,
+    "surface": "mashina",
+    "expected_root": "mashina",
+    "expected_suffixes": []
+  },
+  {
+    "id": 99,
+    "surface": "gullar",
+    "expected_root": "gullar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 100,
+    "surface": "elektr",
+    "expected_root": "elektr",
+    "expected_suffixes": []
+  },
+  {
+    "id": 101,
+    "surface": "taomo'ar",
+    "expected_root": "taom",
+    "expected_suffixes": [
+      "o'ar"
+    ]
+  },
+  {
+    "id": 102,
+    "surface": "oyginacha",
+    "expected_root": "oy",
+    "expected_suffixes": [
+      "ginacha"
+    ]
+  },
+  {
+    "id": 103,
+    "surface": "shartnomamoqdayor",
+    "expected_root": "shartnoma",
+    "expected_suffixes": [
+      "moqdayor"
+    ]
+  },
+  {
+    "id": 104,
+    "surface": "oilavoro'a",
+    "expected_root": "oila",
+    "expected_suffixes": [
+      "voro'a"
+    ]
+  },
+  {
+    "id": 105,
+    "surface": "kimyo",
+    "expected_root": "kimyo",
+    "expected_suffixes": []
+  },
+  {
+    "id": 106,
+    "surface": "investitsiyao'mas",
+    "expected_root": "investitsiya",
+    "expected_suffixes": [
+      "o'mas"
+    ]
+  },
+  {
+    "id": 107,
+    "surface": "shahardir",
+    "expected_root": "shahar",
+    "expected_suffixes": [
+      "dir"
+    ]
+  },
+  {
+    "id": 108,
+    "surface": "uy-joy",
+    "expected_root": "uy-joy",
+    "expected_suffixes": []
+  },
+  {
+    "id": 109,
+    "surface": "kitoblerishta",
+    "expected_root": "kitob",
+    "expected_suffixes": [
+      "ler",
+      "ishta"
+    ]
+  },
+  {
+    "id": 110,
+    "surface": "investitsiyamagina",
+    "expected_root": "investitsiya",
+    "expected_suffixes": [
+      "magina"
+    ]
+  },
+  {
+    "id": 111,
+    "surface": "tilim",
+    "expected_root": "tilim",
+    "expected_suffixes": []
+  },
+  {
+    "id": 112,
+    "surface": "qalbdenqai",
+    "expected_root": "qalb",
+    "expected_suffixes": [
+      "denqai"
+    ]
+  },
+  {
+    "id": 113,
+    "surface": "marosimi",
+    "expected_root": "marosim",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 114,
+    "surface": "fermer",
+    "expected_root": "fermer",
+    "expected_suffixes": []
+  },
+  {
+    "id": 115,
+    "surface": "dehqoningdaa",
+    "expected_root": "dehqon",
+    "expected_suffixes": [
+      "ingdaa"
+    ]
+  },
+  {
+    "id": 116,
+    "surface": "tarixdiqasaa",
+    "expected_root": "tarix",
+    "expected_suffixes": [
+      "di",
+      "qasaa"
+    ]
+  },
+  {
+    "id": 117,
+    "surface": "vafotsa",
+    "expected_root": "vafot",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 118,
+    "surface": "uy-joytamas",
+    "expected_root": "uy-joy",
+    "expected_suffixes": [
+      "tamas"
+    ]
+  },
+  {
+    "id": 119,
+    "surface": "hisobuvqaa",
+    "expected_root": "hisob",
+    "expected_suffixes": [
+      "uvqaa"
+    ]
+  },
+  {
+    "id": 120,
+    "surface": "taomniyoriishta",
+    "expected_root": "taom",
+    "expected_suffixes": [
+      "niyori",
+      "ishta"
+    ]
+  },
+  {
+    "id": 121,
+    "surface": "go'shtyoriydalari",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "yoriy",
+      "dalari"
+    ]
+  },
+  {
+    "id": 122,
+    "surface": "tadbirkoruvchilar",
+    "expected_root": "tadbirkor",
+    "expected_suffixes": [
+      "uvchilar"
+    ]
+  },
+  {
+    "id": 123,
+    "surface": "viloyat",
+    "expected_root": "viloyat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 124,
+    "surface": "o'qituvchi",
+    "expected_root": "o'qituvchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 125,
+    "surface": "narxliklarliklari",
+    "expected_root": "narx",
+    "expected_suffixes": [
+      "liklar",
+      "liklari"
+    ]
+  },
+  {
+    "id": 126,
+    "surface": "davo",
+    "expected_root": "davo",
+    "expected_suffixes": []
+  },
+  {
+    "id": 127,
+    "surface": "qalbimdirdan",
+    "expected_root": "qalb",
+    "expected_suffixes": [
+      "imdir",
+      "dan"
+    ]
+  },
+  {
+    "id": 128,
+    "surface": "oilaroqmagina",
+    "expected_root": "oila",
+    "expected_suffixes": [
+      "roq",
+      "magina"
+    ]
+  },
+  {
+    "id": 129,
+    "surface": "insoniyatganlar",
+    "expected_root": "insoniyat",
+    "expected_suffixes": [
+      "ganlar"
+    ]
+  },
+  {
+    "id": 130,
+    "surface": "xizmatingizim",
+    "expected_root": "xizmat",
+    "expected_suffixes": [
+      "ingizim"
+    ]
+  },
+  {
+    "id": 131,
+    "surface": "fermauvchiiing",
+    "expected_root": "ferma",
+    "expected_suffixes": [
+      "uvchii",
+      "ing"
+    ]
+  },
+  {
+    "id": 132,
+    "surface": "narx",
+    "expected_root": "narx",
+    "expected_suffixes": []
+  },
+  {
+    "id": 133,
+    "surface": "kunditaa",
+    "expected_root": "kun",
+    "expected_suffixes": [
+      "ditaa"
+    ]
+  },
+  {
+    "id": 134,
+    "surface": "talabadirgaa",
+    "expected_root": "talaba",
+    "expected_suffixes": [
+      "dirgaa"
+    ]
+  },
+  {
+    "id": 135,
+    "surface": "oilatachia",
+    "expected_root": "oila",
+    "expected_suffixes": [
+      "tachia"
+    ]
+  },
+  {
+    "id": 136,
+    "surface": "boshliqdan",
+    "expected_root": "boshliq",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 137,
+    "surface": "marosimchi-chitaing",
+    "expected_root": "marosim",
+    "expected_suffixes": [
+      "chi-chi",
+      "taing"
+    ]
+  },
+  {
+    "id": 138,
+    "surface": "g'alla",
+    "expected_root": "g'alla",
+    "expected_suffixes": []
+  },
+  {
+    "id": 139,
+    "surface": "san'ato'mas",
+    "expected_root": "san'at",
+    "expected_suffixes": [
+      "o'mas"
+    ]
+  },
+  {
+    "id": 140,
+    "surface": "yozingizdaimo'",
+    "expected_root": "yoz",
+    "expected_suffixes": [
+      "ingizda",
+      "imo'"
+    ]
+  },
+  {
+    "id": 141,
+    "surface": "telefon",
+    "expected_root": "telefon",
+    "expected_suffixes": []
+  },
+  {
+    "id": 142,
+    "surface": "so'zgana",
+    "expected_root": "so'z",
+    "expected_suffixes": [
+      "gana"
+    ]
+  },
+  {
+    "id": 143,
+    "surface": "xodimgindauvish",
+    "expected_root": "xodim",
+    "expected_suffixes": [
+      "ginda",
+      "uvish"
+    ]
+  },
+  {
+    "id": 144,
+    "surface": "hisobginamagan",
+    "expected_root": "hisob",
+    "expected_suffixes": [
+      "ginamagan"
+    ]
+  },
+  {
+    "id": 145,
+    "surface": "elektrmaadi",
+    "expected_root": "elektr",
+    "expected_suffixes": [
+      "maadi"
+    ]
+  },
+  {
+    "id": 146,
+    "surface": "oyo'iya",
+    "expected_root": "oy",
+    "expected_suffixes": [
+      "o'iya"
+    ]
+  },
+  {
+    "id": 147,
+    "surface": "g'allaingizimor",
+    "expected_root": "g'alla",
+    "expected_suffixes": [
+      "ingizim",
+      "or"
+    ]
+  },
+  {
+    "id": 148,
+    "surface": "tilimo'maslari",
+    "expected_root": "tilim",
+    "expected_suffixes": [
+      "o'mas",
+      "lari"
+    ]
+  },
+  {
+    "id": 149,
+    "surface": "energiyadaniyi",
+    "expected_root": "energiya",
+    "expected_suffixes": [
+      "daniyi"
+    ]
+  },
+  {
+    "id": 150,
+    "surface": "yo'lovchiuviya",
+    "expected_root": "yo'lovchi",
+    "expected_suffixes": [
+      "uviya"
+    ]
+  },
+  {
+    "id": 151,
+    "surface": "nonuvchi-lar",
+    "expected_root": "non",
+    "expected_suffixes": [
+      "uvchi-lar"
+    ]
+  },
+  {
+    "id": 152,
+    "surface": "dars",
+    "expected_root": "dars",
+    "expected_suffixes": []
+  },
+  {
+    "id": 153,
+    "surface": "meva",
+    "expected_root": "meva",
+    "expected_suffixes": []
+  },
+  {
+    "id": 154,
+    "surface": "talabatamaa",
+    "expected_root": "talaba",
+    "expected_suffixes": [
+      "tamaa"
+    ]
+  },
+  {
+    "id": 155,
+    "surface": "uyyorning",
+    "expected_root": "uy",
+    "expected_suffixes": [
+      "yorning"
+    ]
+  },
+  {
+    "id": 156,
+    "surface": "sotuvdiqaaginacha",
+    "expected_root": "sotuv",
+    "expected_suffixes": [
+      "diqaa",
+      "ginacha"
+    ]
+  },
+  {
+    "id": 157,
+    "surface": "sotuvchiler",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 158,
+    "surface": "go'shtqasaa",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "qasaa"
+    ]
+  },
+  {
+    "id": 159,
+    "surface": "sotishroqvorlernii",
+    "expected_root": "sotish",
+    "expected_suffixes": [
+      "roqvor",
+      "lernii"
+    ]
+  },
+  {
+    "id": 160,
+    "surface": "dastur",
+    "expected_root": "dastur",
+    "expected_suffixes": []
+  },
+  {
+    "id": 161,
+    "surface": "bol",
+    "expected_root": "bol",
+    "expected_suffixes": []
+  },
+  {
+    "id": 162,
+    "surface": "yoqilg'iimmasi",
+    "expected_root": "yoqilg'i",
+    "expected_suffixes": [
+      "immasi"
+    ]
+  },
+  {
+    "id": 163,
+    "surface": "mashg'ulotmas",
+    "expected_root": "mashg'ulot",
+    "expected_suffixes": [
+      "mas"
+    ]
+  },
+  {
+    "id": 164,
+    "surface": "qiz",
+    "expected_root": "qiz",
+    "expected_suffixes": []
+  },
+  {
+    "id": 165,
+    "surface": "ta'limchi",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 166,
+    "surface": "bozoriyimiztamas",
+    "expected_root": "bozor",
+    "expected_suffixes": [
+      "iyimiz",
+      "tamas"
+    ]
+  },
+  {
+    "id": 167,
+    "surface": "qizlaridaqasaa",
+    "expected_root": "qiz",
+    "expected_suffixes": [
+      "larida",
+      "qasaa"
+    ]
+  },
+  {
+    "id": 168,
+    "surface": "metroimiz",
+    "expected_root": "metro",
+    "expected_suffixes": [
+      "imiz"
+    ]
+  },
+  {
+    "id": 169,
+    "surface": "adabiyotadiroq",
+    "expected_root": "adabiyot",
+    "expected_suffixes": [
+      "adiroq"
+    ]
+  },
+  {
+    "id": 170,
+    "surface": "kasaltamagan",
+    "expected_root": "kasal",
+    "expected_suffixes": [
+      "tamagan"
+    ]
+  },
+  {
+    "id": 171,
+    "surface": "tilsayorda",
+    "expected_root": "til",
+    "expected_suffixes": [
+      "sa",
+      "yorda"
+    ]
+  },
+  {
+    "id": 172,
+    "surface": "viloyatmalaraginda",
+    "expected_root": "viloyat",
+    "expected_suffixes": [
+      "malara",
+      "ginda"
+    ]
+  },
+  {
+    "id": 173,
+    "surface": "sayrimtaa",
+    "expected_root": "sayr",
+    "expected_suffixes": [
+      "imtaa"
+    ]
+  },
+  {
+    "id": 174,
+    "surface": "o'qituvchi",
+    "expected_root": "o'qituvchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 175,
+    "surface": "dokonmaadi",
+    "expected_root": "dokon",
+    "expected_suffixes": [
+      "maadi"
+    ]
+  },
+  {
+    "id": 176,
+    "surface": "uyquimizta",
+    "expected_root": "uyqu",
+    "expected_suffixes": [
+      "imizta"
+    ]
+  },
+  {
+    "id": 177,
+    "surface": "haydovchitaara",
+    "expected_root": "haydovchi",
+    "expected_suffixes": [
+      "taara"
+    ]
+  },
+  {
+    "id": 178,
+    "surface": "mashg'ulotiysai",
+    "expected_root": "mashg'ulot",
+    "expected_suffixes": [
+      "iysai"
+    ]
+  },
+  {
+    "id": 179,
+    "surface": "go'shtadii",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "adii"
+    ]
+  },
+  {
+    "id": 180,
+    "surface": "kinochiish",
+    "expected_root": "kino",
+    "expected_suffixes": [
+      "chiish"
+    ]
+  },
+  {
+    "id": 181,
+    "surface": "davo",
+    "expected_root": "davo",
+    "expected_suffixes": []
+  },
+  {
+    "id": 182,
+    "surface": "geografiyalikimi",
+    "expected_root": "geografiya",
+    "expected_suffixes": [
+      "likimi"
+    ]
+  },
+  {
+    "id": 183,
+    "surface": "viloyat",
+    "expected_root": "viloyat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 184,
+    "surface": "gullaryoro'i",
+    "expected_root": "gullar",
+    "expected_suffixes": [
+      "yoro'i"
+    ]
+  },
+  {
+    "id": 185,
+    "surface": "sayohatsalaramamasi",
+    "expected_root": "sayohat",
+    "expected_suffixes": [
+      "salara",
+      "mamasi"
+    ]
+  },
+  {
+    "id": 186,
+    "surface": "fizikaingiziming",
+    "expected_root": "fizika",
+    "expected_suffixes": [
+      "ingizim",
+      "ing"
+    ]
+  },
+  {
+    "id": 187,
+    "surface": "sayohato'sai",
+    "expected_root": "sayohat",
+    "expected_suffixes": [
+      "o'sai"
+    ]
+  },
+  {
+    "id": 188,
+    "surface": "xizmat",
+    "expected_root": "xizmat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 189,
+    "surface": "shaharliklar",
+    "expected_root": "shahar",
+    "expected_suffixes": [
+      "liklar"
+    ]
+  },
+  {
+    "id": 190,
+    "surface": "ta'limingyormagina",
+    "expected_root": "ta'lim",
+    "expected_suffixes": [
+      "ingyor",
+      "magina"
+    ]
+  },
+  {
+    "id": 191,
+    "surface": "ishlab",
+    "expected_root": "ishlab",
+    "expected_suffixes": []
+  },
+  {
+    "id": 192,
+    "surface": "davolarichiinggina",
+    "expected_root": "davo",
+    "expected_suffixes": [
+      "larichi",
+      "inggina"
+    ]
+  },
+  {
+    "id": 193,
+    "surface": "mashg'ulot",
+    "expected_root": "mashg'ulot",
+    "expected_suffixes": []
+  },
+  {
+    "id": 194,
+    "surface": "davoingiya",
+    "expected_root": "davo",
+    "expected_suffixes": [
+      "ingiya"
+    ]
+  },
+  {
+    "id": 195,
+    "surface": "darajao'ta",
+    "expected_root": "daraja",
+    "expected_suffixes": [
+      "o'ta"
+    ]
+  },
+  {
+    "id": 196,
+    "surface": "bankimmasi",
+    "expected_root": "bank",
+    "expected_suffixes": [
+      "immasi"
+    ]
+  },
+  {
+    "id": 197,
+    "surface": "ishlabchiga",
+    "expected_root": "ishlabchi",
+    "expected_suffixes": [
+      "ga"
+    ]
+  },
+  {
+    "id": 198,
+    "surface": "o'qishlarlikidenii",
+    "expected_root": "o'qishlar",
+    "expected_suffixes": [
+      "liki",
+      "denii"
+    ]
+  },
+  {
+    "id": 199,
+    "surface": "kishiyorari",
+    "expected_root": "kishi",
+    "expected_suffixes": [
+      "yorari"
+    ]
+  },
+  {
+    "id": 200,
+    "surface": "yoqilg'i",
+    "expected_root": "yoqilg'i",
+    "expected_suffixes": []
+  },
+  {
+    "id": 201,
+    "surface": "ma'ruzachiuvchilar",
+    "expected_root": "ma'ruzachi",
+    "expected_suffixes": [
+      "uvchilar"
+    ]
+  },
+  {
+    "id": 202,
+    "surface": "samolyotdasaa",
+    "expected_root": "samolyot",
+    "expected_suffixes": [
+      "dasaa"
+    ]
+  },
+  {
+    "id": 203,
+    "surface": "uchrashuvingiya",
+    "expected_root": "uchrashuv",
+    "expected_suffixes": [
+      "ingiya"
+    ]
+  },
+  {
+    "id": 204,
+    "surface": "furoshuviya",
+    "expected_root": "furosh",
+    "expected_suffixes": [
+      "uviya"
+    ]
+  },
+  {
+    "id": 205,
+    "surface": "sifat",
+    "expected_root": "sifat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 206,
+    "surface": "sonniavoro'a",
+    "expected_root": "son",
+    "expected_suffixes": [
+      "nia",
+      "voro'a"
+    ]
+  },
+  {
+    "id": 207,
+    "surface": "so'zdanishima",
+    "expected_root": "so'z",
+    "expected_suffixes": [
+      "dan",
+      "ishima"
+    ]
+  },
+  {
+    "id": 208,
+    "surface": "sotuvchiingiza",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "ingiza"
+    ]
+  },
+  {
+    "id": 209,
+    "surface": "tadbirkor",
+    "expected_root": "tadbirkor",
+    "expected_suffixes": []
+  },
+  {
+    "id": 210,
+    "surface": "oy",
+    "expected_root": "oy",
+    "expected_suffixes": []
+  },
+  {
+    "id": 211,
+    "surface": "yilchinia",
+    "expected_root": "yil",
+    "expected_suffixes": [
+      "chinia"
+    ]
+  },
+  {
+    "id": 212,
+    "surface": "go'shtninguvchi",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "ninguvchi"
+    ]
+  },
+  {
+    "id": 213,
+    "surface": "insoniishi",
+    "expected_root": "inson",
+    "expected_suffixes": [
+      "iishi"
+    ]
+  },
+  {
+    "id": 214,
+    "surface": "mashina",
+    "expected_root": "mashina",
+    "expected_suffixes": []
+  },
+  {
+    "id": 215,
+    "surface": "madaniyat",
+    "expected_root": "madaniyat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 216,
+    "surface": "bozorchiingiza",
+    "expected_root": "bozorchi",
+    "expected_suffixes": [
+      "ingiza"
+    ]
+  },
+  {
+    "id": 217,
+    "surface": "ta'limchichinia",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": [
+      "chinia"
+    ]
+  },
+  {
+    "id": 218,
+    "surface": "sportlerta",
+    "expected_root": "sport",
+    "expected_suffixes": [
+      "lerta"
+    ]
+  },
+  {
+    "id": 219,
+    "surface": "o'qituvchiginachachidi",
+    "expected_root": "o'qituvchi",
+    "expected_suffixes": [
+      "ginacha",
+      "chidi"
+    ]
+  },
+  {
+    "id": 220,
+    "surface": "sotuvchiyora",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "yora"
+    ]
+  },
+  {
+    "id": 221,
+    "surface": "arxitektormoqdachiish",
+    "expected_root": "arxitektor",
+    "expected_suffixes": [
+      "moqda",
+      "chiish"
+    ]
+  },
+  {
+    "id": 222,
+    "surface": "ta'limchilari",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": [
+      "lari"
+    ]
+  },
+  {
+    "id": 223,
+    "surface": "metrolar",
+    "expected_root": "metro",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 224,
+    "surface": "bayramqa",
+    "expected_root": "bayram",
+    "expected_suffixes": [
+      "qa"
+    ]
+  },
+  {
+    "id": 225,
+    "surface": "stansiya",
+    "expected_root": "stansiya",
+    "expected_suffixes": []
+  },
+  {
+    "id": 226,
+    "surface": "g'alla",
+    "expected_root": "g'alla",
+    "expected_suffixes": []
+  },
+  {
+    "id": 227,
+    "surface": "bayramimgani",
+    "expected_root": "bayram",
+    "expected_suffixes": [
+      "imgani"
+    ]
+  },
+  {
+    "id": 228,
+    "surface": "ma'ruzachii",
+    "expected_root": "ma'ruzachi",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 229,
+    "surface": "elektrroqmoqda",
+    "expected_root": "elektr",
+    "expected_suffixes": [
+      "roqmoqda"
+    ]
+  },
+  {
+    "id": 230,
+    "surface": "pulgan",
+    "expected_root": "pul",
+    "expected_suffixes": [
+      "gan"
+    ]
+  },
+  {
+    "id": 231,
+    "surface": "haydovchiuvqaagagina",
+    "expected_root": "haydovchi",
+    "expected_suffixes": [
+      "uvqaa",
+      "gagina"
+    ]
+  },
+  {
+    "id": 232,
+    "surface": "nonvoyxona",
+    "expected_root": "nonvoyxona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 233,
+    "surface": "transportningvordai",
+    "expected_root": "transport",
+    "expected_suffixes": [
+      "ning",
+      "vordai"
+    ]
+  },
+  {
+    "id": 234,
+    "surface": "til",
+    "expected_root": "til",
+    "expected_suffixes": []
+  },
+  {
+    "id": 235,
+    "surface": "tadbirkor",
+    "expected_root": "tadbirkor",
+    "expected_suffixes": []
+  },
+  {
+    "id": 236,
+    "surface": "o'qish",
+    "expected_root": "o'qish",
+    "expected_suffixes": []
+  },
+  {
+    "id": 237,
+    "surface": "ishlabchitaing",
+    "expected_root": "ishlabchi",
+    "expected_suffixes": [
+      "taing"
+    ]
+  },
+  {
+    "id": 238,
+    "surface": "uchrashuvar",
+    "expected_root": "uchrashuv",
+    "expected_suffixes": [
+      "ar"
+    ]
+  },
+  {
+    "id": 239,
+    "surface": "sutli",
+    "expected_root": "sutli",
+    "expected_suffixes": []
+  },
+  {
+    "id": 240,
+    "surface": "bolalertaginuvi",
+    "expected_root": "bola",
+    "expected_suffixes": [
+      "lerta",
+      "ginuvi"
+    ]
+  },
+  {
+    "id": 241,
+    "surface": "o'qdigao'ar",
+    "expected_root": "o'q",
+    "expected_suffixes": [
+      "diga",
+      "o'ar"
+    ]
+  },
+  {
+    "id": 242,
+    "surface": "qayiqlik",
+    "expected_root": "qayiq",
+    "expected_suffixes": [
+      "lik"
+    ]
+  },
+  {
+    "id": 243,
+    "surface": "sotish",
+    "expected_root": "sotish",
+    "expected_suffixes": []
+  },
+  {
+    "id": 244,
+    "surface": "avtobus",
+    "expected_root": "avtobus",
+    "expected_suffixes": []
+  },
+  {
+    "id": 245,
+    "surface": "ismmao'taara",
+    "expected_root": "ism",
+    "expected_suffixes": [
+      "mao'",
+      "taara"
+    ]
+  },
+  {
+    "id": 246,
+    "surface": "pulniyori",
+    "expected_root": "pul",
+    "expected_suffixes": [
+      "niyori"
+    ]
+  },
+  {
+    "id": 247,
+    "surface": "informatikadir",
+    "expected_root": "informatika",
+    "expected_suffixes": [
+      "dir"
+    ]
+  },
+  {
+    "id": 248,
+    "surface": "kitobninguvchiidan",
+    "expected_root": "kitob",
+    "expected_suffixes": [
+      "ninguvchi",
+      "idan"
+    ]
+  },
+  {
+    "id": 249,
+    "surface": "tilimimiz",
+    "expected_root": "tilim",
+    "expected_suffixes": [
+      "imiz"
+    ]
+  },
+  {
+    "id": 250,
+    "surface": "sabzavotorichi",
+    "expected_root": "sabzavot",
+    "expected_suffixes": [
+      "ori",
+      "chi"
+    ]
+  },
+  {
+    "id": 251,
+    "surface": "ilmqagamagina",
+    "expected_root": "ilm",
+    "expected_suffixes": [
+      "qaga",
+      "magina"
+    ]
+  },
+  {
+    "id": 252,
+    "surface": "samolyotiishisadir",
+    "expected_root": "samolyot",
+    "expected_suffixes": [
+      "iishi",
+      "sadir"
+    ]
+  },
+  {
+    "id": 253,
+    "surface": "haydovchichadai",
+    "expected_root": "haydovchi",
+    "expected_suffixes": [
+      "chadai"
+    ]
+  },
+  {
+    "id": 254,
+    "surface": "kitobxonyora",
+    "expected_root": "kitobxon",
+    "expected_suffixes": [
+      "yora"
+    ]
+  },
+  {
+    "id": 255,
+    "surface": "bemor",
+    "expected_root": "bemor",
+    "expected_suffixes": []
+  },
+  {
+    "id": 256,
+    "surface": "do'stmaler",
+    "expected_root": "do'st",
+    "expected_suffixes": [
+      "maler"
+    ]
+  },
+  {
+    "id": 257,
+    "surface": "firmamoqdayorlariii",
+    "expected_root": "firma",
+    "expected_suffixes": [
+      "moqdayor",
+      "lariii"
+    ]
+  },
+  {
+    "id": 258,
+    "surface": "pulo'taishning",
+    "expected_root": "pul",
+    "expected_suffixes": [
+      "o'ta",
+      "ishning"
+    ]
+  },
+  {
+    "id": 259,
+    "surface": "haydovchiuvdeni",
+    "expected_root": "haydovchi",
+    "expected_suffixes": [
+      "uvdeni"
+    ]
+  },
+  {
+    "id": 260,
+    "surface": "makongindaaliklari",
+    "expected_root": "makon",
+    "expected_suffixes": [
+      "gindaa",
+      "liklari"
+    ]
+  },
+  {
+    "id": 261,
+    "surface": "transport",
+    "expected_root": "transport",
+    "expected_suffixes": []
+  },
+  {
+    "id": 262,
+    "surface": "bozordiruva",
+    "expected_root": "bozor",
+    "expected_suffixes": [
+      "diruva"
+    ]
+  },
+  {
+    "id": 263,
+    "surface": "sutniingizganlar",
+    "expected_root": "sut",
+    "expected_suffixes": [
+      "niingiz",
+      "ganlar"
+    ]
+  },
+  {
+    "id": 264,
+    "surface": "darajaimizlikdir",
+    "expected_root": "daraja",
+    "expected_suffixes": [
+      "imiz",
+      "likdir"
+    ]
+  },
+  {
+    "id": 265,
+    "surface": "ota-ona",
+    "expected_root": "ota-ona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 266,
+    "surface": "yo'lovchilikimi",
+    "expected_root": "yo'lovchi",
+    "expected_suffixes": [
+      "likimi"
+    ]
+  },
+  {
+    "id": 267,
+    "surface": "xizmato'ning",
+    "expected_root": "xizmat",
+    "expected_suffixes": [
+      "o'ning"
+    ]
+  },
+  {
+    "id": 268,
+    "surface": "muallif",
+    "expected_root": "muallif",
+    "expected_suffixes": []
+  },
+  {
+    "id": 269,
+    "surface": "oila a'zosadiroq",
+    "expected_root": "oila a'zos",
+    "expected_suffixes": [
+      "adiroq"
+    ]
+  },
+  {
+    "id": 270,
+    "surface": "gaz",
+    "expected_root": "gaz",
+    "expected_suffixes": []
+  },
+  {
+    "id": 271,
+    "surface": "sayohatimgani",
+    "expected_root": "sayohat",
+    "expected_suffixes": [
+      "imgani"
+    ]
+  },
+  {
+    "id": 272,
+    "surface": "informatikagantaa",
+    "expected_root": "informatika",
+    "expected_suffixes": [
+      "gantaa"
+    ]
+  },
+  {
+    "id": 273,
+    "surface": "ishlabingizyortaa",
+    "expected_root": "ishlab",
+    "expected_suffixes": [
+      "ingiz",
+      "yortaa"
+    ]
+  },
+  {
+    "id": 274,
+    "surface": "firma",
+    "expected_root": "firma",
+    "expected_suffixes": []
+  },
+  {
+    "id": 275,
+    "surface": "maoshingiz",
+    "expected_root": "maosh",
+    "expected_suffixes": [
+      "ingiz"
+    ]
+  },
+  {
+    "id": 276,
+    "surface": "gullaruvganadiringiz",
+    "expected_root": "gullar",
+    "expected_suffixes": [
+      "uvgana",
+      "diringiz"
+    ]
+  },
+  {
+    "id": 277,
+    "surface": "telefonuv",
+    "expected_root": "telefon",
+    "expected_suffixes": [
+      "uv"
+    ]
+  },
+  {
+    "id": 278,
+    "surface": "kishimao'chaa",
+    "expected_root": "kishi",
+    "expected_suffixes": [
+      "ma",
+      "o'chaa"
+    ]
+  },
+  {
+    "id": 279,
+    "surface": "tilim",
+    "expected_root": "tilim",
+    "expected_suffixes": []
+  },
+  {
+    "id": 280,
+    "surface": "bandlikimdana",
+    "expected_root": "bandlik",
+    "expected_suffixes": [
+      "imdana"
+    ]
+  },
+  {
+    "id": 281,
+    "surface": "qizgamoqda",
+    "expected_root": "qiz",
+    "expected_suffixes": [
+      "gamoqda"
+    ]
+  },
+  {
+    "id": 282,
+    "surface": "fermer",
+    "expected_root": "fermer",
+    "expected_suffixes": []
+  },
+  {
+    "id": 283,
+    "surface": "tadbirkoruvishiishi",
+    "expected_root": "tadbirkor",
+    "expected_suffixes": [
+      "uvish",
+      "iishi"
+    ]
+  },
+  {
+    "id": 284,
+    "surface": "sog'liq",
+    "expected_root": "sog'liq",
+    "expected_suffixes": []
+  },
+  {
+    "id": 285,
+    "surface": "nonvoyxonaimtaimaqai",
+    "expected_root": "nonvoyxona",
+    "expected_suffixes": [
+      "imtai",
+      "maqai"
+    ]
+  },
+  {
+    "id": 286,
+    "surface": "yoshnidaimoqdadan",
+    "expected_root": "yosh",
+    "expected_suffixes": [
+      "nidai",
+      "moqdadan"
+    ]
+  },
+  {
+    "id": 287,
+    "surface": "kishiadii",
+    "expected_root": "kishi",
+    "expected_suffixes": [
+      "adii"
+    ]
+  },
+  {
+    "id": 288,
+    "surface": "daryoishima",
+    "expected_root": "daryo",
+    "expected_suffixes": [
+      "ishima"
+    ]
+  },
+  {
+    "id": 289,
+    "surface": "tilchiadiniroq",
+    "expected_root": "tilchi",
+    "expected_suffixes": [
+      "adini",
+      "roq"
+    ]
+  },
+  {
+    "id": 290,
+    "surface": "rahbaringizda",
+    "expected_root": "rahbar",
+    "expected_suffixes": [
+      "ingizda"
+    ]
+  },
+  {
+    "id": 291,
+    "surface": "shahar",
+    "expected_root": "shahar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 292,
+    "surface": "xodimimtaaliki",
+    "expected_root": "xodim",
+    "expected_suffixes": [
+      "imtaa",
+      "liki"
+    ]
+  },
+  {
+    "id": 293,
+    "surface": "o'qituvchitaing",
+    "expected_root": "o'qituvchi",
+    "expected_suffixes": [
+      "taing"
+    ]
+  },
+  {
+    "id": 294,
+    "surface": "daryoyora",
+    "expected_root": "daryo",
+    "expected_suffixes": [
+      "yora"
+    ]
+  },
+  {
+    "id": 295,
+    "surface": "viloyatdandaa",
+    "expected_root": "viloyat",
+    "expected_suffixes": [
+      "dandaa"
+    ]
+  },
+  {
+    "id": 296,
+    "surface": "elektr",
+    "expected_root": "elektr",
+    "expected_suffixes": []
+  },
+  {
+    "id": 297,
+    "surface": "kino",
+    "expected_root": "kino",
+    "expected_suffixes": []
+  },
+  {
+    "id": 298,
+    "surface": "darajadachaiadii",
+    "expected_root": "daraja",
+    "expected_suffixes": [
+      "dachai",
+      "adii"
+    ]
+  },
+  {
+    "id": 299,
+    "surface": "kundirmai",
+    "expected_root": "kun",
+    "expected_suffixes": [
+      "dirmai"
+    ]
+  },
+  {
+    "id": 300,
+    "surface": "daryouvdeniroqmoqda",
+    "expected_root": "daryo",
+    "expected_suffixes": [
+      "uvdeni",
+      "roqmoqda"
+    ]
+  },
+  {
+    "id": 301,
+    "surface": "sog'liqgadeni",
+    "expected_root": "sog'liq",
+    "expected_suffixes": [
+      "gadeni"
+    ]
+  },
+  {
+    "id": 302,
+    "surface": "o'qishlarcha",
+    "expected_root": "o'qishlar",
+    "expected_suffixes": [
+      "cha"
+    ]
+  },
+  {
+    "id": 303,
+    "surface": "bolasainga",
+    "expected_root": "bola",
+    "expected_suffixes": [
+      "sainga"
+    ]
+  },
+  {
+    "id": 304,
+    "surface": "madaniyatma-chi",
+    "expected_root": "madaniyat",
+    "expected_suffixes": [
+      "ma-chi"
+    ]
+  },
+  {
+    "id": 305,
+    "surface": "ta'limchiuvish",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": [
+      "uvish"
+    ]
+  },
+  {
+    "id": 306,
+    "surface": "ta'limdaing",
+    "expected_root": "ta'lim",
+    "expected_suffixes": [
+      "daing"
+    ]
+  },
+  {
+    "id": 307,
+    "surface": "uy-joymao'",
+    "expected_root": "uy-joy",
+    "expected_suffixes": [
+      "mao'"
+    ]
+  },
+  {
+    "id": 308,
+    "surface": "otchia",
+    "expected_root": "ot",
+    "expected_suffixes": [
+      "chia"
+    ]
+  },
+  {
+    "id": 309,
+    "surface": "sinfxona",
+    "expected_root": "sinfxona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 310,
+    "surface": "yillerniiuvchi-lar",
+    "expected_root": "yil",
+    "expected_suffixes": [
+      "lernii",
+      "uvchi-lar"
+    ]
+  },
+  {
+    "id": 311,
+    "surface": "boshliqiylarida",
+    "expected_root": "boshliq",
+    "expected_suffixes": [
+      "iy",
+      "larida"
+    ]
+  },
+  {
+    "id": 312,
+    "surface": "ma'ruzachiliklarmasdai",
+    "expected_root": "ma'ruzachi",
+    "expected_suffixes": [
+      "liklar",
+      "masdai"
+    ]
+  },
+  {
+    "id": 313,
+    "surface": "transportdirchi",
+    "expected_root": "transport",
+    "expected_suffixes": [
+      "dirchi"
+    ]
+  },
+  {
+    "id": 314,
+    "surface": "shahar",
+    "expected_root": "shahar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 315,
+    "surface": "ishchimas",
+    "expected_root": "ishchi",
+    "expected_suffixes": [
+      "mas"
+    ]
+  },
+  {
+    "id": 316,
+    "surface": "soat",
+    "expected_root": "soat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 317,
+    "surface": "pulingdaa",
+    "expected_root": "pul",
+    "expected_suffixes": [
+      "ingdaa"
+    ]
+  },
+  {
+    "id": 318,
+    "surface": "o'qituvchiisai",
+    "expected_root": "o'qituvchi",
+    "expected_suffixes": [
+      "isai"
+    ]
+  },
+  {
+    "id": 319,
+    "surface": "sotuvchiingiyagaadii",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "ingiya",
+      "gaadii"
+    ]
+  },
+  {
+    "id": 320,
+    "surface": "nonvoyo'tai",
+    "expected_root": "nonvoy",
+    "expected_suffixes": [
+      "o'tai"
+    ]
+  },
+  {
+    "id": 321,
+    "surface": "universitetchalarara",
+    "expected_root": "universitet",
+    "expected_suffixes": [
+      "cha",
+      "larara"
+    ]
+  },
+  {
+    "id": 322,
+    "surface": "fermamasdai",
+    "expected_root": "ferma",
+    "expected_suffixes": [
+      "masdai"
+    ]
+  },
+  {
+    "id": 323,
+    "surface": "o'g'ilishuvi",
+    "expected_root": "o'g'il",
+    "expected_suffixes": [
+      "ishuvi"
+    ]
+  },
+  {
+    "id": 324,
+    "surface": "o'qituvchiganlar",
+    "expected_root": "o'qituvchi",
+    "expected_suffixes": [
+      "ganlar"
+    ]
+  },
+  {
+    "id": 325,
+    "surface": "bog'magandi",
+    "expected_root": "bog'",
+    "expected_suffixes": [
+      "magandi"
+    ]
+  },
+  {
+    "id": 326,
+    "surface": "stansiyao'tai",
+    "expected_root": "stansiya",
+    "expected_suffixes": [
+      "o'tai"
+    ]
+  },
+  {
+    "id": 327,
+    "surface": "avtobusiychachivor",
+    "expected_root": "avtobus",
+    "expected_suffixes": [
+      "iycha",
+      "chivor"
+    ]
+  },
+  {
+    "id": 328,
+    "surface": "suvmaganlerimlik",
+    "expected_root": "suv",
+    "expected_suffixes": [
+      "maganler",
+      "imlik"
+    ]
+  },
+  {
+    "id": 329,
+    "surface": "fermaimdaiyoriya",
+    "expected_root": "ferma",
+    "expected_suffixes": [
+      "imdai",
+      "yoriya"
+    ]
+  },
+  {
+    "id": 330,
+    "surface": "tadbirgantaa",
+    "expected_root": "tadbir",
+    "expected_suffixes": [
+      "gantaa"
+    ]
+  },
+  {
+    "id": 331,
+    "surface": "samolyot",
+    "expected_root": "samolyot",
+    "expected_suffixes": []
+  },
+  {
+    "id": 332,
+    "surface": "ma'ruzachiimmagina",
+    "expected_root": "ma'ruzachi",
+    "expected_suffixes": [
+      "im",
+      "magina"
+    ]
+  },
+  {
+    "id": 333,
+    "surface": "xodimdan",
+    "expected_root": "xodim",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 334,
+    "surface": "san'atginuvi",
+    "expected_root": "san'at",
+    "expected_suffixes": [
+      "ginuvi"
+    ]
+  },
+  {
+    "id": 335,
+    "surface": "informatikaqachia",
+    "expected_root": "informatika",
+    "expected_suffixes": [
+      "qachia"
+    ]
+  },
+  {
+    "id": 336,
+    "surface": "davoqao'i",
+    "expected_root": "davo",
+    "expected_suffixes": [
+      "qao'i"
+    ]
+  },
+  {
+    "id": 337,
+    "surface": "telefonnidai",
+    "expected_root": "telefon",
+    "expected_suffixes": [
+      "nidai"
+    ]
+  },
+  {
+    "id": 338,
+    "surface": "tadbir",
+    "expected_root": "tadbir",
+    "expected_suffixes": []
+  },
+  {
+    "id": 339,
+    "surface": "o'qmao'",
+    "expected_root": "o'q",
+    "expected_suffixes": [
+      "mao'"
+    ]
+  },
+  {
+    "id": 340,
+    "surface": "mashinamas",
+    "expected_root": "mashina",
+    "expected_suffixes": [
+      "mas"
+    ]
+  },
+  {
+    "id": 341,
+    "surface": "insoniyatadinidi",
+    "expected_root": "insoniyat",
+    "expected_suffixes": [
+      "adini",
+      "di"
+    ]
+  },
+  {
+    "id": 342,
+    "surface": "gullar",
+    "expected_root": "gullar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 343,
+    "surface": "xizmatmaadi",
+    "expected_root": "xizmat",
+    "expected_suffixes": [
+      "maadi"
+    ]
+  },
+  {
+    "id": 344,
+    "surface": "suv",
+    "expected_root": "suv",
+    "expected_suffixes": []
+  },
+  {
+    "id": 345,
+    "surface": "non",
+    "expected_root": "non",
+    "expected_suffixes": []
+  },
+  {
+    "id": 346,
+    "surface": "maoshroqvorlikdir",
+    "expected_root": "maosh",
+    "expected_suffixes": [
+      "roqvor",
+      "likdir"
+    ]
+  },
+  {
+    "id": 347,
+    "surface": "sotuvchi",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 348,
+    "surface": "o'qchi",
+    "expected_root": "o'q",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 349,
+    "surface": "marosimgina",
+    "expected_root": "marosim",
+    "expected_suffixes": [
+      "gina"
+    ]
+  },
+  {
+    "id": 350,
+    "surface": "talaba",
+    "expected_root": "talaba",
+    "expected_suffixes": []
+  },
+  {
+    "id": 351,
+    "surface": "savdodirmaitaara",
+    "expected_root": "savdo",
+    "expected_suffixes": [
+      "dirmai",
+      "taara"
+    ]
+  },
+  {
+    "id": 352,
+    "surface": "dokondirgaa",
+    "expected_root": "dokon",
+    "expected_suffixes": [
+      "dirgaa"
+    ]
+  },
+  {
+    "id": 353,
+    "surface": "yosh",
+    "expected_root": "yosh",
+    "expected_suffixes": []
+  },
+  {
+    "id": 354,
+    "surface": "sutliganqa",
+    "expected_root": "sutli",
+    "expected_suffixes": [
+      "ganqa"
+    ]
+  },
+  {
+    "id": 355,
+    "surface": "savdonivornii",
+    "expected_root": "savdo",
+    "expected_suffixes": [
+      "ni",
+      "vornii"
+    ]
+  },
+  {
+    "id": 356,
+    "surface": "o'qishlarma-chigamas",
+    "expected_root": "o'qishlar",
+    "expected_suffixes": [
+      "ma-chi",
+      "gamas"
+    ]
+  },
+  {
+    "id": 357,
+    "surface": "bankmoqda",
+    "expected_root": "bank",
+    "expected_suffixes": [
+      "moqda"
+    ]
+  },
+  {
+    "id": 358,
+    "surface": "tilchi",
+    "expected_root": "tilchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 359,
+    "surface": "konsertishningning",
+    "expected_root": "konsert",
+    "expected_suffixes": [
+      "ishning",
+      "ning"
+    ]
+  },
+  {
+    "id": 360,
+    "surface": "avtobus",
+    "expected_root": "avtobus",
+    "expected_suffixes": []
+  },
+  {
+    "id": 361,
+    "surface": "nonvoyxonaishdii",
+    "expected_root": "nonvoyxona",
+    "expected_suffixes": [
+      "ishdii"
+    ]
+  },
+  {
+    "id": 362,
+    "surface": "shifoxonagin",
+    "expected_root": "shifoxona",
+    "expected_suffixes": [
+      "gin"
+    ]
+  },
+  {
+    "id": 363,
+    "surface": "ishlab",
+    "expected_root": "ishlab",
+    "expected_suffixes": []
+  },
+  {
+    "id": 364,
+    "surface": "kimyogingaa",
+    "expected_root": "kimyo",
+    "expected_suffixes": [
+      "gingaa"
+    ]
+  },
+  {
+    "id": 365,
+    "surface": "tadbirkorchi",
+    "expected_root": "tadbirkor",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 366,
+    "surface": "daqiqimganigin",
+    "expected_root": "daqiq",
+    "expected_suffixes": [
+      "imgani",
+      "gin"
+    ]
+  },
+  {
+    "id": 367,
+    "surface": "insoniyatadilaruva",
+    "expected_root": "insoniyat",
+    "expected_suffixes": [
+      "adi",
+      "laruva"
+    ]
+  },
+  {
+    "id": 368,
+    "surface": "donsamoqda",
+    "expected_root": "don",
+    "expected_suffixes": [
+      "samoqda"
+    ]
+  },
+  {
+    "id": 369,
+    "surface": "so'zdan",
+    "expected_root": "so'z",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 370,
+    "surface": "muallifmaadivorda",
+    "expected_root": "muallif",
+    "expected_suffixes": [
+      "maadi",
+      "vorda"
+    ]
+  },
+  {
+    "id": 371,
+    "surface": "madaniyat",
+    "expected_root": "madaniyat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 372,
+    "surface": "xizmatdensai",
+    "expected_root": "xizmat",
+    "expected_suffixes": [
+      "densai"
+    ]
+  },
+  {
+    "id": 373,
+    "surface": "odam",
+    "expected_root": "odam",
+    "expected_suffixes": []
+  },
+  {
+    "id": 374,
+    "surface": "fermachiingiz",
+    "expected_root": "ferma",
+    "expected_suffixes": [
+      "chi",
+      "ingiz"
+    ]
+  },
+  {
+    "id": 375,
+    "surface": "xizmatniyoritaing",
+    "expected_root": "xizmat",
+    "expected_suffixes": [
+      "niyori",
+      "taing"
+    ]
+  },
+  {
+    "id": 376,
+    "surface": "sifatlerroqlik",
+    "expected_root": "sifat",
+    "expected_suffixes": [
+      "ler",
+      "roqlik"
+    ]
+  },
+  {
+    "id": 377,
+    "surface": "sportarimamasi",
+    "expected_root": "sport",
+    "expected_suffixes": [
+      "ari",
+      "mamasi"
+    ]
+  },
+  {
+    "id": 378,
+    "surface": "oyimtaa",
+    "expected_root": "oy",
+    "expected_suffixes": [
+      "imtaa"
+    ]
+  },
+  {
+    "id": 379,
+    "surface": "sotuvchigamas",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "gamas"
+    ]
+  },
+  {
+    "id": 380,
+    "surface": "darajao'ar",
+    "expected_root": "daraja",
+    "expected_suffixes": [
+      "o'ar"
+    ]
+  },
+  {
+    "id": 381,
+    "surface": "adabiyotmachii",
+    "expected_root": "adabiyot",
+    "expected_suffixes": [
+      "machii"
+    ]
+  },
+  {
+    "id": 382,
+    "surface": "yoqilg'iimtaa",
+    "expected_root": "yoqilg'i",
+    "expected_suffixes": [
+      "imtaa"
+    ]
+  },
+  {
+    "id": 383,
+    "surface": "sportmoqda",
+    "expected_root": "sport",
+    "expected_suffixes": [
+      "moqda"
+    ]
+  },
+  {
+    "id": 384,
+    "surface": "darajada",
+    "expected_root": "daraja",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 385,
+    "surface": "yurakingnio'chia",
+    "expected_root": "yurak",
+    "expected_suffixes": [
+      "ingni",
+      "o'chia"
+    ]
+  },
+  {
+    "id": 386,
+    "surface": "oila",
+    "expected_root": "oila",
+    "expected_suffixes": []
+  },
+  {
+    "id": 387,
+    "surface": "to'lov",
+    "expected_root": "to'lov",
+    "expected_suffixes": []
+  },
+  {
+    "id": 388,
+    "surface": "telefoning",
+    "expected_root": "telefon",
+    "expected_suffixes": [
+      "ing"
+    ]
+  },
+  {
+    "id": 389,
+    "surface": "sotuvchiningimizo'chaa",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "ningimiz",
+      "o'chaa"
+    ]
+  },
+  {
+    "id": 390,
+    "surface": "o'qishima",
+    "expected_root": "o'q",
+    "expected_suffixes": [
+      "ishima"
+    ]
+  },
+  {
+    "id": 391,
+    "surface": "tilimchiao'chaa",
+    "expected_root": "tilim",
+    "expected_suffixes": [
+      "chia",
+      "o'chaa"
+    ]
+  },
+  {
+    "id": 392,
+    "surface": "g'allaimuvchi",
+    "expected_root": "g'alla",
+    "expected_suffixes": [
+      "imuvchi"
+    ]
+  },
+  {
+    "id": 393,
+    "surface": "tarixtamaamasai",
+    "expected_root": "tarix",
+    "expected_suffixes": [
+      "tamaa",
+      "masai"
+    ]
+  },
+  {
+    "id": 394,
+    "surface": "sog'liq",
+    "expected_root": "sog'liq",
+    "expected_suffixes": []
+  },
+  {
+    "id": 395,
+    "surface": "uy-joyroqmoqda",
+    "expected_root": "uy-joy",
+    "expected_suffixes": [
+      "roqmoqda"
+    ]
+  },
+  {
+    "id": 396,
+    "surface": "haftagadira",
+    "expected_root": "hafta",
+    "expected_suffixes": [
+      "gadira"
+    ]
+  },
+  {
+    "id": 397,
+    "surface": "o'qishlar",
+    "expected_root": "o'qishlar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 398,
+    "surface": "samolyotmaganninguvchi",
+    "expected_root": "samolyot",
+    "expected_suffixes": [
+      "magan",
+      "ninguvchi"
+    ]
+  },
+  {
+    "id": 399,
+    "surface": "nomroqdensai",
+    "expected_root": "nom",
+    "expected_suffixes": [
+      "roq",
+      "densai"
+    ]
+  },
+  {
+    "id": 400,
+    "surface": "metroroq",
+    "expected_root": "metro",
+    "expected_suffixes": [
+      "roq"
+    ]
+  },
+  {
+    "id": 401,
+    "surface": "yurakingyor",
+    "expected_root": "yurak",
+    "expected_suffixes": [
+      "ingyor"
+    ]
+  },
+  {
+    "id": 402,
+    "surface": "marosimingizimari",
+    "expected_root": "marosim",
+    "expected_suffixes": [
+      "ingizim",
+      "ari"
+    ]
+  },
+  {
+    "id": 403,
+    "surface": "fizikaimuvchi",
+    "expected_root": "fizika",
+    "expected_suffixes": [
+      "imuvchi"
+    ]
+  },
+  {
+    "id": 404,
+    "surface": "til",
+    "expected_root": "til",
+    "expected_suffixes": []
+  },
+  {
+    "id": 405,
+    "surface": "gazyor",
+    "expected_root": "gaz",
+    "expected_suffixes": [
+      "yor"
+    ]
+  },
+  {
+    "id": 406,
+    "surface": "o'qishmaadi",
+    "expected_root": "o'qish",
+    "expected_suffixes": [
+      "maadi"
+    ]
+  },
+  {
+    "id": 407,
+    "surface": "yurakdanta",
+    "expected_root": "yurak",
+    "expected_suffixes": [
+      "danta"
+    ]
+  },
+  {
+    "id": 408,
+    "surface": "tadbir",
+    "expected_root": "tadbir",
+    "expected_suffixes": []
+  },
+  {
+    "id": 409,
+    "surface": "fermayora",
+    "expected_root": "ferma",
+    "expected_suffixes": [
+      "yora"
+    ]
+  },
+  {
+    "id": 410,
+    "surface": "muhandisdenqaiyor",
+    "expected_root": "muhandis",
+    "expected_suffixes": [
+      "denqai",
+      "yor"
+    ]
+  },
+  {
+    "id": 411,
+    "surface": "gaz",
+    "expected_root": "gaz",
+    "expected_suffixes": []
+  },
+  {
+    "id": 412,
+    "surface": "yillarginari",
+    "expected_root": "yillar",
+    "expected_suffixes": [
+      "gin",
+      "ari"
+    ]
+  },
+  {
+    "id": 413,
+    "surface": "yiltamaa",
+    "expected_root": "yil",
+    "expected_suffixes": [
+      "tamaa"
+    ]
+  },
+  {
+    "id": 414,
+    "surface": "nonvoyxonasalergai",
+    "expected_root": "nonvoyxona",
+    "expected_suffixes": [
+      "sa",
+      "lergai"
+    ]
+  },
+  {
+    "id": 415,
+    "surface": "sutyorda",
+    "expected_root": "sut",
+    "expected_suffixes": [
+      "yorda"
+    ]
+  },
+  {
+    "id": 416,
+    "surface": "ma'ruzachi",
+    "expected_root": "ma'ruzachi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 417,
+    "surface": "mashg'ulot",
+    "expected_root": "mashg'ulot",
+    "expected_suffixes": []
+  },
+  {
+    "id": 418,
+    "surface": "adabiyotimiz",
+    "expected_root": "adabiyot",
+    "expected_suffixes": [
+      "imiz"
+    ]
+  },
+  {
+    "id": 419,
+    "surface": "muhandislor",
+    "expected_root": "muhandis",
+    "expected_suffixes": [
+      "lor"
+    ]
+  },
+  {
+    "id": 420,
+    "surface": "ferma",
+    "expected_root": "ferma",
+    "expected_suffixes": []
+  },
+  {
+    "id": 421,
+    "surface": "dokonim",
+    "expected_root": "dokon",
+    "expected_suffixes": [
+      "im"
+    ]
+  },
+  {
+    "id": 422,
+    "surface": "non",
+    "expected_root": "non",
+    "expected_suffixes": []
+  },
+  {
+    "id": 423,
+    "surface": "darso'ar",
+    "expected_root": "dars",
+    "expected_suffixes": [
+      "o'ar"
+    ]
+  },
+  {
+    "id": 424,
+    "surface": "til",
+    "expected_root": "til",
+    "expected_suffixes": []
+  },
+  {
+    "id": 425,
+    "surface": "yozmaginadirchi",
+    "expected_root": "yoz",
+    "expected_suffixes": [
+      "magina",
+      "dirchi"
+    ]
+  },
+  {
+    "id": 426,
+    "surface": "yuraklormaso'i",
+    "expected_root": "yurak",
+    "expected_suffixes": [
+      "lor",
+      "maso'i"
+    ]
+  },
+  {
+    "id": 427,
+    "surface": "dehqonishta",
+    "expected_root": "dehqon",
+    "expected_suffixes": [
+      "ishta"
+    ]
+  },
+  {
+    "id": 428,
+    "surface": "tilimizuvchi-ning",
+    "expected_root": "tilimiz",
+    "expected_suffixes": [
+      "uvchi-ning"
+    ]
+  },
+  {
+    "id": 429,
+    "surface": "so'zgan",
+    "expected_root": "so'z",
+    "expected_suffixes": [
+      "gan"
+    ]
+  },
+  {
+    "id": 430,
+    "surface": "biologiyamasmai",
+    "expected_root": "biologiya",
+    "expected_suffixes": [
+      "masmai"
+    ]
+  },
+  {
+    "id": 431,
+    "surface": "tilchigagina",
+    "expected_root": "tilchi",
+    "expected_suffixes": [
+      "gagina"
+    ]
+  },
+  {
+    "id": 432,
+    "surface": "sinfxonama",
+    "expected_root": "sinfxona",
+    "expected_suffixes": [
+      "ma"
+    ]
+  },
+  {
+    "id": 433,
+    "surface": "sonuvish",
+    "expected_root": "son",
+    "expected_suffixes": [
+      "uvish"
+    ]
+  },
+  {
+    "id": 434,
+    "surface": "yozlarima",
+    "expected_root": "yoz",
+    "expected_suffixes": [
+      "larima"
+    ]
+  },
+  {
+    "id": 435,
+    "surface": "temirdirmadasaa",
+    "expected_root": "temir",
+    "expected_suffixes": [
+      "dirma",
+      "dasaa"
+    ]
+  },
+  {
+    "id": 436,
+    "surface": "narxdichi",
+    "expected_root": "narx",
+    "expected_suffixes": [
+      "dichi"
+    ]
+  },
+  {
+    "id": 437,
+    "surface": "viloyat",
+    "expected_root": "viloyat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 438,
+    "surface": "elektrdi",
+    "expected_root": "elektr",
+    "expected_suffixes": [
+      "di"
+    ]
+  },
+  {
+    "id": 439,
+    "surface": "tadbirdandaa",
+    "expected_root": "tadbir",
+    "expected_suffixes": [
+      "dandaa"
+    ]
+  },
+  {
+    "id": 440,
+    "surface": "donmoqdayor",
+    "expected_root": "don",
+    "expected_suffixes": [
+      "moqdayor"
+    ]
+  },
+  {
+    "id": 441,
+    "surface": "yillaruvchiiing",
+    "expected_root": "yillar",
+    "expected_suffixes": [
+      "uvchii",
+      "ing"
+    ]
+  },
+  {
+    "id": 442,
+    "surface": "dokonchiish",
+    "expected_root": "dokon",
+    "expected_suffixes": [
+      "chiish"
+    ]
+  },
+  {
+    "id": 443,
+    "surface": "qalblerganar",
+    "expected_root": "qalb",
+    "expected_suffixes": [
+      "ler",
+      "ganar"
+    ]
+  },
+  {
+    "id": 444,
+    "surface": "meva",
+    "expected_root": "meva",
+    "expected_suffixes": []
+  },
+  {
+    "id": 445,
+    "surface": "sutliimvori",
+    "expected_root": "sutli",
+    "expected_suffixes": [
+      "imvori"
+    ]
+  },
+  {
+    "id": 446,
+    "surface": "kitobxono'chia",
+    "expected_root": "kitobxon",
+    "expected_suffixes": [
+      "o'chia"
+    ]
+  },
+  {
+    "id": 447,
+    "surface": "o'qdiryorlarida",
+    "expected_root": "o'q",
+    "expected_suffixes": [
+      "diryor",
+      "larida"
+    ]
+  },
+  {
+    "id": 448,
+    "surface": "gaziylaridiruva",
+    "expected_root": "gaz",
+    "expected_suffixes": [
+      "iylari",
+      "diruva"
+    ]
+  },
+  {
+    "id": 449,
+    "surface": "qayiqorqa",
+    "expected_root": "qayiq",
+    "expected_suffixes": [
+      "or",
+      "qa"
+    ]
+  },
+  {
+    "id": 450,
+    "surface": "sotuvchio'archidi",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "o'ar",
+      "chidi"
+    ]
+  },
+  {
+    "id": 451,
+    "surface": "moliya",
+    "expected_root": "moliya",
+    "expected_suffixes": []
+  },
+  {
+    "id": 452,
+    "surface": "informatika",
+    "expected_root": "informatika",
+    "expected_suffixes": []
+  },
+  {
+    "id": 453,
+    "surface": "muhandis",
+    "expected_root": "muhandis",
+    "expected_suffixes": []
+  },
+  {
+    "id": 454,
+    "surface": "furoshqasaa",
+    "expected_root": "furosh",
+    "expected_suffixes": [
+      "qasaa"
+    ]
+  },
+  {
+    "id": 455,
+    "surface": "narxlarimdena",
+    "expected_root": "narxlar",
+    "expected_suffixes": [
+      "imdena"
+    ]
+  },
+  {
+    "id": 456,
+    "surface": "kinoimiz",
+    "expected_root": "kino",
+    "expected_suffixes": [
+      "imiz"
+    ]
+  },
+  {
+    "id": 457,
+    "surface": "sotuvchi",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 458,
+    "surface": "sayohatadii",
+    "expected_root": "sayohat",
+    "expected_suffixes": [
+      "adii"
+    ]
+  },
+  {
+    "id": 459,
+    "surface": "daryo",
+    "expected_root": "daryo",
+    "expected_suffixes": []
+  },
+  {
+    "id": 460,
+    "surface": "so'zvora",
+    "expected_root": "so'z",
+    "expected_suffixes": [
+      "vora"
+    ]
+  },
+  {
+    "id": 461,
+    "surface": "san'atdiga",
+    "expected_root": "san'at",
+    "expected_suffixes": [
+      "diga"
+    ]
+  },
+  {
+    "id": 462,
+    "surface": "matematika",
+    "expected_root": "matematika",
+    "expected_suffixes": []
+  },
+  {
+    "id": 463,
+    "surface": "yurakroq",
+    "expected_root": "yurak",
+    "expected_suffixes": [
+      "roq"
+    ]
+  },
+  {
+    "id": 464,
+    "surface": "bankomatgingaa",
+    "expected_root": "bankomat",
+    "expected_suffixes": [
+      "gingaa"
+    ]
+  },
+  {
+    "id": 465,
+    "surface": "yillarsamoqdadalara",
+    "expected_root": "yillar",
+    "expected_suffixes": [
+      "samoqda",
+      "dalara"
+    ]
+  },
+  {
+    "id": 466,
+    "surface": "qizsadir",
+    "expected_root": "qiz",
+    "expected_suffixes": [
+      "sadir"
+    ]
+  },
+  {
+    "id": 467,
+    "surface": "fermerdanma",
+    "expected_root": "fermer",
+    "expected_suffixes": [
+      "danma"
+    ]
+  },
+  {
+    "id": 468,
+    "surface": "o'g'ilninglik",
+    "expected_root": "o'g'il",
+    "expected_suffixes": [
+      "ninglik"
+    ]
+  },
+  {
+    "id": 469,
+    "surface": "vafot",
+    "expected_root": "vafot",
+    "expected_suffixes": []
+  },
+  {
+    "id": 470,
+    "surface": "o'qishlor",
+    "expected_root": "o'qish",
+    "expected_suffixes": [
+      "lor"
+    ]
+  },
+  {
+    "id": 471,
+    "surface": "suv",
+    "expected_root": "suv",
+    "expected_suffixes": []
+  },
+  {
+    "id": 472,
+    "surface": "xodimgingaa",
+    "expected_root": "xodim",
+    "expected_suffixes": [
+      "gingaa"
+    ]
+  },
+  {
+    "id": 473,
+    "surface": "haydovchi",
+    "expected_root": "haydovchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 474,
+    "surface": "otaninglikvordia",
+    "expected_root": "ota",
+    "expected_suffixes": [
+      "ninglik",
+      "vordia"
+    ]
+  },
+  {
+    "id": 475,
+    "surface": "marosimmasdaidanta",
+    "expected_root": "marosim",
+    "expected_suffixes": [
+      "masdai",
+      "danta"
+    ]
+  },
+  {
+    "id": 476,
+    "surface": "onaimyoralik",
+    "expected_root": "ona",
+    "expected_suffixes": [
+      "imyora",
+      "lik"
+    ]
+  },
+  {
+    "id": 477,
+    "surface": "ma'nodirgaa",
+    "expected_root": "ma'no",
+    "expected_suffixes": [
+      "dirgaa"
+    ]
+  },
+  {
+    "id": 478,
+    "surface": "ta'limchi",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 479,
+    "surface": "nonvoyxonaadiroq",
+    "expected_root": "nonvoyxona",
+    "expected_suffixes": [
+      "adiroq"
+    ]
+  },
+  {
+    "id": 480,
+    "surface": "san'atdanga",
+    "expected_root": "san'at",
+    "expected_suffixes": [
+      "dan",
+      "ga"
+    ]
+  },
+  {
+    "id": 481,
+    "surface": "go'shtlargan",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "largan"
+    ]
+  },
+  {
+    "id": 482,
+    "surface": "qishloqo'roqilari",
+    "expected_root": "qishloq",
+    "expected_suffixes": [
+      "o'roqi",
+      "lari"
+    ]
+  },
+  {
+    "id": 483,
+    "surface": "yosho'tai",
+    "expected_root": "yosh",
+    "expected_suffixes": [
+      "o'tai"
+    ]
+  },
+  {
+    "id": 484,
+    "surface": "ota-ona",
+    "expected_root": "ota-ona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 485,
+    "surface": "joyadiimdir",
+    "expected_root": "joy",
+    "expected_suffixes": [
+      "adi",
+      "imdir"
+    ]
+  },
+  {
+    "id": 486,
+    "surface": "mashinaroqmoqda",
+    "expected_root": "mashina",
+    "expected_suffixes": [
+      "roqmoqda"
+    ]
+  },
+  {
+    "id": 487,
+    "surface": "poyezd",
+    "expected_root": "poyezd",
+    "expected_suffixes": []
+  },
+  {
+    "id": 488,
+    "surface": "onaar",
+    "expected_root": "ona",
+    "expected_suffixes": [
+      "ar"
+    ]
+  },
+  {
+    "id": 489,
+    "surface": "xodimvordamasmai",
+    "expected_root": "xodim",
+    "expected_suffixes": [
+      "vorda",
+      "masmai"
+    ]
+  },
+  {
+    "id": 490,
+    "surface": "savdoadiuvchi",
+    "expected_root": "savdo",
+    "expected_suffixes": [
+      "adiuvchi"
+    ]
+  },
+  {
+    "id": 491,
+    "surface": "ishchio'inga",
+    "expected_root": "ishchi",
+    "expected_suffixes": [
+      "o'inga"
+    ]
+  },
+  {
+    "id": 492,
+    "surface": "qizcha",
+    "expected_root": "qiz",
+    "expected_suffixes": [
+      "cha"
+    ]
+  },
+  {
+    "id": 493,
+    "surface": "joy",
+    "expected_root": "joy",
+    "expected_suffixes": []
+  },
+  {
+    "id": 494,
+    "surface": "kundiiyi",
+    "expected_root": "kun",
+    "expected_suffixes": [
+      "diiyi"
+    ]
+  },
+  {
+    "id": 495,
+    "surface": "soliqyorari",
+    "expected_root": "soliq",
+    "expected_suffixes": [
+      "yorari"
+    ]
+  },
+  {
+    "id": 496,
+    "surface": "bandlikvornii",
+    "expected_root": "bandlik",
+    "expected_suffixes": [
+      "vornii"
+    ]
+  },
+  {
+    "id": 497,
+    "surface": "raqamchima",
+    "expected_root": "raqam",
+    "expected_suffixes": [
+      "chima"
+    ]
+  },
+  {
+    "id": 498,
+    "surface": "o'qishlarmalaraor",
+    "expected_root": "o'qishlar",
+    "expected_suffixes": [
+      "malara",
+      "or"
+    ]
+  },
+  {
+    "id": 499,
+    "surface": "ko'rgazmalarroq",
+    "expected_root": "ko'rgazma",
+    "expected_suffixes": [
+      "larroq"
+    ]
+  },
+  {
+    "id": 500,
+    "surface": "ota",
+    "expected_root": "ota",
+    "expected_suffixes": []
+  },
+  {
+    "id": 501,
+    "surface": "shaharlari",
+    "expected_root": "shahar",
+    "expected_suffixes": [
+      "lari"
+    ]
+  },
+  {
+    "id": 502,
+    "surface": "uy-joy",
+    "expected_root": "uy-joy",
+    "expected_suffixes": []
+  },
+  {
+    "id": 503,
+    "surface": "sayrginaa",
+    "expected_root": "sayr",
+    "expected_suffixes": [
+      "ginaa"
+    ]
+  },
+  {
+    "id": 504,
+    "surface": "geografiyaimdai",
+    "expected_root": "geografiya",
+    "expected_suffixes": [
+      "imdai"
+    ]
+  },
+  {
+    "id": 505,
+    "surface": "yillaringni",
+    "expected_root": "yillar",
+    "expected_suffixes": [
+      "ingni"
+    ]
+  },
+  {
+    "id": 506,
+    "surface": "investitsiyalargan",
+    "expected_root": "investitsiya",
+    "expected_suffixes": [
+      "largan"
+    ]
+  },
+  {
+    "id": 507,
+    "surface": "ma'ruzachidirgaa",
+    "expected_root": "ma'ruzachi",
+    "expected_suffixes": [
+      "dirgaa"
+    ]
+  },
+  {
+    "id": 508,
+    "surface": "investitsiyaadiniyoruvchi",
+    "expected_root": "investitsiya",
+    "expected_suffixes": [
+      "adini",
+      "yoruvchi"
+    ]
+  },
+  {
+    "id": 509,
+    "surface": "yillargana",
+    "expected_root": "yillar",
+    "expected_suffixes": [
+      "gana"
+    ]
+  },
+  {
+    "id": 510,
+    "surface": "haftailario'roqi",
+    "expected_root": "hafta",
+    "expected_suffixes": [
+      "ilari",
+      "o'roqi"
+    ]
+  },
+  {
+    "id": 511,
+    "surface": "so'zginalik",
+    "expected_root": "so'z",
+    "expected_suffixes": [
+      "ginalik"
+    ]
+  },
+  {
+    "id": 512,
+    "surface": "universitet",
+    "expected_root": "universitet",
+    "expected_suffixes": []
+  },
+  {
+    "id": 513,
+    "surface": "narxlar",
+    "expected_root": "narxlar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 514,
+    "surface": "informatikamassa",
+    "expected_root": "informatika",
+    "expected_suffixes": [
+      "mas",
+      "sa"
+    ]
+  },
+  {
+    "id": 515,
+    "surface": "insoniyat",
+    "expected_root": "insoniyat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 516,
+    "surface": "geografiyaim",
+    "expected_root": "geografiya",
+    "expected_suffixes": [
+      "im"
+    ]
+  },
+  {
+    "id": 517,
+    "surface": "to'lovgandii",
+    "expected_root": "to'lov",
+    "expected_suffixes": [
+      "gandii"
+    ]
+  },
+  {
+    "id": 518,
+    "surface": "viloyat",
+    "expected_root": "viloyat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 519,
+    "surface": "ota-onaqalerroqmoqda",
+    "expected_root": "ota-ona",
+    "expected_suffixes": [
+      "qaler",
+      "roqmoqda"
+    ]
+  },
+  {
+    "id": 520,
+    "surface": "bola",
+    "expected_root": "bola",
+    "expected_suffixes": []
+  },
+  {
+    "id": 521,
+    "surface": "yoshadinii",
+    "expected_root": "yosh",
+    "expected_suffixes": [
+      "adinii"
+    ]
+  },
+  {
+    "id": 522,
+    "surface": "arxitektoror",
+    "expected_root": "arxitektor",
+    "expected_suffixes": [
+      "or"
+    ]
+  },
+  {
+    "id": 523,
+    "surface": "inson",
+    "expected_root": "inson",
+    "expected_suffixes": []
+  },
+  {
+    "id": 524,
+    "surface": "uchrashuvgino'inga",
+    "expected_root": "uchrashuv",
+    "expected_suffixes": [
+      "gin",
+      "o'inga"
+    ]
+  },
+  {
+    "id": 525,
+    "surface": "ma'ruzachiroq",
+    "expected_root": "ma'ruzachi",
+    "expected_suffixes": [
+      "roq"
+    ]
+  },
+  {
+    "id": 526,
+    "surface": "o'qishlarvornii",
+    "expected_root": "o'qishlar",
+    "expected_suffixes": [
+      "vornii"
+    ]
+  },
+  {
+    "id": 527,
+    "surface": "xizmato'mai",
+    "expected_root": "xizmat",
+    "expected_suffixes": [
+      "o'mai"
+    ]
+  },
+  {
+    "id": 528,
+    "surface": "davoiishidata",
+    "expected_root": "davo",
+    "expected_suffixes": [
+      "iishi",
+      "data"
+    ]
+  },
+  {
+    "id": 529,
+    "surface": "tilchiadiuvchi",
+    "expected_root": "tilchi",
+    "expected_suffixes": [
+      "adiuvchi"
+    ]
+  },
+  {
+    "id": 530,
+    "surface": "dokonuviya",
+    "expected_root": "dokon",
+    "expected_suffixes": [
+      "uviya"
+    ]
+  },
+  {
+    "id": 531,
+    "surface": "qayiq",
+    "expected_root": "qayiq",
+    "expected_suffixes": []
+  },
+  {
+    "id": 532,
+    "surface": "avtobusdagan",
+    "expected_root": "avtobus",
+    "expected_suffixes": [
+      "dagan"
+    ]
+  },
+  {
+    "id": 533,
+    "surface": "firmauv",
+    "expected_root": "firma",
+    "expected_suffixes": [
+      "uv"
+    ]
+  },
+  {
+    "id": 534,
+    "surface": "tilchisa",
+    "expected_root": "tilchi",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 535,
+    "surface": "do'st",
+    "expected_root": "do'st",
+    "expected_suffixes": []
+  },
+  {
+    "id": 536,
+    "surface": "bog'ar",
+    "expected_root": "bog'",
+    "expected_suffixes": [
+      "ar"
+    ]
+  },
+  {
+    "id": 537,
+    "surface": "kitoblar",
+    "expected_root": "kitoblar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 538,
+    "surface": "tilim",
+    "expected_root": "tilim",
+    "expected_suffixes": []
+  },
+  {
+    "id": 539,
+    "surface": "narxmachaler",
+    "expected_root": "narx",
+    "expected_suffixes": [
+      "macha",
+      "ler"
+    ]
+  },
+  {
+    "id": 540,
+    "surface": "uymoqda",
+    "expected_root": "uy",
+    "expected_suffixes": [
+      "moqda"
+    ]
+  },
+  {
+    "id": 541,
+    "surface": "tilimgandandaa",
+    "expected_root": "tilim",
+    "expected_suffixes": [
+      "gan",
+      "dandaa"
+    ]
+  },
+  {
+    "id": 542,
+    "surface": "xizmatdirdaio'sai",
+    "expected_root": "xizmat",
+    "expected_suffixes": [
+      "dirdai",
+      "o'sai"
+    ]
+  },
+  {
+    "id": 543,
+    "surface": "viloyatcha",
+    "expected_root": "viloyat",
+    "expected_suffixes": [
+      "cha"
+    ]
+  },
+  {
+    "id": 544,
+    "surface": "yo'lovchi",
+    "expected_root": "yo'lovchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 545,
+    "surface": "kompaniyani",
+    "expected_root": "kompaniya",
+    "expected_suffixes": [
+      "ni"
+    ]
+  },
+  {
+    "id": 546,
+    "surface": "soliqgin",
+    "expected_root": "soliq",
+    "expected_suffixes": [
+      "gin"
+    ]
+  },
+  {
+    "id": 547,
+    "surface": "viloyatroqgadeni",
+    "expected_root": "viloyat",
+    "expected_suffixes": [
+      "roq",
+      "gadeni"
+    ]
+  },
+  {
+    "id": 548,
+    "surface": "ta'limchidiro'ining",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": [
+      "diro'i",
+      "ning"
+    ]
+  },
+  {
+    "id": 549,
+    "surface": "adabiyotgina",
+    "expected_root": "adabiyot",
+    "expected_suffixes": [
+      "gina"
+    ]
+  },
+  {
+    "id": 550,
+    "surface": "furosh",
+    "expected_root": "furosh",
+    "expected_suffixes": []
+  },
+  {
+    "id": 551,
+    "surface": "daqiqiyingamao'",
+    "expected_root": "daqiq",
+    "expected_suffixes": [
+      "iyinga",
+      "mao'"
+    ]
+  },
+  {
+    "id": 552,
+    "surface": "viloyatditaa",
+    "expected_root": "viloyat",
+    "expected_suffixes": [
+      "ditaa"
+    ]
+  },
+  {
+    "id": 553,
+    "surface": "savdodanimtaa",
+    "expected_root": "savdo",
+    "expected_suffixes": [
+      "dan",
+      "imtaa"
+    ]
+  },
+  {
+    "id": 554,
+    "surface": "pulingizdadirta",
+    "expected_root": "pul",
+    "expected_suffixes": [
+      "ingizda",
+      "dirta"
+    ]
+  },
+  {
+    "id": 555,
+    "surface": "otliklar",
+    "expected_root": "ot",
+    "expected_suffixes": [
+      "liklar"
+    ]
+  },
+  {
+    "id": 556,
+    "surface": "transportdendir",
+    "expected_root": "transport",
+    "expected_suffixes": [
+      "dendir"
+    ]
+  },
+  {
+    "id": 557,
+    "surface": "o'qishsainga",
+    "expected_root": "o'qish",
+    "expected_suffixes": [
+      "sainga"
+    ]
+  },
+  {
+    "id": 558,
+    "surface": "dokon",
+    "expected_root": "dokon",
+    "expected_suffixes": []
+  },
+  {
+    "id": 559,
+    "surface": "darsdiringiz",
+    "expected_root": "dars",
+    "expected_suffixes": [
+      "diringiz"
+    ]
+  },
+  {
+    "id": 560,
+    "surface": "sotuvchiadii",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "adii"
+    ]
+  },
+  {
+    "id": 561,
+    "surface": "ota",
+    "expected_root": "ota",
+    "expected_suffixes": []
+  },
+  {
+    "id": 562,
+    "surface": "davoganlar",
+    "expected_root": "davo",
+    "expected_suffixes": [
+      "ganlar"
+    ]
+  },
+  {
+    "id": 563,
+    "surface": "tilimsa",
+    "expected_root": "tilim",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 564,
+    "surface": "ko'rgazma",
+    "expected_root": "ko'rgazma",
+    "expected_suffixes": []
+  },
+  {
+    "id": 565,
+    "surface": "maktabchiish",
+    "expected_root": "maktab",
+    "expected_suffixes": [
+      "chiish"
+    ]
+  },
+  {
+    "id": 566,
+    "surface": "xizmattaima",
+    "expected_root": "xizmat",
+    "expected_suffixes": [
+      "taima"
+    ]
+  },
+  {
+    "id": 567,
+    "surface": "mualliflargan",
+    "expected_root": "muallif",
+    "expected_suffixes": [
+      "largan"
+    ]
+  },
+  {
+    "id": 568,
+    "surface": "kitoblarginamagan",
+    "expected_root": "kitoblar",
+    "expected_suffixes": [
+      "ginamagan"
+    ]
+  },
+  {
+    "id": 569,
+    "surface": "kitobxoningdaa",
+    "expected_root": "kitobxon",
+    "expected_suffixes": [
+      "ingdaa"
+    ]
+  },
+  {
+    "id": 570,
+    "surface": "gaz",
+    "expected_root": "gaz",
+    "expected_suffixes": []
+  },
+  {
+    "id": 571,
+    "surface": "viloyato'chia",
+    "expected_root": "viloyat",
+    "expected_suffixes": [
+      "o'chia"
+    ]
+  },
+  {
+    "id": 572,
+    "surface": "xodimdalaridirgaa",
+    "expected_root": "xodim",
+    "expected_suffixes": [
+      "dalari",
+      "dirgaa"
+    ]
+  },
+  {
+    "id": 573,
+    "surface": "yiluvia",
+    "expected_root": "yil",
+    "expected_suffixes": [
+      "uvia"
+    ]
+  },
+  {
+    "id": 574,
+    "surface": "loyihaim",
+    "expected_root": "loyiha",
+    "expected_suffixes": [
+      "im"
+    ]
+  },
+  {
+    "id": 575,
+    "surface": "ofislaruvayor",
+    "expected_root": "ofis",
+    "expected_suffixes": [
+      "laruva",
+      "yor"
+    ]
+  },
+  {
+    "id": 576,
+    "surface": "konsertqachiavor",
+    "expected_root": "konsert",
+    "expected_suffixes": [
+      "qachia",
+      "vor"
+    ]
+  },
+  {
+    "id": 577,
+    "surface": "sotuvchimaginamaqai",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "magina",
+      "maqai"
+    ]
+  },
+  {
+    "id": 578,
+    "surface": "narxmoqdasa",
+    "expected_root": "narx",
+    "expected_suffixes": [
+      "moqdasa"
+    ]
+  },
+  {
+    "id": 579,
+    "surface": "davochi",
+    "expected_root": "davo",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 580,
+    "surface": "energiya",
+    "expected_root": "energiya",
+    "expected_suffixes": []
+  },
+  {
+    "id": 581,
+    "surface": "soliq",
+    "expected_root": "soliq",
+    "expected_suffixes": []
+  },
+  {
+    "id": 582,
+    "surface": "qishloqmoqda",
+    "expected_root": "qishloq",
+    "expected_suffixes": [
+      "moqda"
+    ]
+  },
+  {
+    "id": 583,
+    "surface": "joymoqda",
+    "expected_root": "joy",
+    "expected_suffixes": [
+      "moqda"
+    ]
+  },
+  {
+    "id": 584,
+    "surface": "tadbirsa",
+    "expected_root": "tadbir",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 585,
+    "surface": "kuno'inga",
+    "expected_root": "kun",
+    "expected_suffixes": [
+      "o'inga"
+    ]
+  },
+  {
+    "id": 586,
+    "surface": "ofisqa",
+    "expected_root": "ofis",
+    "expected_suffixes": [
+      "qa"
+    ]
+  },
+  {
+    "id": 587,
+    "surface": "ofismoqdadanlar",
+    "expected_root": "ofis",
+    "expected_suffixes": [
+      "moqdadan",
+      "lar"
+    ]
+  },
+  {
+    "id": 588,
+    "surface": "kitoblaryoruvchi",
+    "expected_root": "kitoblar",
+    "expected_suffixes": [
+      "yoruvchi"
+    ]
+  },
+  {
+    "id": 589,
+    "surface": "pullaridaadinii",
+    "expected_root": "pul",
+    "expected_suffixes": [
+      "larida",
+      "adinii"
+    ]
+  },
+  {
+    "id": 590,
+    "surface": "fermer",
+    "expected_root": "fermer",
+    "expected_suffixes": []
+  },
+  {
+    "id": 591,
+    "surface": "uchrashuvlarroq",
+    "expected_root": "uchrashuv",
+    "expected_suffixes": [
+      "larroq"
+    ]
+  },
+  {
+    "id": 592,
+    "surface": "dasturtadangama",
+    "expected_root": "dastur",
+    "expected_suffixes": [
+      "tadan",
+      "gama"
+    ]
+  },
+  {
+    "id": 593,
+    "surface": "fanroqmoqda",
+    "expected_root": "fan",
+    "expected_suffixes": [
+      "roqmoqda"
+    ]
+  },
+  {
+    "id": 594,
+    "surface": "bolaniyori",
+    "expected_root": "bola",
+    "expected_suffixes": [
+      "niyori"
+    ]
+  },
+  {
+    "id": 595,
+    "surface": "tadbirdan",
+    "expected_root": "tadbir",
+    "expected_suffixes": [
+      "dan"
+    ]
+  },
+  {
+    "id": 596,
+    "surface": "to'lovimo'",
+    "expected_root": "to'lov",
+    "expected_suffixes": [
+      "imo'"
+    ]
+  },
+  {
+    "id": 597,
+    "surface": "bozorchiyor",
+    "expected_root": "bozorchi",
+    "expected_suffixes": [
+      "yor"
+    ]
+  },
+  {
+    "id": 598,
+    "surface": "o'qishlar",
+    "expected_root": "o'qishlar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 599,
+    "surface": "uchrashuvchi",
+    "expected_root": "uchrashuv",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 600,
+    "surface": "soliqtalik",
+    "expected_root": "soliq",
+    "expected_suffixes": [
+      "talik"
+    ]
+  },
+  {
+    "id": 601,
+    "surface": "bog'",
+    "expected_root": "bog'",
+    "expected_suffixes": []
+  },
+  {
+    "id": 602,
+    "surface": "samolyot",
+    "expected_root": "samolyot",
+    "expected_suffixes": []
+  },
+  {
+    "id": 603,
+    "surface": "taom",
+    "expected_root": "taom",
+    "expected_suffixes": []
+  },
+  {
+    "id": 604,
+    "surface": "bankdiadii",
+    "expected_root": "bank",
+    "expected_suffixes": [
+      "diadii"
+    ]
+  },
+  {
+    "id": 605,
+    "surface": "tadbirkordandaa",
+    "expected_root": "tadbirkor",
+    "expected_suffixes": [
+      "dandaa"
+    ]
+  },
+  {
+    "id": 606,
+    "surface": "qayiqchimanidai",
+    "expected_root": "qayiq",
+    "expected_suffixes": [
+      "chima",
+      "nidai"
+    ]
+  },
+  {
+    "id": 607,
+    "surface": "o'g'ilyorning",
+    "expected_root": "o'g'il",
+    "expected_suffixes": [
+      "yorning"
+    ]
+  },
+  {
+    "id": 608,
+    "surface": "sinfxonaginada",
+    "expected_root": "sinfxona",
+    "expected_suffixes": [
+      "ginada"
+    ]
+  },
+  {
+    "id": 609,
+    "surface": "qayiq",
+    "expected_root": "qayiq",
+    "expected_suffixes": []
+  },
+  {
+    "id": 610,
+    "surface": "viloyat",
+    "expected_root": "viloyat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 611,
+    "surface": "investitsiyaginadirditaa",
+    "expected_root": "investitsiya",
+    "expected_suffixes": [
+      "ginadir",
+      "ditaa"
+    ]
+  },
+  {
+    "id": 612,
+    "surface": "shartnoma",
+    "expected_root": "shartnoma",
+    "expected_suffixes": []
+  },
+  {
+    "id": 613,
+    "surface": "sayohat",
+    "expected_root": "sayohat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 614,
+    "surface": "to'lov",
+    "expected_root": "to'lov",
+    "expected_suffixes": []
+  },
+  {
+    "id": 615,
+    "surface": "tarixyor",
+    "expected_root": "tarix",
+    "expected_suffixes": [
+      "yor"
+    ]
+  },
+  {
+    "id": 616,
+    "surface": "g'alladanma",
+    "expected_root": "g'alla",
+    "expected_suffixes": [
+      "danma"
+    ]
+  },
+  {
+    "id": 617,
+    "surface": "daryomaso'i",
+    "expected_root": "daryo",
+    "expected_suffixes": [
+      "maso'i"
+    ]
+  },
+  {
+    "id": 618,
+    "surface": "vafotgaadii",
+    "expected_root": "vafot",
+    "expected_suffixes": [
+      "gaadii"
+    ]
+  },
+  {
+    "id": 619,
+    "surface": "nonargini",
+    "expected_root": "non",
+    "expected_suffixes": [
+      "argini"
+    ]
+  },
+  {
+    "id": 620,
+    "surface": "kimyolarida",
+    "expected_root": "kimyo",
+    "expected_suffixes": [
+      "larida"
+    ]
+  },
+  {
+    "id": 621,
+    "surface": "xizmatishning",
+    "expected_root": "xizmat",
+    "expected_suffixes": [
+      "ishning"
+    ]
+  },
+  {
+    "id": 622,
+    "surface": "soliqimlik",
+    "expected_root": "soliq",
+    "expected_suffixes": [
+      "imlik"
+    ]
+  },
+  {
+    "id": 623,
+    "surface": "sinfxona",
+    "expected_root": "sinfxona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 624,
+    "surface": "bog'yoro'i",
+    "expected_root": "bog'",
+    "expected_suffixes": [
+      "yoro'i"
+    ]
+  },
+  {
+    "id": 625,
+    "surface": "yilchi-lar",
+    "expected_root": "yil",
+    "expected_suffixes": [
+      "chi-lar"
+    ]
+  },
+  {
+    "id": 626,
+    "surface": "avtobuso'ningdiruva",
+    "expected_root": "avtobus",
+    "expected_suffixes": [
+      "o'ning",
+      "diruva"
+    ]
+  },
+  {
+    "id": 627,
+    "surface": "o'g'il",
+    "expected_root": "o'g'il",
+    "expected_suffixes": []
+  },
+  {
+    "id": 628,
+    "surface": "tabibi",
+    "expected_root": "tabib",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 629,
+    "surface": "bozorishari",
+    "expected_root": "bozor",
+    "expected_suffixes": [
+      "ishar",
+      "i"
+    ]
+  },
+  {
+    "id": 630,
+    "surface": "arxitektordaingdirdai",
+    "expected_root": "arxitektor",
+    "expected_suffixes": [
+      "daing",
+      "dirdai"
+    ]
+  },
+  {
+    "id": 631,
+    "surface": "metro",
+    "expected_root": "metro",
+    "expected_suffixes": []
+  },
+  {
+    "id": 632,
+    "surface": "insonliklar",
+    "expected_root": "inson",
+    "expected_suffixes": [
+      "liklar"
+    ]
+  },
+  {
+    "id": 633,
+    "surface": "qalbdirchi",
+    "expected_root": "qalb",
+    "expected_suffixes": [
+      "dirchi"
+    ]
+  },
+  {
+    "id": 634,
+    "surface": "bolataiyamagina",
+    "expected_root": "bola",
+    "expected_suffixes": [
+      "taiya",
+      "magina"
+    ]
+  },
+  {
+    "id": 635,
+    "surface": "elektrchiishuv",
+    "expected_root": "elektr",
+    "expected_suffixes": [
+      "chiish",
+      "uv"
+    ]
+  },
+  {
+    "id": 636,
+    "surface": "kompyuterlarida",
+    "expected_root": "kompyuter",
+    "expected_suffixes": [
+      "larida"
+    ]
+  },
+  {
+    "id": 637,
+    "surface": "mashinaimlik",
+    "expected_root": "mashina",
+    "expected_suffixes": [
+      "imlik"
+    ]
+  },
+  {
+    "id": 638,
+    "surface": "muallifo'ar",
+    "expected_root": "muallif",
+    "expected_suffixes": [
+      "o'ar"
+    ]
+  },
+  {
+    "id": 639,
+    "surface": "kishiimganiroqmoqda",
+    "expected_root": "kishi",
+    "expected_suffixes": [
+      "imgani",
+      "roqmoqda"
+    ]
+  },
+  {
+    "id": 640,
+    "surface": "ma'nogaadiidirgin",
+    "expected_root": "ma'no",
+    "expected_suffixes": [
+      "gaadii",
+      "dirgin"
+    ]
+  },
+  {
+    "id": 641,
+    "surface": "odamtadan",
+    "expected_root": "odam",
+    "expected_suffixes": [
+      "tadan"
+    ]
+  },
+  {
+    "id": 642,
+    "surface": "bayram",
+    "expected_root": "bayram",
+    "expected_suffixes": []
+  },
+  {
+    "id": 643,
+    "surface": "stansiyagadeninidir",
+    "expected_root": "stansiya",
+    "expected_suffixes": [
+      "gadeni",
+      "nidir"
+    ]
+  },
+  {
+    "id": 644,
+    "surface": "sayohatmasmai",
+    "expected_root": "sayohat",
+    "expected_suffixes": [
+      "masmai"
+    ]
+  },
+  {
+    "id": 645,
+    "surface": "daqiq",
+    "expected_root": "daqiq",
+    "expected_suffixes": []
+  },
+  {
+    "id": 646,
+    "surface": "dokondirginmaganler",
+    "expected_root": "dokon",
+    "expected_suffixes": [
+      "dirgin",
+      "maganler"
+    ]
+  },
+  {
+    "id": 647,
+    "surface": "nonginaa",
+    "expected_root": "non",
+    "expected_suffixes": [
+      "ginaa"
+    ]
+  },
+  {
+    "id": 648,
+    "surface": "poyezd",
+    "expected_root": "poyezd",
+    "expected_suffixes": []
+  },
+  {
+    "id": 649,
+    "surface": "yoqilg'iuviyaimtaa",
+    "expected_root": "yoqilg'i",
+    "expected_suffixes": [
+      "uviya",
+      "imtaa"
+    ]
+  },
+  {
+    "id": 650,
+    "surface": "ota-onaqasaa",
+    "expected_root": "ota-ona",
+    "expected_suffixes": [
+      "qasaa"
+    ]
+  },
+  {
+    "id": 651,
+    "surface": "onaishdii",
+    "expected_root": "ona",
+    "expected_suffixes": [
+      "ishdii"
+    ]
+  },
+  {
+    "id": 652,
+    "surface": "fermama",
+    "expected_root": "ferma",
+    "expected_suffixes": [
+      "ma"
+    ]
+  },
+  {
+    "id": 653,
+    "surface": "meva",
+    "expected_root": "meva",
+    "expected_suffixes": []
+  },
+  {
+    "id": 654,
+    "surface": "sotuvchi",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 655,
+    "surface": "bemor",
+    "expected_root": "bemor",
+    "expected_suffixes": []
+  },
+  {
+    "id": 656,
+    "surface": "sog'liqimdanaimishi",
+    "expected_root": "sog'liq",
+    "expected_suffixes": [
+      "imdana",
+      "imishi"
+    ]
+  },
+  {
+    "id": 657,
+    "surface": "sog'liqadiio'gan",
+    "expected_root": "sog'liq",
+    "expected_suffixes": [
+      "adii",
+      "o'gan"
+    ]
+  },
+  {
+    "id": 658,
+    "surface": "sotishlerta",
+    "expected_root": "sotish",
+    "expected_suffixes": [
+      "lerta"
+    ]
+  },
+  {
+    "id": 659,
+    "surface": "marosim",
+    "expected_root": "marosim",
+    "expected_suffixes": []
+  },
+  {
+    "id": 660,
+    "surface": "sayohatadiuvchiginadir",
+    "expected_root": "sayohat",
+    "expected_suffixes": [
+      "adiuvchi",
+      "ginadir"
+    ]
+  },
+  {
+    "id": 661,
+    "surface": "maosh",
+    "expected_root": "maosh",
+    "expected_suffixes": []
+  },
+  {
+    "id": 662,
+    "surface": "sotuv",
+    "expected_root": "sotuv",
+    "expected_suffixes": []
+  },
+  {
+    "id": 663,
+    "surface": "moliya",
+    "expected_root": "moliya",
+    "expected_suffixes": []
+  },
+  {
+    "id": 664,
+    "surface": "kishiimo'",
+    "expected_root": "kishi",
+    "expected_suffixes": [
+      "imo'"
+    ]
+  },
+  {
+    "id": 665,
+    "surface": "hafta",
+    "expected_root": "hafta",
+    "expected_suffixes": []
+  },
+  {
+    "id": 666,
+    "surface": "go'shtmasmai",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "masmai"
+    ]
+  },
+  {
+    "id": 667,
+    "surface": "arxitektoradidaa",
+    "expected_root": "arxitektor",
+    "expected_suffixes": [
+      "adidaa"
+    ]
+  },
+  {
+    "id": 668,
+    "surface": "hisobninglik",
+    "expected_root": "hisob",
+    "expected_suffixes": [
+      "ninglik"
+    ]
+  },
+  {
+    "id": 669,
+    "surface": "to'lov",
+    "expected_root": "to'lov",
+    "expected_suffixes": []
+  },
+  {
+    "id": 670,
+    "surface": "sportlarmaa",
+    "expected_root": "sport",
+    "expected_suffixes": [
+      "larmaa"
+    ]
+  },
+  {
+    "id": 671,
+    "surface": "sutlarmaamaler",
+    "expected_root": "sut",
+    "expected_suffixes": [
+      "larmaa",
+      "maler"
+    ]
+  },
+  {
+    "id": 672,
+    "surface": "metro",
+    "expected_root": "metro",
+    "expected_suffixes": []
+  },
+  {
+    "id": 673,
+    "surface": "joyimlik",
+    "expected_root": "joy",
+    "expected_suffixes": [
+      "imlik"
+    ]
+  },
+  {
+    "id": 674,
+    "surface": "ta'limchigina",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": [
+      "gina"
+    ]
+  },
+  {
+    "id": 675,
+    "surface": "qizmaso'i",
+    "expected_root": "qiz",
+    "expected_suffixes": [
+      "maso'i"
+    ]
+  },
+  {
+    "id": 676,
+    "surface": "onagamoqda",
+    "expected_root": "ona",
+    "expected_suffixes": [
+      "gamoqda"
+    ]
+  },
+  {
+    "id": 677,
+    "surface": "shahardiringiz",
+    "expected_root": "shahar",
+    "expected_suffixes": [
+      "diringiz"
+    ]
+  },
+  {
+    "id": 678,
+    "surface": "adabiyoto'ar",
+    "expected_root": "adabiyot",
+    "expected_suffixes": [
+      "o'ar"
+    ]
+  },
+  {
+    "id": 679,
+    "surface": "yo'ldamoqdachaqa",
+    "expected_root": "yo'l",
+    "expected_suffixes": [
+      "damoqda",
+      "chaqa"
+    ]
+  },
+  {
+    "id": 680,
+    "surface": "do'stsaroq",
+    "expected_root": "do'st",
+    "expected_suffixes": [
+      "sa",
+      "roq"
+    ]
+  },
+  {
+    "id": 681,
+    "surface": "raqamsa",
+    "expected_root": "raqam",
+    "expected_suffixes": [
+      "sa"
+    ]
+  },
+  {
+    "id": 682,
+    "surface": "bemoriyga",
+    "expected_root": "bemor",
+    "expected_suffixes": [
+      "iyga"
+    ]
+  },
+  {
+    "id": 683,
+    "surface": "mashg'ulot",
+    "expected_root": "mashg'ulot",
+    "expected_suffixes": []
+  },
+  {
+    "id": 684,
+    "surface": "xodimnia",
+    "expected_root": "xodim",
+    "expected_suffixes": [
+      "nia"
+    ]
+  },
+  {
+    "id": 685,
+    "surface": "ishchimasdai",
+    "expected_root": "ishchi",
+    "expected_suffixes": [
+      "masdai"
+    ]
+  },
+  {
+    "id": 686,
+    "surface": "tabibyorari",
+    "expected_root": "tabib",
+    "expected_suffixes": [
+      "yorari"
+    ]
+  },
+  {
+    "id": 687,
+    "surface": "nonvoyim",
+    "expected_root": "nonvoy",
+    "expected_suffixes": [
+      "im"
+    ]
+  },
+  {
+    "id": 688,
+    "surface": "nom",
+    "expected_root": "nom",
+    "expected_suffixes": []
+  },
+  {
+    "id": 689,
+    "surface": "yillar",
+    "expected_root": "yillar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 690,
+    "surface": "rahbardiringiz",
+    "expected_root": "rahbar",
+    "expected_suffixes": [
+      "diringiz"
+    ]
+  },
+  {
+    "id": 691,
+    "surface": "sog'liq",
+    "expected_root": "sog'liq",
+    "expected_suffixes": []
+  },
+  {
+    "id": 692,
+    "surface": "bayram",
+    "expected_root": "bayram",
+    "expected_suffixes": []
+  },
+  {
+    "id": 693,
+    "surface": "ishchiginamaganchiish",
+    "expected_root": "ishchi",
+    "expected_suffixes": [
+      "ginamagan",
+      "chiish"
+    ]
+  },
+  {
+    "id": 694,
+    "surface": "loyiha",
+    "expected_root": "loyiha",
+    "expected_suffixes": []
+  },
+  {
+    "id": 695,
+    "surface": "firmao'chialernii",
+    "expected_root": "firma",
+    "expected_suffixes": [
+      "o'chia",
+      "lernii"
+    ]
+  },
+  {
+    "id": 696,
+    "surface": "furosh",
+    "expected_root": "furosh",
+    "expected_suffixes": []
+  },
+  {
+    "id": 697,
+    "surface": "sutlidenqai",
+    "expected_root": "sutli",
+    "expected_suffixes": [
+      "denqai"
+    ]
+  },
+  {
+    "id": 698,
+    "surface": "ta'limari",
+    "expected_root": "ta'lim",
+    "expected_suffixes": [
+      "ari"
+    ]
+  },
+  {
+    "id": 699,
+    "surface": "talabaning",
+    "expected_root": "talaba",
+    "expected_suffixes": [
+      "ning"
+    ]
+  },
+  {
+    "id": 700,
+    "surface": "shartnomao'sai",
+    "expected_root": "shartnoma",
+    "expected_suffixes": [
+      "o'sai"
+    ]
+  },
+  {
+    "id": 701,
+    "surface": "soliqdenii",
+    "expected_root": "soliq",
+    "expected_suffixes": [
+      "denii"
+    ]
+  },
+  {
+    "id": 702,
+    "surface": "narxroq",
+    "expected_root": "narx",
+    "expected_suffixes": [
+      "roq"
+    ]
+  },
+  {
+    "id": 703,
+    "surface": "sifato'ning",
+    "expected_root": "sifat",
+    "expected_suffixes": [
+      "o'ning"
+    ]
+  },
+  {
+    "id": 704,
+    "surface": "haftachia",
+    "expected_root": "hafta",
+    "expected_suffixes": [
+      "chia"
+    ]
+  },
+  {
+    "id": 705,
+    "surface": "ishlabmasdailerta",
+    "expected_root": "ishlab",
+    "expected_suffixes": [
+      "masdai",
+      "lerta"
+    ]
+  },
+  {
+    "id": 706,
+    "surface": "makonqalerqao'i",
+    "expected_root": "makon",
+    "expected_suffixes": [
+      "qaler",
+      "qao'i"
+    ]
+  },
+  {
+    "id": 707,
+    "surface": "tilchitadana",
+    "expected_root": "tilchi",
+    "expected_suffixes": [
+      "tadana"
+    ]
+  },
+  {
+    "id": 708,
+    "surface": "adabiyotdir",
+    "expected_root": "adabiyot",
+    "expected_suffixes": [
+      "dir"
+    ]
+  },
+  {
+    "id": 709,
+    "surface": "bozorchilarroq",
+    "expected_root": "bozorchi",
+    "expected_suffixes": [
+      "larroq"
+    ]
+  },
+  {
+    "id": 710,
+    "surface": "informatika",
+    "expected_root": "informatika",
+    "expected_suffixes": []
+  },
+  {
+    "id": 711,
+    "surface": "so'zchadai",
+    "expected_root": "so'z",
+    "expected_suffixes": [
+      "chadai"
+    ]
+  },
+  {
+    "id": 712,
+    "surface": "sog'liqingish",
+    "expected_root": "sog'liq",
+    "expected_suffixes": [
+      "ingish"
+    ]
+  },
+  {
+    "id": 713,
+    "surface": "fermeriishi",
+    "expected_root": "fermer",
+    "expected_suffixes": [
+      "iishi"
+    ]
+  },
+  {
+    "id": 714,
+    "surface": "otmaganleridan",
+    "expected_root": "ot",
+    "expected_suffixes": [
+      "maganler",
+      "idan"
+    ]
+  },
+  {
+    "id": 715,
+    "surface": "ishchimalara",
+    "expected_root": "ishchi",
+    "expected_suffixes": [
+      "malara"
+    ]
+  },
+  {
+    "id": 716,
+    "surface": "ilmvorlari",
+    "expected_root": "ilm",
+    "expected_suffixes": [
+      "vor",
+      "lari"
+    ]
+  },
+  {
+    "id": 717,
+    "surface": "makon",
+    "expected_root": "makon",
+    "expected_suffixes": []
+  },
+  {
+    "id": 718,
+    "surface": "tadbirkorningmaingiz",
+    "expected_root": "tadbirkor",
+    "expected_suffixes": [
+      "ningma",
+      "ingiz"
+    ]
+  },
+  {
+    "id": 719,
+    "surface": "tadbirkorlari",
+    "expected_root": "tadbirkor",
+    "expected_suffixes": [
+      "lari"
+    ]
+  },
+  {
+    "id": 720,
+    "surface": "sinfxona",
+    "expected_root": "sinfxona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 721,
+    "surface": "soatim",
+    "expected_root": "soat",
+    "expected_suffixes": [
+      "im"
+    ]
+  },
+  {
+    "id": 722,
+    "surface": "talabadenii",
+    "expected_root": "talaba",
+    "expected_suffixes": [
+      "denii"
+    ]
+  },
+  {
+    "id": 723,
+    "surface": "onaiylari",
+    "expected_root": "ona",
+    "expected_suffixes": [
+      "iylari"
+    ]
+  },
+  {
+    "id": 724,
+    "surface": "ismyoriy",
+    "expected_root": "ism",
+    "expected_suffixes": [
+      "yoriy"
+    ]
+  },
+  {
+    "id": 725,
+    "surface": "odam",
+    "expected_root": "odam",
+    "expected_suffixes": []
+  },
+  {
+    "id": 726,
+    "surface": "mashg'ulot",
+    "expected_root": "mashg'ulot",
+    "expected_suffixes": []
+  },
+  {
+    "id": 727,
+    "surface": "to'lov",
+    "expected_root": "to'lov",
+    "expected_suffixes": []
+  },
+  {
+    "id": 728,
+    "surface": "moliya",
+    "expected_root": "moliya",
+    "expected_suffixes": []
+  },
+  {
+    "id": 729,
+    "surface": "yillarchi-chivoro'a",
+    "expected_root": "yillar",
+    "expected_suffixes": [
+      "chi-chi",
+      "voro'a"
+    ]
+  },
+  {
+    "id": 730,
+    "surface": "sotuvchileriilikdir",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "lerii",
+      "likdir"
+    ]
+  },
+  {
+    "id": 731,
+    "surface": "oilao'mas",
+    "expected_root": "oila",
+    "expected_suffixes": [
+      "o'mas"
+    ]
+  },
+  {
+    "id": 732,
+    "surface": "ota-ona",
+    "expected_root": "ota-ona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 733,
+    "surface": "bol",
+    "expected_root": "bol",
+    "expected_suffixes": []
+  },
+  {
+    "id": 734,
+    "surface": "dasturchadailikdir",
+    "expected_root": "dastur",
+    "expected_suffixes": [
+      "chadai",
+      "likdir"
+    ]
+  },
+  {
+    "id": 735,
+    "surface": "odamlarichi",
+    "expected_root": "odam",
+    "expected_suffixes": [
+      "larichi"
+    ]
+  },
+  {
+    "id": 736,
+    "surface": "dehqoni",
+    "expected_root": "dehqon",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 737,
+    "surface": "oila a'zosgagini",
+    "expected_root": "oila a'zos",
+    "expected_suffixes": [
+      "gagini"
+    ]
+  },
+  {
+    "id": 738,
+    "surface": "donchitai",
+    "expected_root": "don",
+    "expected_suffixes": [
+      "chitai"
+    ]
+  },
+  {
+    "id": 739,
+    "surface": "fano'sai",
+    "expected_root": "fan",
+    "expected_suffixes": [
+      "o'sai"
+    ]
+  },
+  {
+    "id": 740,
+    "surface": "meva",
+    "expected_root": "meva",
+    "expected_suffixes": []
+  },
+  {
+    "id": 741,
+    "surface": "yosh",
+    "expected_root": "yosh",
+    "expected_suffixes": []
+  },
+  {
+    "id": 742,
+    "surface": "poyezdtaiya",
+    "expected_root": "poyezd",
+    "expected_suffixes": [
+      "taiya"
+    ]
+  },
+  {
+    "id": 743,
+    "surface": "banklariii",
+    "expected_root": "bank",
+    "expected_suffixes": [
+      "lariii"
+    ]
+  },
+  {
+    "id": 744,
+    "surface": "bola",
+    "expected_root": "bola",
+    "expected_suffixes": []
+  },
+  {
+    "id": 745,
+    "surface": "yilchadairoq",
+    "expected_root": "yil",
+    "expected_suffixes": [
+      "chadai",
+      "roq"
+    ]
+  },
+  {
+    "id": 746,
+    "surface": "o'qishditaa",
+    "expected_root": "o'qish",
+    "expected_suffixes": [
+      "ditaa"
+    ]
+  },
+  {
+    "id": 747,
+    "surface": "xalqmaqai",
+    "expected_root": "xalq",
+    "expected_suffixes": [
+      "maqai"
+    ]
+  },
+  {
+    "id": 748,
+    "surface": "g'allai",
+    "expected_root": "g'alla",
+    "expected_suffixes": [
+      "i"
+    ]
+  },
+  {
+    "id": 749,
+    "surface": "dokonmamasi",
+    "expected_root": "dokon",
+    "expected_suffixes": [
+      "mamasi"
+    ]
+  },
+  {
+    "id": 750,
+    "surface": "transporto'chaa",
+    "expected_root": "transport",
+    "expected_suffixes": [
+      "o'chaa"
+    ]
+  },
+  {
+    "id": 751,
+    "surface": "tabib",
+    "expected_root": "tabib",
+    "expected_suffixes": []
+  },
+  {
+    "id": 752,
+    "surface": "matematikayoriyuvchii",
+    "expected_root": "matematika",
+    "expected_suffixes": [
+      "yoriy",
+      "uvchii"
+    ]
+  },
+  {
+    "id": 753,
+    "surface": "kompaniyaler",
+    "expected_root": "kompaniya",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 754,
+    "surface": "ilmimmasiuvdeni",
+    "expected_root": "ilm",
+    "expected_suffixes": [
+      "immasi",
+      "uvdeni"
+    ]
+  },
+  {
+    "id": 755,
+    "surface": "odamo'chiaingish",
+    "expected_root": "odam",
+    "expected_suffixes": [
+      "o'chia",
+      "ingish"
+    ]
+  },
+  {
+    "id": 756,
+    "surface": "viloyatliki",
+    "expected_root": "viloyat",
+    "expected_suffixes": [
+      "liki"
+    ]
+  },
+  {
+    "id": 757,
+    "surface": "investitsiyadalari",
+    "expected_root": "investitsiya",
+    "expected_suffixes": [
+      "dalari"
+    ]
+  },
+  {
+    "id": 758,
+    "surface": "kompyuteryoriyada",
+    "expected_root": "kompyuter",
+    "expected_suffixes": [
+      "yoriya",
+      "da"
+    ]
+  },
+  {
+    "id": 759,
+    "surface": "maoshiyinga",
+    "expected_root": "maosh",
+    "expected_suffixes": [
+      "iyinga"
+    ]
+  },
+  {
+    "id": 760,
+    "surface": "universitetginuvi",
+    "expected_root": "universitet",
+    "expected_suffixes": [
+      "ginuvi"
+    ]
+  },
+  {
+    "id": 761,
+    "surface": "sayohatmasaimoqda",
+    "expected_root": "sayohat",
+    "expected_suffixes": [
+      "masai",
+      "moqda"
+    ]
+  },
+  {
+    "id": 762,
+    "surface": "ta'limchideni",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": [
+      "deni"
+    ]
+  },
+  {
+    "id": 763,
+    "surface": "kunmasmai",
+    "expected_root": "kun",
+    "expected_suffixes": [
+      "masmai"
+    ]
+  },
+  {
+    "id": 764,
+    "surface": "donroqvor",
+    "expected_root": "don",
+    "expected_suffixes": [
+      "roqvor"
+    ]
+  },
+  {
+    "id": 765,
+    "surface": "bozorchimasuva",
+    "expected_root": "bozorchi",
+    "expected_suffixes": [
+      "masuva"
+    ]
+  },
+  {
+    "id": 766,
+    "surface": "onachitaida",
+    "expected_root": "ona",
+    "expected_suffixes": [
+      "chitai",
+      "da"
+    ]
+  },
+  {
+    "id": 767,
+    "surface": "ona",
+    "expected_root": "ona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 768,
+    "surface": "kitob",
+    "expected_root": "kitob",
+    "expected_suffixes": []
+  },
+  {
+    "id": 769,
+    "surface": "ma'noninguvchima",
+    "expected_root": "ma'no",
+    "expected_suffixes": [
+      "ninguvchi",
+      "ma"
+    ]
+  },
+  {
+    "id": 770,
+    "surface": "go'shtyor",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "yor"
+    ]
+  },
+  {
+    "id": 771,
+    "surface": "inson",
+    "expected_root": "inson",
+    "expected_suffixes": []
+  },
+  {
+    "id": 772,
+    "surface": "nonlerlikimi",
+    "expected_root": "non",
+    "expected_suffixes": [
+      "ler",
+      "likimi"
+    ]
+  },
+  {
+    "id": 773,
+    "surface": "ta'limchimaso'i",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": [
+      "maso'i"
+    ]
+  },
+  {
+    "id": 774,
+    "surface": "tilchininglikiy",
+    "expected_root": "tilchi",
+    "expected_suffixes": [
+      "ninglik",
+      "iy"
+    ]
+  },
+  {
+    "id": 775,
+    "surface": "informatikaimishiniadii",
+    "expected_root": "informatika",
+    "expected_suffixes": [
+      "imishi",
+      "niadii"
+    ]
+  },
+  {
+    "id": 776,
+    "surface": "shahar",
+    "expected_root": "shahar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 777,
+    "surface": "matematika",
+    "expected_root": "matematika",
+    "expected_suffixes": []
+  },
+  {
+    "id": 778,
+    "surface": "go'sht",
+    "expected_root": "go'sht",
+    "expected_suffixes": []
+  },
+  {
+    "id": 779,
+    "surface": "nonvoyxona",
+    "expected_root": "nonvoyxona",
+    "expected_suffixes": []
+  },
+  {
+    "id": 780,
+    "surface": "narxgana",
+    "expected_root": "narx",
+    "expected_suffixes": [
+      "gana"
+    ]
+  },
+  {
+    "id": 781,
+    "surface": "soat",
+    "expected_root": "soat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 782,
+    "surface": "loyihaimdana",
+    "expected_root": "loyiha",
+    "expected_suffixes": [
+      "imdana"
+    ]
+  },
+  {
+    "id": 783,
+    "surface": "temir",
+    "expected_root": "temir",
+    "expected_suffixes": []
+  },
+  {
+    "id": 784,
+    "surface": "kishilikichiish",
+    "expected_root": "kishi",
+    "expected_suffixes": [
+      "liki",
+      "chiish"
+    ]
+  },
+  {
+    "id": 785,
+    "surface": "o'qishlerta",
+    "expected_root": "o'qish",
+    "expected_suffixes": [
+      "lerta"
+    ]
+  },
+  {
+    "id": 786,
+    "surface": "tilimden",
+    "expected_root": "tilim",
+    "expected_suffixes": [
+      "den"
+    ]
+  },
+  {
+    "id": 787,
+    "surface": "arxitektordiqaa",
+    "expected_root": "arxitektor",
+    "expected_suffixes": [
+      "diqaa"
+    ]
+  },
+  {
+    "id": 788,
+    "surface": "ottadan",
+    "expected_root": "ot",
+    "expected_suffixes": [
+      "tadan"
+    ]
+  },
+  {
+    "id": 789,
+    "surface": "informatikaginaing",
+    "expected_root": "informatika",
+    "expected_suffixes": [
+      "ginaing"
+    ]
+  },
+  {
+    "id": 790,
+    "surface": "transport",
+    "expected_root": "transport",
+    "expected_suffixes": []
+  },
+  {
+    "id": 791,
+    "surface": "furosh",
+    "expected_root": "furosh",
+    "expected_suffixes": []
+  },
+  {
+    "id": 792,
+    "surface": "sog'liq",
+    "expected_root": "sog'liq",
+    "expected_suffixes": []
+  },
+  {
+    "id": 793,
+    "surface": "telefono'chaa",
+    "expected_root": "telefon",
+    "expected_suffixes": [
+      "o'chaa"
+    ]
+  },
+  {
+    "id": 794,
+    "surface": "konsertgana",
+    "expected_root": "konsert",
+    "expected_suffixes": [
+      "gana"
+    ]
+  },
+  {
+    "id": 795,
+    "surface": "samolyotginaadi",
+    "expected_root": "samolyot",
+    "expected_suffixes": [
+      "ginaadi"
+    ]
+  },
+  {
+    "id": 796,
+    "surface": "o'qimyora",
+    "expected_root": "o'q",
+    "expected_suffixes": [
+      "imyora"
+    ]
+  },
+  {
+    "id": 797,
+    "surface": "avtobusdiiyi",
+    "expected_root": "avtobus",
+    "expected_suffixes": [
+      "diiyi"
+    ]
+  },
+  {
+    "id": 798,
+    "surface": "kinoditaavordia",
+    "expected_root": "kino",
+    "expected_suffixes": [
+      "ditaa",
+      "vordia"
+    ]
+  },
+  {
+    "id": 799,
+    "surface": "odamishar",
+    "expected_root": "odam",
+    "expected_suffixes": [
+      "ishar"
+    ]
+  },
+  {
+    "id": 800,
+    "surface": "nonimgani",
+    "expected_root": "non",
+    "expected_suffixes": [
+      "imgani"
+    ]
+  },
+  {
+    "id": 801,
+    "surface": "bozorchidasaaiy",
+    "expected_root": "bozorchi",
+    "expected_suffixes": [
+      "dasaa",
+      "iy"
+    ]
+  },
+  {
+    "id": 802,
+    "surface": "san'atimdena",
+    "expected_root": "san'at",
+    "expected_suffixes": [
+      "imdena"
+    ]
+  },
+  {
+    "id": 803,
+    "surface": "ishlabqachiatamagan",
+    "expected_root": "ishlab",
+    "expected_suffixes": [
+      "qachia",
+      "tamagan"
+    ]
+  },
+  {
+    "id": 804,
+    "surface": "kompaniya",
+    "expected_root": "kompaniya",
+    "expected_suffixes": []
+  },
+  {
+    "id": 805,
+    "surface": "ishchitamaganler",
+    "expected_root": "ishchi",
+    "expected_suffixes": [
+      "ta",
+      "maganler"
+    ]
+  },
+  {
+    "id": 806,
+    "surface": "o'g'ilimden",
+    "expected_root": "o'g'il",
+    "expected_suffixes": [
+      "imden"
+    ]
+  },
+  {
+    "id": 807,
+    "surface": "tilimdirta",
+    "expected_root": "tilim",
+    "expected_suffixes": [
+      "dirta"
+    ]
+  },
+  {
+    "id": 808,
+    "surface": "stansiyamalara",
+    "expected_root": "stansiya",
+    "expected_suffixes": [
+      "malara"
+    ]
+  },
+  {
+    "id": 809,
+    "surface": "daqiqori",
+    "expected_root": "daqiq",
+    "expected_suffixes": [
+      "ori"
+    ]
+  },
+  {
+    "id": 810,
+    "surface": "telefonish",
+    "expected_root": "telefon",
+    "expected_suffixes": [
+      "ish"
+    ]
+  },
+  {
+    "id": 811,
+    "surface": "mashinamaqai",
+    "expected_root": "mashina",
+    "expected_suffixes": [
+      "maqai"
+    ]
+  },
+  {
+    "id": 812,
+    "surface": "marosimlikimiyor",
+    "expected_root": "marosim",
+    "expected_suffixes": [
+      "likimi",
+      "yor"
+    ]
+  },
+  {
+    "id": 813,
+    "surface": "o'qishlar",
+    "expected_root": "o'qishlar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 814,
+    "surface": "ishlabchi",
+    "expected_root": "ishlabchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 815,
+    "surface": "kunor",
+    "expected_root": "kun",
+    "expected_suffixes": [
+      "or"
+    ]
+  },
+  {
+    "id": 816,
+    "surface": "tabib",
+    "expected_root": "tabib",
+    "expected_suffixes": []
+  },
+  {
+    "id": 817,
+    "surface": "yoztadaniy",
+    "expected_root": "yoz",
+    "expected_suffixes": [
+      "tadan",
+      "iy"
+    ]
+  },
+  {
+    "id": 818,
+    "surface": "shartnoma",
+    "expected_root": "shartnoma",
+    "expected_suffixes": []
+  },
+  {
+    "id": 819,
+    "surface": "sog'liqimuvchi",
+    "expected_root": "sog'liq",
+    "expected_suffixes": [
+      "imuvchi"
+    ]
+  },
+  {
+    "id": 820,
+    "surface": "kinoyor",
+    "expected_root": "kino",
+    "expected_suffixes": [
+      "yor"
+    ]
+  },
+  {
+    "id": 821,
+    "surface": "sifatmaganden",
+    "expected_root": "sifat",
+    "expected_suffixes": [
+      "maganden"
+    ]
+  },
+  {
+    "id": 822,
+    "surface": "ta'limchiishuvi",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": [
+      "ishuvi"
+    ]
+  },
+  {
+    "id": 823,
+    "surface": "kimyoimlik",
+    "expected_root": "kimyo",
+    "expected_suffixes": [
+      "imlik"
+    ]
+  },
+  {
+    "id": 824,
+    "surface": "kishigao'mai",
+    "expected_root": "kishi",
+    "expected_suffixes": [
+      "ga",
+      "o'mai"
+    ]
+  },
+  {
+    "id": 825,
+    "surface": "universitetuvi",
+    "expected_root": "universitet",
+    "expected_suffixes": [
+      "uvi"
+    ]
+  },
+  {
+    "id": 826,
+    "surface": "sutmamasi",
+    "expected_root": "sut",
+    "expected_suffixes": [
+      "mamasi"
+    ]
+  },
+  {
+    "id": 827,
+    "surface": "yo'l",
+    "expected_root": "yo'l",
+    "expected_suffixes": []
+  },
+  {
+    "id": 828,
+    "surface": "insondiadii",
+    "expected_root": "inson",
+    "expected_suffixes": [
+      "diadii"
+    ]
+  },
+  {
+    "id": 829,
+    "surface": "qishloqchinia",
+    "expected_root": "qishloq",
+    "expected_suffixes": [
+      "chinia"
+    ]
+  },
+  {
+    "id": 830,
+    "surface": "maosh",
+    "expected_root": "maosh",
+    "expected_suffixes": []
+  },
+  {
+    "id": 831,
+    "surface": "bog'lik-chi",
+    "expected_root": "bog'",
+    "expected_suffixes": [
+      "lik-chi"
+    ]
+  },
+  {
+    "id": 832,
+    "surface": "madaniyatuvqaa",
+    "expected_root": "madaniyat",
+    "expected_suffixes": [
+      "uvqaa"
+    ]
+  },
+  {
+    "id": 833,
+    "surface": "oy",
+    "expected_root": "oy",
+    "expected_suffixes": []
+  },
+  {
+    "id": 834,
+    "surface": "universitetmasuva",
+    "expected_root": "universitet",
+    "expected_suffixes": [
+      "masuva"
+    ]
+  },
+  {
+    "id": 835,
+    "surface": "soliqdanta",
+    "expected_root": "soliq",
+    "expected_suffixes": [
+      "danta"
+    ]
+  },
+  {
+    "id": 836,
+    "surface": "sutligana-(i)sh",
+    "expected_root": "sutli",
+    "expected_suffixes": [
+      "gana",
+      "-(i)sh"
+    ]
+  },
+  {
+    "id": 837,
+    "surface": "sotuvchigadeni",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "gadeni"
+    ]
+  },
+  {
+    "id": 838,
+    "surface": "tarixishuvi",
+    "expected_root": "tarix",
+    "expected_suffixes": [
+      "ishuvi"
+    ]
+  },
+  {
+    "id": 839,
+    "surface": "kitobxondanning",
+    "expected_root": "kitobxon",
+    "expected_suffixes": [
+      "dan",
+      "ning"
+    ]
+  },
+  {
+    "id": 840,
+    "surface": "savdo",
+    "expected_root": "savdo",
+    "expected_suffixes": []
+  },
+  {
+    "id": 841,
+    "surface": "sotuvchini",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "ni"
+    ]
+  },
+  {
+    "id": 842,
+    "surface": "dasturdachai",
+    "expected_root": "dastur",
+    "expected_suffixes": [
+      "dachai"
+    ]
+  },
+  {
+    "id": 843,
+    "surface": "san'atdagan",
+    "expected_root": "san'at",
+    "expected_suffixes": [
+      "dagan"
+    ]
+  },
+  {
+    "id": 844,
+    "surface": "go'shto'ar",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "o'ar"
+    ]
+  },
+  {
+    "id": 845,
+    "surface": "otvordaingiz",
+    "expected_root": "ot",
+    "expected_suffixes": [
+      "vorda",
+      "ingiz"
+    ]
+  },
+  {
+    "id": 846,
+    "surface": "biologiyagatamagan",
+    "expected_root": "biologiya",
+    "expected_suffixes": [
+      "ga",
+      "tamagan"
+    ]
+  },
+  {
+    "id": 847,
+    "surface": "insoniyattaingimizta",
+    "expected_root": "insoniyat",
+    "expected_suffixes": [
+      "taing",
+      "imizta"
+    ]
+  },
+  {
+    "id": 848,
+    "surface": "davo",
+    "expected_root": "davo",
+    "expected_suffixes": []
+  },
+  {
+    "id": 849,
+    "surface": "energiyayoriy",
+    "expected_root": "energiya",
+    "expected_suffixes": [
+      "yoriy"
+    ]
+  },
+  {
+    "id": 850,
+    "surface": "firma",
+    "expected_root": "firma",
+    "expected_suffixes": []
+  },
+  {
+    "id": 851,
+    "surface": "qalbuvgana",
+    "expected_root": "qalb",
+    "expected_suffixes": [
+      "uvgana"
+    ]
+  },
+  {
+    "id": 852,
+    "surface": "ilm",
+    "expected_root": "ilm",
+    "expected_suffixes": []
+  },
+  {
+    "id": 853,
+    "surface": "isming",
+    "expected_root": "ism",
+    "expected_suffixes": [
+      "ing"
+    ]
+  },
+  {
+    "id": 854,
+    "surface": "ota-onaadiniilari",
+    "expected_root": "ota-ona",
+    "expected_suffixes": [
+      "adinii",
+      "lari"
+    ]
+  },
+  {
+    "id": 855,
+    "surface": "sifatingishdiro'i",
+    "expected_root": "sifat",
+    "expected_suffixes": [
+      "ingish",
+      "diro'i"
+    ]
+  },
+  {
+    "id": 856,
+    "surface": "investitsiya",
+    "expected_root": "investitsiya",
+    "expected_suffixes": []
+  },
+  {
+    "id": 857,
+    "surface": "bozorimyora",
+    "expected_root": "bozor",
+    "expected_suffixes": [
+      "imyora"
+    ]
+  },
+  {
+    "id": 858,
+    "surface": "fermamaqai",
+    "expected_root": "ferma",
+    "expected_suffixes": [
+      "maqai"
+    ]
+  },
+  {
+    "id": 859,
+    "surface": "dars",
+    "expected_root": "dars",
+    "expected_suffixes": []
+  },
+  {
+    "id": 860,
+    "surface": "shifoxonaiishi",
+    "expected_root": "shifoxona",
+    "expected_suffixes": [
+      "iishi"
+    ]
+  },
+  {
+    "id": 861,
+    "surface": "ta'limimgani",
+    "expected_root": "ta'lim",
+    "expected_suffixes": [
+      "imgani"
+    ]
+  },
+  {
+    "id": 862,
+    "surface": "ota",
+    "expected_root": "ota",
+    "expected_suffixes": []
+  },
+  {
+    "id": 863,
+    "surface": "sayringginadirgin",
+    "expected_root": "sayr",
+    "expected_suffixes": [
+      "inggina",
+      "dirgin"
+    ]
+  },
+  {
+    "id": 864,
+    "surface": "bozor",
+    "expected_root": "bozor",
+    "expected_suffixes": []
+  },
+  {
+    "id": 865,
+    "surface": "fermermachaqachia",
+    "expected_root": "fermer",
+    "expected_suffixes": [
+      "macha",
+      "qachia"
+    ]
+  },
+  {
+    "id": 866,
+    "surface": "telefono'",
+    "expected_root": "telefon",
+    "expected_suffixes": [
+      "o'"
+    ]
+  },
+  {
+    "id": 867,
+    "surface": "yillari",
+    "expected_root": "yil",
+    "expected_suffixes": [
+      "lari"
+    ]
+  },
+  {
+    "id": 868,
+    "surface": "narxlar",
+    "expected_root": "narxlar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 869,
+    "surface": "narxlar",
+    "expected_root": "narxlar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 870,
+    "surface": "kishilik-chiyor",
+    "expected_root": "kishi",
+    "expected_suffixes": [
+      "lik-chi",
+      "yor"
+    ]
+  },
+  {
+    "id": 871,
+    "surface": "xodim",
+    "expected_root": "xodim",
+    "expected_suffixes": []
+  },
+  {
+    "id": 872,
+    "surface": "marosimgama",
+    "expected_root": "marosim",
+    "expected_suffixes": [
+      "gama"
+    ]
+  },
+  {
+    "id": 873,
+    "surface": "yillar",
+    "expected_root": "yillar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 874,
+    "surface": "muhandislarroqo'moqda",
+    "expected_root": "muhandis",
+    "expected_suffixes": [
+      "larroq",
+      "o'moqda"
+    ]
+  },
+  {
+    "id": 875,
+    "surface": "hisobniga",
+    "expected_root": "hisob",
+    "expected_suffixes": [
+      "ni",
+      "ga"
+    ]
+  },
+  {
+    "id": 876,
+    "surface": "hisobdanma-chi",
+    "expected_root": "hisob",
+    "expected_suffixes": [
+      "dan",
+      "ma-chi"
+    ]
+  },
+  {
+    "id": 877,
+    "surface": "tabibchiar",
+    "expected_root": "tabib",
+    "expected_suffixes": [
+      "chiar"
+    ]
+  },
+  {
+    "id": 878,
+    "surface": "onamaqaidan",
+    "expected_root": "ona",
+    "expected_suffixes": [
+      "maqai",
+      "dan"
+    ]
+  },
+  {
+    "id": 879,
+    "surface": "oyvornii",
+    "expected_root": "oy",
+    "expected_suffixes": [
+      "vornii"
+    ]
+  },
+  {
+    "id": 880,
+    "surface": "noniyma",
+    "expected_root": "non",
+    "expected_suffixes": [
+      "iyma"
+    ]
+  },
+  {
+    "id": 881,
+    "surface": "temirtalik",
+    "expected_root": "temir",
+    "expected_suffixes": [
+      "talik"
+    ]
+  },
+  {
+    "id": 882,
+    "surface": "o'qishlargingaa",
+    "expected_root": "o'qishlar",
+    "expected_suffixes": [
+      "gingaa"
+    ]
+  },
+  {
+    "id": 883,
+    "surface": "sayohatdata",
+    "expected_root": "sayohat",
+    "expected_suffixes": [
+      "data"
+    ]
+  },
+  {
+    "id": 884,
+    "surface": "metroningda",
+    "expected_root": "metro",
+    "expected_suffixes": [
+      "ningda"
+    ]
+  },
+  {
+    "id": 885,
+    "surface": "san'at",
+    "expected_root": "san'at",
+    "expected_suffixes": []
+  },
+  {
+    "id": 886,
+    "surface": "bemoro'chaaiy",
+    "expected_root": "bemor",
+    "expected_suffixes": [
+      "o'chaa",
+      "iy"
+    ]
+  },
+  {
+    "id": 887,
+    "surface": "bankadicha",
+    "expected_root": "bank",
+    "expected_suffixes": [
+      "adi",
+      "cha"
+    ]
+  },
+  {
+    "id": 888,
+    "surface": "pul",
+    "expected_root": "pul",
+    "expected_suffixes": []
+  },
+  {
+    "id": 889,
+    "surface": "sutli",
+    "expected_root": "sutli",
+    "expected_suffixes": []
+  },
+  {
+    "id": 890,
+    "surface": "o'qisho'mai",
+    "expected_root": "o'qish",
+    "expected_suffixes": [
+      "o'mai"
+    ]
+  },
+  {
+    "id": 891,
+    "surface": "kitobdirma",
+    "expected_root": "kitob",
+    "expected_suffixes": [
+      "dirma"
+    ]
+  },
+  {
+    "id": 892,
+    "surface": "bank",
+    "expected_root": "bank",
+    "expected_suffixes": []
+  },
+  {
+    "id": 893,
+    "surface": "sayr",
+    "expected_root": "sayr",
+    "expected_suffixes": []
+  },
+  {
+    "id": 894,
+    "surface": "dehqonchi",
+    "expected_root": "dehqon",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 895,
+    "surface": "insoniyatmamasidiqaa",
+    "expected_root": "insoniyat",
+    "expected_suffixes": [
+      "mamasi",
+      "diqaa"
+    ]
+  },
+  {
+    "id": 896,
+    "surface": "furoshmalaradendir",
+    "expected_root": "furosh",
+    "expected_suffixes": [
+      "malara",
+      "dendir"
+    ]
+  },
+  {
+    "id": 897,
+    "surface": "ko'rgazmamamasi",
+    "expected_root": "ko'rgazma",
+    "expected_suffixes": [
+      "mamasi"
+    ]
+  },
+  {
+    "id": 898,
+    "surface": "daqiqvordia",
+    "expected_root": "daqiq",
+    "expected_suffixes": [
+      "vordia"
+    ]
+  },
+  {
+    "id": 899,
+    "surface": "sotuvchisaingamacha",
+    "expected_root": "sotuvchi",
+    "expected_suffixes": [
+      "sainga",
+      "macha"
+    ]
+  },
+  {
+    "id": 900,
+    "surface": "o'qish",
+    "expected_root": "o'qish",
+    "expected_suffixes": []
+  },
+  {
+    "id": 901,
+    "surface": "adabiyotmagina",
+    "expected_root": "adabiyot",
+    "expected_suffixes": [
+      "magina"
+    ]
+  },
+  {
+    "id": 902,
+    "surface": "metro",
+    "expected_root": "metro",
+    "expected_suffixes": []
+  },
+  {
+    "id": 903,
+    "surface": "tilimiziysai",
+    "expected_root": "tilimiz",
+    "expected_suffixes": [
+      "iysai"
+    ]
+  },
+  {
+    "id": 904,
+    "surface": "ish",
+    "expected_root": "ish",
+    "expected_suffixes": []
+  },
+  {
+    "id": 905,
+    "surface": "energiyaganimagataa",
+    "expected_root": "energiya",
+    "expected_suffixes": [
+      "ganima",
+      "gataa"
+    ]
+  },
+  {
+    "id": 906,
+    "surface": "go'shtdatata",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "data",
+      "ta"
+    ]
+  },
+  {
+    "id": 907,
+    "surface": "poyezd",
+    "expected_root": "poyezd",
+    "expected_suffixes": []
+  },
+  {
+    "id": 908,
+    "surface": "kompyuteringiza",
+    "expected_root": "kompyuter",
+    "expected_suffixes": [
+      "ingiza"
+    ]
+  },
+  {
+    "id": 909,
+    "surface": "ishchiiy",
+    "expected_root": "ishchi",
+    "expected_suffixes": [
+      "iy"
+    ]
+  },
+  {
+    "id": 910,
+    "surface": "konsertvordai",
+    "expected_root": "konsert",
+    "expected_suffixes": [
+      "vordai"
+    ]
+  },
+  {
+    "id": 911,
+    "surface": "yillarqaingizniingiz",
+    "expected_root": "yillar",
+    "expected_suffixes": [
+      "qaingiz",
+      "niingiz"
+    ]
+  },
+  {
+    "id": 912,
+    "surface": "bank",
+    "expected_root": "bank",
+    "expected_suffixes": []
+  },
+  {
+    "id": 913,
+    "surface": "davoqaler",
+    "expected_root": "davo",
+    "expected_suffixes": [
+      "qaler"
+    ]
+  },
+  {
+    "id": 914,
+    "surface": "samolyotsamoqda",
+    "expected_root": "samolyot",
+    "expected_suffixes": [
+      "samoqda"
+    ]
+  },
+  {
+    "id": 915,
+    "surface": "maoshingdaa",
+    "expected_root": "maosh",
+    "expected_suffixes": [
+      "ingdaa"
+    ]
+  },
+  {
+    "id": 916,
+    "surface": "metrolariiigadeni",
+    "expected_root": "metro",
+    "expected_suffixes": [
+      "lariii",
+      "gadeni"
+    ]
+  },
+  {
+    "id": 917,
+    "surface": "ishchi",
+    "expected_root": "ishchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 918,
+    "surface": "o'qishgaliklar",
+    "expected_root": "o'qish",
+    "expected_suffixes": [
+      "ga",
+      "liklar"
+    ]
+  },
+  {
+    "id": 919,
+    "surface": "geografiyagana",
+    "expected_root": "geografiya",
+    "expected_suffixes": [
+      "gana"
+    ]
+  },
+  {
+    "id": 920,
+    "surface": "kinolarimauvish",
+    "expected_root": "kino",
+    "expected_suffixes": [
+      "larima",
+      "uvish"
+    ]
+  },
+  {
+    "id": 921,
+    "surface": "bozorvorda",
+    "expected_root": "bozor",
+    "expected_suffixes": [
+      "vorda"
+    ]
+  },
+  {
+    "id": 922,
+    "surface": "yiluv",
+    "expected_root": "yil",
+    "expected_suffixes": [
+      "uv"
+    ]
+  },
+  {
+    "id": 923,
+    "surface": "ishchigan",
+    "expected_root": "ishchi",
+    "expected_suffixes": [
+      "gan"
+    ]
+  },
+  {
+    "id": 924,
+    "surface": "sifatlari",
+    "expected_root": "sifat",
+    "expected_suffixes": [
+      "lari"
+    ]
+  },
+  {
+    "id": 925,
+    "surface": "dars",
+    "expected_root": "dars",
+    "expected_suffixes": []
+  },
+  {
+    "id": 926,
+    "surface": "fermergana",
+    "expected_root": "fermer",
+    "expected_suffixes": [
+      "gana"
+    ]
+  },
+  {
+    "id": 927,
+    "surface": "qalbgataaroq",
+    "expected_root": "qalb",
+    "expected_suffixes": [
+      "gataa",
+      "roq"
+    ]
+  },
+  {
+    "id": 928,
+    "surface": "tabibginaadi",
+    "expected_root": "tabib",
+    "expected_suffixes": [
+      "ginaadi"
+    ]
+  },
+  {
+    "id": 929,
+    "surface": "xizmat",
+    "expected_root": "xizmat",
+    "expected_suffixes": []
+  },
+  {
+    "id": 930,
+    "surface": "bankomatmasaa",
+    "expected_root": "bankomat",
+    "expected_suffixes": [
+      "masaa"
+    ]
+  },
+  {
+    "id": 931,
+    "surface": "ishdaing",
+    "expected_root": "ish",
+    "expected_suffixes": [
+      "daing"
+    ]
+  },
+  {
+    "id": 932,
+    "surface": "dasturmamasiing",
+    "expected_root": "dastur",
+    "expected_suffixes": [
+      "mamasi",
+      "ing"
+    ]
+  },
+  {
+    "id": 933,
+    "surface": "donuv",
+    "expected_root": "don",
+    "expected_suffixes": [
+      "uv"
+    ]
+  },
+  {
+    "id": 934,
+    "surface": "telefonleryor",
+    "expected_root": "telefon",
+    "expected_suffixes": [
+      "leryor"
+    ]
+  },
+  {
+    "id": 935,
+    "surface": "yurak",
+    "expected_root": "yurak",
+    "expected_suffixes": []
+  },
+  {
+    "id": 936,
+    "surface": "raqam",
+    "expected_root": "raqam",
+    "expected_suffixes": []
+  },
+  {
+    "id": 937,
+    "surface": "ma'ruzachida",
+    "expected_root": "ma'ruzachi",
+    "expected_suffixes": [
+      "da"
+    ]
+  },
+  {
+    "id": 938,
+    "surface": "yo'lchi",
+    "expected_root": "yo'l",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 939,
+    "surface": "daraja",
+    "expected_root": "daraja",
+    "expected_suffixes": []
+  },
+  {
+    "id": 940,
+    "surface": "kinoyor",
+    "expected_root": "kino",
+    "expected_suffixes": [
+      "yor"
+    ]
+  },
+  {
+    "id": 941,
+    "surface": "investitsiyalartaao'chia",
+    "expected_root": "investitsiya",
+    "expected_suffixes": [
+      "lartaa",
+      "o'chia"
+    ]
+  },
+  {
+    "id": 942,
+    "surface": "tilim",
+    "expected_root": "tilim",
+    "expected_suffixes": []
+  },
+  {
+    "id": 943,
+    "surface": "narxlardalari",
+    "expected_root": "narxlar",
+    "expected_suffixes": [
+      "dalari"
+    ]
+  },
+  {
+    "id": 944,
+    "surface": "maosh-(i)sh",
+    "expected_root": "maosh",
+    "expected_suffixes": [
+      "-(i)sh"
+    ]
+  },
+  {
+    "id": 945,
+    "surface": "ma'nolerimi",
+    "expected_root": "ma'no",
+    "expected_suffixes": [
+      "lerimi"
+    ]
+  },
+  {
+    "id": 946,
+    "surface": "qishloqmacha",
+    "expected_root": "qishloq",
+    "expected_suffixes": [
+      "macha"
+    ]
+  },
+  {
+    "id": 947,
+    "surface": "nomchitaimoqda",
+    "expected_root": "nom",
+    "expected_suffixes": [
+      "chitai",
+      "moqda"
+    ]
+  },
+  {
+    "id": 948,
+    "surface": "madaniyatgana",
+    "expected_root": "madaniyat",
+    "expected_suffixes": [
+      "gana"
+    ]
+  },
+  {
+    "id": 949,
+    "surface": "universitet",
+    "expected_root": "universitet",
+    "expected_suffixes": []
+  },
+  {
+    "id": 950,
+    "surface": "universitet",
+    "expected_root": "universitet",
+    "expected_suffixes": []
+  },
+  {
+    "id": 951,
+    "surface": "mevaimdanima",
+    "expected_root": "meva",
+    "expected_suffixes": [
+      "im",
+      "danima"
+    ]
+  },
+  {
+    "id": 952,
+    "surface": "maktabo'chaamagan",
+    "expected_root": "maktab",
+    "expected_suffixes": [
+      "o'chaa",
+      "magan"
+    ]
+  },
+  {
+    "id": 953,
+    "surface": "o'g'il",
+    "expected_root": "o'g'il",
+    "expected_suffixes": []
+  },
+  {
+    "id": 954,
+    "surface": "furoshtaara",
+    "expected_root": "furosh",
+    "expected_suffixes": [
+      "taara"
+    ]
+  },
+  {
+    "id": 955,
+    "surface": "universitet",
+    "expected_root": "universitet",
+    "expected_suffixes": []
+  },
+  {
+    "id": 956,
+    "surface": "ishchi",
+    "expected_root": "ishchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 957,
+    "surface": "soliqtalik",
+    "expected_root": "soliq",
+    "expected_suffixes": [
+      "talik"
+    ]
+  },
+  {
+    "id": 958,
+    "surface": "insonniadiidichi",
+    "expected_root": "inson",
+    "expected_suffixes": [
+      "niadii",
+      "dichi"
+    ]
+  },
+  {
+    "id": 959,
+    "surface": "narxlarlarimagan",
+    "expected_root": "narxlar",
+    "expected_suffixes": [
+      "larimagan"
+    ]
+  },
+  {
+    "id": 960,
+    "surface": "madaniyatlikdirlik",
+    "expected_root": "madaniyat",
+    "expected_suffixes": [
+      "likdir",
+      "lik"
+    ]
+  },
+  {
+    "id": 961,
+    "surface": "o'qish",
+    "expected_root": "o'qish",
+    "expected_suffixes": []
+  },
+  {
+    "id": 962,
+    "surface": "muhandislik-chi",
+    "expected_root": "muhandis",
+    "expected_suffixes": [
+      "lik-chi"
+    ]
+  },
+  {
+    "id": 963,
+    "surface": "dehqoniyo'mai",
+    "expected_root": "dehqon",
+    "expected_suffixes": [
+      "iy",
+      "o'mai"
+    ]
+  },
+  {
+    "id": 964,
+    "surface": "yoshsalara",
+    "expected_root": "yosh",
+    "expected_suffixes": [
+      "salara"
+    ]
+  },
+  {
+    "id": 965,
+    "surface": "bandlikniyori",
+    "expected_root": "bandlik",
+    "expected_suffixes": [
+      "niyori"
+    ]
+  },
+  {
+    "id": 966,
+    "surface": "oilamamasi",
+    "expected_root": "oila",
+    "expected_suffixes": [
+      "mamasi"
+    ]
+  },
+  {
+    "id": 967,
+    "surface": "muallif-(i)shliklar",
+    "expected_root": "muallif",
+    "expected_suffixes": [
+      "-(i)sh",
+      "liklar"
+    ]
+  },
+  {
+    "id": 968,
+    "surface": "dokondanima",
+    "expected_root": "dokon",
+    "expected_suffixes": [
+      "danima"
+    ]
+  },
+  {
+    "id": 969,
+    "surface": "yillar",
+    "expected_root": "yillar",
+    "expected_suffixes": []
+  },
+  {
+    "id": 970,
+    "surface": "go'shtlarara",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "larara"
+    ]
+  },
+  {
+    "id": 971,
+    "surface": "ma'ruzachiuv",
+    "expected_root": "ma'ruzachi",
+    "expected_suffixes": [
+      "uv"
+    ]
+  },
+  {
+    "id": 972,
+    "surface": "makonlarima",
+    "expected_root": "makon",
+    "expected_suffixes": [
+      "larima"
+    ]
+  },
+  {
+    "id": 973,
+    "surface": "muallifyorlari",
+    "expected_root": "muallif",
+    "expected_suffixes": [
+      "yorlari"
+    ]
+  },
+  {
+    "id": 974,
+    "surface": "ismchi",
+    "expected_root": "ism",
+    "expected_suffixes": [
+      "chi"
+    ]
+  },
+  {
+    "id": 975,
+    "surface": "do'st",
+    "expected_root": "do'st",
+    "expected_suffixes": []
+  },
+  {
+    "id": 976,
+    "surface": "tug'ilish",
+    "expected_root": "tug'ilish",
+    "expected_suffixes": []
+  },
+  {
+    "id": 977,
+    "surface": "mashinaar",
+    "expected_root": "mashina",
+    "expected_suffixes": [
+      "ar"
+    ]
+  },
+  {
+    "id": 978,
+    "surface": "temirmao'",
+    "expected_root": "temir",
+    "expected_suffixes": [
+      "mao'"
+    ]
+  },
+  {
+    "id": 979,
+    "surface": "temirlikqa",
+    "expected_root": "temir",
+    "expected_suffixes": [
+      "likqa"
+    ]
+  },
+  {
+    "id": 980,
+    "surface": "yo'lganimagina",
+    "expected_root": "yo'l",
+    "expected_suffixes": [
+      "ganima",
+      "gina"
+    ]
+  },
+  {
+    "id": 981,
+    "surface": "o'qituvchidiga",
+    "expected_root": "o'qituvchi",
+    "expected_suffixes": [
+      "diga"
+    ]
+  },
+  {
+    "id": 982,
+    "surface": "oyginaimiz",
+    "expected_root": "oy",
+    "expected_suffixes": [
+      "gina",
+      "imiz"
+    ]
+  },
+  {
+    "id": 983,
+    "surface": "bolyorda",
+    "expected_root": "bol",
+    "expected_suffixes": [
+      "yorda"
+    ]
+  },
+  {
+    "id": 984,
+    "surface": "vafotler",
+    "expected_root": "vafot",
+    "expected_suffixes": [
+      "ler"
+    ]
+  },
+  {
+    "id": 985,
+    "surface": "shaharadidaa",
+    "expected_root": "shahar",
+    "expected_suffixes": [
+      "adidaa"
+    ]
+  },
+  {
+    "id": 986,
+    "surface": "davo",
+    "expected_root": "davo",
+    "expected_suffixes": []
+  },
+  {
+    "id": 987,
+    "surface": "dehqon",
+    "expected_root": "dehqon",
+    "expected_suffixes": []
+  },
+  {
+    "id": 988,
+    "surface": "joy",
+    "expected_root": "joy",
+    "expected_suffixes": []
+  },
+  {
+    "id": 989,
+    "surface": "fan",
+    "expected_root": "fan",
+    "expected_suffixes": []
+  },
+  {
+    "id": 990,
+    "surface": "go'shto'ta",
+    "expected_root": "go'sht",
+    "expected_suffixes": [
+      "o'ta"
+    ]
+  },
+  {
+    "id": 991,
+    "surface": "ta'limchi",
+    "expected_root": "ta'limchi",
+    "expected_suffixes": []
+  },
+  {
+    "id": 992,
+    "surface": "arxitektorimdirchia",
+    "expected_root": "arxitektor",
+    "expected_suffixes": [
+      "imdir",
+      "chia"
+    ]
+  },
+  {
+    "id": 993,
+    "surface": "narxroq",
+    "expected_root": "narx",
+    "expected_suffixes": [
+      "roq"
+    ]
+  },
+  {
+    "id": 994,
+    "surface": "xalqdiro'i",
+    "expected_root": "xalq",
+    "expected_suffixes": [
+      "diro'i"
+    ]
+  },
+  {
+    "id": 995,
+    "surface": "ko'rgazma",
+    "expected_root": "ko'rgazma",
+    "expected_suffixes": []
+  },
+  {
+    "id": 996,
+    "surface": "darajaing",
+    "expected_root": "daraja",
+    "expected_suffixes": [
+      "ing"
+    ]
+  },
+  {
+    "id": 997,
+    "surface": "tilimlar",
+    "expected_root": "tilim",
+    "expected_suffixes": [
+      "lar"
+    ]
+  },
+  {
+    "id": 998,
+    "surface": "biologiya",
+    "expected_root": "biologiya",
+    "expected_suffixes": []
+  },
+  {
+    "id": 999,
+    "surface": "makon",
+    "expected_root": "makon",
+    "expected_suffixes": []
+  },
+  {
+    "id": 1000,
+    "surface": "moliya",
+    "expected_root": "moliya",
+    "expected_suffixes": []
+  }
+]

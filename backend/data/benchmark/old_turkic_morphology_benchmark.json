@@ -1,0 +1,9203 @@
+[
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰴𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰶𐰀𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰢𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐱁𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰃𐰶",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰃𐰴",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐱁𐰃𐰞",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰀𐱁",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰴𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰶𐰀𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰢𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐱁𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰃𐰶",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰃𐰴",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐱁𐰃𐰞",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰀𐱁",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰼𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰴𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰶𐰀𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰢𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐱁𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰃𐰶",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰃𐰴",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐱁𐰃𐰞",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰀𐱁",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰼𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰴𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰢𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐱁𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰼𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰴𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰶𐰀𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰢𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐱁𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰃𐰶",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰃𐰴",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐱁𐰃𐰞",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰀𐱁",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰼𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰴𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰶𐰀𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰢𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐱁𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰃𐰶",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰃𐰴",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐱁𐰃𐰞",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰀𐱁",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰼𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰴𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰃",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰢𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐱁𐰃",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰼𐰃",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰀𐰼",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰣",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰴𐰀",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰰𐰀",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰰𐰃",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰶𐰀𐰣",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰢𐰀",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐱁𐰃",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰃𐰶",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰃𐰴",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐱁𐰃𐰞",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰰𐰀𐱁",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰼𐰃",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰀𐰼",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰣",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰴𐰀",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰰𐰀",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰰𐰃",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰶𐰀𐰣",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰢𐰀",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐱁𐰃",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰃𐰶",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰃𐰴",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐱁𐰃𐰞",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰰𐰀𐱁",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰼𐰃",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰀𐰼",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰣",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰴𐰀",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰰𐰀",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰰𐰃",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰶𐰀𐰣",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰢𐰀",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐱁𐰃",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰃𐰶",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰃𐰴",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐱁𐰃𐰞",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰰𐰀𐱁",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰼𐰃",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰀𐰼",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰣",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰴𐰀",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰰𐰀",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰰𐰃",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰶𐰀𐰣",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰢𐰀",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐱁𐰃",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰃𐰶",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰃𐰴",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐱁𐰃𐰞",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰰𐰀𐱁",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰼𐰃",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰀𐰼",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰣",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰴𐰀",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰰𐰀",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰰𐰃",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰶𐰀𐰣",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰢𐰀",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐱁𐰃",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰃𐰶",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰃𐰴",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐱁𐰃𐰞",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰰𐰀𐱁",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰼𐰃",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰀𐰼",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰣",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰴𐰀",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰰𐰀",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰰𐰃",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰶𐰀𐰣",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰢𐰀",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐱁𐰃",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰃𐰶",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰃𐰴",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐱁𐰃𐰞",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰰𐰀𐱁",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰼𐰃",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰀𐰼",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰣",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰴𐰀",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰰𐰀",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰰𐰃",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰶𐰀𐰣",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰢𐰀",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐱁𐰃",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰃𐰶",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰃𐰴",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐱁𐰃𐰞",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰰𐰀𐱁",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰼𐰃",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰀𐰼",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰣",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰴𐰀",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰰𐰀",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰰𐰃",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰶𐰀𐰣",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰢𐰀",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐱁𐰃",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰃𐰶",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰃𐰴",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐱁𐰃𐰞",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰰𐰀𐱁",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰼𐰃",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰀𐰼",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰣",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰴𐰀",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰰𐰀",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰰𐰃",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰶𐰀𐰣",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰢𐰀",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐱁𐰃",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰃𐰶",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰃𐰴",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐱁𐰃𐰞",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰰𐰀𐱁",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰼𐰃",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰀𐰼",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰣",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰴𐰀",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰰𐰀",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰰𐰃",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰶𐰀𐰣",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰢𐰀",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐱁𐰃",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰃𐰶",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰃𐰴",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐱁𐰃𐰞",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰰𐰀𐱁",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰼𐰃",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰀𐰼",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰣",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰴𐰀",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰰𐰀",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰰𐰃",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰶𐰀𐰣",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰢𐰀",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐱁𐰃",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰃𐰶",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰃𐰴",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐱁𐰃𐰞",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰰𐰀𐱁",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰼𐰃",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰣",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰴𐰀",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰰𐰀",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰰𐰃",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰢𐰀",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐱁𐰃",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰼𐰃",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰣",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰴𐰀",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰰𐰀",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰰𐰃",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰢𐰀",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐱁𐰃",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰼𐰃",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "historical_derivation",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰴𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰶𐰀𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰢𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐱁𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰃𐰶",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰃𐰴",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐱁𐰃𐰞",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰀𐱁",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰴𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰶𐰀𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰢𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐱁𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰃𐰶",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰃𐰴",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐱁𐰃𐰞",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰀𐱁",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰼𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰴𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰶𐰀𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰢𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐱁𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰃𐰶",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰃𐰴",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐱁𐰃𐰞",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰀𐱁",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰼𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰴𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰢𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐱁𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰼𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰴𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰶𐰀𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰢𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐱁𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰃𐰶",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰃𐰴",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐱁𐰃𐰞",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰀𐱁",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰼𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰴𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰶𐰀𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰢𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐱁𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰃𐰶",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰃𐰴",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐱁𐰃𐰞",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰀𐱁",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰼𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰴𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰃",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰢𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐱁𐰃",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰼𐰃",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰀𐰼",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰣",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰴𐰀",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰰𐰀",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰰𐰃",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰶𐰀𐰣",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰢𐰀",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐱁𐰃",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰃𐰶",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰃𐰴",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐱁𐰃𐰞",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰰𐰀𐱁",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰼𐰃",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰀𐰼",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰣",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰴𐰀",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰰𐰀",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰰𐰃",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰶𐰀𐰣",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰢𐰀",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐱁𐰃",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰃𐰶",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰃𐰴",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐱁𐰃𐰞",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰰𐰀𐱁",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰼𐰃",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰀𐰼",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰣",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰴𐰀",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰰𐰀",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰰𐰃",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰶𐰀𐰣",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰢𐰀",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐱁𐰃",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰃𐰶",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰃𐰴",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐱁𐰃𐰞",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰰𐰀𐱁",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰼𐰃",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰀𐰼",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰣",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰴𐰀",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰰𐰀",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰰𐰃",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰶𐰀𐰣",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰢𐰀",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐱁𐰃",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰃𐰶",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰃𐰴",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐱁𐰃𐰞",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰰𐰀𐱁",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰼𐰃",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰀𐰼",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰣",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰴𐰀",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰰𐰀",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰰𐰃",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰶𐰀𐰣",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰢𐰀",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐱁𐰃",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰃𐰶",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰃𐰴",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐱁𐰃𐰞",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰰𐰀𐱁",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰼𐰃",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰀𐰼",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰣",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰴𐰀",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰰𐰀",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰰𐰃",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰶𐰀𐰣",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰢𐰀",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐱁𐰃",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰃𐰶",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰃𐰴",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐱁𐰃𐰞",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰰𐰀𐱁",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰼𐰃",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰀𐰼",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰣",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰴𐰀",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰰𐰀",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰰𐰃",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰶𐰀𐰣",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰢𐰀",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐱁𐰃",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰃𐰶",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰃𐰴",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐱁𐰃𐰞",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰰𐰀𐱁",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰼𐰃",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰀𐰼",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰣",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰴𐰀",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰰𐰀",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰰𐰃",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰶𐰀𐰣",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰢𐰀",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐱁𐰃",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰃𐰶",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰃𐰴",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐱁𐰃𐰞",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰰𐰀𐱁",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰼𐰃",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰀𐰼",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰣",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰴𐰀",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰰𐰀",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰰𐰃",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰶𐰀𐰣",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰢𐰀",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐱁𐰃",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰃𐰶",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰃𐰴",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐱁𐰃𐰞",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰰𐰀𐱁",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰼𐰃",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰀𐰼",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰣",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰴𐰀",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰰𐰀",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰰𐰃",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰶𐰀𐰣",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰢𐰀",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐱁𐰃",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰃𐰶",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰃𐰴",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐱁𐰃𐰞",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰰𐰀𐱁",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰼𐰃",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰀𐰼",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰣",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰴𐰀",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰰𐰀",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰰𐰃",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰶𐰀𐰣",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰢𐰀",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐱁𐰃",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰃𐰶",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰃𐰴",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐱁𐰃𐰞",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰰𐰀𐱁",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰼𐰃",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰣",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰴𐰀",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰰𐰀",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰰𐰃",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰢𐰀",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐱁𐰃",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰼𐰃",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰣",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰴𐰀",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰰𐰀",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰰𐰃",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰢𐰀",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐱁𐰃",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰼𐰃",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "historical_derivation",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰴𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰶𐰀𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰢𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐱁𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰃𐰶",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰃𐰴",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐱁𐰃𐰞",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰀𐱁",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰴𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰶𐰀𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰢𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐱁𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰃𐰶",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰃𐰴",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐱁𐰃𐰞",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰀𐱁",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰼𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰴𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰶𐰀𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰢𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐱁𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰃𐰶",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰃𐰴",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐱁𐰃𐰞",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰀𐱁",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰼𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰴𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰢𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐱁𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰼𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰴𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰶𐰀𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰢𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐱁𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰃𐰶",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰃𐰴",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐱁𐰃𐰞",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰀𐱁",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰼𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰴𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰶𐰀𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰢𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐱁𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰃𐰶",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰃𐰴",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐱁𐰃𐰞",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰀𐱁",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰼𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰴𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰃",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰢𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐱁𐰃",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰼𐰃",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰀𐰼",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰣",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰴𐰀",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰰𐰀",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰰𐰃",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰶𐰀𐰣",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰢𐰀",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐱁𐰃",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰃𐰶",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰠𐰃𐰴",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐱁𐰃𐰞",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰰𐰀𐱁",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰖𐰃𐰼𐰼𐰃",
+    "stem": "𐰖𐰃𐰼",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yer"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰀𐰼",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰣",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰴𐰀",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰰𐰀",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰰𐰃",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰶𐰀𐰣",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰢𐰀",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐱁𐰃",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰃𐰶",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰠𐰃𐰴",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐱁𐰃𐰞",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰰𐰀𐱁",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰚𐰆𐰣𐰼𐰃",
+    "stem": "𐰚𐰆𐰣",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "k?n"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰀𐰼",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰣",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰴𐰀",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰰𐰀",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰰𐰃",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰶𐰀𐰣",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰢𐰀",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐱁𐰃",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰃𐰶",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰠𐰃𐰴",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐱁𐰃𐰞",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰰𐰀𐱁",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐰖𐰼𐰃",
+    "stem": "𐰀𐰖",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ay"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰀𐰼",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰣",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰴𐰀",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰰𐰀",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰰𐰃",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰶𐰀𐰣",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰢𐰀",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐱁𐰃",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰃𐰶",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰠𐰃𐰴",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐱁𐰃𐰞",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰰𐰀𐱁",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐱅𐰼𐰃",
+    "stem": "𐰀𐱅",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "at"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰀𐰼",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰣",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰴𐰀",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰰𐰀",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰰𐰃",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰶𐰀𐰣",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰢𐰀",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐱁𐰃",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰃𐰶",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰠𐰃𐰴",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐱁𐰃𐰞",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰰𐰀𐱁",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰀𐰠𐰻𐰼𐰃",
+    "stem": "𐰀𐰠𐰻",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "alp"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰀𐰼",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰣",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰴𐰀",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰰𐰀",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰰𐰃",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰶𐰀𐰣",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰢𐰀",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐱁𐰃",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰃𐰶",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰠𐰃𐰴",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐱁𐰃𐰞",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰰𐰀𐱁",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰴𐰀𐰶𐰀𐰣𐰼𐰃",
+    "stem": "𐰴𐰀𐰶𐰀𐰣",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "qagan"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰀𐰼",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰣",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰴𐰀",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰰𐰀",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰰𐰃",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰶𐰀𐰣",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰢𐰀",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐱁𐰃",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰃𐰶",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰠𐰃𐰴",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐱁𐰃𐰞",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰰𐰀𐱁",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐰇𐰶𐰼𐰃",
+    "stem": "𐰇𐰶",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "?g"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰀𐰼",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰣",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰴𐰀",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰰𐰀",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰰𐰃",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰶𐰀𐰣",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰢𐰀",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐱁𐰃",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰃𐰶",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰠𐰃𐰴",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐱁𐰃𐰞",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰰𐰀𐱁",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱁𐰆𐰼𐰃",
+    "stem": "𐱁𐰆",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "su"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰀𐰼",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰣",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰴𐰀",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰰𐰀",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰰𐰃",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰶𐰀𐰣",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰢𐰀",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐱁𐰃",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰃𐰶",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰠𐰃𐰴",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐱁𐰃𐰞",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰰𐰀𐱁",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐱅𐰀𐱁𐰼𐰃",
+    "stem": "𐱅𐰀𐱁",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ta?"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰀𐰼",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰣",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰴𐰀",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰰𐰀",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰰𐰃",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰶𐰀𐰣",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰢𐰀",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐱁𐰃",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰃𐰶",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰠𐰃𐰴",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐱁𐰃𐰞",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰰𐰀𐱁",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰖𐰇𐰠𐰼𐰃",
+    "stem": "𐰖𐰇𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "yol"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰀𐰼",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰣",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰴𐰀",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰰𐰀",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰰𐰃",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰶𐰀𐰣",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰢𐰀",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐱁𐰃",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰃𐰶",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰠𐰃𐰴",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐱁𐰃𐰞",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰰𐰀𐱁",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰟𐰀𐰼𐰼𐰃",
+    "stem": "𐰟𐰀𐰼",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bar"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰣",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰴𐰀",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰰𐰀",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰰𐰃",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰢𐰀",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐱁𐰃",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰚𐰃𐰠𐰼𐰃",
+    "stem": "𐰚𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "kel"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰣",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰴𐰀",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰰𐰀",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰰𐰃",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰢𐰀",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐱁𐰃",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐰟𐰃𐰠𐰼𐰃",
+    "stem": "𐰟𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bil"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "historical_derivation",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰴𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰶𐰀𐰣",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰢𐰀",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐱁𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰃𐰶",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰠𐰃𐰴",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐱁𐰃𐰞",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰰𐰀𐱁",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃",
+    "stem": "𐱅𐰭",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰴𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰶𐰀𐰣",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰢𐰀",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐱁𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰃𐰶",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰠𐰃𐰴",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐱁𐰃𐰞",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰰𐰀𐱁",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐱅𐰭𐰼𐰃𐰼𐰃",
+    "stem": "𐱅𐰭𐰼𐰃",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "te?ri"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰴𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰶𐰀𐰣",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰢𐰀",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐱁𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰃𐰶",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰠𐰃𐰴",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐱁𐰃𐰞",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰰𐰀𐱁",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐰚𐰃𐱁𐰃𐰼𐰃",
+    "stem": "𐰚𐰃𐱁𐰃",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "ki?i"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰴𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰶𐰀𐰣",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰢𐰀",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐱁𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰃𐰶",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰠𐰃𐰴",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐱁𐰃𐰞",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰰𐰀𐱁",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐱅𐰃𐰠𐰼𐰃",
+    "stem": "𐱅𐰃𐰠",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "til"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰴𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰶𐰀𐰣",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰢𐰀",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐱁𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰃𐰶",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰠𐰃𐰴",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐱁𐰃𐰞",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰰𐰀𐱁",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰇𐰰𐰆𐰣𐰼𐰃",
+    "stem": "𐰟𐰇𐰰𐰆𐰣",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "bodun"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰴𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰶𐰀𐰣",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰶𐰀𐰣"
+    ],
+    "category": "verb_participle",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰢𐰀",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰢𐰀"
+    ],
+    "category": "verb_negation",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐱁𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰃𐰶",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰶"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰠𐰃𐰴",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰠𐰃𐰴"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐱁𐰃𐰞",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐱁𐰃𐰞"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰰𐰀𐱁",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰰𐰀𐱁"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰟𐰃𐰶𐰼𐰃",
+    "stem": "𐰟𐰃𐰶",
+    "expected_suffixes": [
+      "𐰼𐰃"
+    ],
+    "category": "derivational",
+    "latin_transliteration": "beg"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼"
+    ],
+    "category": "plural",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞"
+    ],
+    "category": "plural_possessive",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰠𐰀𐰼𐰃𐰢𐰃𐰞𐰰𐰃𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰠𐰀𐰼",
+      "𐰃𐰢𐰃𐰞",
+      "𐰰𐰃𐰣"
+    ],
+    "category": "plural_possessive_case",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰣",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰣"
+    ],
+    "category": "accusative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰴𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰴𐰀"
+    ],
+    "category": "dative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰀",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰀"
+    ],
+    "category": "locative",
+    "latin_transliteration": "el"
+  },
+  {
+    "surface": "𐰃𐰠𐰰𐰃",
+    "stem": "𐰃𐰠",
+    "expected_suffixes": [
+      "𐰰𐰃"
+    ],
+    "category": "verb_past",
+    "latin_transliteration": "el"
+  }
+]

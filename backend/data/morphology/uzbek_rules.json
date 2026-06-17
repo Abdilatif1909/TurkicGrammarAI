@@ -1,0 +1,3417 @@
+{
+  "language": "uz",
+  "rules": [
+    {
+      "suffix": "lar",
+      "suffix_type": "Plural",
+      "description": "plural suffix",
+      "examples": [
+        "kitob -> kitoblar",
+        "uy -> uylar"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "ler",
+      "suffix_type": "Plural",
+      "description": "plural vowel-harmony variant",
+      "examples": [
+        "qalb -> qalbler"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "im",
+      "suffix_type": "Possessive-1sg",
+      "description": "1st person singular possessive",
+      "examples": [
+        "kitob -> kitobim"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "ing",
+      "suffix_type": "Possessive-2sg",
+      "description": "2nd person singular possessive",
+      "examples": [
+        "kitob -> kitobing"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "i",
+      "suffix_type": "Possessive-3sg",
+      "description": "3rd person singular possessive",
+      "examples": [
+        "kitob -> kitobi"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "imiz",
+      "suffix_type": "Possessive-1pl",
+      "description": "1st person plural possessive",
+      "examples": [
+        "kitob -> kitobimiz"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "ingiz",
+      "suffix_type": "Possessive-2pl",
+      "description": "2nd person plural possessive",
+      "examples": [
+        "kitob -> kitobingiz"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "lari",
+      "suffix_type": "Possessive-3pl",
+      "description": "3rd person plural possessive",
+      "examples": [
+        "kitob -> kitoblari"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "ning",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive case",
+      "examples": [
+        "kitob -> kitobning"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "ni",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative case",
+      "examples": [
+        "kitob -> kitobni"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "ga",
+      "suffix_type": "Case-Dative",
+      "description": "dative case (to)",
+      "examples": [
+        "kitob -> kitobga"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "da",
+      "suffix_type": "Case-Locative",
+      "description": "locative case (in/on)",
+      "examples": [
+        "kitob -> kitobda"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "dan",
+      "suffix_type": "Case-Ablative",
+      "description": "ablative case (from)",
+      "examples": [
+        "kitob -> kitobdan"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "chi",
+      "suffix_type": "Deriv-Agent",
+      "description": "agentive derivation (person doing X)",
+      "examples": [
+        "kitob -> kitobchi",
+        "bozor -> bozorchi"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "uvchi",
+      "suffix_type": "Deriv-Agent-Ext",
+      "description": "agentive progressive (one who is doing)",
+      "examples": [
+        "yoz -> yozuvchi"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lik",
+      "suffix_type": "Deriv-Noun",
+      "description": "nominalizer/quality (ness/ness-like)",
+      "examples": [
+        "oq -> oqlik"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "ish",
+      "suffix_type": "Deriv-Noun-Event",
+      "description": "action/event nominalizer",
+      "examples": [
+        "yoz -> yozish"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "yor",
+      "suffix_type": "Deriv-Adjective",
+      "description": "adjectival derivation",
+      "examples": [
+        "ish -> ishyor"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "di",
+      "suffix_type": "Verb-Past",
+      "description": "simple past tense",
+      "examples": [
+        "yoz -> yozdi"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "gan",
+      "suffix_type": "Verb-PerfPart",
+      "description": "past participle / perfect",
+      "examples": [
+        "yoz -> yozgan"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "moqda",
+      "suffix_type": "Verb-Progressive",
+      "description": "progressive present",
+      "examples": [
+        "yoz -> yozmoqda"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "adi",
+      "suffix_type": "Verb-Pres-Fut",
+      "description": "present / future (3sg)",
+      "examples": [
+        "yoz -> yozadi"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "ar",
+      "suffix_type": "Verb-Future-Alt",
+      "description": "future / optative variant",
+      "examples": [
+        "yoz -> yozar"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "ma",
+      "suffix_type": "Verb-Negative",
+      "description": "negation prefix/suffix for verbs (stem negation)",
+      "examples": [
+        "yemak -> yemama"
+      ],
+      "confidence_score": 0.7
+    },
+    {
+      "suffix": "mas",
+      "suffix_type": "Verb-NegPres",
+      "description": "present negative form",
+      "examples": [
+        "yoz -> yozmas"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "magan",
+      "suffix_type": "Verb-NegPastPart",
+      "description": "negative past participle",
+      "examples": [
+        "yoz -> yozmagan"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "sa",
+      "suffix_type": "Verb-Cond",
+      "description": "conditional suffix",
+      "examples": [
+        "yoz -> yozsa"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "-(i)sh",
+      "suffix_type": "Deriv-VerbFromNoun",
+      "description": "verb-forming from noun",
+      "examples": [
+        "ish -> is(h)ish"
+      ],
+      "confidence_score": 0.7
+    },
+    {
+      "suffix": "chi-lar",
+      "suffix_type": "Deriv-Agent-Plural",
+      "description": "agent plural",
+      "examples": [
+        "yig'uvchi -> yig'uvchilar"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "liklar",
+      "suffix_type": "Deriv-Noun-Plural",
+      "description": "plural of -lik",
+      "examples": [
+        "oq -> oqliklar"
+      ],
+      "confidence_score": 0.7
+    },
+    {
+      "suffix": "uvchi-lar",
+      "suffix_type": "Deriv-Agent-Plural-Ext",
+      "description": "plural of -uvchi",
+      "examples": [
+        "yozuvchi -> yozuvchilar"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "ganlar",
+      "suffix_type": "Verb-PerfPart-Plural",
+      "description": "plural past participle",
+      "examples": [
+        "yozgan -> yozganlar"
+      ],
+      "confidence_score": 0.7
+    },
+    {
+      "suffix": "dir",
+      "suffix_type": "Copula-Forma",
+      "description": "copula/attributive",
+      "examples": [
+        "ustozdir"
+      ],
+      "confidence_score": 0.6
+    },
+    {
+      "suffix": "chi-chi",
+      "suffix_type": "Deriv-Redup",
+      "description": "reduplicated agent (colloquial)",
+      "examples": [
+        "kitobchi-chi"
+      ],
+      "confidence_score": 0.4
+    },
+    {
+      "suffix": "vor",
+      "suffix_type": "Deriv-Loan",
+      "description": "loan-derived suffix (rare)",
+      "examples": [
+        "ko'cha -> ko'chavor"
+      ],
+      "confidence_score": 0.5
+    },
+    {
+      "suffix": "uvchi-ning",
+      "suffix_type": "Compound",
+      "description": "compound forms in possessive contexts",
+      "examples": [
+        "yozuvchi -> yozuvchining"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "ma-chi",
+      "suffix_type": "Deriv-NegAgent",
+      "description": "negative agent derivation (rare)",
+      "examples": [
+        "yozma -> yozmachi"
+      ],
+      "confidence_score": 0.45
+    },
+    {
+      "suffix": "ma",
+      "suffix_type": "Noun-Forming",
+      "description": "noun forming from verb stems (e.g., yazma)",
+      "examples": [
+        "yoz -> yozma"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "uv",
+      "suffix_type": "Deriv-VerbSuffix",
+      "description": "small verb-forming suffix",
+      "examples": [
+        "ur -> uruv"
+      ],
+      "confidence_score": 0.5
+    },
+    {
+      "suffix": "lik-chi",
+      "suffix_type": "Deriv-Compound",
+      "description": "compound derivation",
+      "examples": [
+        "ishlikchi"
+      ],
+      "confidence_score": 0.4
+    },
+    {
+      "suffix": "iy",
+      "suffix_type": "Adj-Forming",
+      "description": "adjectival forming suffix",
+      "examples": [
+        "tarix -> tarixiy"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "roq",
+      "suffix_type": "Comparative",
+      "description": "comparative marker (colloquial)",
+      "examples": [
+        "yaxshi -> yaxshiroq"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "gina",
+      "suffix_type": "Restrictive",
+      "description": "restrictive particle/ending",
+      "examples": [
+        "shunaqa -> shunaqagina"
+      ],
+      "confidence_score": 0.6
+    },
+    {
+      "suffix": "cha",
+      "suffix_type": "Diminutive",
+      "description": "diminutive/approximation",
+      "examples": [
+        "bolacha"
+      ],
+      "confidence_score": 0.7
+    },
+    {
+      "suffix": "o'",
+      "suffix_type": "Orthographic",
+      "description": "orthographic glottal marker",
+      "examples": [
+        "o'zi"
+      ],
+      "confidence_score": 0.6
+    },
+    {
+      "suffix": "di",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "boldi"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "ler",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "uyler"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "ta",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "o'qishta"
+      ],
+      "confidence_score": 0.62
+    },
+    {
+      "suffix": "sa",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "ta'limsa"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "yor",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "uyquyor"
+      ],
+      "confidence_score": 0.94
+    },
+    {
+      "suffix": "liklar",
+      "suffix_type": "plural",
+      "description": "plural suffix",
+      "examples": [
+        "kitobliklar"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "mas",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "ma'nomas"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "ni",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "yurakni"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "magan",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "tilmagan"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "ga",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "bolaaga"
+      ],
+      "confidence_score": 0.67
+    },
+    {
+      "suffix": "imiz",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "ma'noimiz"
+      ],
+      "confidence_score": 0.96
+    },
+    {
+      "suffix": "adi",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "yozadi"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "dir",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "o'qishdir"
+      ],
+      "confidence_score": 0.94
+    },
+    {
+      "suffix": "i",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "cho'li"
+      ],
+      "confidence_score": 0.82
+    },
+    {
+      "suffix": "or",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "yozor"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "iy",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "o'qiy"
+      ],
+      "confidence_score": 0.61
+    },
+    {
+      "suffix": "den",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        " insonden"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "chi",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "bozorchi"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "cha",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "o'qcha"
+      ],
+      "confidence_score": 0.64
+    },
+    {
+      "suffix": "qa",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "ta'limqa"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "ing",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "daryoing"
+      ],
+      "confidence_score": 0.75
+    },
+    {
+      "suffix": "ish",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "uyquish"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ma",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "daryoma"
+      ],
+      "confidence_score": 0.77
+    },
+    {
+      "suffix": "ar",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "daryoar"
+      ],
+      "confidence_score": 0.85
+    },
+    {
+      "suffix": "dan",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "daryodan"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "roq",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        " insonroq"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "moqda",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "uymoqda"
+      ],
+      "confidence_score": 0.65
+    },
+    {
+      "suffix": "lari",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "maktablari"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "uvchi",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "daryouvchi"
+      ],
+      "confidence_score": 0.94
+    },
+    {
+      "suffix": "uv",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "yurakuv"
+      ],
+      "confidence_score": 0.66
+    },
+    {
+      "suffix": "da",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "yozda"
+      ],
+      "confidence_score": 0.61
+    },
+    {
+      "suffix": "vor",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "o'qvor"
+      ],
+      "confidence_score": 0.65
+    },
+    {
+      "suffix": "lor",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "kitoblor"
+      ],
+      "confidence_score": 0.65
+    },
+    {
+      "suffix": "ning",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "ta'limning"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "o'",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "o'qo'"
+      ],
+      "confidence_score": 0.96
+    },
+    {
+      "suffix": "lik",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "o'qishlik"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "ingiz",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "bolingiz"
+      ],
+      "confidence_score": 0.73
+    },
+    {
+      "suffix": "gan",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "maktabgan"
+      ],
+      "confidence_score": 0.82
+    },
+    {
+      "suffix": "gina",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "oilagina"
+      ],
+      "confidence_score": 0.94
+    },
+    {
+      "suffix": "im",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "maktabim"
+      ],
+      "confidence_score": 0.66
+    },
+    {
+      "suffix": "gin",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "bozorgin"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "lar",
+      "suffix_type": "base",
+      "description": "base suffix",
+      "examples": [
+        "ishlar"
+      ],
+      "confidence_score": 0.85
+    },
+    {
+      "suffix": "ingyor",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ishingyor"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "ingni",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "maktabingni"
+      ],
+      "confidence_score": 0.7
+    },
+    {
+      "suffix": "yortaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yozyortaa"
+      ],
+      "confidence_score": 0.76
+    },
+    {
+      "suffix": "dandaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uydandaa"
+      ],
+      "confidence_score": 0.85
+    },
+    {
+      "suffix": "mamasi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ishmamasi"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "suffix": "diiyi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uydiiyi"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "lari",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "ishlari"
+      ],
+      "confidence_score": 0.65
+    },
+    {
+      "suffix": "chivor",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'lchivor"
+      ],
+      "confidence_score": 0.64
+    },
+    {
+      "suffix": "gagina",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bozorgagina"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "maadi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ma'nomaadi"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "taing",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "yoztaing"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "ingdaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qingdaa"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "imingi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "kitobimingi"
+      ],
+      "confidence_score": 0.76
+    },
+    {
+      "suffix": "vordia",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uyquvordia"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "daing",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "daryodaing"
+      ],
+      "confidence_score": 0.64
+    },
+    {
+      "suffix": "machii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ma'nomachii"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "gindaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "qalbgindaa"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "mao'",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bolmao'"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "imuvchi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'limuvchi"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "o'iya",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yozo'iya"
+      ],
+      "confidence_score": 0.62
+    },
+    {
+      "suffix": "gamas",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qishgamas"
+      ],
+      "confidence_score": 0.94
+    },
+    {
+      "suffix": "adini",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "maktabadini"
+      ],
+      "confidence_score": 0.96
+    },
+    {
+      "suffix": "gandia",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "oilagandia"
+      ],
+      "confidence_score": 0.71
+    },
+    {
+      "suffix": "imdaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "bozorimdaa"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "ninguvchi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "oilaninguvchi"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "gingaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uyqugingaa"
+      ],
+      "confidence_score": 0.77
+    },
+    {
+      "suffix": "adidaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "tiladidaa"
+      ],
+      "confidence_score": 0.78
+    },
+    {
+      "suffix": "gagini",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "qalbgagini"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "likimi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "maktablikimi"
+      ],
+      "confidence_score": 0.61
+    },
+    {
+      "suffix": "ingish",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "yurakingish"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "diadii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ishdiadii"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "suffix": "yoruv",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qishyoruv"
+      ],
+      "confidence_score": 0.76
+    },
+    {
+      "suffix": "yorda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyyorda"
+      ],
+      "confidence_score": 0.73
+    },
+    {
+      "suffix": "roqvor",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "tilroqvor"
+      ],
+      "confidence_score": 0.65
+    },
+    {
+      "suffix": "ditaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "so'zditaa"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "suffix": "magina",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uymagina"
+      ],
+      "confidence_score": 0.86
+    },
+    {
+      "suffix": "yorning",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyquyorning"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "sainga",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yuraksainga"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "lariii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ma'nolariii"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "vornii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "bozorvornii"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "ori",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "yozori"
+      ],
+      "confidence_score": 0.85
+    },
+    {
+      "suffix": "gadeni",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "kitobgadeni"
+      ],
+      "confidence_score": 0.87
+    },
+    {
+      "suffix": "maler",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bozormaler"
+      ],
+      "confidence_score": 0.72
+    },
+    {
+      "suffix": "chauv",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyquchauv"
+      ],
+      "confidence_score": 0.75
+    },
+    {
+      "suffix": "uvchilar",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyuvchilar"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "qaga",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "so'zqaga"
+      ],
+      "confidence_score": 0.71
+    },
+    {
+      "suffix": "niyori",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "maktabniyori"
+      ],
+      "confidence_score": 0.69
+    },
+    {
+      "suffix": "niingiz",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyquniingiz"
+      ],
+      "confidence_score": 0.78
+    },
+    {
+      "suffix": "ilari",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qilari"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "ningda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ishningda"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "uvia",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "oilauvia"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "dasaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qdasaa"
+      ],
+      "confidence_score": 0.65
+    },
+    {
+      "suffix": "ginamagan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "daryoginamagan"
+      ],
+      "confidence_score": 0.82
+    },
+    {
+      "suffix": "lerta",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "maktablerta"
+      ],
+      "confidence_score": 0.66
+    },
+    {
+      "suffix": "taima",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "kitobtaima"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "qaimiz",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ta'limqaimiz"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "likdir",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ishlikdir"
+      ],
+      "confidence_score": 0.65
+    },
+    {
+      "suffix": "imizii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qimizii"
+      ],
+      "confidence_score": 0.73
+    },
+    {
+      "suffix": "nimagan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "maktabnimagan"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "yorlari",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qyorlari"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "lariyor",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uylariyor"
+      ],
+      "confidence_score": 0.86
+    },
+    {
+      "suffix": "larima",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "davolarima"
+      ],
+      "confidence_score": 0.86
+    },
+    {
+      "suffix": "uvgana",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "boluvgana"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "imishi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "bozorimishi"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "imdana",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uyimdana"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "ganima",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yozganima"
+      ],
+      "confidence_score": 0.87
+    },
+    {
+      "suffix": "ginaimiz",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'lginaimiz"
+      ],
+      "confidence_score": 0.77
+    },
+    {
+      "suffix": "qao'i",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "cho'lqao'i"
+      ],
+      "confidence_score": 0.61
+    },
+    {
+      "suffix": "ginaing",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "tilginaing"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "tadan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "daryotadan"
+      ],
+      "confidence_score": 0.69
+    },
+    {
+      "suffix": "laruva",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "cho'llaruva"
+      ],
+      "confidence_score": 0.76
+    },
+    {
+      "suffix": "maganden",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "tilmaganden"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "imdai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qimdai"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "moqdadan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'lmoqdadan"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "suffix": "ari",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "davoari"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "masmai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "davomasmai"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "imdira",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yurakimdira"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "iishi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "davoiishi"
+      ],
+      "confidence_score": 0.67
+    },
+    {
+      "suffix": "malara",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "davomalara"
+      ],
+      "confidence_score": 0.67
+    },
+    {
+      "suffix": "argini",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ta'limargini"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "largan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qishlargan"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "imdir",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bozorimdir"
+      ],
+      "confidence_score": 0.65
+    },
+    {
+      "suffix": "qaingiz",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "oilaqaingiz"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "ginda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ma'noginda"
+      ],
+      "confidence_score": 0.64
+    },
+    {
+      "suffix": "o'moqda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bozoro'moqda"
+      ],
+      "confidence_score": 0.62
+    },
+    {
+      "suffix": "imo'",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "daryoimo'"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "chitai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uychitai"
+      ],
+      "confidence_score": 0.64
+    },
+    {
+      "suffix": "uvchii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yurakuvchii"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "yoriy",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'lyoriy"
+      ],
+      "confidence_score": 0.78
+    },
+    {
+      "suffix": "larmaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "qalblarmaa"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "ishuvi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "maktabishuvi"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "yorari",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qyorari"
+      ],
+      "confidence_score": 0.69
+    },
+    {
+      "suffix": "dirmai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "daryodirmai"
+      ],
+      "confidence_score": 0.69
+    },
+    {
+      "suffix": "tachia",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ma'notachia"
+      ],
+      "confidence_score": 0.75
+    },
+    {
+      "suffix": "daniyi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "boldaniyi"
+      ],
+      "confidence_score": 0.67
+    },
+    {
+      "suffix": "iyga",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "boliyga"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "gandii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "daryogandii"
+      ],
+      "confidence_score": 0.67
+    },
+    {
+      "suffix": "ishning",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'lishning"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "imtai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "so'zimtai"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "nidir",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "oilanidir"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "imdena",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "daryoimdena"
+      ],
+      "confidence_score": 0.72
+    },
+    {
+      "suffix": "o'ta",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "so'zo'ta"
+      ],
+      "confidence_score": 0.67
+    },
+    {
+      "suffix": "masuva",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ma'nomasuva"
+      ],
+      "confidence_score": 0.61
+    },
+    {
+      "suffix": "ishima",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "cho'lishima"
+      ],
+      "confidence_score": 0.94
+    },
+    {
+      "suffix": "ganqa",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "davoganqa"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "vordai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qvordai"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "suffix": "o'gan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qisho'gan"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "diryor",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ta'limdiryor"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "vorda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyquvorda"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "iyma",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qiyma"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "ninglik",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "daryoninglik"
+      ],
+      "confidence_score": 0.7
+    },
+    {
+      "suffix": "o'chia",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yozo'chia"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "suffix": "roqmoqda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ta'limroqmoqda"
+      ],
+      "confidence_score": 0.73
+    },
+    {
+      "suffix": "ishta",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "so'zishta"
+      ],
+      "confidence_score": 0.67
+    },
+    {
+      "suffix": "imtaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qimtaa"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "imden",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qimden"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "larara",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "tillarara"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "chadai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "maktabchadai"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "larroq",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "qalblarroq"
+      ],
+      "confidence_score": 0.65
+    },
+    {
+      "suffix": "likqa",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "tillikqa"
+      ],
+      "confidence_score": 0.67
+    },
+    {
+      "suffix": "ginuvi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "bolginuvi"
+      ],
+      "confidence_score": 0.78
+    },
+    {
+      "suffix": "adii",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "oilaadii"
+      ],
+      "confidence_score": 0.85
+    },
+    {
+      "suffix": "adii",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'ladii"
+      ],
+      "confidence_score": 0.69
+    },
+    {
+      "suffix": "iycha",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ma'noiycha"
+      ],
+      "confidence_score": 0.7
+    },
+    {
+      "suffix": "imvori",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uyimvori"
+      ],
+      "confidence_score": 0.96
+    },
+    {
+      "suffix": "liklari",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qliklari"
+      ],
+      "confidence_score": 0.79
+    },
+    {
+      "suffix": "larda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "daryolarda"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "masaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uyqumasaa"
+      ],
+      "confidence_score": 0.78
+    },
+    {
+      "suffix": "densai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uydensai"
+      ],
+      "confidence_score": 0.86
+    },
+    {
+      "suffix": "qachia",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "daryoqachia"
+      ],
+      "confidence_score": 0.96
+    },
+    {
+      "suffix": "ishdii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "kitobishdii"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "lerning",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "tillerning"
+      ],
+      "confidence_score": 0.72
+    },
+    {
+      "suffix": "iyinga",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "bozoriyinga"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "mavori",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uymavori"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "o'inga",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "tilo'inga"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "macha",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "so'zmacha"
+      ],
+      "confidence_score": 0.75
+    },
+    {
+      "suffix": "gana",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "maktabgana"
+      ],
+      "confidence_score": 0.73
+    },
+    {
+      "suffix": "ganmai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "cho'lganmai"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "yora",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "bolyora"
+      ],
+      "confidence_score": 0.76
+    },
+    {
+      "suffix": "denqai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "so'zdenqai"
+      ],
+      "confidence_score": 0.64
+    },
+    {
+      "suffix": "data",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ishdata"
+      ],
+      "confidence_score": 0.87
+    },
+    {
+      "suffix": "ishar",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "yozishar"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "niadii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "tilniadii"
+      ],
+      "confidence_score": 0.94
+    },
+    {
+      "suffix": "ningimiz",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyningimiz"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "suffix": "salara",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "bozorsalara"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "yoro'i",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qyoro'i"
+      ],
+      "confidence_score": 0.79
+    },
+    {
+      "suffix": "magandi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qmagandi"
+      ],
+      "confidence_score": 0.76
+    },
+    {
+      "suffix": "imlik",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "yurakimlik"
+      ],
+      "confidence_score": 0.65
+    },
+    {
+      "suffix": "adiuvchi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ishadiuvchi"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "dirchi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "kitobdirchi"
+      ],
+      "confidence_score": 0.77
+    },
+    {
+      "suffix": "iysai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qishiysai"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "dirma",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "daryodirma"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "ginadir",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bolginadir"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "suffix": "iyimiz",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "oilaiyimiz"
+      ],
+      "confidence_score": 0.87
+    },
+    {
+      "suffix": "o'ar",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qisho'ar"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "ishvor",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bolishvor"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "gadira",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yurakgadira"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "denari",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "bozordenari"
+      ],
+      "confidence_score": 0.87
+    },
+    {
+      "suffix": "immasi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qishimmasi"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "taish",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qishtaish"
+      ],
+      "confidence_score": 0.64
+    },
+    {
+      "suffix": "o'tai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "maktabo'tai"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "ningma",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qishningma"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "suffix": "sadii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ishsadii"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "uvdeni",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "bozoruvdeni"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "diringiz",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "boldiringiz"
+      ],
+      "confidence_score": 0.61
+    },
+    {
+      "suffix": "tamagan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyqutamagan"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "inggina",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "tilinggina"
+      ],
+      "confidence_score": 0.61
+    },
+    {
+      "suffix": "dichi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'ldichi"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "suffix": "masai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qishmasai"
+      ],
+      "confidence_score": 0.62
+    },
+    {
+      "suffix": "lerimi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yozlerimi"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "moqdasa",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ma'nomoqdasa"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "deni",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "o'qishdeni"
+      ],
+      "confidence_score": 0.77
+    },
+    {
+      "suffix": "nidai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ma'nonidai"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imizta",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bolimizta"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "masdai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qmasdai"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "danma",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyqudanma"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "nia",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "yoznia"
+      ],
+      "confidence_score": 0.76
+    },
+    {
+      "suffix": "maganler",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'lmaganler"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "taiya",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ishtaiya"
+      ],
+      "confidence_score": 0.87
+    },
+    {
+      "suffix": "chia",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "qalbchia"
+      ],
+      "confidence_score": 0.75
+    },
+    {
+      "suffix": "magina",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ta'limmagina"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "chidi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bozorchidi"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larida",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qishlarida"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "isai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "cho'lisai"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "maqai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ma'nomaqai"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "suffix": "o'chaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ma'noo'chaa"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "voro'a",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "bolvoro'a"
+      ],
+      "confidence_score": 0.72
+    },
+    {
+      "suffix": "o'mai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "isho'mai"
+      ],
+      "confidence_score": 0.79
+    },
+    {
+      "suffix": "ingizim",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyingizim"
+      ],
+      "confidence_score": 0.69
+    },
+    {
+      "suffix": "maso'i",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "bozormaso'i"
+      ],
+      "confidence_score": 0.81
+    },
+    {
+      "suffix": "tamaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "daryotamaa"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "samoqda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "oilasamoqda"
+      ],
+      "confidence_score": 0.71
+    },
+    {
+      "suffix": "dirgin",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "yurakdirgin"
+      ],
+      "confidence_score": 0.99
+    },
+    {
+      "suffix": "dagan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ma'nodagan"
+      ],
+      "confidence_score": 0.85
+    },
+    {
+      "suffix": "leryor",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ishleryor"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "diqaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "so'zdiqaa"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "ingiya",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qingiya"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "yoruvchi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "maktabyoruvchi"
+      ],
+      "confidence_score": 0.66
+    },
+    {
+      "suffix": "larichi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "qalblarichi"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "suffix": "yoriya",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ma'noyoriya"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "idan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "yozidan"
+      ],
+      "confidence_score": 0.64
+    },
+    {
+      "suffix": "chaqa",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyquchaqa"
+      ],
+      "confidence_score": 0.72
+    },
+    {
+      "suffix": "tamas",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ta'limtamas"
+      ],
+      "confidence_score": 0.66
+    },
+    {
+      "suffix": "ginacha",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "tilginacha"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "uvish",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "maktabuvish"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "denii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "tildenii"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "qasaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qqasaa"
+      ],
+      "confidence_score": 0.62
+    },
+    {
+      "suffix": "uvqaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "qalbuvqaa"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "dendir",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qdendir"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lernii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ishlernii"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "vora",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "bozorvora"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "dalara",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "davodalara"
+      ],
+      "confidence_score": 0.79
+    },
+    {
+      "suffix": "gaadii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "tilgaadii"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "suffix": "roqlik",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "so'zroqlik"
+      ],
+      "confidence_score": 0.69
+    },
+    {
+      "suffix": "chiish",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bozorchiish"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "diga",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "boldiga"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "adiroq",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'ladiroq"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "danima",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "maktabdanima"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "suffix": "o'mas",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ta'limo'mas"
+      ],
+      "confidence_score": 0.97
+    },
+    {
+      "suffix": "chiar",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "tilchiar"
+      ],
+      "confidence_score": 0.87
+    },
+    {
+      "suffix": "ingizda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "maktabingizda"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "dirta",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qdirta"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ginalik",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "yurakginalik"
+      ],
+      "confidence_score": 0.67
+    },
+    {
+      "suffix": "larimagan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "davolarimagan"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "gantaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "kitobgantaa"
+      ],
+      "confidence_score": 0.6
+    },
+    {
+      "suffix": "adinii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uyadinii"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "ingizmagan",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "kitobingizmagan"
+      ],
+      "confidence_score": 0.61
+    },
+    {
+      "suffix": "chinia",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qchinia"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "chima",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "bozorchima"
+      ],
+      "confidence_score": 0.68
+    },
+    {
+      "suffix": "iylari",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qishiylari"
+      ],
+      "confidence_score": 0.7
+    },
+    {
+      "suffix": "dirdai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "qalbdirdai"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "ginada",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "qalbginada"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "sadir",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ta'limsadir"
+      ],
+      "confidence_score": 0.73
+    },
+    {
+      "suffix": "liki",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ma'noliki"
+      ],
+      "confidence_score": 0.96
+    },
+    {
+      "suffix": "diruva",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ta'limdiruva"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "ingiza",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "qalbingiza"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "lergai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "qalblergai"
+      ],
+      "confidence_score": 0.74
+    },
+    {
+      "suffix": "uviya",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "oilauviya"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "gama",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "davogama"
+      ],
+      "confidence_score": 0.76
+    },
+    {
+      "suffix": "damoqda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'ldamoqda"
+      ],
+      "confidence_score": 0.85
+    },
+    {
+      "suffix": "moqdayor",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "maktabmoqdayor"
+      ],
+      "confidence_score": 0.78
+    },
+    {
+      "suffix": "uvi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "so'zuvi"
+      ],
+      "confidence_score": 0.77
+    },
+    {
+      "suffix": "diro'i",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "ma'nodiro'i"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "o'ning",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "yurako'ning"
+      ],
+      "confidence_score": 0.79
+    },
+    {
+      "suffix": "imgani",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yurakimgani"
+      ],
+      "confidence_score": 0.96
+    },
+    {
+      "suffix": "ganar",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uyganar"
+      ],
+      "confidence_score": 0.87
+    },
+    {
+      "suffix": "tadana",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "kitobtadana"
+      ],
+      "confidence_score": 0.63
+    },
+    {
+      "suffix": "ginaadi",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "cho'lginaadi"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lartaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "maktablartaa"
+      ],
+      "confidence_score": 0.71
+    },
+    {
+      "suffix": "dachai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yurakdachai"
+      ],
+      "confidence_score": 0.69
+    },
+    {
+      "suffix": "o'roqi",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "tilo'roqi"
+      ],
+      "confidence_score": 0.93
+    },
+    {
+      "suffix": "ginaa",
+      "suffix_type": "base-v",
+      "description": "base-v suffix",
+      "examples": [
+        "so'zginaa"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "talik",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "maktabtalik"
+      ],
+      "confidence_score": 0.8
+    },
+    {
+      "suffix": "gamoqda",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qgamoqda"
+      ],
+      "confidence_score": 0.75
+    },
+    {
+      "suffix": "qaler",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "o'qishqaler"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "o'sai",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "qalbo'sai"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "dirgaa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "o'qdirgaa"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "danta",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "uydanta"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "taara",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "boltaara"
+      ],
+      "confidence_score": 0.83
+    },
+    {
+      "suffix": "gataa",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uyqugataa"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "imyora",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "uyimyora"
+      ],
+      "confidence_score": 0.61
+    },
+    {
+      "suffix": "dalari",
+      "suffix_type": "combo",
+      "description": "combo suffix",
+      "examples": [
+        "ta'limdalari"
+      ],
+      "confidence_score": 0.62
+    },
+    {
+      "suffix": "lerii",
+      "suffix_type": "combo-v",
+      "description": "combo-v suffix",
+      "examples": [
+        "yuraklerii"
+      ],
+      "confidence_score": 0.71
+    },
+    {
+      "suffix": "ingizda",
+      "suffix_type": "Possessive-2pl-Locative",
+      "description": "2nd person plural possessive followed by locative case",
+      "examples": [
+        "kitob -> kitobingizda",
+        "uy -> uyingizda"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "idan",
+      "suffix_type": "Possessive-3sg-Ablative",
+      "description": "3rd person singular possessive followed by ablative case",
+      "examples": [
+        "uy -> uyidan",
+        "kitob -> kitobidan"
+      ],
+      "confidence_score": 1.0
+    },
+    {
+      "suffix": "ishning",
+      "suffix_type": "VerbalNoun-Genitive",
+      "description": "verbal noun -ish followed by genitive case",
+      "examples": [
+        "o'qish -> o'qishning",
+        "yozish -> yozishning"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "magandi",
+      "suffix_type": "Verb-NegPastPart-Past",
+      "description": "negative past participle with contracted past copular form",
+      "examples": [
+        "yoz -> yozmagandi",
+        "o'qi -> o'qimagandi"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "inggina",
+      "suffix_type": "Possessive-2sg-Restrictive",
+      "description": "2nd person singular possessive followed by restrictive -gina",
+      "examples": [
+        "kitob -> kitobinggina",
+        "uy -> uyinggina"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ginacha",
+      "suffix_type": "Restrictive-Approximation",
+      "description": "restrictive -gina followed by approximative -cha",
+      "examples": [
+        "shu -> shunginacha",
+        "bu -> bunginacha"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "nimagan",
+      "suffix_type": "Case-Accusative-NegParticiple",
+      "description": "accusative -ni followed by negative participial -magan in analyzed benchmark chains",
+      "examples": [
+        "so'zlar -> so'zlarnimagan",
+        "qalb -> qalbnimagan"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "lariyor",
+      "suffix_type": "Possessive-3pl-Adjectival",
+      "description": "3rd person plural possessive -lari followed by adjectival -yor",
+      "examples": [
+        "uy -> uylariyor",
+        "til -> tillariyor"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "yorning",
+      "suffix_type": "Deriv-Adjectival-Genitive",
+      "description": "adjectival or nominal -yor followed by genitive -ning",
+      "examples": [
+        "ish -> ishyorning",
+        "so'z -> so'zyorning"
+      ],
+      "confidence_score": 0.88
+    },
+    {
+      "suffix": "taish",
+      "suffix_type": "Verb-Causative-VerbalNoun",
+      "description": "causative -t/-ta followed by verbal noun -ish",
+      "examples": [
+        "daryo -> daryotaish",
+        "yurak -> yuraktaish"
+      ],
+      "confidence_score": 0.86
+    },
+    {
+      "suffix": "qaingiz",
+      "suffix_type": "Case-Dative-Possessive-2pl",
+      "description": "dative allomorph -qa followed by 2nd person plural possessive marker in benchmark chains",
+      "examples": [
+        "oila -> oilaqaingiz",
+        "yoz -> yozqaingiz"
+      ],
+      "confidence_score": 0.86
+    },
+    {
+      "suffix": "ginda",
+      "suffix_type": "Restrictive-Locative",
+      "description": "restrictive -gin/-gina followed by locative -da",
+      "examples": [
+        "ma'no -> ma'noginda",
+        "davo -> davoginda"
+      ],
+      "confidence_score": 0.86
+    },
+    {
+      "suffix": "ingish",
+      "suffix_type": "Possessive-2sg-VerbalNoun",
+      "description": "2nd person singular possessive -ing followed by verbal noun -ish in analyzed chains",
+      "examples": [
+        "kitob -> kitobingish",
+        "daryo -> daryoingish"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "iyma",
+      "suffix_type": "Adjectival-Negative",
+      "description": "adjectival -iy followed by negative -ma",
+      "examples": [
+        "ta'lim -> ta'limiyma",
+        "ish -> ishiyma"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "maganden",
+      "suffix_type": "Verb-NegParticiple-Ablative",
+      "description": "negative participial -magan followed by ablative allomorph in benchmark chains",
+      "examples": [
+        "maktab -> maktabmaganden",
+        "oila -> oilamaganden"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "diringiz",
+      "suffix_type": "Copular-Possessive-2pl",
+      "description": "copular -dir followed by 2nd person plural agreement marker",
+      "examples": [
+        "daryo -> daryodiringiz",
+        "ma'no -> ma'nodiringiz"
+      ],
+      "confidence_score": 0.86
+    },
+    {
+      "suffix": "lerning",
+      "suffix_type": "Plural-Variant-Genitive",
+      "description": "plural variant -ler followed by genitive -ning",
+      "examples": [
+        "til -> tillerning",
+        "maktab -> maktablerning"
+      ],
+      "confidence_score": 0.9
+    },
+    {
+      "suffix": "ilari",
+      "suffix_type": "Possessive-3sg-Possessive-3pl",
+      "description": "3rd singular possessive -i followed by plural possessive -lari in possessive chains",
+      "examples": [
+        "kitob -> kitobilari",
+        "uy -> uyilari"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "moqdadan",
+      "suffix_type": "Verb-Progressive-Ablative",
+      "description": "progressive -moqda followed by ablative -dan in nominalized verbal chains",
+      "examples": [
+        "daryo -> daryomoqdadan",
+        "davo -> davomoqdadan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "yoruvchi",
+      "suffix_type": "Deriv-Adjectival-Agent",
+      "description": "adjectival -yor followed by agentive -uvchi",
+      "examples": [
+        "oila -> oilayoruvchi",
+        "til -> tilyoruvchi"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ginaadi",
+      "suffix_type": "Restrictive-PresentFuture",
+      "description": "restrictive -gina followed by present/future -adi in finite chains",
+      "examples": [
+        "ta'lim -> ta'limginaadi",
+        "oila -> oilaginaadi"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "dalari",
+      "suffix_type": "Locative-Possessive-3pl",
+      "description": "locative -da followed by 3rd person plural possessive -lari",
+      "examples": [
+        "til -> tildalari",
+        "uyqu -> uyqudalari"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "maganler",
+      "suffix_type": "Verb-NegParticiple-PluralVariant",
+      "description": "negative participial -magan followed by plural variant -ler",
+      "examples": [
+        "maktab -> maktabmaganler",
+        "qalb -> qalbmaganler"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "roqmoqda",
+      "suffix_type": "Comparative-Progressive",
+      "description": "comparative -roq followed by progressive -moqda in analyzed chains",
+      "examples": [
+        "uy -> uyroqmoqda",
+        "bozor -> bozorroqmoqda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "larimagan",
+      "suffix_type": "Possessive-3pl-NegParticiple",
+      "description": "3rd person plural possessive -lari followed by negative participial -magan",
+      "examples": [
+        "yurak -> yuraklarimagan",
+        "ish -> ishlarimagan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ginalik",
+      "suffix_type": "Restrictive-Nominalizer",
+      "description": "restrictive -gina followed by nominalizer -lik",
+      "examples": [
+        "til -> tilginalik",
+        "qalb -> qalbginalik"
+      ],
+      "confidence_score": 0.86
+    }
+  ]
+}

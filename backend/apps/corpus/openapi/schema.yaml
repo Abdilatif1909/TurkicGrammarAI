@@ -1,0 +1,1351 @@
+openapi: 3.0.3
+info:
+  title: TurkicGrammarAI API
+  version: 1.0.0
+  description: AI-powered comparative-historical Turkic linguistics platform API.
+paths:
+  /api/admin/languages/:
+    get:
+      operationId: api_admin_languages_list
+      parameters:
+      - in: query
+        name: branch
+        schema:
+          type: string
+        description: Filter by language branch.
+      - in: query
+        name: code
+        schema:
+          type: string
+        description: Filter by language code.
+      - in: query
+        name: country
+        schema:
+          type: string
+        description: Filter by country.
+      - in: query
+        name: family
+        schema:
+          type: string
+        description: Filter by language family.
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      tags:
+      - Admin Languages
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedLanguageList'
+          description: ''
+    post:
+      operationId: api_admin_languages_create
+      parameters:
+      - in: query
+        name: branch
+        schema:
+          type: string
+        description: Filter by language branch.
+      - in: query
+        name: code
+        schema:
+          type: string
+        description: Filter by language code.
+      - in: query
+        name: country
+        schema:
+          type: string
+        description: Filter by country.
+      - in: query
+        name: family
+        schema:
+          type: string
+        description: Filter by language family.
+      tags:
+      - Admin Languages
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/LanguageWrite'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/LanguageWrite'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/LanguageWrite'
+        required: true
+      security:
+      - jwtAuth: []
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LanguageWrite'
+          description: ''
+  /api/admin/languages/{id}/:
+    get:
+      operationId: api_admin_languages_retrieve
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          format: uuid
+        required: true
+      tags:
+      - Admin Languages
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LanguageWrite'
+          description: ''
+    put:
+      operationId: api_admin_languages_update
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          format: uuid
+        required: true
+      tags:
+      - Admin Languages
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/LanguageWrite'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/LanguageWrite'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/LanguageWrite'
+        required: true
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LanguageWrite'
+          description: ''
+    patch:
+      operationId: api_admin_languages_partial_update
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          format: uuid
+        required: true
+      tags:
+      - Admin Languages
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PatchedLanguageWrite'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PatchedLanguageWrite'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PatchedLanguageWrite'
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/LanguageWrite'
+          description: ''
+    delete:
+      operationId: api_admin_languages_destroy
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          format: uuid
+        required: true
+      tags:
+      - Admin Languages
+      security:
+      - jwtAuth: []
+      responses:
+        '204':
+          description: No response body
+  /api/admin/languages/export/:
+    get:
+      operationId: api_admin_languages_export_retrieve
+      parameters:
+      - in: query
+        name: format
+        schema:
+          type: string
+          enum:
+          - csv
+          - json
+        description: Export format.
+      tags:
+      - Admin Languages
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          description: No response body
+  /api/admin/seed/languages/:
+    post:
+      operationId: api_admin_seed_languages_create
+      tags:
+      - Admin Seed
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          description: No response body
+  /api/admin/seed/words/:
+    post:
+      operationId: api_admin_seed_words_create
+      tags:
+      - Admin Seed
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          description: No response body
+  /api/admin/words/:
+    get:
+      operationId: api_admin_words_list
+      parameters:
+      - in: query
+        name: language
+        schema:
+          type: string
+        description: Language UUID or code.
+      - in: query
+        name: language_code
+        schema:
+          type: string
+        description: Language code.
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      - in: query
+        name: pos
+        schema:
+          type: string
+        description: Part of speech.
+      - in: query
+        name: source
+        schema:
+          type: string
+        description: Dataset source.
+      tags:
+      - Admin Words
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedWordList'
+          description: ''
+    post:
+      operationId: api_admin_words_create
+      parameters:
+      - in: query
+        name: language
+        schema:
+          type: string
+        description: Language UUID or code.
+      - in: query
+        name: language_code
+        schema:
+          type: string
+        description: Language code.
+      - in: query
+        name: pos
+        schema:
+          type: string
+        description: Part of speech.
+      - in: query
+        name: source
+        schema:
+          type: string
+        description: Dataset source.
+      tags:
+      - Admin Words
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/WordWrite'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/WordWrite'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/WordWrite'
+        required: true
+      security:
+      - jwtAuth: []
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/WordWrite'
+          description: ''
+  /api/admin/words/{id}/:
+    get:
+      operationId: api_admin_words_retrieve
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          format: uuid
+        required: true
+      tags:
+      - Admin Words
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/WordWrite'
+          description: ''
+    put:
+      operationId: api_admin_words_update
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          format: uuid
+        required: true
+      tags:
+      - Admin Words
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/WordWrite'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/WordWrite'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/WordWrite'
+        required: true
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/WordWrite'
+          description: ''
+    patch:
+      operationId: api_admin_words_partial_update
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          format: uuid
+        required: true
+      tags:
+      - Admin Words
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PatchedWordWrite'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PatchedWordWrite'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PatchedWordWrite'
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/WordWrite'
+          description: ''
+    delete:
+      operationId: api_admin_words_destroy
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          format: uuid
+        required: true
+      tags:
+      - Admin Words
+      security:
+      - jwtAuth: []
+      responses:
+        '204':
+          description: No response body
+  /api/admin/words/benchmark-import/:
+    post:
+      operationId: api_admin_words_benchmark_import_create
+      tags:
+      - Admin Benchmarks
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          description: No response body
+  /api/admin/words/export/:
+    get:
+      operationId: api_admin_words_export_retrieve
+      parameters:
+      - in: query
+        name: format
+        schema:
+          type: string
+          enum:
+          - csv
+          - json
+        description: Export format.
+      tags:
+      - Admin Words
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          description: No response body
+  /api/auth/login/:
+    post:
+      operationId: api_auth_login_create
+      description: |-
+        Takes a set of user credentials and returns an access and refresh JSON web
+        token pair to prove the authentication of those credentials.
+      tags:
+      - api
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Login'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/Login'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/Login'
+        required: true
+      security:
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Login'
+          description: ''
+  /api/auth/profile/:
+    get:
+      operationId: api_auth_profile_retrieve
+      tags:
+      - api
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserProfile'
+          description: ''
+    put:
+      operationId: api_auth_profile_update
+      tags:
+      - api
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UserProfile'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/UserProfile'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/UserProfile'
+        required: true
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserProfile'
+          description: ''
+    patch:
+      operationId: api_auth_profile_partial_update
+      tags:
+      - api
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PatchedUserProfile'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/PatchedUserProfile'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/PatchedUserProfile'
+      security:
+      - jwtAuth: []
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/UserProfile'
+          description: ''
+  /api/auth/refresh/:
+    post:
+      operationId: api_auth_refresh_create
+      description: |-
+        Takes a refresh type JSON web token and returns an access type JSON web
+        token if the refresh token is valid.
+      tags:
+      - api
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/TokenRefresh'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/TokenRefresh'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/TokenRefresh'
+        required: true
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TokenRefresh'
+          description: ''
+  /api/auth/register/:
+    post:
+      operationId: api_auth_register_create
+      tags:
+      - api
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Register'
+          application/x-www-form-urlencoded:
+            schema:
+              $ref: '#/components/schemas/Register'
+          multipart/form-data:
+            schema:
+              $ref: '#/components/schemas/Register'
+        required: true
+      security:
+      - {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Register'
+          description: ''
+  /api/corpus/statistics/:
+    get:
+      operationId: api_corpus_statistics_retrieve
+      tags:
+      - api
+      security:
+      - jwtAuth: []
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /api/health/:
+    get:
+      operationId: api_health_retrieve
+      tags:
+      - api
+      security:
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /api/languages/:
+    get:
+      operationId: api_languages_list
+      parameters:
+      - in: query
+        name: branch
+        schema:
+          type: string
+        description: Filter by language branch.
+      - in: query
+        name: code
+        schema:
+          type: string
+        description: Filter by language code.
+      - in: query
+        name: country
+        schema:
+          type: string
+        description: Filter by country.
+      - in: query
+        name: family
+        schema:
+          type: string
+        description: Filter by language family.
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      tags:
+      - Languages
+      security:
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedLanguageList'
+          description: ''
+  /api/languages/{id}/:
+    get:
+      operationId: api_languages_retrieve
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          format: uuid
+        required: true
+      tags:
+      - Languages
+      security:
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Language'
+          description: ''
+  /api/languages/search/:
+    get:
+      operationId: api_languages_search_list
+      parameters:
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      - in: query
+        name: q
+        schema:
+          type: string
+        description: Search text.
+      tags:
+      - Languages
+      security:
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedLanguageList'
+          description: ''
+  /api/languages/statistics/:
+    get:
+      operationId: api_languages_statistics_retrieve
+      tags:
+      - Languages
+      security:
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /api/words/:
+    get:
+      operationId: api_words_list
+      parameters:
+      - in: query
+        name: language
+        schema:
+          type: string
+        description: Language UUID or code.
+      - in: query
+        name: language_code
+        schema:
+          type: string
+        description: Language code.
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      - in: query
+        name: pos
+        schema:
+          type: string
+        description: Part of speech.
+      - in: query
+        name: source
+        schema:
+          type: string
+        description: Dataset source.
+      tags:
+      - Words
+      security:
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedWordList'
+          description: ''
+  /api/words/{id}/:
+    get:
+      operationId: api_words_retrieve
+      parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+          format: uuid
+        required: true
+      tags:
+      - Words
+      security:
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Word'
+          description: ''
+  /api/words/quality/:
+    get:
+      operationId: api_words_quality_retrieve
+      tags:
+      - Words
+      security:
+      - {}
+      responses:
+        '200':
+          description: No response body
+  /api/words/search/:
+    get:
+      operationId: api_words_search_list
+      parameters:
+      - name: page
+        required: false
+        in: query
+        description: A page number within the paginated result set.
+        schema:
+          type: integer
+      - in: query
+        name: q
+        schema:
+          type: string
+        description: Search text.
+      tags:
+      - Words
+      security:
+      - {}
+      responses:
+        '200':
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedWordList'
+          description: ''
+  /api/words/statistics/:
+    get:
+      operationId: api_words_statistics_retrieve
+      tags:
+      - Words
+      security:
+      - {}
+      responses:
+        '200':
+          description: No response body
+components:
+  schemas:
+    Language:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          readOnly: true
+        name:
+          type: string
+          maxLength: 120
+        native_name:
+          type: string
+          maxLength: 120
+        code:
+          type: string
+          maxLength: 16
+        iso639_3:
+          type: string
+          maxLength: 3
+        family:
+          type: string
+          maxLength: 120
+        branch:
+          type: string
+          maxLength: 120
+        writing_system:
+          type: string
+          maxLength: 255
+        speakers_count:
+          type: integer
+        country:
+          type: string
+          maxLength: 255
+        description:
+          type: string
+        flag_url:
+          type: string
+          format: uri
+          maxLength: 200
+        is_active:
+          type: boolean
+        created_at:
+          type: string
+          format: date-time
+          readOnly: true
+        updated_at:
+          type: string
+          format: date-time
+          readOnly: true
+      required:
+      - branch
+      - code
+      - country
+      - created_at
+      - family
+      - id
+      - iso639_3
+      - name
+      - native_name
+      - updated_at
+      - writing_system
+    LanguageWrite:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          readOnly: true
+        name:
+          type: string
+          maxLength: 120
+        native_name:
+          type: string
+          maxLength: 120
+        code:
+          type: string
+          maxLength: 16
+        iso639_3:
+          type: string
+          maxLength: 3
+        family:
+          type: string
+          maxLength: 120
+        branch:
+          type: string
+          maxLength: 120
+        writing_system:
+          type: string
+          maxLength: 255
+        speakers_count:
+          type: integer
+        country:
+          type: string
+          maxLength: 255
+        description:
+          type: string
+        flag_url:
+          type: string
+          format: uri
+          maxLength: 200
+        is_active:
+          type: boolean
+        created_at:
+          type: string
+          format: date-time
+          readOnly: true
+        updated_at:
+          type: string
+          format: date-time
+          readOnly: true
+      required:
+      - branch
+      - code
+      - country
+      - created_at
+      - family
+      - id
+      - iso639_3
+      - name
+      - native_name
+      - updated_at
+      - writing_system
+    Login:
+      type: object
+      properties:
+        email:
+          type: string
+        password:
+          type: string
+          writeOnly: true
+      required:
+      - email
+      - password
+    PaginatedLanguageList:
+      type: object
+      properties:
+        count:
+          type: integer
+          example: 123
+        next:
+          type: string
+          nullable: true
+          format: uri
+          example: http://api.example.org/accounts/?page=4
+        previous:
+          type: string
+          nullable: true
+          format: uri
+          example: http://api.example.org/accounts/?page=2
+        results:
+          type: array
+          items:
+            $ref: '#/components/schemas/Language'
+    PaginatedWordList:
+      type: object
+      properties:
+        count:
+          type: integer
+          example: 123
+        next:
+          type: string
+          nullable: true
+          format: uri
+          example: http://api.example.org/accounts/?page=4
+        previous:
+          type: string
+          nullable: true
+          format: uri
+          example: http://api.example.org/accounts/?page=2
+        results:
+          type: array
+          items:
+            $ref: '#/components/schemas/Word'
+    PatchedLanguageWrite:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          readOnly: true
+        name:
+          type: string
+          maxLength: 120
+        native_name:
+          type: string
+          maxLength: 120
+        code:
+          type: string
+          maxLength: 16
+        iso639_3:
+          type: string
+          maxLength: 3
+        family:
+          type: string
+          maxLength: 120
+        branch:
+          type: string
+          maxLength: 120
+        writing_system:
+          type: string
+          maxLength: 255
+        speakers_count:
+          type: integer
+        country:
+          type: string
+          maxLength: 255
+        description:
+          type: string
+        flag_url:
+          type: string
+          format: uri
+          maxLength: 200
+        is_active:
+          type: boolean
+        created_at:
+          type: string
+          format: date-time
+          readOnly: true
+        updated_at:
+          type: string
+          format: date-time
+          readOnly: true
+    PatchedUserProfile:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          readOnly: true
+        user:
+          $ref: '#/components/schemas/User'
+        institution:
+          type: string
+          maxLength: 255
+        research_area:
+          type: string
+          maxLength: 255
+        bio:
+          type: string
+        created_at:
+          type: string
+          format: date-time
+          readOnly: true
+        updated_at:
+          type: string
+          format: date-time
+          readOnly: true
+    PatchedWordWrite:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          readOnly: true
+        language:
+          type: string
+          format: uuid
+        word:
+          type: string
+          maxLength: 255
+        lemma:
+          type: string
+          maxLength: 255
+        root:
+          type: string
+          maxLength: 255
+        pos:
+          $ref: '#/components/schemas/PosEnum'
+        ipa:
+          type: string
+          maxLength: 255
+        meaning:
+          type: string
+        frequency:
+          type: integer
+        source:
+          type: string
+          maxLength: 255
+        notes:
+          type: string
+        created_at:
+          type: string
+          format: date-time
+          readOnly: true
+        updated_at:
+          type: string
+          format: date-time
+          readOnly: true
+    PosEnum:
+      enum:
+      - NOUN
+      - VERB
+      - ADJECTIVE
+      - ADVERB
+      - PRONOUN
+      - NUMERAL
+      - POSTPOSITION
+      - CONJUNCTION
+      - PARTICLE
+      - INTERJECTION
+      type: string
+      description: |-
+        * `NOUN` - Noun
+        * `VERB` - Verb
+        * `ADJECTIVE` - Adjective
+        * `ADVERB` - Adverb
+        * `PRONOUN` - Pronoun
+        * `NUMERAL` - Numeral
+        * `POSTPOSITION` - Postposition
+        * `CONJUNCTION` - Conjunction
+        * `PARTICLE` - Particle
+        * `INTERJECTION` - Interjection
+    Register:
+      type: object
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        email:
+          type: string
+          format: email
+          maxLength: 254
+        password:
+          type: string
+          writeOnly: true
+          minLength: 8
+        first_name:
+          type: string
+          maxLength: 150
+        last_name:
+          type: string
+          maxLength: 150
+        role:
+          $ref: '#/components/schemas/RoleEnum'
+      required:
+      - email
+      - id
+      - password
+    RoleEnum:
+      enum:
+      - SUPER_ADMIN
+      - RESEARCHER
+      - STUDENT
+      type: string
+      description: |-
+        * `SUPER_ADMIN` - Super Admin
+        * `RESEARCHER` - Researcher
+        * `STUDENT` - Student
+    TokenRefresh:
+      type: object
+      properties:
+        access:
+          type: string
+          readOnly: true
+        refresh:
+          type: string
+          writeOnly: true
+      required:
+      - access
+      - refresh
+    User:
+      type: object
+      properties:
+        id:
+          type: integer
+          readOnly: true
+        email:
+          type: string
+          format: email
+          readOnly: true
+        first_name:
+          type: string
+          maxLength: 150
+        last_name:
+          type: string
+          maxLength: 150
+        role:
+          allOf:
+          - $ref: '#/components/schemas/RoleEnum'
+          readOnly: true
+      required:
+      - email
+      - id
+      - role
+    UserProfile:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          readOnly: true
+        user:
+          $ref: '#/components/schemas/User'
+        institution:
+          type: string
+          maxLength: 255
+        research_area:
+          type: string
+          maxLength: 255
+        bio:
+          type: string
+        created_at:
+          type: string
+          format: date-time
+          readOnly: true
+        updated_at:
+          type: string
+          format: date-time
+          readOnly: true
+      required:
+      - created_at
+      - id
+      - updated_at
+      - user
+    Word:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          readOnly: true
+        language:
+          allOf:
+          - $ref: '#/components/schemas/Language'
+          readOnly: true
+        language_id:
+          type: string
+          format: uuid
+          readOnly: true
+        language_code:
+          type: string
+          readOnly: true
+        word:
+          type: string
+          maxLength: 255
+        lemma:
+          type: string
+          maxLength: 255
+        root:
+          type: string
+          maxLength: 255
+        pos:
+          $ref: '#/components/schemas/PosEnum'
+        ipa:
+          type: string
+          maxLength: 255
+        meaning:
+          type: string
+        frequency:
+          type: integer
+        source:
+          type: string
+          maxLength: 255
+        notes:
+          type: string
+        created_at:
+          type: string
+          format: date-time
+          readOnly: true
+        updated_at:
+          type: string
+          format: date-time
+          readOnly: true
+      required:
+      - created_at
+      - id
+      - language
+      - language_code
+      - language_id
+      - lemma
+      - meaning
+      - pos
+      - updated_at
+      - word
+    WordWrite:
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          readOnly: true
+        language:
+          type: string
+          format: uuid
+        word:
+          type: string
+          maxLength: 255
+        lemma:
+          type: string
+          maxLength: 255
+        root:
+          type: string
+          maxLength: 255
+        pos:
+          $ref: '#/components/schemas/PosEnum'
+        ipa:
+          type: string
+          maxLength: 255
+        meaning:
+          type: string
+        frequency:
+          type: integer
+        source:
+          type: string
+          maxLength: 255
+        notes:
+          type: string
+        created_at:
+          type: string
+          format: date-time
+          readOnly: true
+        updated_at:
+          type: string
+          format: date-time
+          readOnly: true
+      required:
+      - created_at
+      - id
+      - language
+      - lemma
+      - meaning
+      - pos
+      - updated_at
+      - word
+  securitySchemes:
+    jwtAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT

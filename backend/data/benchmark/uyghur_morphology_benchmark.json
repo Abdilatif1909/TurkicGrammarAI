@@ -1,0 +1,4191 @@
+[
+  {
+    "surface": "كىتابلار",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "كىتابلارىمىز",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "كىتابلارىمىزدىن",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "كىتابنى",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "كىتابغا",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "كىتابدا",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "بالالار",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "بالالارىمىز",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "بالالارىمىزدىن",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "بالانى",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "بالاغا",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "بالادا",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "يوللار",
+    "stem": "يول",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "يوللارىمىز",
+    "stem": "يول",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "يوللارىمىزدىن",
+    "stem": "يول",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "يولنى",
+    "stem": "يول",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "يولغا",
+    "stem": "يول",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "يولدا",
+    "stem": "يول",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئاتالار",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئاتالارىمىز",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئاتالارىمىزدىن",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئاتانى",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئاتاغا",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئاتادا",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "دوستلار",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "دوستلارىمىز",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "دوستلارىمىزدىن",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "دوستنى",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "دوستغا",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "دوستدا",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "پۇللار",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "پۇللارىمىز",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "پۇللارىمىزدىن",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "پۇلنى",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "پۇلغا",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "پۇلدا",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "سۇلار",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "سۇلارىمىز",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "سۇلارىمىزدىن",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "سۇنى",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "سۇغا",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "سۇدا",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "بازارلار",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "بازارلارىمىز",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "بازارلارىمىزدىن",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "بازارنى",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "بازارغا",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "بازاردا",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "قانۇنلار",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "قانۇنلارىمىز",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "قانۇنلارىمىزدىن",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "قانۇننى",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "قانۇنغا",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "قانۇندا",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئوقۇشلار",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئوقۇشلارىمىز",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئوقۇشلارىمىزدىن",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئوقۇشنى",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئوقۇشغا",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئوقۇشدا",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "خەتلار",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "خەتلارىمىز",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "خەتلارىمىزدىن",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "خەتنى",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "خەتغا",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "خەتدا",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "قەغەزلار",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "قەغەزلارىمىز",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "قەغەزلارىمىزدىن",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "قەغەزنى",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "قەغەزغا",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "قەغەزدا",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "دەرسلار",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "دەرسلارىمىز",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "دەرسلارىمىزدىن",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "دەرسنى",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "دەرسغا",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "دەرسدا",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "تىزىملار",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "تىزىملارىمىز",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "تىزىملارىمىزدىن",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "تىزىمنى",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "تىزىمغا",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "تىزىمدا",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "مەلۇماتلار",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "مەلۇماتلارىمىز",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "مەلۇماتلارىمىزدىن",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "مەلۇماتنى",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "مەلۇماتغا",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "مەلۇماتدا",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئۆيلەر",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئۆيلەرىمىز",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئۆيلەرىمىزدىن",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئۆينى",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئۆيگە",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئۆيدە",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئادەملەر",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئادەملەرىمىز",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئادەملەرىمىزدىن",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئادەمنى",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئادەمگە",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئادەمدە",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "مەكتەپلەر",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "مەكتەپلەرىمىز",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "مەكتەپلەرىمىزدىن",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "مەكتەپنى",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "مەكتەپگە",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "مەكتەپدە",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "سۆزلەر",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "سۆزلەرىمىز",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "سۆزلەرىمىزدىن",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "سۆزنى",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "سۆزگە",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "سۆزدە",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "تىللەر",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "تىللەرىمىز",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "تىللەرىمىزدىن",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "تىلنى",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "تىلگە",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "تىلدە",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئەللەر",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئەللەرىمىز",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئەللەرىمىزدىن",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئەلنى",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئەلگە",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئەلدە",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "كۈنلەر",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "كۈنلەرىمىز",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "كۈنلەرىمىزدىن",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "كۈننى",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "كۈنگە",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "كۈندە",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "گۈللەر",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "گۈللەرىمىز",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "گۈللەرىمىزدىن",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "گۈلنى",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "گۈلگە",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "گۈلدە",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئانالەر",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئانالەرىمىز",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئانالەرىمىزدىن",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئانانى",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئاناگە",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئانادە",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئىشلەر",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئىشلەرىمىز",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئىشلەرىمىزدىن",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئىشنى",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئىشگە",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئىشدە",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "بىلىملەر",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "بىلىملەرىمىز",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "بىلىملەرىمىزدىن",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "بىلىمنى",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "بىلىمگە",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "بىلىمدە",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "شەھەرلەر",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "شەھەرلەرىمىز",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "شەھەرلەرىمىزدىن",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "شەھەرنى",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "شەھەرگە",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "شەھەردە",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "دۆلەتلەر",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "دۆلەتلەرىمىز",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "دۆلەتلەرىمىزدىن",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "دۆلەتنى",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "دۆلەتگە",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "دۆلەتدە",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "خىزمەتلەر",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "خىزمەتلەرىمىز",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "خىزمەتلەرىمىزدىن",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "خىزمەتنى",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "خىزمەتگە",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "خىزمەتدە",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "قەلەملەر",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "قەلەملەرىمىز",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "قەلەملەرىمىزدىن",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "قەلەمنى",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "قەلەمگە",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "قەلەمدە",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "كىتابلارىمىزدىن",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئۆيلەرىمىزدىن",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئادەملەر",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "يازدى",
+    "stem": "ياز",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "يازغان",
+    "stem": "ياز",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "يازما",
+    "stem": "ياز",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئوقۇدى",
+    "stem": "ئوقۇ",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئوقۇغان",
+    "stem": "ئوقۇ",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئوقۇما",
+    "stem": "ئوقۇ",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "باردى",
+    "stem": "بار",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "بارغان",
+    "stem": "بار",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "بارما",
+    "stem": "بار",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "كەلدى",
+    "stem": "كەل",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "كەلغان",
+    "stem": "كەل",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "كەلما",
+    "stem": "كەل",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئېيتدى",
+    "stem": "ئېيت",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئېيتغان",
+    "stem": "ئېيت",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئېيتما",
+    "stem": "ئېيت",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "كۆردى",
+    "stem": "كۆر",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "كۆرغان",
+    "stem": "كۆر",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "كۆرما",
+    "stem": "كۆر",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "بەردى",
+    "stem": "بەر",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "بەرغان",
+    "stem": "بەر",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "بەرما",
+    "stem": "بەر",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئالدى",
+    "stem": "ئال",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئالغان",
+    "stem": "ئال",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئالما",
+    "stem": "ئال",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "قىلدى",
+    "stem": "قىل",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "قىلغان",
+    "stem": "قىل",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "قىلما",
+    "stem": "قىل",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئويلادى",
+    "stem": "ئويلا",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئويلاغان",
+    "stem": "ئويلا",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئويلاما",
+    "stem": "ئويلا",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "سۆزلەدى",
+    "stem": "سۆزلە",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "سۆزلەغان",
+    "stem": "سۆزلە",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "سۆزلەما",
+    "stem": "سۆزلە",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "تىڭشادى",
+    "stem": "تىڭشا",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "تىڭشاغان",
+    "stem": "تىڭشا",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "تىڭشاما",
+    "stem": "تىڭشا",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئۆگەندى",
+    "stem": "ئۆگەن",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئۆگەنغان",
+    "stem": "ئۆگەن",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئۆگەنما",
+    "stem": "ئۆگەن",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئاچدى",
+    "stem": "ئاچ",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئاچغان",
+    "stem": "ئاچ",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئاچما",
+    "stem": "ئاچ",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ياپدى",
+    "stem": "ياپ",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ياپغان",
+    "stem": "ياپ",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ياپما",
+    "stem": "ياپ",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئىچدى",
+    "stem": "ئىچ",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئىچغان",
+    "stem": "ئىچ",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئىچما",
+    "stem": "ئىچ",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "يەدى",
+    "stem": "يە",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "يەغان",
+    "stem": "يە",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "يەما",
+    "stem": "يە",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "يۈردى",
+    "stem": "يۈر",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "يۈرغان",
+    "stem": "يۈر",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "يۈرما",
+    "stem": "يۈر",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "تۇردى",
+    "stem": "تۇر",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "تۇرغان",
+    "stem": "تۇر",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "تۇرما",
+    "stem": "تۇر",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "باشلادى",
+    "stem": "باشلا",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "باشلاغان",
+    "stem": "باشلا",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "باشلاما",
+    "stem": "باشلا",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئىشچى",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "چى"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "كىتابچى",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "چى"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "بالالىق",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "لىق"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "بىلىمسىز",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "سىز"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "يولداش",
+    "stem": "يول",
+    "expected_suffixes": [
+      "داش"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "ئىشچىلىق",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "چىلىق"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "كىتابلار",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "كىتابلارىمىز",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "كىتابلارىمىزدىن",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "كىتابنى",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "كىتابغا",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "كىتابدا",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "بالالار",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "بالالارىمىز",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "بالالارىمىزدىن",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "بالانى",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "بالاغا",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "بالادا",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "يوللار",
+    "stem": "يول",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "يوللارىمىز",
+    "stem": "يول",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "يوللارىمىزدىن",
+    "stem": "يول",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "يولنى",
+    "stem": "يول",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "يولغا",
+    "stem": "يول",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "يولدا",
+    "stem": "يول",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئاتالار",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئاتالارىمىز",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئاتالارىمىزدىن",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئاتانى",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئاتاغا",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئاتادا",
+    "stem": "ئاتا",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "دوستلار",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "دوستلارىمىز",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "دوستلارىمىزدىن",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "دوستنى",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "دوستغا",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "دوستدا",
+    "stem": "دوست",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "پۇللار",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "پۇللارىمىز",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "پۇللارىمىزدىن",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "پۇلنى",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "پۇلغا",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "پۇلدا",
+    "stem": "پۇل",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "سۇلار",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "سۇلارىمىز",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "سۇلارىمىزدىن",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "سۇنى",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "سۇغا",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "سۇدا",
+    "stem": "سۇ",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "بازارلار",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "بازارلارىمىز",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "بازارلارىمىزدىن",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "بازارنى",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "بازارغا",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "بازاردا",
+    "stem": "بازار",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "قانۇنلار",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "قانۇنلارىمىز",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "قانۇنلارىمىزدىن",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "قانۇننى",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "قانۇنغا",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "قانۇندا",
+    "stem": "قانۇن",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئوقۇشلار",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئوقۇشلارىمىز",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئوقۇشلارىمىزدىن",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئوقۇشنى",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئوقۇشغا",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئوقۇشدا",
+    "stem": "ئوقۇش",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "خەتلار",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "خەتلارىمىز",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "خەتلارىمىزدىن",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "خەتنى",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "خەتغا",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "خەتدا",
+    "stem": "خەت",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "قەغەزلار",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "قەغەزلارىمىز",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "قەغەزلارىمىزدىن",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "قەغەزنى",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "قەغەزغا",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "قەغەزدا",
+    "stem": "قەغەز",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "دەرسلار",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "دەرسلارىمىز",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "دەرسلارىمىزدىن",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "دەرسنى",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "دەرسغا",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "دەرسدا",
+    "stem": "دەرس",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "تىزىملار",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "تىزىملارىمىز",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "تىزىملارىمىزدىن",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "تىزىمنى",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "تىزىمغا",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "تىزىمدا",
+    "stem": "تىزىم",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "مەلۇماتلار",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "مەلۇماتلارىمىز",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "مەلۇماتلارىمىزدىن",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "مەلۇماتنى",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "مەلۇماتغا",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "غا"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "مەلۇماتدا",
+    "stem": "مەلۇمات",
+    "expected_suffixes": [
+      "دا"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئۆيلەر",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئۆيلەرىمىز",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئۆيلەرىمىزدىن",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئۆينى",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئۆيگە",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئۆيدە",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئادەملەر",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئادەملەرىمىز",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئادەملەرىمىزدىن",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئادەمنى",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئادەمگە",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئادەمدە",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "مەكتەپلەر",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "مەكتەپلەرىمىز",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "مەكتەپلەرىمىزدىن",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "مەكتەپنى",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "مەكتەپگە",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "مەكتەپدە",
+    "stem": "مەكتەپ",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "سۆزلەر",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "سۆزلەرىمىز",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "سۆزلەرىمىزدىن",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "سۆزنى",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "سۆزگە",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "سۆزدە",
+    "stem": "سۆز",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "تىللەر",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "تىللەرىمىز",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "تىللەرىمىزدىن",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "تىلنى",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "تىلگە",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "تىلدە",
+    "stem": "تىل",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئەللەر",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئەللەرىمىز",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئەللەرىمىزدىن",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئەلنى",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئەلگە",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئەلدە",
+    "stem": "ئەل",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "كۈنلەر",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "كۈنلەرىمىز",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "كۈنلەرىمىزدىن",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "كۈننى",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "كۈنگە",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "كۈندە",
+    "stem": "كۈن",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "گۈللەر",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "گۈللەرىمىز",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "گۈللەرىمىزدىن",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "گۈلنى",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "گۈلگە",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "گۈلدە",
+    "stem": "گۈل",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئانالەر",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئانالەرىمىز",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئانالەرىمىزدىن",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئانانى",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئاناگە",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئانادە",
+    "stem": "ئانا",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "ئىشلەر",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "ئىشلەرىمىز",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "ئىشلەرىمىزدىن",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئىشنى",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ئىشگە",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ئىشدە",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "بىلىملەر",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "بىلىملەرىمىز",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "بىلىملەرىمىزدىن",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "بىلىمنى",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "بىلىمگە",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "بىلىمدە",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "شەھەرلەر",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "شەھەرلەرىمىز",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "شەھەرلەرىمىزدىن",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "شەھەرنى",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "شەھەرگە",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "شەھەردە",
+    "stem": "شەھەر",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "دۆلەتلەر",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "دۆلەتلەرىمىز",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "دۆلەتلەرىمىزدىن",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "دۆلەتنى",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "دۆلەتگە",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "دۆلەتدە",
+    "stem": "دۆلەت",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "خىزمەتلەر",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "خىزمەتلەرىمىز",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "خىزمەتلەرىمىزدىن",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "خىزمەتنى",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "خىزمەتگە",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "خىزمەتدە",
+    "stem": "خىزمەت",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "قەلەملەر",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "قەلەملەرىمىز",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "قەلەملەرىمىزدىن",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "قەلەمنى",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "نى"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "قەلەمگە",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "گە"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "قەلەمدە",
+    "stem": "قەلەم",
+    "expected_suffixes": [
+      "دە"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "كىتابلارىمىزدىن",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئۆيلەرىمىزدىن",
+    "stem": "ئۆي",
+    "expected_suffixes": [
+      "لەر",
+      "ىمىز",
+      "دىن"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ئادەملەر",
+    "stem": "ئادەم",
+    "expected_suffixes": [
+      "لەر"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "يازدى",
+    "stem": "ياز",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "يازغان",
+    "stem": "ياز",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "يازما",
+    "stem": "ياز",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئوقۇدى",
+    "stem": "ئوقۇ",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئوقۇغان",
+    "stem": "ئوقۇ",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئوقۇما",
+    "stem": "ئوقۇ",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "باردى",
+    "stem": "بار",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "بارغان",
+    "stem": "بار",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "بارما",
+    "stem": "بار",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "كەلدى",
+    "stem": "كەل",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "كەلغان",
+    "stem": "كەل",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "كەلما",
+    "stem": "كەل",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئېيتدى",
+    "stem": "ئېيت",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئېيتغان",
+    "stem": "ئېيت",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئېيتما",
+    "stem": "ئېيت",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "كۆردى",
+    "stem": "كۆر",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "كۆرغان",
+    "stem": "كۆر",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "كۆرما",
+    "stem": "كۆر",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "بەردى",
+    "stem": "بەر",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "بەرغان",
+    "stem": "بەر",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "بەرما",
+    "stem": "بەر",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئالدى",
+    "stem": "ئال",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئالغان",
+    "stem": "ئال",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئالما",
+    "stem": "ئال",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "قىلدى",
+    "stem": "قىل",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "قىلغان",
+    "stem": "قىل",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "قىلما",
+    "stem": "قىل",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئويلادى",
+    "stem": "ئويلا",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئويلاغان",
+    "stem": "ئويلا",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئويلاما",
+    "stem": "ئويلا",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "سۆزلەدى",
+    "stem": "سۆزلە",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "سۆزلەغان",
+    "stem": "سۆزلە",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "سۆزلەما",
+    "stem": "سۆزلە",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "تىڭشادى",
+    "stem": "تىڭشا",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "تىڭشاغان",
+    "stem": "تىڭشا",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "تىڭشاما",
+    "stem": "تىڭشا",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئۆگەندى",
+    "stem": "ئۆگەن",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئۆگەنغان",
+    "stem": "ئۆگەن",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئۆگەنما",
+    "stem": "ئۆگەن",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئاچدى",
+    "stem": "ئاچ",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئاچغان",
+    "stem": "ئاچ",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئاچما",
+    "stem": "ئاچ",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ياپدى",
+    "stem": "ياپ",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ياپغان",
+    "stem": "ياپ",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ياپما",
+    "stem": "ياپ",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئىچدى",
+    "stem": "ئىچ",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ئىچغان",
+    "stem": "ئىچ",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ئىچما",
+    "stem": "ئىچ",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "يەدى",
+    "stem": "يە",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "يەغان",
+    "stem": "يە",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "يەما",
+    "stem": "يە",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "يۈردى",
+    "stem": "يۈر",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "يۈرغان",
+    "stem": "يۈر",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "يۈرما",
+    "stem": "يۈر",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "تۇردى",
+    "stem": "تۇر",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "تۇرغان",
+    "stem": "تۇر",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "تۇرما",
+    "stem": "تۇر",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "باشلادى",
+    "stem": "باشلا",
+    "expected_suffixes": [
+      "دى"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "باشلاغان",
+    "stem": "باشلا",
+    "expected_suffixes": [
+      "غان"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "باشلاما",
+    "stem": "باشلا",
+    "expected_suffixes": [
+      "ما"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ئىشچى",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "چى"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "كىتابچى",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "چى"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "بالالىق",
+    "stem": "بالا",
+    "expected_suffixes": [
+      "لىق"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "بىلىمسىز",
+    "stem": "بىلىم",
+    "expected_suffixes": [
+      "سىز"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "يولداش",
+    "stem": "يول",
+    "expected_suffixes": [
+      "داش"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "ئىشچىلىق",
+    "stem": "ئىش",
+    "expected_suffixes": [
+      "چىلىق"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "كىتابلار",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "لار"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "كىتابلارىمىز",
+    "stem": "كىتاب",
+    "expected_suffixes": [
+      "لار",
+      "ىمىز"
+    ],
+    "category": "plural_possessive"
+  }
+]

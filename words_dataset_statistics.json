@@ -1,0 +1,3275 @@
+{
+  "generated_at": "2026-06-11T11:47:03",
+  "dataset_directory": "backend/data/words",
+  "files": {
+    "uz": {
+      "file": "backend/data/words/uzbek_words.json",
+      "exists": true,
+      "records": 10000
+    },
+    "tr": {
+      "file": "backend/data/words/turkish_words.json",
+      "exists": true,
+      "records": 10000
+    },
+    "az": {
+      "file": "backend/data/words/azerbaijani_words.json",
+      "exists": true,
+      "records": 8000
+    },
+    "kk": {
+      "file": "backend/data/words/kazakh_words.json",
+      "exists": true,
+      "records": 8000
+    },
+    "ky": {
+      "file": "backend/data/words/kyrgyz_words.json",
+      "exists": true,
+      "records": 8000
+    },
+    "tk": {
+      "file": "backend/data/words/turkmen_words.json",
+      "exists": true,
+      "records": 8000
+    },
+    "ug": {
+      "file": "backend/data/words/uyghur_words.json",
+      "exists": false,
+      "records": 0
+    },
+    "otk": {
+      "file": "backend/data/words/old_turkic_words.json",
+      "exists": true,
+      "records": 8000
+    }
+  },
+  "missing_language_files": [
+    {
+      "language": "ug",
+      "file": "backend/data/words/uyghur_words.json"
+    }
+  ],
+  "counts": {
+    "total_records": 60000,
+    "unique_words": 57037,
+    "unique_lemmas": 520,
+    "unique_roots": 520,
+    "unique_language_word_pairs": 60000,
+    "unique_language_lemma_pairs": 649
+  },
+  "output_metrics": {
+    "real_unique_word_count": 57037,
+    "duplicate_percentage": 0.0,
+    "global_duplicate_percentage": 4.9383,
+    "coverage_per_language": {
+      "uz": 16.6667,
+      "tr": 16.6667,
+      "az": 13.3333,
+      "kk": 13.3333,
+      "ky": 13.3333,
+      "tk": 13.3333,
+      "ug": 0.0,
+      "otk": 13.3333
+    }
+  },
+  "language_distribution": {
+    "uz": 10000,
+    "tr": 10000,
+    "az": 8000,
+    "kk": 8000,
+    "ky": 8000,
+    "tk": 8000,
+    "ug": 0,
+    "otk": 8000
+  },
+  "coverage_per_language": {
+    "uz": 16.6667,
+    "tr": 16.6667,
+    "az": 13.3333,
+    "kk": 13.3333,
+    "ky": 13.3333,
+    "tk": 13.3333,
+    "ug": 0.0,
+    "otk": 13.3333
+  },
+  "duplicates": {
+    "duplicate_words": 2655,
+    "duplicate_lemmas": 520,
+    "duplicate_roots": 520,
+    "duplicate_language_word_pairs": 0,
+    "duplicate_language_lemma_pairs": 649,
+    "duplicate_word_records": 2963,
+    "duplicate_language_word_records": 0,
+    "duplicate_lemma_records": 59480,
+    "duplicate_language_lemma_records": 59351
+  },
+  "quality": {
+    "missing_word": 0,
+    "missing_lemma": 0,
+    "missing_root": 0,
+    "empty_meaning": 0,
+    "empty_source": 0
+  },
+  "quality_percentages": {
+    "missing_word_pct": 0.0,
+    "missing_lemma_pct": 0.0,
+    "missing_root_pct": 0.0,
+    "empty_meaning_pct": 0.0,
+    "empty_source_pct": 0.0
+  },
+  "quality_by_language": {
+    "uz": {
+      "records": 10000,
+      "missing_word": 0,
+      "missing_lemma": 0,
+      "missing_root": 0,
+      "empty_meaning": 0,
+      "empty_source": 0,
+      "missing_lemma_pct": 0.0,
+      "missing_root_pct": 0.0,
+      "empty_meaning_pct": 0.0,
+      "empty_source_pct": 0.0
+    },
+    "tr": {
+      "records": 10000,
+      "missing_word": 0,
+      "missing_lemma": 0,
+      "missing_root": 0,
+      "empty_meaning": 0,
+      "empty_source": 0,
+      "missing_lemma_pct": 0.0,
+      "missing_root_pct": 0.0,
+      "empty_meaning_pct": 0.0,
+      "empty_source_pct": 0.0
+    },
+    "az": {
+      "records": 8000,
+      "missing_word": 0,
+      "missing_lemma": 0,
+      "missing_root": 0,
+      "empty_meaning": 0,
+      "empty_source": 0,
+      "missing_lemma_pct": 0.0,
+      "missing_root_pct": 0.0,
+      "empty_meaning_pct": 0.0,
+      "empty_source_pct": 0.0
+    },
+    "kk": {
+      "records": 8000,
+      "missing_word": 0,
+      "missing_lemma": 0,
+      "missing_root": 0,
+      "empty_meaning": 0,
+      "empty_source": 0,
+      "missing_lemma_pct": 0.0,
+      "missing_root_pct": 0.0,
+      "empty_meaning_pct": 0.0,
+      "empty_source_pct": 0.0
+    },
+    "ky": {
+      "records": 8000,
+      "missing_word": 0,
+      "missing_lemma": 0,
+      "missing_root": 0,
+      "empty_meaning": 0,
+      "empty_source": 0,
+      "missing_lemma_pct": 0.0,
+      "missing_root_pct": 0.0,
+      "empty_meaning_pct": 0.0,
+      "empty_source_pct": 0.0
+    },
+    "tk": {
+      "records": 8000,
+      "missing_word": 0,
+      "missing_lemma": 0,
+      "missing_root": 0,
+      "empty_meaning": 0,
+      "empty_source": 0,
+      "missing_lemma_pct": 0.0,
+      "missing_root_pct": 0.0,
+      "empty_meaning_pct": 0.0,
+      "empty_source_pct": 0.0
+    },
+    "ug": {
+      "records": 0,
+      "missing_word": 0,
+      "missing_lemma": 0,
+      "missing_root": 0,
+      "empty_meaning": 0,
+      "empty_source": 0,
+      "missing_lemma_pct": 0.0,
+      "missing_root_pct": 0.0,
+      "empty_meaning_pct": 0.0,
+      "empty_source_pct": 0.0
+    },
+    "otk": {
+      "records": 8000,
+      "missing_word": 0,
+      "missing_lemma": 0,
+      "missing_root": 0,
+      "empty_meaning": 0,
+      "empty_source": 0,
+      "missing_lemma_pct": 0.0,
+      "missing_root_pct": 0.0,
+      "empty_meaning_pct": 0.0,
+      "empty_source_pct": 0.0
+    }
+  },
+  "top_100_duplicated_words": [
+    {
+      "value": "bil",
+      "count": 5,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bildi",
+      "count": 5,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yer",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yerlar",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yerim",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yeri",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yerda",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yerdan",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yersiz",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yerlik",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "internet",
+      "count": 4,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "internetlar",
+      "count": 4,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "internetim",
+      "count": 4,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "interneti",
+      "count": 4,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "internetda",
+      "count": 4,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "internetdan",
+      "count": 4,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "internetsiz",
+      "count": 4,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "internetli",
+      "count": 4,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "internetlik",
+      "count": 4,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bildik",
+      "count": 4,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yarat",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yaratdi",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "söz",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözlar",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözim",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözum",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözüm",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözi",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözda",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözdan",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözsiz",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözlik",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "baş",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "başlar",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "başim",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "başum",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "başüm",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "başi",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "başda",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "başdan",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "başsiz",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "başlik",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "al",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "aldi",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "alma",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "almaz",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "bilma",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "bilmaz",
+      "count": 4,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "yerli",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bilim",
+      "count": 3,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bilimlar",
+      "count": 3,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bilimim",
+      "count": 3,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bilimi",
+      "count": 3,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bilimda",
+      "count": 3,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bilimdan",
+      "count": 3,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bilimsiz",
+      "count": 3,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bilimli",
+      "count": 3,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "bilimlik",
+      "count": 3,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "model",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "modellar",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "modelim",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "modeli",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "modelda",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "modeldan",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "modelsiz",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "modelli",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "modellik",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "eski",
+      "count": 3,
+      "languages": [
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "eskisiz",
+      "count": 3,
+      "languages": [
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "ber",
+      "count": 3,
+      "languages": [
+        "otk",
+        "tk",
+        "uz"
+      ]
+    },
+    {
+      "value": "berdi",
+      "count": 3,
+      "languages": [
+        "otk",
+        "tk",
+        "uz"
+      ]
+    },
+    {
+      "value": "bildim",
+      "count": 3,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "yaratdik",
+      "count": 3,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "iş",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işlar",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işim",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işum",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işüm",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işi",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işda",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işdan",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işa",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işsiz",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işli",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "işlik",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dil",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dillar",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dilim",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dilum",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dilüm",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dili",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dilda",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dildan",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dila",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dilsiz",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dilli",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dillik",
+      "count": 3,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözler",
+      "count": 3,
+      "languages": [
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözım",
+      "count": 3,
+      "languages": [
+        "az",
+        "otk",
+        "tr"
+      ]
+    },
+    {
+      "value": "sözı",
+      "count": 3,
+      "languages": [
+        "az",
+        "otk",
+        "tr"
+      ]
+    }
+  ],
+  "top_100_duplicated_lemmas": [
+    {
+      "value": "yer",
+      "count": 480,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "söz",
+      "count": 458,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "baş",
+      "count": 457,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "internet",
+      "count": 437,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "ay",
+      "count": 383,
+      "languages": [
+        "az",
+        "otk",
+        "tr"
+      ]
+    },
+    {
+      "value": "yol",
+      "count": 361,
+      "languages": [
+        "az",
+        "otk",
+        "tr"
+      ]
+    },
+    {
+      "value": "el",
+      "count": 360,
+      "languages": [
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "bilim",
+      "count": 336,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "model",
+      "count": 334,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "ata",
+      "count": 334,
+      "languages": [
+        "az",
+        "otk",
+        "tk"
+      ]
+    },
+    {
+      "value": "eski",
+      "count": 329,
+      "languages": [
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "iş",
+      "count": 318,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dil",
+      "count": 318,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "gün",
+      "count": 318,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "bahar",
+      "count": 318,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "göz",
+      "count": 318,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "et",
+      "count": 270,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "yıl",
+      "count": 264,
+      "languages": [
+        "otk",
+        "tr"
+      ]
+    },
+    {
+      "value": "yürek",
+      "count": 263,
+      "languages": [
+        "otk",
+        "tr"
+      ]
+    },
+    {
+      "value": "til",
+      "count": 259,
+      "languages": [
+        "otk",
+        "uz"
+      ]
+    },
+    {
+      "value": "жаз",
+      "count": 240,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "qız",
+      "count": 237,
+      "languages": [
+        "az",
+        "otk"
+      ]
+    },
+    {
+      "value": "ana",
+      "count": 237,
+      "languages": [
+        "az",
+        "otk"
+      ]
+    },
+    {
+      "value": "ogul",
+      "count": 237,
+      "languages": [
+        "otk",
+        "tk"
+      ]
+    },
+    {
+      "value": "ini",
+      "count": 237,
+      "languages": [
+        "otk",
+        "tk"
+      ]
+    },
+    {
+      "value": "qulaq",
+      "count": 236,
+      "languages": [
+        "az",
+        "otk"
+      ]
+    },
+    {
+      "value": "ağıl",
+      "count": 236,
+      "languages": [
+        "az",
+        "otk"
+      ]
+    },
+    {
+      "value": "kitap",
+      "count": 221,
+      "languages": [
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "ev",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "insan",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "oğul",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "halk",
+      "count": 221,
+      "languages": [
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "su",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "fikir",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "sistem",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "universitet",
+      "count": 216,
+      "languages": [
+        "az",
+        "uz"
+      ]
+    },
+    {
+      "value": "algoritm",
+      "count": 216,
+      "languages": [
+        "tk",
+        "uz"
+      ]
+    },
+    {
+      "value": "texnologiya",
+      "count": 215,
+      "languages": [
+        "az",
+        "uz"
+      ]
+    },
+    {
+      "value": "xalq",
+      "count": 212,
+      "languages": [
+        "az",
+        "uz"
+      ]
+    },
+    {
+      "value": "gök",
+      "count": 203,
+      "languages": [
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "мектеп",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "үй",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "адам",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "бала",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "дос",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "сөз",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "студент",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "университет",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "жол",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "нан",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "сүт",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "гүл",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "жер",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "күн",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "ай",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "түн",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "жыл",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "күз",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "көз",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "ой",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "компьютер",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "интернет",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "сан",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "алгоритм",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "технология",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "qara",
+      "count": 195,
+      "languages": [
+        "az",
+        "otk"
+      ]
+    },
+    {
+      "value": "dost",
+      "count": 194,
+      "languages": [
+        "az",
+        "tk"
+      ]
+    },
+    {
+      "value": "gül",
+      "count": 194,
+      "languages": [
+        "az",
+        "tk"
+      ]
+    },
+    {
+      "value": "yeni",
+      "count": 184,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "yavaş",
+      "count": 184,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "uzak",
+      "count": 184,
+      "languages": [
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "ak",
+      "count": 184,
+      "languages": [
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "mavi",
+      "count": 183,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "qan",
+      "count": 179,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "yaz",
+      "count": 170,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "жаман",
+      "count": 153,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "тез",
+      "count": 151,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "алыс",
+      "count": 151,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "көк",
+      "count": 151,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "bodun",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "beg",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "tegin",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "er",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "kiši",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "eči",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "bitig",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "tamga",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "sub",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "tağ",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "orman",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "eb",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "ot",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "kün",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "yultuz",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "tün",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "öd",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "adak",
+      "count": 139,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "köz",
+      "count": 139,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "bilig",
+      "count": 139,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "küč",
+      "count": 139,
+      "languages": [
+        "otk"
+      ]
+    }
+  ],
+  "top_100_duplicated_roots": [
+    {
+      "value": "yer",
+      "count": 480,
+      "languages": [
+        "az",
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "söz",
+      "count": 458,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "baş",
+      "count": 457,
+      "languages": [
+        "az",
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "internet",
+      "count": 437,
+      "languages": [
+        "az",
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "ay",
+      "count": 383,
+      "languages": [
+        "az",
+        "otk",
+        "tr"
+      ]
+    },
+    {
+      "value": "yol",
+      "count": 361,
+      "languages": [
+        "az",
+        "otk",
+        "tr"
+      ]
+    },
+    {
+      "value": "el",
+      "count": 360,
+      "languages": [
+        "otk",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "bilim",
+      "count": 336,
+      "languages": [
+        "tk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "model",
+      "count": 334,
+      "languages": [
+        "az",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "ata",
+      "count": 334,
+      "languages": [
+        "az",
+        "otk",
+        "tk"
+      ]
+    },
+    {
+      "value": "eski",
+      "count": 329,
+      "languages": [
+        "otk",
+        "tr",
+        "uz"
+      ]
+    },
+    {
+      "value": "iş",
+      "count": 318,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "dil",
+      "count": 318,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "gün",
+      "count": 318,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "bahar",
+      "count": 318,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "göz",
+      "count": 318,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "et",
+      "count": 270,
+      "languages": [
+        "az",
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "yıl",
+      "count": 264,
+      "languages": [
+        "otk",
+        "tr"
+      ]
+    },
+    {
+      "value": "yürek",
+      "count": 263,
+      "languages": [
+        "otk",
+        "tr"
+      ]
+    },
+    {
+      "value": "til",
+      "count": 259,
+      "languages": [
+        "otk",
+        "uz"
+      ]
+    },
+    {
+      "value": "жаз",
+      "count": 240,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "qız",
+      "count": 237,
+      "languages": [
+        "az",
+        "otk"
+      ]
+    },
+    {
+      "value": "ana",
+      "count": 237,
+      "languages": [
+        "az",
+        "otk"
+      ]
+    },
+    {
+      "value": "ogul",
+      "count": 237,
+      "languages": [
+        "otk",
+        "tk"
+      ]
+    },
+    {
+      "value": "ini",
+      "count": 237,
+      "languages": [
+        "otk",
+        "tk"
+      ]
+    },
+    {
+      "value": "qulaq",
+      "count": 236,
+      "languages": [
+        "az",
+        "otk"
+      ]
+    },
+    {
+      "value": "ağıl",
+      "count": 236,
+      "languages": [
+        "az",
+        "otk"
+      ]
+    },
+    {
+      "value": "kitap",
+      "count": 221,
+      "languages": [
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "ev",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "insan",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "oğul",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "halk",
+      "count": 221,
+      "languages": [
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "su",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "fikir",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "sistem",
+      "count": 221,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "universitet",
+      "count": 216,
+      "languages": [
+        "az",
+        "uz"
+      ]
+    },
+    {
+      "value": "algoritm",
+      "count": 216,
+      "languages": [
+        "tk",
+        "uz"
+      ]
+    },
+    {
+      "value": "texnologiya",
+      "count": 215,
+      "languages": [
+        "az",
+        "uz"
+      ]
+    },
+    {
+      "value": "xalq",
+      "count": 212,
+      "languages": [
+        "az",
+        "uz"
+      ]
+    },
+    {
+      "value": "gök",
+      "count": 203,
+      "languages": [
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "мектеп",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "үй",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "адам",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "бала",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "дос",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "сөз",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "студент",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "университет",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "жол",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "нан",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "сүт",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "гүл",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "жер",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "күн",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "ай",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "түн",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "жыл",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "күз",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "көз",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "ой",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "компьютер",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "интернет",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "сан",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "алгоритм",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "технология",
+      "count": 197,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "qara",
+      "count": 195,
+      "languages": [
+        "az",
+        "otk"
+      ]
+    },
+    {
+      "value": "dost",
+      "count": 194,
+      "languages": [
+        "az",
+        "tk"
+      ]
+    },
+    {
+      "value": "gül",
+      "count": 194,
+      "languages": [
+        "az",
+        "tk"
+      ]
+    },
+    {
+      "value": "yeni",
+      "count": 184,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "yavaş",
+      "count": 184,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "uzak",
+      "count": 184,
+      "languages": [
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "ak",
+      "count": 184,
+      "languages": [
+        "tk",
+        "tr"
+      ]
+    },
+    {
+      "value": "mavi",
+      "count": 183,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "qan",
+      "count": 179,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "yaz",
+      "count": 170,
+      "languages": [
+        "az",
+        "tr"
+      ]
+    },
+    {
+      "value": "жаман",
+      "count": 153,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "тез",
+      "count": 151,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "алыс",
+      "count": 151,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "көк",
+      "count": 151,
+      "languages": [
+        "kk",
+        "ky"
+      ]
+    },
+    {
+      "value": "bodun",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "beg",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "tegin",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "er",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "kiši",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "eči",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "bitig",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "tamga",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "sub",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "tağ",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "orman",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "eb",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "ot",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "kün",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "yultuz",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "tün",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "öd",
+      "count": 140,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "adak",
+      "count": 139,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "köz",
+      "count": 139,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "bilig",
+      "count": 139,
+      "languages": [
+        "otk"
+      ]
+    },
+    {
+      "value": "küč",
+      "count": 139,
+      "languages": [
+        "otk"
+      ]
+    }
+  ],
+  "top_100_duplicated_language_words": [],
+  "top_100_duplicated_language_lemmas": [
+    {
+      "language": "otk",
+      "value": "qan",
+      "count": 179
+    },
+    {
+      "language": "otk",
+      "value": "ay",
+      "count": 162
+    },
+    {
+      "language": "tr",
+      "value": "yaz",
+      "count": 145
+    },
+    {
+      "language": "otk",
+      "value": "bodun",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "beg",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "tegin",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "er",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "kiši",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "ogul",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "qız",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "ata",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "ana",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "ini",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "eči",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "til",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "söz",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "bitig",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "tamga",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "yer",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "sub",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "tağ",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "orman",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "yol",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "eb",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "ot",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "kün",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "yultuz",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "tün",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "yıl",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "öd",
+      "count": 140
+    },
+    {
+      "language": "otk",
+      "value": "baş",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "el",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "adak",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "köz",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "qulaq",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "yürek",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "ağıl",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "bilig",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "küč",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "qağan",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "ordu",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "sü",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "yağı",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "törü",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "kut",
+      "count": 139
+    },
+    {
+      "language": "otk",
+      "value": "tenri",
+      "count": 139
+    },
+    {
+      "language": "uz",
+      "value": "yoz",
+      "count": 137
+    },
+    {
+      "language": "tr",
+      "value": "kitap",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "okul",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "ev",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "iş",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "insan",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "çocuk",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "kız",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "oğul",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "baba",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "anne",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "kardeş",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "arkadaş",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "halk",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "dil",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "söz",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "ders",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "öğrenci",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "öğretmen",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "üniversite",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "şehir",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "köy",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "yol",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "su",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "ekmek",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "yemek",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "et",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "süt",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "meyve",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "ağaç",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "çiçek",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "yer",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "gök",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "güneş",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "ay",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "yıldız",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "gün",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "gece",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "zaman",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "yıl",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "bahar",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "sonbahar",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "kış",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "baş",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "el",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "ayak",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "göz",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "kulak",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "yürek",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "akıl",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "fikir",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "bilgi",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "soru",
+      "count": 124
+    },
+    {
+      "language": "tr",
+      "value": "cevap",
+      "count": 124
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "version": "1.0",
+  "description": "Cross-language Turkic cognate alignment rules using morphology, historical forms, cognate sets, and transliteration mappings.",
+  "languages": [
+    "uz",
+    "tr",
+    "az",
+    "kk",
+    "ky",
+    "tk",
+    "ug",
+    "otk"
+  ],
+  "normalization": [
+    "casefold",
+    "strip_proto_asterisk",
+    "remove_combining_marks",
+    "latin_diacritic_fold",
+    "cyrillic_to_latin",
+    "uyghur_arabic_to_latin",
+    "old_turkic_runiform_to_latin"
+  ],
+  "historical_links": [
+    {
+      "chain": [
+        "Proto Turkic",
+        "Old Turkic",
+        "Uyghur",
+        "Uzbek"
+      ]
+    },
+    {
+      "chain": [
+        "Proto Turkic",
+        "Old Turkic",
+        "Turkish"
+      ]
+    },
+    {
+      "chain": [
+        "Proto Turkic",
+        "Old Turkic",
+        "Kazakh"
+      ]
+    },
+    {
+      "chain": [
+        "Proto Turkic",
+        "Old Turkic",
+        "Kyrgyz"
+      ]
+    },
+    {
+      "chain": [
+        "Proto Turkic",
+        "Old Turkic",
+        "Turkmen"
+      ]
+    }
+  ],
+  "sound_correspondences": [
+    {
+      "proto": "t",
+      "tr_az_tk": "d/t",
+      "kk_ky": "t",
+      "example": "*til -> dil/til"
+    },
+    {
+      "proto": "k",
+      "oghuz": "g/k",
+      "kipchak": "k/q",
+      "example": "*kök -> gök/kök"
+    },
+    {
+      "proto": "ŋ",
+      "modern": [
+        "ng",
+        "n",
+        "ň",
+        "ң"
+      ],
+      "example": "*teŋri -> tangri/tanrı/täñir"
+    }
+  ],
+  "scoring": {
+    "exact_normalized_match": 1.0,
+    "substring_match": 0.72,
+    "confidence_weight": "group confidence"
+  }
+}

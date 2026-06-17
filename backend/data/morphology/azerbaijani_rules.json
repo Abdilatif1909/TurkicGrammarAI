@@ -1,0 +1,5081 @@
+{
+  "language": "az",
+  "rules": [
+    {
+      "suffix": "lər",
+      "suffix_type": "Plural",
+      "description": "Azerbaijani major harmony plural",
+      "examples": [
+        "ev -> evlər"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "imiz",
+      "suffix_type": "Possessive-1pl",
+      "description": "1pl possessive",
+      "examples": [
+        "ev -> evimiz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "iniz",
+      "suffix_type": "Possessive-2pl",
+      "description": "2pl possessive",
+      "examples": [
+        "ev -> eviniz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "i",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "ev -> evi"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "in",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive",
+      "examples": [
+        "ev -> evin"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "i",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "ev -> evi"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ə",
+      "suffix_type": "Case-Dative",
+      "description": "dative",
+      "examples": [
+        "ev -> evə"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "də",
+      "suffix_type": "Case-Locative",
+      "description": "locative",
+      "examples": [
+        "ev -> evdə"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "dən",
+      "suffix_type": "Case-Ablative",
+      "description": "ablative",
+      "examples": [
+        "ev -> evdən"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "lar",
+      "suffix_type": "Plural",
+      "description": "Azerbaijani major harmony plural",
+      "examples": [
+        "kitab -> kitablar"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ımız",
+      "suffix_type": "Possessive-1pl",
+      "description": "1pl possessive",
+      "examples": [
+        "kitab -> kitabımız"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ınız",
+      "suffix_type": "Possessive-2pl",
+      "description": "2pl possessive",
+      "examples": [
+        "kitab -> kitabınız"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ı",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "kitab -> kitabı"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ın",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive",
+      "examples": [
+        "kitab -> kitabın"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ı",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "kitab -> kitabı"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "a",
+      "suffix_type": "Case-Dative",
+      "description": "dative",
+      "examples": [
+        "kitab -> kitaba"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "da",
+      "suffix_type": "Case-Locative",
+      "description": "locative",
+      "examples": [
+        "kitab -> kitabda"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "dan",
+      "suffix_type": "Case-Ablative",
+      "description": "ablative",
+      "examples": [
+        "kitab -> kitabdan"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "sı",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "araba -> arabası"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nın",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive",
+      "examples": [
+        "araba -> arabanın"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nı",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "araba -> arabanı"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ya",
+      "suffix_type": "Case-Dative",
+      "description": "dative",
+      "examples": [
+        "araba -> arabaya"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ümüz",
+      "suffix_type": "Possessive-1pl",
+      "description": "1pl possessive",
+      "examples": [
+        "göz -> gözümüz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ünüz",
+      "suffix_type": "Possessive-2pl",
+      "description": "2pl possessive",
+      "examples": [
+        "göz -> gözünüz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ü",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "göz -> gözü"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ün",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive",
+      "examples": [
+        "göz -> gözün"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ü",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "göz -> gözü"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "umuz",
+      "suffix_type": "Possessive-1pl",
+      "description": "1pl possessive",
+      "examples": [
+        "çocuq -> çocuqumuz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "unuz",
+      "suffix_type": "Possessive-2pl",
+      "description": "2pl possessive",
+      "examples": [
+        "çocuq -> çocuqunuz"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "u",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "çocuq -> çocuqu"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "un",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive",
+      "examples": [
+        "çocuq -> çocuqun"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "u",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "çocuq -> çocuqu"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "su",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "su -> susu"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nun",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive",
+      "examples": [
+        "su -> sunun"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nu",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "su -> sunu"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "si",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "tələbə -> tələbəsi"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nin",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive",
+      "examples": [
+        "tələbə -> tələbənin"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "ni",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "tələbə -> tələbəni"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "yə",
+      "suffix_type": "Case-Dative",
+      "description": "dative",
+      "examples": [
+        "tələbə -> tələbəyə"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "sü",
+      "suffix_type": "Possessive-3sg",
+      "description": "3sg possessive",
+      "examples": [
+        "güclü -> güclüsü"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nün",
+      "suffix_type": "Case-Genitive",
+      "description": "genitive",
+      "examples": [
+        "güclü -> güclünün"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "nü",
+      "suffix_type": "Case-Accusative",
+      "description": "accusative",
+      "examples": [
+        "güclü -> güclünü"
+      ],
+      "confidence_score": 0.98
+    },
+    {
+      "suffix": "lərimiz",
+      "suffix_type": "Plural-Possessive-1pl",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "ev -> evlərimiz"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lərimizdən",
+      "suffix_type": "Plural-Possessive-1pl-Ablative",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "ev -> evlərimizdən"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lərimizdə",
+      "suffix_type": "Plural-Possessive-1pl-Locative",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "ev -> evlərimizdə"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lərimizin",
+      "suffix_type": "Plural-Possessive-1pl-Genitive",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "ev -> evlərimizin"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lərinizdə",
+      "suffix_type": "Plural-Possessive-2pl-Locative",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "ev -> evlərinizdə"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lərdən",
+      "suffix_type": "Plural-Ablative",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "ev -> evlərdən"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lərdə",
+      "suffix_type": "Plural-Locative",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "ev -> evlərdə"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larımız",
+      "suffix_type": "Plural-Possessive-1pl",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "kitab -> kitablarımız"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larımızdan",
+      "suffix_type": "Plural-Possessive-1pl-Ablative",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "kitab -> kitablarımızdan"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larımızda",
+      "suffix_type": "Plural-Possessive-1pl-Locative",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "kitab -> kitablarımızda"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larımızın",
+      "suffix_type": "Plural-Possessive-1pl-Genitive",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "kitab -> kitablarımızın"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larınızda",
+      "suffix_type": "Plural-Possessive-2pl-Locative",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "kitab -> kitablarınızda"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "lardan",
+      "suffix_type": "Plural-Ablative",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "kitab -> kitablardan"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "larda",
+      "suffix_type": "Plural-Locative",
+      "description": "productive Azerbaijani noun suffix chain",
+      "examples": [
+        "kitab -> kitablarda"
+      ],
+      "confidence_score": 0.95
+    },
+    {
+      "suffix": "ır",
+      "suffix_type": "Verb-Present",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazır"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "dı",
+      "suffix_type": "Verb-Past",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazdı"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "mış",
+      "suffix_type": "Verb-Evidential",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazmış"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "acaq",
+      "suffix_type": "Verb-Future",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazacaq"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ma",
+      "suffix_type": "Verb-Negative",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazma"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "sa",
+      "suffix_type": "Verb-Conditional",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazsa"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "malı",
+      "suffix_type": "Verb-Necessitative",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazmalı"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "madı",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazmadı"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "maır",
+      "suffix_type": "Verb-Negative-Present",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazmaır"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "acaqımız",
+      "suffix_type": "Verb-Future-1pl",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "yaz -> yazacaqımız"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ir",
+      "suffix_type": "Verb-Present",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gəl -> gəlir"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "di",
+      "suffix_type": "Verb-Past",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gəl -> gəldi"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "miş",
+      "suffix_type": "Verb-Evidential",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gəl -> gəlmiş"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "əcək",
+      "suffix_type": "Verb-Future",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gəl -> gələcək"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "mə",
+      "suffix_type": "Verb-Negative",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gəl -> gəlmə"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "sə",
+      "suffix_type": "Verb-Conditional",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gəl -> gəlsə"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "məli",
+      "suffix_type": "Verb-Necessitative",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gəl -> gəlməli"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "mədi",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gəl -> gəlmədi"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "məir",
+      "suffix_type": "Verb-Negative-Present",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gəl -> gəlməir"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "əcəkimiz",
+      "suffix_type": "Verb-Future-1pl",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gəl -> gələcəkimiz"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ur",
+      "suffix_type": "Verb-Present",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "oxu -> oxuur"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "du",
+      "suffix_type": "Verb-Past",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "oxu -> oxudu"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "muş",
+      "suffix_type": "Verb-Evidential",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "oxu -> oxumuş"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "malu",
+      "suffix_type": "Verb-Necessitative",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "oxu -> oxumalu"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "madu",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "oxu -> oxumadu"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "maur",
+      "suffix_type": "Verb-Negative-Present",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "oxu -> oxumaur"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ür",
+      "suffix_type": "Verb-Present",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gör -> görür"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "dü",
+      "suffix_type": "Verb-Past",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gör -> gördü"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "müş",
+      "suffix_type": "Verb-Evidential",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gör -> görmüş"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "məlü",
+      "suffix_type": "Verb-Necessitative",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gör -> görməlü"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "mədü",
+      "suffix_type": "Verb-Negative-Past",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gör -> görmədü"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "məür",
+      "suffix_type": "Verb-Negative-Present",
+      "description": "Azerbaijani verb TAM/mood suffix",
+      "examples": [
+        "gör -> görməür"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ci",
+      "suffix_type": "Deriv-Agent",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "ev -> evci"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lik",
+      "suffix_type": "Deriv-Noun",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "ev -> evlik"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "li",
+      "suffix_type": "Deriv-Adjective-With",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "ev -> evli"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "siz",
+      "suffix_type": "Deriv-Adjective-Without",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "ev -> evsiz"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "daş",
+      "suffix_type": "Deriv-Associate",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "ev -> evdaş"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "səl",
+      "suffix_type": "Deriv-Relational",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "ev -> evsəl"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "im",
+      "suffix_type": "Deriv-Deverbal-Noun",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "ev -> evim"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "cı",
+      "suffix_type": "Deriv-Agent",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "kitab -> kitabcı"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lıq",
+      "suffix_type": "Deriv-Noun",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "kitab -> kitablıq"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lı",
+      "suffix_type": "Deriv-Adjective-With",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "kitab -> kitablı"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "sız",
+      "suffix_type": "Deriv-Adjective-Without",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "kitab -> kitabsız"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "sal",
+      "suffix_type": "Deriv-Relational",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "kitab -> kitabsal"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "ım",
+      "suffix_type": "Deriv-Deverbal-Noun",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "kitab -> kitabım"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "cü",
+      "suffix_type": "Deriv-Agent",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "göz -> gözcü"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lük",
+      "suffix_type": "Deriv-Noun",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "göz -> gözlük"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lü",
+      "suffix_type": "Deriv-Adjective-With",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "göz -> gözlü"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "süz",
+      "suffix_type": "Deriv-Adjective-Without",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "göz -> gözsüz"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "üm",
+      "suffix_type": "Deriv-Deverbal-Noun",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "göz -> gözüm"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "cu",
+      "suffix_type": "Deriv-Agent",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "çocuq -> çocuqcu"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "luq",
+      "suffix_type": "Deriv-Noun",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "çocuq -> çocuqluq"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "lu",
+      "suffix_type": "Deriv-Adjective-With",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "çocuq -> çocuqlu"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "suz",
+      "suffix_type": "Deriv-Adjective-Without",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "çocuq -> çocuqsuz"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "um",
+      "suffix_type": "Deriv-Deverbal-Noun",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "çocuq -> çocuqum"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "çi",
+      "suffix_type": "Deriv-Agent",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "iş -> işçi"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "çı",
+      "suffix_type": "Deriv-Agent",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "baş -> başçı"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "çu",
+      "suffix_type": "Deriv-Agent",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "dost -> dostçu"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "çü",
+      "suffix_type": "Deriv-Agent",
+      "description": "Azerbaijani derivational suffix",
+      "examples": [
+        "böyük -> böyükçü"
+      ],
+      "confidence_score": 0.91
+    },
+    {
+      "suffix": "cilər",
+      "suffix_type": "AZ-001-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evcilər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərimizdən",
+      "suffix_type": "AZ-002-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evcilərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərimizdə",
+      "suffix_type": "AZ-003-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evcilərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərinizdə",
+      "suffix_type": "AZ-004-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evcilərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cisinin",
+      "suffix_type": "AZ-005-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evcisinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cidən",
+      "suffix_type": "AZ-006-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evcidən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cidə",
+      "suffix_type": "AZ-007-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evcidə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklər",
+      "suffix_type": "AZ-008-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evliklər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklərimizdən",
+      "suffix_type": "AZ-009-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evliklərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklərimizdə",
+      "suffix_type": "AZ-010-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evliklərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklərinizdə",
+      "suffix_type": "AZ-011-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evliklərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likinin",
+      "suffix_type": "AZ-012-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evlikinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likdən",
+      "suffix_type": "AZ-013-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evlikdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likdə",
+      "suffix_type": "AZ-014-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evlikdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilər",
+      "suffix_type": "AZ-015-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evlilər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilərimizdən",
+      "suffix_type": "AZ-016-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evlilərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilərimizdə",
+      "suffix_type": "AZ-017-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evlilərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilərinizdə",
+      "suffix_type": "AZ-018-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evlilərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lisinin",
+      "suffix_type": "AZ-019-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evlisinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lidən",
+      "suffix_type": "AZ-020-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evlidən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lidə",
+      "suffix_type": "AZ-021-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evlidə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlər",
+      "suffix_type": "AZ-022-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsizlər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlərimizdən",
+      "suffix_type": "AZ-023-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsizlərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlərimizdə",
+      "suffix_type": "AZ-024-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsizlərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlərinizdə",
+      "suffix_type": "AZ-025-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsizlərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizinin",
+      "suffix_type": "AZ-026-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsizinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizdən",
+      "suffix_type": "AZ-027-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizdə",
+      "suffix_type": "AZ-028-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "AZ-029-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evdaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "AZ-030-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evdaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "AZ-031-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evdaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "AZ-032-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evdaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "AZ-033-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evdaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşdan",
+      "suffix_type": "AZ-034-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evdaşdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşda",
+      "suffix_type": "AZ-035-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evdaşda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllər",
+      "suffix_type": "AZ-036-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsəllər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərimizdən",
+      "suffix_type": "AZ-037-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsəllərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərimizdə",
+      "suffix_type": "AZ-038-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsəllərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərinizdə",
+      "suffix_type": "AZ-039-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsəllərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səlinin",
+      "suffix_type": "AZ-040-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsəlinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səldən",
+      "suffix_type": "AZ-041-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsəldən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səldə",
+      "suffix_type": "AZ-042-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evsəldə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlər",
+      "suffix_type": "AZ-043-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evimlər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlərimizdən",
+      "suffix_type": "AZ-044-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evimlərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlərimizdə",
+      "suffix_type": "AZ-045-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evimlərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlərinizdə",
+      "suffix_type": "AZ-046-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evimlərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "iminin",
+      "suffix_type": "AZ-047-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> eviminin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imdən",
+      "suffix_type": "AZ-048-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evimdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imdə",
+      "suffix_type": "AZ-049-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "ev -> evimdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılar",
+      "suffix_type": "AZ-050-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabcılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızdan",
+      "suffix_type": "AZ-051-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabcılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızda",
+      "suffix_type": "AZ-052-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabcılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarınızda",
+      "suffix_type": "AZ-053-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabcılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cısının",
+      "suffix_type": "AZ-054-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabcısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıdan",
+      "suffix_type": "AZ-055-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabcıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıda",
+      "suffix_type": "AZ-056-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabcıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlar",
+      "suffix_type": "AZ-057-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablıqlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarımızdan",
+      "suffix_type": "AZ-058-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablıqlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarımızda",
+      "suffix_type": "AZ-059-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablıqlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarınızda",
+      "suffix_type": "AZ-060-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablıqlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqının",
+      "suffix_type": "AZ-061-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablıqının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqdan",
+      "suffix_type": "AZ-062-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablıqdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqda",
+      "suffix_type": "AZ-063-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablıqda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılar",
+      "suffix_type": "AZ-064-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızdan",
+      "suffix_type": "AZ-065-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızda",
+      "suffix_type": "AZ-066-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarınızda",
+      "suffix_type": "AZ-067-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lısının",
+      "suffix_type": "AZ-068-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıdan",
+      "suffix_type": "AZ-069-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıda",
+      "suffix_type": "AZ-070-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitablıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlar",
+      "suffix_type": "AZ-071-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsızlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızdan",
+      "suffix_type": "AZ-072-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsızlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızda",
+      "suffix_type": "AZ-073-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsızlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarınızda",
+      "suffix_type": "AZ-074-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsızlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızının",
+      "suffix_type": "AZ-075-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsızının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızdan",
+      "suffix_type": "AZ-076-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızda",
+      "suffix_type": "AZ-077-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "AZ-078-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabdaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "AZ-079-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabdaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "AZ-080-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabdaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "AZ-081-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabdaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "AZ-082-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabdaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşdan",
+      "suffix_type": "AZ-083-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabdaşdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşda",
+      "suffix_type": "AZ-084-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabdaşda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "AZ-085-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "AZ-086-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "AZ-087-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "AZ-088-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "AZ-089-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "AZ-090-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "AZ-091-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabsalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlar",
+      "suffix_type": "AZ-092-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabımlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızdan",
+      "suffix_type": "AZ-093-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabımlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızda",
+      "suffix_type": "AZ-094-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabımlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarınızda",
+      "suffix_type": "AZ-095-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabımlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımının",
+      "suffix_type": "AZ-096-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabımının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımdan",
+      "suffix_type": "AZ-097-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabımdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımda",
+      "suffix_type": "AZ-098-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "kitab -> kitabımda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilər",
+      "suffix_type": "AZ-099-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbcilər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərimizdən",
+      "suffix_type": "AZ-100-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbcilərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərimizdə",
+      "suffix_type": "AZ-101-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbcilərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərinizdə",
+      "suffix_type": "AZ-102-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbcilərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cisinin",
+      "suffix_type": "AZ-103-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbcisinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cidən",
+      "suffix_type": "AZ-104-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbcidən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cidə",
+      "suffix_type": "AZ-105-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbcidə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklər",
+      "suffix_type": "AZ-106-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbliklər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklərimizdən",
+      "suffix_type": "AZ-107-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbliklərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklərimizdə",
+      "suffix_type": "AZ-108-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbliklərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklərinizdə",
+      "suffix_type": "AZ-109-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbliklərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likinin",
+      "suffix_type": "AZ-110-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəblikinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likdən",
+      "suffix_type": "AZ-111-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəblikdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likdə",
+      "suffix_type": "AZ-112-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəblikdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilər",
+      "suffix_type": "AZ-113-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəblilər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilərimizdən",
+      "suffix_type": "AZ-114-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəblilərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilərimizdə",
+      "suffix_type": "AZ-115-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəblilərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilərinizdə",
+      "suffix_type": "AZ-116-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəblilərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lisinin",
+      "suffix_type": "AZ-117-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəblisinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lidən",
+      "suffix_type": "AZ-118-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəblidən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lidə",
+      "suffix_type": "AZ-119-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəblidə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlər",
+      "suffix_type": "AZ-120-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsizlər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlərimizdən",
+      "suffix_type": "AZ-121-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsizlərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlərimizdə",
+      "suffix_type": "AZ-122-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsizlərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlərinizdə",
+      "suffix_type": "AZ-123-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsizlərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizinin",
+      "suffix_type": "AZ-124-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsizinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizdən",
+      "suffix_type": "AZ-125-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizdə",
+      "suffix_type": "AZ-126-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "AZ-127-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbdaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "AZ-128-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbdaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "AZ-129-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbdaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "AZ-130-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbdaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "AZ-131-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbdaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşdan",
+      "suffix_type": "AZ-132-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbdaşdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşda",
+      "suffix_type": "AZ-133-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbdaşda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllər",
+      "suffix_type": "AZ-134-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsəllər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərimizdən",
+      "suffix_type": "AZ-135-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsəllərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərimizdə",
+      "suffix_type": "AZ-136-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsəllərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərinizdə",
+      "suffix_type": "AZ-137-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsəllərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səlinin",
+      "suffix_type": "AZ-138-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsəlinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səldən",
+      "suffix_type": "AZ-139-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsəldən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səldə",
+      "suffix_type": "AZ-140-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbsəldə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlər",
+      "suffix_type": "AZ-141-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbimlər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlərimizdən",
+      "suffix_type": "AZ-142-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbimlərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlərimizdə",
+      "suffix_type": "AZ-143-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbimlərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlərinizdə",
+      "suffix_type": "AZ-144-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbimlərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "iminin",
+      "suffix_type": "AZ-145-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbiminin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imdən",
+      "suffix_type": "AZ-146-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbimdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imdə",
+      "suffix_type": "AZ-147-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "məktəb -> məktəbimdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilər",
+      "suffix_type": "AZ-148-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərcilər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərimizdən",
+      "suffix_type": "AZ-149-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərcilərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərimizdə",
+      "suffix_type": "AZ-150-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərcilərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərinizdə",
+      "suffix_type": "AZ-151-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərcilərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cisinin",
+      "suffix_type": "AZ-152-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərcisinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cidən",
+      "suffix_type": "AZ-153-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərcidən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cidə",
+      "suffix_type": "AZ-154-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərcidə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklər",
+      "suffix_type": "AZ-155-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərliklər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklərimizdən",
+      "suffix_type": "AZ-156-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərliklərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklərimizdə",
+      "suffix_type": "AZ-157-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərliklərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "liklərinizdə",
+      "suffix_type": "AZ-158-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərliklərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likinin",
+      "suffix_type": "AZ-159-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərlikinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likdən",
+      "suffix_type": "AZ-160-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərlikdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "likdə",
+      "suffix_type": "AZ-161-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərlikdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilər",
+      "suffix_type": "AZ-162-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərlilər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilərimizdən",
+      "suffix_type": "AZ-163-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərlilərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilərimizdə",
+      "suffix_type": "AZ-164-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərlilərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lilərinizdə",
+      "suffix_type": "AZ-165-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərlilərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lisinin",
+      "suffix_type": "AZ-166-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərlisinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lidən",
+      "suffix_type": "AZ-167-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərlidən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lidə",
+      "suffix_type": "AZ-168-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərlidə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlər",
+      "suffix_type": "AZ-169-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsizlər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlərimizdən",
+      "suffix_type": "AZ-170-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsizlərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlərimizdə",
+      "suffix_type": "AZ-171-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsizlərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizlərinizdə",
+      "suffix_type": "AZ-172-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsizlərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizinin",
+      "suffix_type": "AZ-173-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsizinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizdən",
+      "suffix_type": "AZ-174-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sizdə",
+      "suffix_type": "AZ-175-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "AZ-176-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərdaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "AZ-177-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərdaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "AZ-178-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərdaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "AZ-179-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərdaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "AZ-180-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərdaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşdan",
+      "suffix_type": "AZ-181-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərdaşdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşda",
+      "suffix_type": "AZ-182-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərdaşda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllər",
+      "suffix_type": "AZ-183-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsəllər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərimizdən",
+      "suffix_type": "AZ-184-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsəllərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərimizdə",
+      "suffix_type": "AZ-185-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsəllərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərinizdə",
+      "suffix_type": "AZ-186-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsəllərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səlinin",
+      "suffix_type": "AZ-187-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsəlinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səldən",
+      "suffix_type": "AZ-188-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsəldən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səldə",
+      "suffix_type": "AZ-189-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərsəldə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlər",
+      "suffix_type": "AZ-190-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərimlər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlərimizdən",
+      "suffix_type": "AZ-191-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərimlərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlərimizdə",
+      "suffix_type": "AZ-192-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərimlərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imlərinizdə",
+      "suffix_type": "AZ-193-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərimlərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "iminin",
+      "suffix_type": "AZ-194-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhəriminin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imdən",
+      "suffix_type": "AZ-195-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərimdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "imdə",
+      "suffix_type": "AZ-196-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "şəhər -> şəhərimdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılar",
+      "suffix_type": "AZ-197-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabacılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızdan",
+      "suffix_type": "AZ-198-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabacılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızda",
+      "suffix_type": "AZ-199-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabacılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarınızda",
+      "suffix_type": "AZ-200-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabacılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cısının",
+      "suffix_type": "AZ-201-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabacısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıdan",
+      "suffix_type": "AZ-202-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabacıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıda",
+      "suffix_type": "AZ-203-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabacıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlar",
+      "suffix_type": "AZ-204-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalıqlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarımızdan",
+      "suffix_type": "AZ-205-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalıqlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarımızda",
+      "suffix_type": "AZ-206-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalıqlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarınızda",
+      "suffix_type": "AZ-207-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalıqlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqının",
+      "suffix_type": "AZ-208-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalıqının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqdan",
+      "suffix_type": "AZ-209-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalıqdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqda",
+      "suffix_type": "AZ-210-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalıqda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılar",
+      "suffix_type": "AZ-211-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızdan",
+      "suffix_type": "AZ-212-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızda",
+      "suffix_type": "AZ-213-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarınızda",
+      "suffix_type": "AZ-214-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lısının",
+      "suffix_type": "AZ-215-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıdan",
+      "suffix_type": "AZ-216-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıda",
+      "suffix_type": "AZ-217-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabalıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlar",
+      "suffix_type": "AZ-218-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasızlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızdan",
+      "suffix_type": "AZ-219-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasızlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızda",
+      "suffix_type": "AZ-220-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasızlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarınızda",
+      "suffix_type": "AZ-221-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasızlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızının",
+      "suffix_type": "AZ-222-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasızının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızdan",
+      "suffix_type": "AZ-223-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızda",
+      "suffix_type": "AZ-224-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "AZ-225-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabadaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "AZ-226-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabadaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "AZ-227-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabadaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "AZ-228-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabadaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "AZ-229-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabadaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşdan",
+      "suffix_type": "AZ-230-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabadaşdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşda",
+      "suffix_type": "AZ-231-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabadaşda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "AZ-232-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "AZ-233-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "AZ-234-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "AZ-235-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "AZ-236-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "AZ-237-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "AZ-238-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabasalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlar",
+      "suffix_type": "AZ-239-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabaımlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızdan",
+      "suffix_type": "AZ-240-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabaımlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızda",
+      "suffix_type": "AZ-241-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabaımlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarınızda",
+      "suffix_type": "AZ-242-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabaımlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımının",
+      "suffix_type": "AZ-243-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabaımının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımdan",
+      "suffix_type": "AZ-244-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabaımdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımda",
+      "suffix_type": "AZ-245-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "araba -> arabaımda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılar",
+      "suffix_type": "AZ-246-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıcılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızdan",
+      "suffix_type": "AZ-247-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıcılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızda",
+      "suffix_type": "AZ-248-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıcılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarınızda",
+      "suffix_type": "AZ-249-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıcılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cısının",
+      "suffix_type": "AZ-250-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıcısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıdan",
+      "suffix_type": "AZ-251-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıcıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıda",
+      "suffix_type": "AZ-252-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıcıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlar",
+      "suffix_type": "AZ-253-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılıqlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarımızdan",
+      "suffix_type": "AZ-254-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılıqlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarımızda",
+      "suffix_type": "AZ-255-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılıqlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarınızda",
+      "suffix_type": "AZ-256-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılıqlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqının",
+      "suffix_type": "AZ-257-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılıqının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqdan",
+      "suffix_type": "AZ-258-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılıqdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqda",
+      "suffix_type": "AZ-259-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılıqda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılar",
+      "suffix_type": "AZ-260-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızdan",
+      "suffix_type": "AZ-261-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızda",
+      "suffix_type": "AZ-262-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarınızda",
+      "suffix_type": "AZ-263-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lısının",
+      "suffix_type": "AZ-264-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıdan",
+      "suffix_type": "AZ-265-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıda",
+      "suffix_type": "AZ-266-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapılıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlar",
+      "suffix_type": "AZ-267-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısızlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızdan",
+      "suffix_type": "AZ-268-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısızlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızda",
+      "suffix_type": "AZ-269-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısızlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarınızda",
+      "suffix_type": "AZ-270-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısızlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızının",
+      "suffix_type": "AZ-271-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısızının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızdan",
+      "suffix_type": "AZ-272-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızda",
+      "suffix_type": "AZ-273-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "AZ-274-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıdaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "AZ-275-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıdaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "AZ-276-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıdaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "AZ-277-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıdaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "AZ-278-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıdaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşdan",
+      "suffix_type": "AZ-279-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıdaşdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşda",
+      "suffix_type": "AZ-280-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıdaşda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "AZ-281-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "AZ-282-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "AZ-283-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "AZ-284-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "AZ-285-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "AZ-286-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "AZ-287-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapısalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlar",
+      "suffix_type": "AZ-288-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıımlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızdan",
+      "suffix_type": "AZ-289-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıımlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızda",
+      "suffix_type": "AZ-290-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıımlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarınızda",
+      "suffix_type": "AZ-291-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıımlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımının",
+      "suffix_type": "AZ-292-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıımının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımdan",
+      "suffix_type": "AZ-293-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıımdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımda",
+      "suffix_type": "AZ-294-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qapı -> qapıımda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cülər",
+      "suffix_type": "AZ-295-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözcülər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cülərimizdən",
+      "suffix_type": "AZ-296-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözcülərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cülərimizdə",
+      "suffix_type": "AZ-297-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözcülərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cülərinizdə",
+      "suffix_type": "AZ-298-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözcülərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cüsünün",
+      "suffix_type": "AZ-299-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözcüsünün"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cüdən",
+      "suffix_type": "AZ-300-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözcüdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cüdə",
+      "suffix_type": "AZ-301-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözcüdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüklər",
+      "suffix_type": "AZ-302-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlüklər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüklərimizdən",
+      "suffix_type": "AZ-303-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlüklərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüklərimizdə",
+      "suffix_type": "AZ-304-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlüklərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüklərinizdə",
+      "suffix_type": "AZ-305-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlüklərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lükünün",
+      "suffix_type": "AZ-306-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlükünün"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lükdən",
+      "suffix_type": "AZ-307-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlükdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lükdə",
+      "suffix_type": "AZ-308-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlükdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lülər",
+      "suffix_type": "AZ-309-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlülər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lülərimizdən",
+      "suffix_type": "AZ-310-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlülərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lülərimizdə",
+      "suffix_type": "AZ-311-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlülərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lülərinizdə",
+      "suffix_type": "AZ-312-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlülərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüsünün",
+      "suffix_type": "AZ-313-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlüsünün"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüdən",
+      "suffix_type": "AZ-314-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlüdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lüdə",
+      "suffix_type": "AZ-315-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözlüdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzlər",
+      "suffix_type": "AZ-316-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsüzlər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzlərimizdən",
+      "suffix_type": "AZ-317-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsüzlərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzlərimizdə",
+      "suffix_type": "AZ-318-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsüzlərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzlərinizdə",
+      "suffix_type": "AZ-319-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsüzlərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzünün",
+      "suffix_type": "AZ-320-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsüzünün"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzdən",
+      "suffix_type": "AZ-321-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsüzdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "süzdə",
+      "suffix_type": "AZ-322-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsüzdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "AZ-323-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözdaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "AZ-324-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözdaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "AZ-325-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözdaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "AZ-326-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözdaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "AZ-327-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözdaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşdan",
+      "suffix_type": "AZ-328-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözdaşdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşda",
+      "suffix_type": "AZ-329-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözdaşda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllər",
+      "suffix_type": "AZ-330-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsəllər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərimizdən",
+      "suffix_type": "AZ-331-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsəllərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərimizdə",
+      "suffix_type": "AZ-332-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsəllərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səllərinizdə",
+      "suffix_type": "AZ-333-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsəllərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səlinin",
+      "suffix_type": "AZ-334-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsəlinin"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səldən",
+      "suffix_type": "AZ-335-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsəldən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "səldə",
+      "suffix_type": "AZ-336-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözsəldə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümlər",
+      "suffix_type": "AZ-337-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözümlər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümlərimizdən",
+      "suffix_type": "AZ-338-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözümlərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümlərimizdə",
+      "suffix_type": "AZ-339-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözümlərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümlərinizdə",
+      "suffix_type": "AZ-340-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözümlərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümünün",
+      "suffix_type": "AZ-341-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözümünün"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümdən",
+      "suffix_type": "AZ-342-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözümdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ümdə",
+      "suffix_type": "AZ-343-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "göz -> gözümdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cular",
+      "suffix_type": "AZ-344-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqcular"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cularımızdan",
+      "suffix_type": "AZ-345-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqcularımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cularımızda",
+      "suffix_type": "AZ-346-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqcularımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cularınızda",
+      "suffix_type": "AZ-347-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqcularınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cusunun",
+      "suffix_type": "AZ-348-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqcusunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cudan",
+      "suffix_type": "AZ-349-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqcudan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cuda",
+      "suffix_type": "AZ-350-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqcuda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luqlar",
+      "suffix_type": "AZ-351-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqluqlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luqlarımızdan",
+      "suffix_type": "AZ-352-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqluqlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luqlarımızda",
+      "suffix_type": "AZ-353-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqluqlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luqlarınızda",
+      "suffix_type": "AZ-354-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqluqlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luqunun",
+      "suffix_type": "AZ-355-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqluqunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luqdan",
+      "suffix_type": "AZ-356-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqluqdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luqda",
+      "suffix_type": "AZ-357-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqluqda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lular",
+      "suffix_type": "AZ-358-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqlular"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lularımızdan",
+      "suffix_type": "AZ-359-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqlularımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lularımızda",
+      "suffix_type": "AZ-360-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqlularımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lularınızda",
+      "suffix_type": "AZ-361-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqlularınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lusunun",
+      "suffix_type": "AZ-362-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqlusunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ludan",
+      "suffix_type": "AZ-363-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqludan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "luda",
+      "suffix_type": "AZ-364-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqluda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlar",
+      "suffix_type": "AZ-365-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsuzlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlarımızdan",
+      "suffix_type": "AZ-366-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsuzlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlarımızda",
+      "suffix_type": "AZ-367-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsuzlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzlarınızda",
+      "suffix_type": "AZ-368-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsuzlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzunun",
+      "suffix_type": "AZ-369-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsuzunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzdan",
+      "suffix_type": "AZ-370-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsuzdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "suzda",
+      "suffix_type": "AZ-371-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsuzda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "AZ-372-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqdaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "AZ-373-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqdaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "AZ-374-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqdaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "AZ-375-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqdaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "AZ-376-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqdaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşdan",
+      "suffix_type": "AZ-377-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqdaşdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşda",
+      "suffix_type": "AZ-378-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqdaşda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "AZ-379-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "AZ-380-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "AZ-381-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "AZ-382-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "AZ-383-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "AZ-384-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "AZ-385-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqsalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlar",
+      "suffix_type": "AZ-386-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqumlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlarımızdan",
+      "suffix_type": "AZ-387-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqumlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlarımızda",
+      "suffix_type": "AZ-388-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqumlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umlarınızda",
+      "suffix_type": "AZ-389-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqumlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umunun",
+      "suffix_type": "AZ-390-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqumunun"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umdan",
+      "suffix_type": "AZ-391-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqumdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "umda",
+      "suffix_type": "AZ-392-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "çocuq -> çocuqumda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılar",
+      "suffix_type": "AZ-393-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masacılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızdan",
+      "suffix_type": "AZ-394-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masacılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarımızda",
+      "suffix_type": "AZ-395-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masacılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cılarınızda",
+      "suffix_type": "AZ-396-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masacılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cısının",
+      "suffix_type": "AZ-397-Deriv-Agent-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masacısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıdan",
+      "suffix_type": "AZ-398-Deriv-Agent-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masacıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cıda",
+      "suffix_type": "AZ-399-Deriv-Agent-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masacıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlar",
+      "suffix_type": "AZ-400-Deriv-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalıqlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarımızdan",
+      "suffix_type": "AZ-401-Deriv-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalıqlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarımızda",
+      "suffix_type": "AZ-402-Deriv-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalıqlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqlarınızda",
+      "suffix_type": "AZ-403-Deriv-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalıqlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqının",
+      "suffix_type": "AZ-404-Deriv-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalıqının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqdan",
+      "suffix_type": "AZ-405-Deriv-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalıqdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıqda",
+      "suffix_type": "AZ-406-Deriv-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalıqda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılar",
+      "suffix_type": "AZ-407-Deriv-Adjective-With-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalılar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızdan",
+      "suffix_type": "AZ-408-Deriv-Adjective-With-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalılarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarımızda",
+      "suffix_type": "AZ-409-Deriv-Adjective-With-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalılarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lılarınızda",
+      "suffix_type": "AZ-410-Deriv-Adjective-With-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalılarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lısının",
+      "suffix_type": "AZ-411-Deriv-Adjective-With-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalısının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıdan",
+      "suffix_type": "AZ-412-Deriv-Adjective-With-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalıdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "lıda",
+      "suffix_type": "AZ-413-Deriv-Adjective-With-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masalıda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlar",
+      "suffix_type": "AZ-414-Deriv-Adjective-Without-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasızlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızdan",
+      "suffix_type": "AZ-415-Deriv-Adjective-Without-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasızlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarımızda",
+      "suffix_type": "AZ-416-Deriv-Adjective-Without-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasızlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızlarınızda",
+      "suffix_type": "AZ-417-Deriv-Adjective-Without-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasızlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızının",
+      "suffix_type": "AZ-418-Deriv-Adjective-Without-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasızının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızdan",
+      "suffix_type": "AZ-419-Deriv-Adjective-Without-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sızda",
+      "suffix_type": "AZ-420-Deriv-Adjective-Without-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlar",
+      "suffix_type": "AZ-421-Deriv-Associate-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masadaşlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızdan",
+      "suffix_type": "AZ-422-Deriv-Associate-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masadaşlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarımızda",
+      "suffix_type": "AZ-423-Deriv-Associate-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masadaşlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşlarınızda",
+      "suffix_type": "AZ-424-Deriv-Associate-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masadaşlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşının",
+      "suffix_type": "AZ-425-Deriv-Associate-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masadaşının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşdan",
+      "suffix_type": "AZ-426-Deriv-Associate-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masadaşdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "daşda",
+      "suffix_type": "AZ-427-Deriv-Associate-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masadaşda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallar",
+      "suffix_type": "AZ-428-Deriv-Relational-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasallar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızdan",
+      "suffix_type": "AZ-429-Deriv-Relational-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasallarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarımızda",
+      "suffix_type": "AZ-430-Deriv-Relational-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasallarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "sallarınızda",
+      "suffix_type": "AZ-431-Deriv-Relational-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasallarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salının",
+      "suffix_type": "AZ-432-Deriv-Relational-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasalının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "saldan",
+      "suffix_type": "AZ-433-Deriv-Relational-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasaldan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "salda",
+      "suffix_type": "AZ-434-Deriv-Relational-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masasalda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlar",
+      "suffix_type": "AZ-435-Deriv-Deverbal-Noun-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masaımlar"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızdan",
+      "suffix_type": "AZ-436-Deriv-Deverbal-Noun-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masaımlarımızdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarımızda",
+      "suffix_type": "AZ-437-Deriv-Deverbal-Noun-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masaımlarımızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımlarınızda",
+      "suffix_type": "AZ-438-Deriv-Deverbal-Noun-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masaımlarınızda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımının",
+      "suffix_type": "AZ-439-Deriv-Deverbal-Noun-Poss3Gen",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masaımının"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımdan",
+      "suffix_type": "AZ-440-Deriv-Deverbal-Noun-Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masaımdan"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ımda",
+      "suffix_type": "AZ-441-Deriv-Deverbal-Noun-Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "masa -> masaımda"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilər",
+      "suffix_type": "AZ-442-Deriv-Agent-Plural",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qələm -> qələmcilər"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərimizdən",
+      "suffix_type": "AZ-443-Deriv-Agent-PluralPoss1Abl",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qələm -> qələmcilərimizdən"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərimizdə",
+      "suffix_type": "AZ-444-Deriv-Agent-PluralPoss1Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qələm -> qələmcilərimizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "cilərinizdə",
+      "suffix_type": "AZ-445-Deriv-Agent-PluralPoss2Loc",
+      "description": "root-class-specific productive Azerbaijani morphology chain",
+      "examples": [
+        "qələm -> qələmcilərinizdə"
+      ],
+      "confidence_score": 0.84
+    },
+    {
+      "suffix": "ıçı",
+      "suffix_type": "Deriv-Agent-Extended",
+      "description": "Azerbaijani verbal agent/instrument suffix",
+      "examples": [
+        "yaz -> yazıçı"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ici",
+      "suffix_type": "Deriv-Agent-Extended",
+      "description": "Azerbaijani verbal agent/instrument suffix",
+      "examples": [
+        "get -> getici"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "ucu",
+      "suffix_type": "Deriv-Agent-Extended",
+      "description": "Azerbaijani verbal agent/instrument suffix",
+      "examples": [
+        "oxu -> oxuucu"
+      ],
+      "confidence_score": 0.92
+    },
+    {
+      "suffix": "üçü",
+      "suffix_type": "Deriv-Agent-Extended",
+      "description": "Azerbaijani verbal agent/instrument suffix",
+      "examples": [
+        "gör -> görüçü"
+      ],
+      "confidence_score": 0.92
+    }
+  ]
+}

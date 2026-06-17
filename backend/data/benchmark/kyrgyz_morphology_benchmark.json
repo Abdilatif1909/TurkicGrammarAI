@@ -1,0 +1,4190 @@
+[
+  {
+    "surface": "адамдар",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "адамдарыбыз",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "адамдарыбыздан",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "адамды",
+    "stem": "адам",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "адамга",
+    "stem": "адам",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "адамда",
+    "stem": "адам",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "шаардар",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "шаардарыбыз",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "шаардарыбыздан",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "шаарды",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "шаарга",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "шаарда",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "баладар",
+    "stem": "бала",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "баладарыбыз",
+    "stem": "бала",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "баладарыбыздан",
+    "stem": "бала",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "балады",
+    "stem": "бала",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "балага",
+    "stem": "бала",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "балада",
+    "stem": "бала",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "айылдар",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "айылдарыбыз",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "айылдарыбыздан",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "айылды",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "айылга",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "айылда",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "атадар",
+    "stem": "ата",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "атадарыбыз",
+    "stem": "ата",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "атадарыбыздан",
+    "stem": "ата",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "атады",
+    "stem": "ата",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "атага",
+    "stem": "ата",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "атада",
+    "stem": "ата",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "акчадар",
+    "stem": "акча",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "акчадарыбыз",
+    "stem": "акча",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "акчадарыбыздан",
+    "stem": "акча",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "акчады",
+    "stem": "акча",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "акчага",
+    "stem": "акча",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "акчада",
+    "stem": "акча",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "китептер",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "китептерибиз",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "китептерибизден",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "китепди",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "китепге",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "китепде",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "мектептер",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "мектептерибиз",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "мектептерибизден",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "мектепди",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "мектепге",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "мектепде",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "тилтер",
+    "stem": "тил",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "тилтерибиз",
+    "stem": "тил",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "тилтерибизден",
+    "stem": "тил",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "тилди",
+    "stem": "тил",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "тилге",
+    "stem": "тил",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "тилде",
+    "stem": "тил",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "билимтер",
+    "stem": "билим",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "билимтерибиз",
+    "stem": "билим",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "билимтерибизден",
+    "stem": "билим",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "билимди",
+    "stem": "билим",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "билимге",
+    "stem": "билим",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "билимде",
+    "stem": "билим",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "эмгектер",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "эмгектерибиз",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "эмгектерибизден",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "эмгекди",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "эмгекге",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "эмгекде",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "иштер",
+    "stem": "иш",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "иштерибиз",
+    "stem": "иш",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "иштерибизден",
+    "stem": "иш",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ишди",
+    "stem": "иш",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ишге",
+    "stem": "иш",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ишде",
+    "stem": "иш",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "энетер",
+    "stem": "эне",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "энетерибиз",
+    "stem": "эне",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "энетерибизден",
+    "stem": "эне",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "энеди",
+    "stem": "эне",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "энеге",
+    "stem": "эне",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "энеде",
+    "stem": "эне",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "дарыгертер",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "дарыгертерибиз",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "дарыгертерибизден",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "дарыгерди",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "дарыгерге",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "дарыгерде",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "мугалимтер",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "мугалимтерибиз",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "мугалимтерибизден",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "мугалимди",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "мугалимге",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "мугалимде",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "жолдор",
+    "stem": "жол",
+    "expected_suffixes": [
+      "дор"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "жолдорубуз",
+    "stem": "жол",
+    "expected_suffixes": [
+      "дор",
+      "убуз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "жолдорубуздон",
+    "stem": "жол",
+    "expected_suffixes": [
+      "дор",
+      "убуз",
+      "дон"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "жолду",
+    "stem": "жол",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "жолго",
+    "stem": "жол",
+    "expected_suffixes": [
+      "го"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "жолдо",
+    "stem": "жол",
+    "expected_suffixes": [
+      "до"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "тоодор",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "дор"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "тоодорубуз",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "дор",
+      "убуз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "тоодорубуздон",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "дор",
+      "убуз",
+      "дон"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "тооду",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "тоого",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "го"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "тоодо",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "до"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "досдор",
+    "stem": "дос",
+    "expected_suffixes": [
+      "дор"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "досдорубуз",
+    "stem": "дос",
+    "expected_suffixes": [
+      "дор",
+      "убуз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "досдорубуздон",
+    "stem": "дос",
+    "expected_suffixes": [
+      "дор",
+      "убуз",
+      "дон"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "досду",
+    "stem": "дос",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "досго",
+    "stem": "дос",
+    "expected_suffixes": [
+      "го"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "досдо",
+    "stem": "дос",
+    "expected_suffixes": [
+      "до"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "колдор",
+    "stem": "кол",
+    "expected_suffixes": [
+      "дор"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "колдорубуз",
+    "stem": "кол",
+    "expected_suffixes": [
+      "дор",
+      "убуз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "колдорубуздон",
+    "stem": "кол",
+    "expected_suffixes": [
+      "дор",
+      "убуз",
+      "дон"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "колду",
+    "stem": "кол",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "колго",
+    "stem": "кол",
+    "expected_suffixes": [
+      "го"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "колдо",
+    "stem": "кол",
+    "expected_suffixes": [
+      "до"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "суудор",
+    "stem": "суу",
+    "expected_suffixes": [
+      "дор"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "суудорубуз",
+    "stem": "суу",
+    "expected_suffixes": [
+      "дор",
+      "убуз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "суудорубуздон",
+    "stem": "суу",
+    "expected_suffixes": [
+      "дор",
+      "убуз",
+      "дон"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "сууду",
+    "stem": "суу",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "сууго",
+    "stem": "суу",
+    "expected_suffixes": [
+      "го"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "суудо",
+    "stem": "суу",
+    "expected_suffixes": [
+      "до"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "үйлөр",
+    "stem": "үй",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "үйлөрүбүз",
+    "stem": "үй",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "үйлөрүбүздөн",
+    "stem": "үй",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "үйдү",
+    "stem": "үй",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "үйгө",
+    "stem": "үй",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "үйдө",
+    "stem": "үй",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "көллөр",
+    "stem": "көл",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "көллөрүбүз",
+    "stem": "көл",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "көллөрүбүздөн",
+    "stem": "көл",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "көлдү",
+    "stem": "көл",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "көлгө",
+    "stem": "көл",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "көлдө",
+    "stem": "көл",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "сөзлөр",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "сөзлөрүбүз",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "сөзлөрүбүздөн",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "сөздү",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "сөзгө",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "сөздө",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "күнлөр",
+    "stem": "күн",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "күнлөрүбүз",
+    "stem": "күн",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "күнлөрүбүздөн",
+    "stem": "күн",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "күндү",
+    "stem": "күн",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "күнгө",
+    "stem": "күн",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "күндө",
+    "stem": "күн",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "гүллөр",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "гүллөрүбүз",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "гүллөрүбүздөн",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "гүлдү",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "гүлгө",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "гүлдө",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "өнүрлөр",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "өнүрлөрүбүз",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "өнүрлөрүбүздөн",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "өнүрдү",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "өнүргө",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "өнүрдө",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "китептерибизден",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "үйлөр",
+    "stem": "үй",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "үйлөрүбүздөн",
+    "stem": "үй",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "адамдар",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "жазды",
+    "stem": "жаз",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "жазган",
+    "stem": "жаз",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "жазма",
+    "stem": "жаз",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "окуду",
+    "stem": "оку",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "окугон",
+    "stem": "оку",
+    "expected_suffixes": [
+      "гон"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "окумо",
+    "stem": "оку",
+    "expected_suffixes": [
+      "мо"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "барды",
+    "stem": "бар",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "барган",
+    "stem": "бар",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "барма",
+    "stem": "бар",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "келди",
+    "stem": "кел",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "келген",
+    "stem": "кел",
+    "expected_suffixes": [
+      "ген"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "келме",
+    "stem": "кел",
+    "expected_suffixes": [
+      "ме"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "айтды",
+    "stem": "айт",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "айтган",
+    "stem": "айт",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "айтма",
+    "stem": "айт",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "көрдү",
+    "stem": "көр",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "көргөн",
+    "stem": "көр",
+    "expected_suffixes": [
+      "гөн"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "көрмө",
+    "stem": "көр",
+    "expected_suffixes": [
+      "мө"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "берди",
+    "stem": "бер",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "берген",
+    "stem": "бер",
+    "expected_suffixes": [
+      "ген"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "берме",
+    "stem": "бер",
+    "expected_suffixes": [
+      "ме"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "алды",
+    "stem": "ал",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "алган",
+    "stem": "ал",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "алма",
+    "stem": "ал",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "жасады",
+    "stem": "жаса",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "жасаган",
+    "stem": "жаса",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "жасама",
+    "stem": "жаса",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ойлоду",
+    "stem": "ойло",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ойлогон",
+    "stem": "ойло",
+    "expected_suffixes": [
+      "гон"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ойломо",
+    "stem": "ойло",
+    "expected_suffixes": [
+      "мо"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "сүйлөдү",
+    "stem": "сүйлө",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "сүйлөгөн",
+    "stem": "сүйлө",
+    "expected_suffixes": [
+      "гөн"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "сүйлөмө",
+    "stem": "сүйлө",
+    "expected_suffixes": [
+      "мө"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "укду",
+    "stem": "ук",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "укгон",
+    "stem": "ук",
+    "expected_suffixes": [
+      "гон"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "укмо",
+    "stem": "ук",
+    "expected_suffixes": [
+      "мо"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "үйрөндү",
+    "stem": "үйрөн",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "үйрөнгөн",
+    "stem": "үйрөн",
+    "expected_suffixes": [
+      "гөн"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "үйрөнмө",
+    "stem": "үйрөн",
+    "expected_suffixes": [
+      "мө"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ачды",
+    "stem": "ач",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ачган",
+    "stem": "ач",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ачма",
+    "stem": "ач",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "жапды",
+    "stem": "жап",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "жапган",
+    "stem": "жап",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "жапма",
+    "stem": "жап",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ичди",
+    "stem": "ич",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ичген",
+    "stem": "ич",
+    "expected_suffixes": [
+      "ген"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ичме",
+    "stem": "ич",
+    "expected_suffixes": [
+      "ме"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "жеди",
+    "stem": "же",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "жеген",
+    "stem": "же",
+    "expected_suffixes": [
+      "ген"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "жеме",
+    "stem": "же",
+    "expected_suffixes": [
+      "ме"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "жүрдү",
+    "stem": "жүр",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "жүргөн",
+    "stem": "жүр",
+    "expected_suffixes": [
+      "гөн"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "жүрмө",
+    "stem": "жүр",
+    "expected_suffixes": [
+      "мө"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "турду",
+    "stem": "тур",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "тургон",
+    "stem": "тур",
+    "expected_suffixes": [
+      "гон"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "турмо",
+    "stem": "тур",
+    "expected_suffixes": [
+      "мо"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "баштады",
+    "stem": "башта",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "баштаган",
+    "stem": "башта",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "баштама",
+    "stem": "башта",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ишчы",
+    "stem": "иш",
+    "expected_suffixes": [
+      "чы"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "китепчи",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "чи"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "балалык",
+    "stem": "бала",
+    "expected_suffixes": [
+      "лык"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "билимсиз",
+    "stem": "билим",
+    "expected_suffixes": [
+      "сиз"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "үйсүз",
+    "stem": "үй",
+    "expected_suffixes": [
+      "сүз"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "жолдош",
+    "stem": "жол",
+    "expected_suffixes": [
+      "дош"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "адамдар",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "адамдарыбыз",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "адамдарыбыздан",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "адамды",
+    "stem": "адам",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "адамга",
+    "stem": "адам",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "адамда",
+    "stem": "адам",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "шаардар",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "шаардарыбыз",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "шаардарыбыздан",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "шаарды",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "шаарга",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "шаарда",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "баладар",
+    "stem": "бала",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "баладарыбыз",
+    "stem": "бала",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "баладарыбыздан",
+    "stem": "бала",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "балады",
+    "stem": "бала",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "балага",
+    "stem": "бала",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "балада",
+    "stem": "бала",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "айылдар",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "айылдарыбыз",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "айылдарыбыздан",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "айылды",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "айылга",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "айылда",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "атадар",
+    "stem": "ата",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "атадарыбыз",
+    "stem": "ата",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "атадарыбыздан",
+    "stem": "ата",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "атады",
+    "stem": "ата",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "атага",
+    "stem": "ата",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "атада",
+    "stem": "ата",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "акчадар",
+    "stem": "акча",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "акчадарыбыз",
+    "stem": "акча",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "акчадарыбыздан",
+    "stem": "акча",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "акчады",
+    "stem": "акча",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "акчага",
+    "stem": "акча",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "акчада",
+    "stem": "акча",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "китептер",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "китептерибиз",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "китептерибизден",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "китепди",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "китепге",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "китепде",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "мектептер",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "мектептерибиз",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "мектептерибизден",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "мектепди",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "мектепге",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "мектепде",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "тилтер",
+    "stem": "тил",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "тилтерибиз",
+    "stem": "тил",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "тилтерибизден",
+    "stem": "тил",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "тилди",
+    "stem": "тил",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "тилге",
+    "stem": "тил",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "тилде",
+    "stem": "тил",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "билимтер",
+    "stem": "билим",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "билимтерибиз",
+    "stem": "билим",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "билимтерибизден",
+    "stem": "билим",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "билимди",
+    "stem": "билим",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "билимге",
+    "stem": "билим",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "билимде",
+    "stem": "билим",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "эмгектер",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "эмгектерибиз",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "эмгектерибизден",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "эмгекди",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "эмгекге",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "эмгекде",
+    "stem": "эмгек",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "иштер",
+    "stem": "иш",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "иштерибиз",
+    "stem": "иш",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "иштерибизден",
+    "stem": "иш",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "ишди",
+    "stem": "иш",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "ишге",
+    "stem": "иш",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "ишде",
+    "stem": "иш",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "энетер",
+    "stem": "эне",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "энетерибиз",
+    "stem": "эне",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "энетерибизден",
+    "stem": "эне",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "энеди",
+    "stem": "эне",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "энеге",
+    "stem": "эне",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "энеде",
+    "stem": "эне",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "дарыгертер",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "дарыгертерибиз",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "дарыгертерибизден",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "дарыгерди",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "дарыгерге",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "дарыгерде",
+    "stem": "дарыгер",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "мугалимтер",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "мугалимтерибиз",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "мугалимтерибизден",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "мугалимди",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "мугалимге",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "мугалимде",
+    "stem": "мугалим",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "жолдор",
+    "stem": "жол",
+    "expected_suffixes": [
+      "дор"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "жолдорубуз",
+    "stem": "жол",
+    "expected_suffixes": [
+      "дор",
+      "убуз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "жолдорубуздон",
+    "stem": "жол",
+    "expected_suffixes": [
+      "дор",
+      "убуз",
+      "дон"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "жолду",
+    "stem": "жол",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "жолго",
+    "stem": "жол",
+    "expected_suffixes": [
+      "го"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "жолдо",
+    "stem": "жол",
+    "expected_suffixes": [
+      "до"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "тоодор",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "дор"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "тоодорубуз",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "дор",
+      "убуз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "тоодорубуздон",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "дор",
+      "убуз",
+      "дон"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "тооду",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "тоого",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "го"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "тоодо",
+    "stem": "тоо",
+    "expected_suffixes": [
+      "до"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "досдор",
+    "stem": "дос",
+    "expected_suffixes": [
+      "дор"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "досдорубуз",
+    "stem": "дос",
+    "expected_suffixes": [
+      "дор",
+      "убуз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "досдорубуздон",
+    "stem": "дос",
+    "expected_suffixes": [
+      "дор",
+      "убуз",
+      "дон"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "досду",
+    "stem": "дос",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "досго",
+    "stem": "дос",
+    "expected_suffixes": [
+      "го"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "досдо",
+    "stem": "дос",
+    "expected_suffixes": [
+      "до"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "колдор",
+    "stem": "кол",
+    "expected_suffixes": [
+      "дор"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "колдорубуз",
+    "stem": "кол",
+    "expected_suffixes": [
+      "дор",
+      "убуз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "колдорубуздон",
+    "stem": "кол",
+    "expected_suffixes": [
+      "дор",
+      "убуз",
+      "дон"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "колду",
+    "stem": "кол",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "колго",
+    "stem": "кол",
+    "expected_suffixes": [
+      "го"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "колдо",
+    "stem": "кол",
+    "expected_suffixes": [
+      "до"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "суудор",
+    "stem": "суу",
+    "expected_suffixes": [
+      "дор"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "суудорубуз",
+    "stem": "суу",
+    "expected_suffixes": [
+      "дор",
+      "убуз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "суудорубуздон",
+    "stem": "суу",
+    "expected_suffixes": [
+      "дор",
+      "убуз",
+      "дон"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "сууду",
+    "stem": "суу",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "сууго",
+    "stem": "суу",
+    "expected_suffixes": [
+      "го"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "суудо",
+    "stem": "суу",
+    "expected_suffixes": [
+      "до"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "үйлөр",
+    "stem": "үй",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "үйлөрүбүз",
+    "stem": "үй",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "үйлөрүбүздөн",
+    "stem": "үй",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "үйдү",
+    "stem": "үй",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "үйгө",
+    "stem": "үй",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "үйдө",
+    "stem": "үй",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "көллөр",
+    "stem": "көл",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "көллөрүбүз",
+    "stem": "көл",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "көллөрүбүздөн",
+    "stem": "көл",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "көлдү",
+    "stem": "көл",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "көлгө",
+    "stem": "көл",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "көлдө",
+    "stem": "көл",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "сөзлөр",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "сөзлөрүбүз",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "сөзлөрүбүздөн",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "сөздү",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "сөзгө",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "сөздө",
+    "stem": "сөз",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "күнлөр",
+    "stem": "күн",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "күнлөрүбүз",
+    "stem": "күн",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "күнлөрүбүздөн",
+    "stem": "күн",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "күндү",
+    "stem": "күн",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "күнгө",
+    "stem": "күн",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "күндө",
+    "stem": "күн",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "гүллөр",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "гүллөрүбүз",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "гүллөрүбүздөн",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "гүлдү",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "гүлгө",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "гүлдө",
+    "stem": "гүл",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "өнүрлөр",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "өнүрлөрүбүз",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "өнүрлөрүбүздөн",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "өнүрдү",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "өнүргө",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "гө"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "өнүрдө",
+    "stem": "өнүр",
+    "expected_suffixes": [
+      "дө"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "китептерибизден",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "үйлөр",
+    "stem": "үй",
+    "expected_suffixes": [
+      "лөр"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "үйлөрүбүздөн",
+    "stem": "үй",
+    "expected_suffixes": [
+      "лөр",
+      "үбүз",
+      "дөн"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "адамдар",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "жазды",
+    "stem": "жаз",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "жазган",
+    "stem": "жаз",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "жазма",
+    "stem": "жаз",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "окуду",
+    "stem": "оку",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "окугон",
+    "stem": "оку",
+    "expected_suffixes": [
+      "гон"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "окумо",
+    "stem": "оку",
+    "expected_suffixes": [
+      "мо"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "барды",
+    "stem": "бар",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "барган",
+    "stem": "бар",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "барма",
+    "stem": "бар",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "келди",
+    "stem": "кел",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "келген",
+    "stem": "кел",
+    "expected_suffixes": [
+      "ген"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "келме",
+    "stem": "кел",
+    "expected_suffixes": [
+      "ме"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "айтды",
+    "stem": "айт",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "айтган",
+    "stem": "айт",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "айтма",
+    "stem": "айт",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "көрдү",
+    "stem": "көр",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "көргөн",
+    "stem": "көр",
+    "expected_suffixes": [
+      "гөн"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "көрмө",
+    "stem": "көр",
+    "expected_suffixes": [
+      "мө"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "берди",
+    "stem": "бер",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "берген",
+    "stem": "бер",
+    "expected_suffixes": [
+      "ген"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "берме",
+    "stem": "бер",
+    "expected_suffixes": [
+      "ме"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "алды",
+    "stem": "ал",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "алган",
+    "stem": "ал",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "алма",
+    "stem": "ал",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "жасады",
+    "stem": "жаса",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "жасаган",
+    "stem": "жаса",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "жасама",
+    "stem": "жаса",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ойлоду",
+    "stem": "ойло",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ойлогон",
+    "stem": "ойло",
+    "expected_suffixes": [
+      "гон"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ойломо",
+    "stem": "ойло",
+    "expected_suffixes": [
+      "мо"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "сүйлөдү",
+    "stem": "сүйлө",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "сүйлөгөн",
+    "stem": "сүйлө",
+    "expected_suffixes": [
+      "гөн"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "сүйлөмө",
+    "stem": "сүйлө",
+    "expected_suffixes": [
+      "мө"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "укду",
+    "stem": "ук",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "укгон",
+    "stem": "ук",
+    "expected_suffixes": [
+      "гон"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "укмо",
+    "stem": "ук",
+    "expected_suffixes": [
+      "мо"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "үйрөндү",
+    "stem": "үйрөн",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "үйрөнгөн",
+    "stem": "үйрөн",
+    "expected_suffixes": [
+      "гөн"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "үйрөнмө",
+    "stem": "үйрөн",
+    "expected_suffixes": [
+      "мө"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ачды",
+    "stem": "ач",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ачган",
+    "stem": "ач",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ачма",
+    "stem": "ач",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "жапды",
+    "stem": "жап",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "жапган",
+    "stem": "жап",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "жапма",
+    "stem": "жап",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ичди",
+    "stem": "ич",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "ичген",
+    "stem": "ич",
+    "expected_suffixes": [
+      "ген"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "ичме",
+    "stem": "ич",
+    "expected_suffixes": [
+      "ме"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "жеди",
+    "stem": "же",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "жеген",
+    "stem": "же",
+    "expected_suffixes": [
+      "ген"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "жеме",
+    "stem": "же",
+    "expected_suffixes": [
+      "ме"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "жүрдү",
+    "stem": "жүр",
+    "expected_suffixes": [
+      "дү"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "жүргөн",
+    "stem": "жүр",
+    "expected_suffixes": [
+      "гөн"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "жүрмө",
+    "stem": "жүр",
+    "expected_suffixes": [
+      "мө"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "турду",
+    "stem": "тур",
+    "expected_suffixes": [
+      "ду"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "тургон",
+    "stem": "тур",
+    "expected_suffixes": [
+      "гон"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "турмо",
+    "stem": "тур",
+    "expected_suffixes": [
+      "мо"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "баштады",
+    "stem": "башта",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "verb_past"
+  },
+  {
+    "surface": "баштаган",
+    "stem": "башта",
+    "expected_suffixes": [
+      "ган"
+    ],
+    "category": "verb_participle"
+  },
+  {
+    "surface": "баштама",
+    "stem": "башта",
+    "expected_suffixes": [
+      "ма"
+    ],
+    "category": "verb_negation"
+  },
+  {
+    "surface": "ишчы",
+    "stem": "иш",
+    "expected_suffixes": [
+      "чы"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "китепчи",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "чи"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "балалык",
+    "stem": "бала",
+    "expected_suffixes": [
+      "лык"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "билимсиз",
+    "stem": "билим",
+    "expected_suffixes": [
+      "сиз"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "үйсүз",
+    "stem": "үй",
+    "expected_suffixes": [
+      "сүз"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "жолдош",
+    "stem": "жол",
+    "expected_suffixes": [
+      "дош"
+    ],
+    "category": "derivational"
+  },
+  {
+    "surface": "адамдар",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "адамдарыбыз",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "адамдарыбыздан",
+    "stem": "адам",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "адамды",
+    "stem": "адам",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "адамга",
+    "stem": "адам",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "адамда",
+    "stem": "адам",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "шаардар",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "шаардарыбыз",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "шаардарыбыздан",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "шаарды",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "шаарга",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "шаарда",
+    "stem": "шаар",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "баладар",
+    "stem": "бала",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "баладарыбыз",
+    "stem": "бала",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "баладарыбыздан",
+    "stem": "бала",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "балады",
+    "stem": "бала",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "балага",
+    "stem": "бала",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "балада",
+    "stem": "бала",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "айылдар",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "айылдарыбыз",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "айылдарыбыздан",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "айылды",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "айылга",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "айылда",
+    "stem": "айыл",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "атадар",
+    "stem": "ата",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "атадарыбыз",
+    "stem": "ата",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "атадарыбыздан",
+    "stem": "ата",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "атады",
+    "stem": "ата",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "атага",
+    "stem": "ата",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "атада",
+    "stem": "ата",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "акчадар",
+    "stem": "акча",
+    "expected_suffixes": [
+      "дар"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "акчадарыбыз",
+    "stem": "акча",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "акчадарыбыздан",
+    "stem": "акча",
+    "expected_suffixes": [
+      "дар",
+      "ыбыз",
+      "дан"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "акчады",
+    "stem": "акча",
+    "expected_suffixes": [
+      "ды"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "акчага",
+    "stem": "акча",
+    "expected_suffixes": [
+      "га"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "акчада",
+    "stem": "акча",
+    "expected_suffixes": [
+      "да"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "китептер",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "китептерибиз",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "китептерибизден",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "китепди",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "китепге",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "китепде",
+    "stem": "китеп",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  },
+  {
+    "surface": "мектептер",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "тер"
+    ],
+    "category": "plural"
+  },
+  {
+    "surface": "мектептерибиз",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз"
+    ],
+    "category": "plural_possessive"
+  },
+  {
+    "surface": "мектептерибизден",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "тер",
+      "ибиз",
+      "ден"
+    ],
+    "category": "plural_possessive_case"
+  },
+  {
+    "surface": "мектепди",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "ди"
+    ],
+    "category": "accusative"
+  },
+  {
+    "surface": "мектепге",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "ге"
+    ],
+    "category": "dative"
+  },
+  {
+    "surface": "мектепде",
+    "stem": "мектеп",
+    "expected_suffixes": [
+      "де"
+    ],
+    "category": "locative"
+  }
+]

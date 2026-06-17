@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import json; d=json.load\\(open\\('data/words/uzbek_words.json',encoding='utf-8'\\)\\); print\\(type\\(d\\)\\); print\\(json.dumps\\(d[:3] if isinstance\\(d,list\\) else d, ensure_ascii=False, indent=2\\)[:1500]\\)\")"
+    ]
+  }
+}

@@ -1,0 +1,3298 @@
+{
+  "generated_at": "2026-06-11T15:21:33",
+  "languages": {
+    "uz": {
+      "root_count": 5000,
+      "lemma_count": 5000,
+      "lemma_root_consistency": {
+        "base_entries_checked": 4999,
+        "invalid_base_roots": 0,
+        "status": "pass"
+      },
+      "top_100_roots": [
+        {
+          "root": "yoz",
+          "records": 137
+        },
+        {
+          "root": "kitob",
+          "records": 119
+        },
+        {
+          "root": "ish",
+          "records": 119
+        },
+        {
+          "root": "odam",
+          "records": 119
+        },
+        {
+          "root": "bola",
+          "records": 119
+        },
+        {
+          "root": "qiz",
+          "records": 119
+        },
+        {
+          "root": "o‘g‘il",
+          "records": 119
+        },
+        {
+          "root": "ota",
+          "records": 119
+        },
+        {
+          "root": "ona",
+          "records": 119
+        },
+        {
+          "root": "aka",
+          "records": 119
+        },
+        {
+          "root": "uka",
+          "records": 119
+        },
+        {
+          "root": "opa",
+          "records": 119
+        },
+        {
+          "root": "singil",
+          "records": 119
+        },
+        {
+          "root": "do‘st",
+          "records": 119
+        },
+        {
+          "root": "til",
+          "records": 119
+        },
+        {
+          "root": "so‘z",
+          "records": 119
+        },
+        {
+          "root": "fan",
+          "records": 119
+        },
+        {
+          "root": "talaba",
+          "records": 119
+        },
+        {
+          "root": "o‘qituvchi",
+          "records": 119
+        },
+        {
+          "root": "universitet",
+          "records": 119
+        },
+        {
+          "root": "shahar",
+          "records": 119
+        },
+        {
+          "root": "qishloq",
+          "records": 119
+        },
+        {
+          "root": "yo‘l",
+          "records": 119
+        },
+        {
+          "root": "suv",
+          "records": 119
+        },
+        {
+          "root": "non",
+          "records": 119
+        },
+        {
+          "root": "osh",
+          "records": 119
+        },
+        {
+          "root": "go‘sht",
+          "records": 119
+        },
+        {
+          "root": "sut",
+          "records": 119
+        },
+        {
+          "root": "meva",
+          "records": 119
+        },
+        {
+          "root": "daraxt",
+          "records": 119
+        },
+        {
+          "root": "gul",
+          "records": 119
+        },
+        {
+          "root": "yer",
+          "records": 119
+        },
+        {
+          "root": "osmon",
+          "records": 119
+        },
+        {
+          "root": "quyosh",
+          "records": 119
+        },
+        {
+          "root": "oy",
+          "records": 119
+        },
+        {
+          "root": "yulduz",
+          "records": 119
+        },
+        {
+          "root": "kun",
+          "records": 119
+        },
+        {
+          "root": "tun",
+          "records": 119
+        },
+        {
+          "root": "vaqt",
+          "records": 119
+        },
+        {
+          "root": "yil",
+          "records": 119
+        },
+        {
+          "root": "bahor",
+          "records": 119
+        },
+        {
+          "root": "kuz",
+          "records": 119
+        },
+        {
+          "root": "qish",
+          "records": 119
+        },
+        {
+          "root": "bosh",
+          "records": 119
+        },
+        {
+          "root": "qo‘l",
+          "records": 119
+        },
+        {
+          "root": "oyoq",
+          "records": 119
+        },
+        {
+          "root": "ko‘z",
+          "records": 119
+        },
+        {
+          "root": "quloq",
+          "records": 119
+        },
+        {
+          "root": "yurak",
+          "records": 119
+        },
+        {
+          "root": "aqл",
+          "records": 119
+        },
+        {
+          "root": "fikr",
+          "records": 119
+        },
+        {
+          "root": "savol",
+          "records": 119
+        },
+        {
+          "root": "javob",
+          "records": 119
+        },
+        {
+          "root": "maqsad",
+          "records": 119
+        },
+        {
+          "root": "natija",
+          "records": 119
+        },
+        {
+          "root": "tizim",
+          "records": 119
+        },
+        {
+          "root": "dastur",
+          "records": 119
+        },
+        {
+          "root": "kompyuter",
+          "records": 119
+        },
+        {
+          "root": "internet",
+          "records": 119
+        },
+        {
+          "root": "ma’lumot",
+          "records": 119
+        },
+        {
+          "root": "algoritm",
+          "records": 119
+        },
+        {
+          "root": "texnologiya",
+          "records": 118
+        },
+        {
+          "root": "uy",
+          "records": 117
+        },
+        {
+          "root": "dars",
+          "records": 117
+        },
+        {
+          "root": "bilim",
+          "records": 117
+        },
+        {
+          "root": "xalq",
+          "records": 115
+        },
+        {
+          "root": "raqam",
+          "records": 115
+        },
+        {
+          "root": "model",
+          "records": 115
+        },
+        {
+          "root": "maktab",
+          "records": 111
+        },
+        {
+          "root": "yaxshi",
+          "records": 107
+        },
+        {
+          "root": "yomon",
+          "records": 107
+        },
+        {
+          "root": "katta",
+          "records": 107
+        },
+        {
+          "root": "kichik",
+          "records": 107
+        },
+        {
+          "root": "yangi",
+          "records": 107
+        },
+        {
+          "root": "eski",
+          "records": 107
+        },
+        {
+          "root": "tez",
+          "records": 107
+        },
+        {
+          "root": "sekin",
+          "records": 107
+        },
+        {
+          "root": "uzoq",
+          "records": 107
+        },
+        {
+          "root": "yaqin",
+          "records": 107
+        },
+        {
+          "root": "oq",
+          "records": 107
+        },
+        {
+          "root": "qora",
+          "records": 107
+        },
+        {
+          "root": "qizil",
+          "records": 107
+        },
+        {
+          "root": "ko‘k",
+          "records": 107
+        },
+        {
+          "root": "bor",
+          "records": 20
+        },
+        {
+          "root": "kel",
+          "records": 20
+        },
+        {
+          "root": "ol",
+          "records": 20
+        },
+        {
+          "root": "ber",
+          "records": 20
+        },
+        {
+          "root": "ko‘r",
+          "records": 20
+        },
+        {
+          "root": "bil",
+          "records": 20
+        },
+        {
+          "root": "qil",
+          "records": 20
+        },
+        {
+          "root": "o‘qi",
+          "records": 20
+        },
+        {
+          "root": "ayt",
+          "records": 20
+        },
+        {
+          "root": "top",
+          "records": 20
+        },
+        {
+          "root": "ishla",
+          "records": 20
+        },
+        {
+          "root": "o‘rgan",
+          "records": 20
+        },
+        {
+          "root": "tushun",
+          "records": 20
+        },
+        {
+          "root": "yarat",
+          "records": 20
+        },
+        {
+          "root": "saqla",
+          "records": 20
+        },
+        {
+          "root": "oila",
+          "records": 1
+        },
+        {
+          "root": "ta'lim",
+          "records": 1
+        }
+      ]
+    },
+    "tr": {
+      "root_count": 5000,
+      "lemma_count": 5000,
+      "lemma_root_consistency": {
+        "base_entries_checked": 5000,
+        "invalid_base_roots": 0,
+        "status": "pass"
+      },
+      "top_100_roots": [
+        {
+          "root": "yaz",
+          "records": 145
+        },
+        {
+          "root": "kitap",
+          "records": 124
+        },
+        {
+          "root": "okul",
+          "records": 124
+        },
+        {
+          "root": "ev",
+          "records": 124
+        },
+        {
+          "root": "iş",
+          "records": 124
+        },
+        {
+          "root": "insan",
+          "records": 124
+        },
+        {
+          "root": "çocuk",
+          "records": 124
+        },
+        {
+          "root": "kız",
+          "records": 124
+        },
+        {
+          "root": "oğul",
+          "records": 124
+        },
+        {
+          "root": "baba",
+          "records": 124
+        },
+        {
+          "root": "anne",
+          "records": 124
+        },
+        {
+          "root": "kardeş",
+          "records": 124
+        },
+        {
+          "root": "arkadaş",
+          "records": 124
+        },
+        {
+          "root": "halk",
+          "records": 124
+        },
+        {
+          "root": "dil",
+          "records": 124
+        },
+        {
+          "root": "söz",
+          "records": 124
+        },
+        {
+          "root": "ders",
+          "records": 124
+        },
+        {
+          "root": "öğrenci",
+          "records": 124
+        },
+        {
+          "root": "öğretmen",
+          "records": 124
+        },
+        {
+          "root": "üniversite",
+          "records": 124
+        },
+        {
+          "root": "şehir",
+          "records": 124
+        },
+        {
+          "root": "köy",
+          "records": 124
+        },
+        {
+          "root": "yol",
+          "records": 124
+        },
+        {
+          "root": "su",
+          "records": 124
+        },
+        {
+          "root": "ekmek",
+          "records": 124
+        },
+        {
+          "root": "yemek",
+          "records": 124
+        },
+        {
+          "root": "et",
+          "records": 124
+        },
+        {
+          "root": "süt",
+          "records": 124
+        },
+        {
+          "root": "meyve",
+          "records": 124
+        },
+        {
+          "root": "ağaç",
+          "records": 124
+        },
+        {
+          "root": "çiçek",
+          "records": 124
+        },
+        {
+          "root": "yer",
+          "records": 124
+        },
+        {
+          "root": "gök",
+          "records": 124
+        },
+        {
+          "root": "güneş",
+          "records": 124
+        },
+        {
+          "root": "ay",
+          "records": 124
+        },
+        {
+          "root": "yıldız",
+          "records": 124
+        },
+        {
+          "root": "gün",
+          "records": 124
+        },
+        {
+          "root": "gece",
+          "records": 124
+        },
+        {
+          "root": "zaman",
+          "records": 124
+        },
+        {
+          "root": "yıl",
+          "records": 124
+        },
+        {
+          "root": "bahar",
+          "records": 124
+        },
+        {
+          "root": "sonbahar",
+          "records": 124
+        },
+        {
+          "root": "kış",
+          "records": 124
+        },
+        {
+          "root": "baş",
+          "records": 124
+        },
+        {
+          "root": "el",
+          "records": 124
+        },
+        {
+          "root": "ayak",
+          "records": 124
+        },
+        {
+          "root": "göz",
+          "records": 124
+        },
+        {
+          "root": "kulak",
+          "records": 124
+        },
+        {
+          "root": "yürek",
+          "records": 124
+        },
+        {
+          "root": "akıl",
+          "records": 124
+        },
+        {
+          "root": "fikir",
+          "records": 124
+        },
+        {
+          "root": "bilgi",
+          "records": 124
+        },
+        {
+          "root": "soru",
+          "records": 124
+        },
+        {
+          "root": "cevap",
+          "records": 124
+        },
+        {
+          "root": "amaç",
+          "records": 124
+        },
+        {
+          "root": "sonuç",
+          "records": 124
+        },
+        {
+          "root": "sistem",
+          "records": 124
+        },
+        {
+          "root": "program",
+          "records": 124
+        },
+        {
+          "root": "bilgisayar",
+          "records": 124
+        },
+        {
+          "root": "internet",
+          "records": 124
+        },
+        {
+          "root": "veri",
+          "records": 124
+        },
+        {
+          "root": "sayı",
+          "records": 124
+        },
+        {
+          "root": "model",
+          "records": 123
+        },
+        {
+          "root": "algoritma",
+          "records": 123
+        },
+        {
+          "root": "teknoloji",
+          "records": 123
+        },
+        {
+          "root": "bilim",
+          "records": 122
+        },
+        {
+          "root": "iyi",
+          "records": 105
+        },
+        {
+          "root": "kötü",
+          "records": 105
+        },
+        {
+          "root": "büyük",
+          "records": 105
+        },
+        {
+          "root": "küçük",
+          "records": 105
+        },
+        {
+          "root": "yeni",
+          "records": 105
+        },
+        {
+          "root": "eski",
+          "records": 105
+        },
+        {
+          "root": "hızlı",
+          "records": 105
+        },
+        {
+          "root": "yavaş",
+          "records": 105
+        },
+        {
+          "root": "uzak",
+          "records": 105
+        },
+        {
+          "root": "yakın",
+          "records": 105
+        },
+        {
+          "root": "ak",
+          "records": 105
+        },
+        {
+          "root": "kara",
+          "records": 105
+        },
+        {
+          "root": "kırmızı",
+          "records": 105
+        },
+        {
+          "root": "mavi",
+          "records": 105
+        },
+        {
+          "root": "git",
+          "records": 22
+        },
+        {
+          "root": "gel",
+          "records": 22
+        },
+        {
+          "root": "al",
+          "records": 22
+        },
+        {
+          "root": "ver",
+          "records": 22
+        },
+        {
+          "root": "gör",
+          "records": 22
+        },
+        {
+          "root": "bil",
+          "records": 22
+        },
+        {
+          "root": "yap",
+          "records": 22
+        },
+        {
+          "root": "oku",
+          "records": 22
+        },
+        {
+          "root": "söyle",
+          "records": 22
+        },
+        {
+          "root": "bul",
+          "records": 22
+        },
+        {
+          "root": "çalış",
+          "records": 22
+        },
+        {
+          "root": "öğren",
+          "records": 22
+        },
+        {
+          "root": "anla",
+          "records": 22
+        },
+        {
+          "root": "yarat",
+          "records": 22
+        },
+        {
+          "root": "sakla",
+          "records": 22
+        },
+        {
+          "root": "araba",
+          "records": 1
+        },
+        {
+          "root": "kapı",
+          "records": 1
+        },
+        {
+          "root": "masa",
+          "records": 1
+        },
+        {
+          "root": "kalem",
+          "records": 1
+        },
+        {
+          "root": "defter",
+          "records": 1
+        }
+      ]
+    },
+    "az": {
+      "root_count": 4000,
+      "lemma_count": 4000,
+      "lemma_root_consistency": {
+        "base_entries_checked": 4000,
+        "invalid_base_roots": 0,
+        "status": "pass"
+      },
+      "top_100_roots": [
+        {
+          "root": "kitab",
+          "records": 97
+        },
+        {
+          "root": "məktəb",
+          "records": 97
+        },
+        {
+          "root": "ev",
+          "records": 97
+        },
+        {
+          "root": "iş",
+          "records": 97
+        },
+        {
+          "root": "insan",
+          "records": 97
+        },
+        {
+          "root": "uşaq",
+          "records": 97
+        },
+        {
+          "root": "qız",
+          "records": 97
+        },
+        {
+          "root": "oğul",
+          "records": 97
+        },
+        {
+          "root": "ata",
+          "records": 97
+        },
+        {
+          "root": "ana",
+          "records": 97
+        },
+        {
+          "root": "qardaş",
+          "records": 97
+        },
+        {
+          "root": "bacı",
+          "records": 97
+        },
+        {
+          "root": "dost",
+          "records": 97
+        },
+        {
+          "root": "xalq",
+          "records": 97
+        },
+        {
+          "root": "dil",
+          "records": 97
+        },
+        {
+          "root": "söz",
+          "records": 97
+        },
+        {
+          "root": "dərs",
+          "records": 97
+        },
+        {
+          "root": "elm",
+          "records": 97
+        },
+        {
+          "root": "tələbə",
+          "records": 97
+        },
+        {
+          "root": "müəllim",
+          "records": 97
+        },
+        {
+          "root": "universitet",
+          "records": 97
+        },
+        {
+          "root": "şəhər",
+          "records": 97
+        },
+        {
+          "root": "kənd",
+          "records": 97
+        },
+        {
+          "root": "yol",
+          "records": 97
+        },
+        {
+          "root": "su",
+          "records": 97
+        },
+        {
+          "root": "çörək",
+          "records": 97
+        },
+        {
+          "root": "yemək",
+          "records": 97
+        },
+        {
+          "root": "ət",
+          "records": 97
+        },
+        {
+          "root": "süd",
+          "records": 97
+        },
+        {
+          "root": "meyvə",
+          "records": 97
+        },
+        {
+          "root": "ağac",
+          "records": 97
+        },
+        {
+          "root": "gül",
+          "records": 97
+        },
+        {
+          "root": "yer",
+          "records": 97
+        },
+        {
+          "root": "göy",
+          "records": 97
+        },
+        {
+          "root": "günəş",
+          "records": 97
+        },
+        {
+          "root": "ay",
+          "records": 97
+        },
+        {
+          "root": "ulduz",
+          "records": 97
+        },
+        {
+          "root": "gün",
+          "records": 97
+        },
+        {
+          "root": "gecə",
+          "records": 97
+        },
+        {
+          "root": "vaxt",
+          "records": 97
+        },
+        {
+          "root": "il",
+          "records": 97
+        },
+        {
+          "root": "bahar",
+          "records": 97
+        },
+        {
+          "root": "yay",
+          "records": 97
+        },
+        {
+          "root": "payız",
+          "records": 97
+        },
+        {
+          "root": "qış",
+          "records": 97
+        },
+        {
+          "root": "baş",
+          "records": 97
+        },
+        {
+          "root": "əl",
+          "records": 97
+        },
+        {
+          "root": "ayaq",
+          "records": 97
+        },
+        {
+          "root": "göz",
+          "records": 97
+        },
+        {
+          "root": "qulaq",
+          "records": 97
+        },
+        {
+          "root": "ürək",
+          "records": 97
+        },
+        {
+          "root": "ağıl",
+          "records": 97
+        },
+        {
+          "root": "fikir",
+          "records": 97
+        },
+        {
+          "root": "bilik",
+          "records": 97
+        },
+        {
+          "root": "sual",
+          "records": 97
+        },
+        {
+          "root": "cavab",
+          "records": 97
+        },
+        {
+          "root": "məqsəd",
+          "records": 97
+        },
+        {
+          "root": "nəticə",
+          "records": 97
+        },
+        {
+          "root": "sistem",
+          "records": 97
+        },
+        {
+          "root": "proqram",
+          "records": 97
+        },
+        {
+          "root": "kompüter",
+          "records": 97
+        },
+        {
+          "root": "internet",
+          "records": 97
+        },
+        {
+          "root": "məlumat",
+          "records": 97
+        },
+        {
+          "root": "say",
+          "records": 97
+        },
+        {
+          "root": "alqoritm",
+          "records": 97
+        },
+        {
+          "root": "texnologiya",
+          "records": 97
+        },
+        {
+          "root": "model",
+          "records": 96
+        },
+        {
+          "root": "yaxşı",
+          "records": 79
+        },
+        {
+          "root": "pis",
+          "records": 79
+        },
+        {
+          "root": "böyük",
+          "records": 79
+        },
+        {
+          "root": "kiçik",
+          "records": 79
+        },
+        {
+          "root": "yeni",
+          "records": 79
+        },
+        {
+          "root": "köhnə",
+          "records": 79
+        },
+        {
+          "root": "sürətli",
+          "records": 79
+        },
+        {
+          "root": "yavaş",
+          "records": 79
+        },
+        {
+          "root": "uzaq",
+          "records": 79
+        },
+        {
+          "root": "yaxın",
+          "records": 79
+        },
+        {
+          "root": "ağ",
+          "records": 78
+        },
+        {
+          "root": "qara",
+          "records": 78
+        },
+        {
+          "root": "qırmızı",
+          "records": 78
+        },
+        {
+          "root": "mavi",
+          "records": 78
+        },
+        {
+          "root": "get",
+          "records": 25
+        },
+        {
+          "root": "gəl",
+          "records": 25
+        },
+        {
+          "root": "al",
+          "records": 25
+        },
+        {
+          "root": "ver",
+          "records": 25
+        },
+        {
+          "root": "gör",
+          "records": 25
+        },
+        {
+          "root": "bil",
+          "records": 25
+        },
+        {
+          "root": "et",
+          "records": 25
+        },
+        {
+          "root": "yaz",
+          "records": 25
+        },
+        {
+          "root": "oxu",
+          "records": 25
+        },
+        {
+          "root": "de",
+          "records": 25
+        },
+        {
+          "root": "tap",
+          "records": 25
+        },
+        {
+          "root": "işlə",
+          "records": 25
+        },
+        {
+          "root": "öyrən",
+          "records": 25
+        },
+        {
+          "root": "anla",
+          "records": 25
+        },
+        {
+          "root": "yarat",
+          "records": 25
+        },
+        {
+          "root": "saxla",
+          "records": 25
+        },
+        {
+          "root": "araba",
+          "records": 1
+        },
+        {
+          "root": "qapı",
+          "records": 1
+        },
+        {
+          "root": "çocuq",
+          "records": 1
+        }
+      ]
+    },
+    "kk": {
+      "root_count": 4000,
+      "lemma_count": 4000,
+      "lemma_root_consistency": {
+        "base_entries_checked": 4000,
+        "invalid_base_roots": 0,
+        "status": "pass"
+      },
+      "top_100_roots": [
+        {
+          "root": "жаз",
+          "records": 119
+        },
+        {
+          "root": "кітап",
+          "records": 98
+        },
+        {
+          "root": "мектеп",
+          "records": 98
+        },
+        {
+          "root": "үй",
+          "records": 98
+        },
+        {
+          "root": "жұмыс",
+          "records": 98
+        },
+        {
+          "root": "адам",
+          "records": 98
+        },
+        {
+          "root": "бала",
+          "records": 98
+        },
+        {
+          "root": "қыз",
+          "records": 98
+        },
+        {
+          "root": "ұл",
+          "records": 98
+        },
+        {
+          "root": "әке",
+          "records": 98
+        },
+        {
+          "root": "ана",
+          "records": 98
+        },
+        {
+          "root": "аға",
+          "records": 98
+        },
+        {
+          "root": "іні",
+          "records": 98
+        },
+        {
+          "root": "әпке",
+          "records": 98
+        },
+        {
+          "root": "дос",
+          "records": 98
+        },
+        {
+          "root": "халық",
+          "records": 98
+        },
+        {
+          "root": "тіл",
+          "records": 98
+        },
+        {
+          "root": "сөз",
+          "records": 98
+        },
+        {
+          "root": "сабақ",
+          "records": 98
+        },
+        {
+          "root": "ғылым",
+          "records": 98
+        },
+        {
+          "root": "студент",
+          "records": 98
+        },
+        {
+          "root": "мұғалім",
+          "records": 98
+        },
+        {
+          "root": "университет",
+          "records": 98
+        },
+        {
+          "root": "қала",
+          "records": 98
+        },
+        {
+          "root": "ауыл",
+          "records": 98
+        },
+        {
+          "root": "жол",
+          "records": 98
+        },
+        {
+          "root": "су",
+          "records": 98
+        },
+        {
+          "root": "нан",
+          "records": 98
+        },
+        {
+          "root": "ас",
+          "records": 98
+        },
+        {
+          "root": "ет",
+          "records": 98
+        },
+        {
+          "root": "сүт",
+          "records": 98
+        },
+        {
+          "root": "жеміс",
+          "records": 98
+        },
+        {
+          "root": "гүл",
+          "records": 98
+        },
+        {
+          "root": "жер",
+          "records": 98
+        },
+        {
+          "root": "аспан",
+          "records": 98
+        },
+        {
+          "root": "күн",
+          "records": 98
+        },
+        {
+          "root": "ай",
+          "records": 98
+        },
+        {
+          "root": "жұлдыз",
+          "records": 98
+        },
+        {
+          "root": "түн",
+          "records": 98
+        },
+        {
+          "root": "уақыт",
+          "records": 98
+        },
+        {
+          "root": "жыл",
+          "records": 98
+        },
+        {
+          "root": "көктем",
+          "records": 98
+        },
+        {
+          "root": "күз",
+          "records": 98
+        },
+        {
+          "root": "қыс",
+          "records": 98
+        },
+        {
+          "root": "бас",
+          "records": 98
+        },
+        {
+          "root": "қол",
+          "records": 98
+        },
+        {
+          "root": "аяқ",
+          "records": 98
+        },
+        {
+          "root": "көз",
+          "records": 98
+        },
+        {
+          "root": "құлақ",
+          "records": 98
+        },
+        {
+          "root": "жүрек",
+          "records": 98
+        },
+        {
+          "root": "ақыл",
+          "records": 98
+        },
+        {
+          "root": "ой",
+          "records": 98
+        },
+        {
+          "root": "білім",
+          "records": 98
+        },
+        {
+          "root": "сұрақ",
+          "records": 98
+        },
+        {
+          "root": "жауап",
+          "records": 98
+        },
+        {
+          "root": "мақсат",
+          "records": 98
+        },
+        {
+          "root": "нәтиже",
+          "records": 98
+        },
+        {
+          "root": "жүйе",
+          "records": 98
+        },
+        {
+          "root": "бағдарлама",
+          "records": 98
+        },
+        {
+          "root": "компьютер",
+          "records": 98
+        },
+        {
+          "root": "интернет",
+          "records": 98
+        },
+        {
+          "root": "дерек",
+          "records": 98
+        },
+        {
+          "root": "сан",
+          "records": 98
+        },
+        {
+          "root": "үлгі",
+          "records": 98
+        },
+        {
+          "root": "алгоритм",
+          "records": 98
+        },
+        {
+          "root": "технология",
+          "records": 98
+        },
+        {
+          "root": "ағаш",
+          "records": 96
+        },
+        {
+          "root": "жақсы",
+          "records": 76
+        },
+        {
+          "root": "жаман",
+          "records": 76
+        },
+        {
+          "root": "үлкен",
+          "records": 76
+        },
+        {
+          "root": "кіші",
+          "records": 76
+        },
+        {
+          "root": "жаңа",
+          "records": 76
+        },
+        {
+          "root": "ескі",
+          "records": 75
+        },
+        {
+          "root": "тез",
+          "records": 75
+        },
+        {
+          "root": "баяу",
+          "records": 75
+        },
+        {
+          "root": "алыс",
+          "records": 75
+        },
+        {
+          "root": "жақын",
+          "records": 75
+        },
+        {
+          "root": "ақ",
+          "records": 75
+        },
+        {
+          "root": "қара",
+          "records": 75
+        },
+        {
+          "root": "қызыл",
+          "records": 75
+        },
+        {
+          "root": "көк",
+          "records": 75
+        },
+        {
+          "root": "бар",
+          "records": 24
+        },
+        {
+          "root": "кел",
+          "records": 24
+        },
+        {
+          "root": "ал",
+          "records": 24
+        },
+        {
+          "root": "бер",
+          "records": 24
+        },
+        {
+          "root": "көр",
+          "records": 24
+        },
+        {
+          "root": "біл",
+          "records": 24
+        },
+        {
+          "root": "жаса",
+          "records": 24
+        },
+        {
+          "root": "оқы",
+          "records": 24
+        },
+        {
+          "root": "айт",
+          "records": 24
+        },
+        {
+          "root": "тап",
+          "records": 24
+        },
+        {
+          "root": "істе",
+          "records": 24
+        },
+        {
+          "root": "үйрен",
+          "records": 24
+        },
+        {
+          "root": "түсін",
+          "records": 24
+        },
+        {
+          "root": "құр",
+          "records": 24
+        },
+        {
+          "root": "сақта",
+          "records": 24
+        },
+        {
+          "root": "тау",
+          "records": 1
+        },
+        {
+          "root": "таушы",
+          "records": 1
+        },
+        {
+          "root": "тауші",
+          "records": 1
+        },
+        {
+          "root": "таулық",
+          "records": 1
+        }
+      ]
+    },
+    "ky": {
+      "root_count": 4000,
+      "lemma_count": 4000,
+      "lemma_root_consistency": {
+        "base_entries_checked": 4000,
+        "invalid_base_roots": 0,
+        "status": "pass"
+      },
+      "top_100_roots": [
+        {
+          "root": "жаз",
+          "records": 121
+        },
+        {
+          "root": "китеп",
+          "records": 99
+        },
+        {
+          "root": "мектеп",
+          "records": 99
+        },
+        {
+          "root": "үй",
+          "records": 99
+        },
+        {
+          "root": "иш",
+          "records": 99
+        },
+        {
+          "root": "адам",
+          "records": 99
+        },
+        {
+          "root": "бала",
+          "records": 99
+        },
+        {
+          "root": "кыз",
+          "records": 99
+        },
+        {
+          "root": "уул",
+          "records": 99
+        },
+        {
+          "root": "ата",
+          "records": 99
+        },
+        {
+          "root": "эне",
+          "records": 99
+        },
+        {
+          "root": "ага",
+          "records": 99
+        },
+        {
+          "root": "ини",
+          "records": 99
+        },
+        {
+          "root": "эже",
+          "records": 99
+        },
+        {
+          "root": "дос",
+          "records": 99
+        },
+        {
+          "root": "эл",
+          "records": 99
+        },
+        {
+          "root": "тил",
+          "records": 99
+        },
+        {
+          "root": "сөз",
+          "records": 99
+        },
+        {
+          "root": "сабак",
+          "records": 99
+        },
+        {
+          "root": "илим",
+          "records": 99
+        },
+        {
+          "root": "студент",
+          "records": 99
+        },
+        {
+          "root": "мугалим",
+          "records": 99
+        },
+        {
+          "root": "университет",
+          "records": 99
+        },
+        {
+          "root": "шаар",
+          "records": 99
+        },
+        {
+          "root": "айыл",
+          "records": 99
+        },
+        {
+          "root": "жол",
+          "records": 99
+        },
+        {
+          "root": "суу",
+          "records": 99
+        },
+        {
+          "root": "нан",
+          "records": 99
+        },
+        {
+          "root": "тамак",
+          "records": 99
+        },
+        {
+          "root": "эт",
+          "records": 99
+        },
+        {
+          "root": "сүт",
+          "records": 99
+        },
+        {
+          "root": "жемиш",
+          "records": 99
+        },
+        {
+          "root": "дарак",
+          "records": 99
+        },
+        {
+          "root": "гүл",
+          "records": 99
+        },
+        {
+          "root": "жер",
+          "records": 99
+        },
+        {
+          "root": "асман",
+          "records": 99
+        },
+        {
+          "root": "күн",
+          "records": 99
+        },
+        {
+          "root": "ай",
+          "records": 99
+        },
+        {
+          "root": "жылдыз",
+          "records": 99
+        },
+        {
+          "root": "түн",
+          "records": 99
+        },
+        {
+          "root": "убакыт",
+          "records": 99
+        },
+        {
+          "root": "жыл",
+          "records": 99
+        },
+        {
+          "root": "күз",
+          "records": 99
+        },
+        {
+          "root": "кыш",
+          "records": 99
+        },
+        {
+          "root": "баш",
+          "records": 99
+        },
+        {
+          "root": "кол",
+          "records": 99
+        },
+        {
+          "root": "бут",
+          "records": 99
+        },
+        {
+          "root": "көз",
+          "records": 99
+        },
+        {
+          "root": "кулак",
+          "records": 99
+        },
+        {
+          "root": "жүрөк",
+          "records": 99
+        },
+        {
+          "root": "акыл",
+          "records": 99
+        },
+        {
+          "root": "ой",
+          "records": 99
+        },
+        {
+          "root": "билим",
+          "records": 99
+        },
+        {
+          "root": "суроо",
+          "records": 99
+        },
+        {
+          "root": "жооп",
+          "records": 99
+        },
+        {
+          "root": "максат",
+          "records": 99
+        },
+        {
+          "root": "натыйжа",
+          "records": 99
+        },
+        {
+          "root": "тутум",
+          "records": 99
+        },
+        {
+          "root": "программа",
+          "records": 99
+        },
+        {
+          "root": "компьютер",
+          "records": 99
+        },
+        {
+          "root": "интернет",
+          "records": 99
+        },
+        {
+          "root": "маалымат",
+          "records": 99
+        },
+        {
+          "root": "сан",
+          "records": 99
+        },
+        {
+          "root": "үлгү",
+          "records": 99
+        },
+        {
+          "root": "алгоритм",
+          "records": 99
+        },
+        {
+          "root": "технология",
+          "records": 99
+        },
+        {
+          "root": "жакшы",
+          "records": 77
+        },
+        {
+          "root": "жаман",
+          "records": 77
+        },
+        {
+          "root": "чоң",
+          "records": 77
+        },
+        {
+          "root": "кичине",
+          "records": 77
+        },
+        {
+          "root": "жаңы",
+          "records": 77
+        },
+        {
+          "root": "эски",
+          "records": 76
+        },
+        {
+          "root": "тез",
+          "records": 76
+        },
+        {
+          "root": "жай",
+          "records": 76
+        },
+        {
+          "root": "алыс",
+          "records": 76
+        },
+        {
+          "root": "жакын",
+          "records": 76
+        },
+        {
+          "root": "ак",
+          "records": 76
+        },
+        {
+          "root": "кара",
+          "records": 76
+        },
+        {
+          "root": "кызыл",
+          "records": 76
+        },
+        {
+          "root": "көк",
+          "records": 76
+        },
+        {
+          "root": "бар",
+          "records": 25
+        },
+        {
+          "root": "кел",
+          "records": 25
+        },
+        {
+          "root": "ал",
+          "records": 25
+        },
+        {
+          "root": "бер",
+          "records": 25
+        },
+        {
+          "root": "көр",
+          "records": 25
+        },
+        {
+          "root": "бил",
+          "records": 25
+        },
+        {
+          "root": "жаса",
+          "records": 25
+        },
+        {
+          "root": "оку",
+          "records": 25
+        },
+        {
+          "root": "айт",
+          "records": 25
+        },
+        {
+          "root": "тап",
+          "records": 25
+        },
+        {
+          "root": "иште",
+          "records": 25
+        },
+        {
+          "root": "үйрөн",
+          "records": 25
+        },
+        {
+          "root": "түшүн",
+          "records": 25
+        },
+        {
+          "root": "түз",
+          "records": 25
+        },
+        {
+          "root": "сакта",
+          "records": 25
+        },
+        {
+          "root": "китеплук",
+          "records": 1
+        },
+        {
+          "root": "китеплүк",
+          "records": 1
+        },
+        {
+          "root": "китепсуз",
+          "records": 1
+        },
+        {
+          "root": "китепсүз",
+          "records": 1
+        },
+        {
+          "root": "китепдош",
+          "records": 1
+        }
+      ]
+    },
+    "tk": {
+      "root_count": 4000,
+      "lemma_count": 4000,
+      "lemma_root_consistency": {
+        "base_entries_checked": 4000,
+        "invalid_base_roots": 0,
+        "status": "pass"
+      },
+      "top_100_roots": [
+        {
+          "root": "et",
+          "records": 121
+        },
+        {
+          "root": "kitap",
+          "records": 97
+        },
+        {
+          "root": "mekdep",
+          "records": 97
+        },
+        {
+          "root": "öý",
+          "records": 97
+        },
+        {
+          "root": "iş",
+          "records": 97
+        },
+        {
+          "root": "adam",
+          "records": 97
+        },
+        {
+          "root": "çaga",
+          "records": 97
+        },
+        {
+          "root": "gyz",
+          "records": 97
+        },
+        {
+          "root": "ogul",
+          "records": 97
+        },
+        {
+          "root": "ata",
+          "records": 97
+        },
+        {
+          "root": "ene",
+          "records": 97
+        },
+        {
+          "root": "aga",
+          "records": 97
+        },
+        {
+          "root": "ini",
+          "records": 97
+        },
+        {
+          "root": "uýa",
+          "records": 97
+        },
+        {
+          "root": "dost",
+          "records": 97
+        },
+        {
+          "root": "halk",
+          "records": 97
+        },
+        {
+          "root": "dil",
+          "records": 97
+        },
+        {
+          "root": "söz",
+          "records": 97
+        },
+        {
+          "root": "sapak",
+          "records": 97
+        },
+        {
+          "root": "ylym",
+          "records": 97
+        },
+        {
+          "root": "talyp",
+          "records": 97
+        },
+        {
+          "root": "mugallym",
+          "records": 97
+        },
+        {
+          "root": "uniwersitet",
+          "records": 97
+        },
+        {
+          "root": "şäher",
+          "records": 97
+        },
+        {
+          "root": "oba",
+          "records": 97
+        },
+        {
+          "root": "ýol",
+          "records": 97
+        },
+        {
+          "root": "suw",
+          "records": 97
+        },
+        {
+          "root": "çörek",
+          "records": 97
+        },
+        {
+          "root": "nahar",
+          "records": 97
+        },
+        {
+          "root": "süýt",
+          "records": 97
+        },
+        {
+          "root": "miwe",
+          "records": 97
+        },
+        {
+          "root": "gül",
+          "records": 97
+        },
+        {
+          "root": "ýer",
+          "records": 97
+        },
+        {
+          "root": "asman",
+          "records": 97
+        },
+        {
+          "root": "gün",
+          "records": 97
+        },
+        {
+          "root": "aý",
+          "records": 97
+        },
+        {
+          "root": "ýyldyz",
+          "records": 97
+        },
+        {
+          "root": "gije",
+          "records": 97
+        },
+        {
+          "root": "wagt",
+          "records": 97
+        },
+        {
+          "root": "ýyl",
+          "records": 97
+        },
+        {
+          "root": "bahar",
+          "records": 97
+        },
+        {
+          "root": "tomus",
+          "records": 97
+        },
+        {
+          "root": "güýz",
+          "records": 97
+        },
+        {
+          "root": "gyş",
+          "records": 97
+        },
+        {
+          "root": "baş",
+          "records": 97
+        },
+        {
+          "root": "el",
+          "records": 97
+        },
+        {
+          "root": "aýak",
+          "records": 97
+        },
+        {
+          "root": "göz",
+          "records": 97
+        },
+        {
+          "root": "gulak",
+          "records": 97
+        },
+        {
+          "root": "ýürek",
+          "records": 97
+        },
+        {
+          "root": "akyl",
+          "records": 97
+        },
+        {
+          "root": "pikir",
+          "records": 97
+        },
+        {
+          "root": "bilim",
+          "records": 97
+        },
+        {
+          "root": "sorag",
+          "records": 97
+        },
+        {
+          "root": "jogap",
+          "records": 97
+        },
+        {
+          "root": "maksat",
+          "records": 97
+        },
+        {
+          "root": "netije",
+          "records": 97
+        },
+        {
+          "root": "ulgam",
+          "records": 97
+        },
+        {
+          "root": "programma",
+          "records": 97
+        },
+        {
+          "root": "kompýuter",
+          "records": 97
+        },
+        {
+          "root": "internet",
+          "records": 97
+        },
+        {
+          "root": "maglumat",
+          "records": 97
+        },
+        {
+          "root": "san",
+          "records": 97
+        },
+        {
+          "root": "nusga",
+          "records": 97
+        },
+        {
+          "root": "algoritm",
+          "records": 97
+        },
+        {
+          "root": "tehnologiýa",
+          "records": 97
+        },
+        {
+          "root": "agaç",
+          "records": 93
+        },
+        {
+          "root": "gowy",
+          "records": 79
+        },
+        {
+          "root": "erbet",
+          "records": 79
+        },
+        {
+          "root": "uly",
+          "records": 79
+        },
+        {
+          "root": "kiçi",
+          "records": 79
+        },
+        {
+          "root": "täze",
+          "records": 79
+        },
+        {
+          "root": "köne",
+          "records": 79
+        },
+        {
+          "root": "çalt",
+          "records": 79
+        },
+        {
+          "root": "haýal",
+          "records": 79
+        },
+        {
+          "root": "uzak",
+          "records": 79
+        },
+        {
+          "root": "ýakyn",
+          "records": 79
+        },
+        {
+          "root": "ak",
+          "records": 79
+        },
+        {
+          "root": "gara",
+          "records": 79
+        },
+        {
+          "root": "gyzyl",
+          "records": 79
+        },
+        {
+          "root": "gök",
+          "records": 79
+        },
+        {
+          "root": "bar",
+          "records": 25
+        },
+        {
+          "root": "gel",
+          "records": 25
+        },
+        {
+          "root": "al",
+          "records": 25
+        },
+        {
+          "root": "ber",
+          "records": 25
+        },
+        {
+          "root": "gör",
+          "records": 25
+        },
+        {
+          "root": "bil",
+          "records": 25
+        },
+        {
+          "root": "ýaz",
+          "records": 25
+        },
+        {
+          "root": "oka",
+          "records": 25
+        },
+        {
+          "root": "aýt",
+          "records": 25
+        },
+        {
+          "root": "tap",
+          "records": 25
+        },
+        {
+          "root": "işle",
+          "records": 25
+        },
+        {
+          "root": "öwren",
+          "records": 25
+        },
+        {
+          "root": "düşün",
+          "records": 25
+        },
+        {
+          "root": "döret",
+          "records": 25
+        },
+        {
+          "root": "sakla",
+          "records": 25
+        },
+        {
+          "root": "kitapdaş",
+          "records": 1
+        },
+        {
+          "root": "öýdaş",
+          "records": 1
+        },
+        {
+          "root": "adamdaş",
+          "records": 1
+        },
+        {
+          "root": "mekdepdaş",
+          "records": 1
+        }
+      ]
+    },
+    "ug": {
+      "root_count": 4000,
+      "lemma_count": 4000,
+      "lemma_root_consistency": {
+        "base_entries_checked": 3998,
+        "invalid_base_roots": 0,
+        "status": "pass"
+      },
+      "top_100_roots": [
+        {
+          "root": "كىتاب",
+          "records": 25
+        },
+        {
+          "root": "ماكتاب",
+          "records": 25
+        },
+        {
+          "root": "ئۆي",
+          "records": 25
+        },
+        {
+          "root": "ىش",
+          "records": 25
+        },
+        {
+          "root": "ئادەم",
+          "records": 25
+        },
+        {
+          "root": "بولا",
+          "records": 25
+        },
+        {
+          "root": "قىز",
+          "records": 25
+        },
+        {
+          "root": "ئۆغىل",
+          "records": 25
+        },
+        {
+          "root": "وتا",
+          "records": 25
+        },
+        {
+          "root": "ونا",
+          "records": 25
+        },
+        {
+          "root": "اكا",
+          "records": 25
+        },
+        {
+          "root": "ۇكا",
+          "records": 25
+        },
+        {
+          "root": "وپا",
+          "records": 25
+        },
+        {
+          "root": "سىڭىل",
+          "records": 25
+        },
+        {
+          "root": "دئۆست",
+          "records": 25
+        },
+        {
+          "root": "خالق",
+          "records": 25
+        },
+        {
+          "root": "تىل",
+          "records": 25
+        },
+        {
+          "root": "سۆز",
+          "records": 25
+        },
+        {
+          "root": "دارس",
+          "records": 25
+        },
+        {
+          "root": "فان",
+          "records": 25
+        },
+        {
+          "root": "تالابا",
+          "records": 25
+        },
+        {
+          "root": "ئۆقىتۇۋچى",
+          "records": 25
+        },
+        {
+          "root": "ۇنىۋېرسىتېت",
+          "records": 25
+        },
+        {
+          "root": "شاھار",
+          "records": 25
+        },
+        {
+          "root": "قىشلوق",
+          "records": 25
+        },
+        {
+          "root": "يئۆل",
+          "records": 25
+        },
+        {
+          "root": "سۇ",
+          "records": 25
+        },
+        {
+          "root": "نون",
+          "records": 25
+        },
+        {
+          "root": "وش",
+          "records": 25
+        },
+        {
+          "root": "گئۆشت",
+          "records": 25
+        },
+        {
+          "root": "سۇت",
+          "records": 25
+        },
+        {
+          "root": "مېۋا",
+          "records": 25
+        },
+        {
+          "root": "داراخت",
+          "records": 25
+        },
+        {
+          "root": "گۇل",
+          "records": 25
+        },
+        {
+          "root": "يەر",
+          "records": 25
+        },
+        {
+          "root": "وسمون",
+          "records": 25
+        },
+        {
+          "root": "قۇيوش",
+          "records": 25
+        },
+        {
+          "root": "وي",
+          "records": 25
+        },
+        {
+          "root": "يۇلدۇز",
+          "records": 25
+        },
+        {
+          "root": "كۇن",
+          "records": 25
+        },
+        {
+          "root": "تۇن",
+          "records": 25
+        },
+        {
+          "root": "ۋاقت",
+          "records": 25
+        },
+        {
+          "root": "يىل",
+          "records": 25
+        },
+        {
+          "root": "باھور",
+          "records": 25
+        },
+        {
+          "root": "يوز",
+          "records": 25
+        },
+        {
+          "root": "كۇز",
+          "records": 25
+        },
+        {
+          "root": "قىش",
+          "records": 25
+        },
+        {
+          "root": "بوش",
+          "records": 25
+        },
+        {
+          "root": "قئۆل",
+          "records": 25
+        },
+        {
+          "root": "ويوق",
+          "records": 25
+        },
+        {
+          "root": "كئۆز",
+          "records": 25
+        },
+        {
+          "root": "قۇلوق",
+          "records": 25
+        },
+        {
+          "root": "يۇراك",
+          "records": 25
+        },
+        {
+          "root": "اقل",
+          "records": 25
+        },
+        {
+          "root": "فىكر",
+          "records": 25
+        },
+        {
+          "root": "بىلىم",
+          "records": 25
+        },
+        {
+          "root": "ساۋول",
+          "records": 25
+        },
+        {
+          "root": "جاۋوب",
+          "records": 25
+        },
+        {
+          "root": "ماقساد",
+          "records": 25
+        },
+        {
+          "root": "ناتىجا",
+          "records": 25
+        },
+        {
+          "root": "تىزىم",
+          "records": 25
+        },
+        {
+          "root": "داستۇر",
+          "records": 25
+        },
+        {
+          "root": "كومپيۇتېر",
+          "records": 25
+        },
+        {
+          "root": "ىنتېرنېت",
+          "records": 25
+        },
+        {
+          "root": "راقام",
+          "records": 25
+        },
+        {
+          "root": "مودېل",
+          "records": 25
+        },
+        {
+          "root": "الگورىتم",
+          "records": 25
+        },
+        {
+          "root": "تېخنولوگىيا",
+          "records": 25
+        },
+        {
+          "root": "ياخشى",
+          "records": 25
+        },
+        {
+          "root": "يومون",
+          "records": 25
+        },
+        {
+          "root": "كاتتا",
+          "records": 25
+        },
+        {
+          "root": "كىچىك",
+          "records": 25
+        },
+        {
+          "root": "ياڭى",
+          "records": 25
+        },
+        {
+          "root": "ېسكى",
+          "records": 25
+        },
+        {
+          "root": "تېز",
+          "records": 25
+        },
+        {
+          "root": "سېكىن",
+          "records": 25
+        },
+        {
+          "root": "ۇزوق",
+          "records": 25
+        },
+        {
+          "root": "ياقىن",
+          "records": 25
+        },
+        {
+          "root": "وق",
+          "records": 25
+        },
+        {
+          "root": "قورا",
+          "records": 25
+        },
+        {
+          "root": "قىزىل",
+          "records": 25
+        },
+        {
+          "root": "كئۆك",
+          "records": 25
+        },
+        {
+          "root": "بور",
+          "records": 25
+        },
+        {
+          "root": "كېل",
+          "records": 25
+        },
+        {
+          "root": "ول",
+          "records": 25
+        },
+        {
+          "root": "بېر",
+          "records": 25
+        },
+        {
+          "root": "كئۆر",
+          "records": 25
+        },
+        {
+          "root": "قىل",
+          "records": 25
+        },
+        {
+          "root": "ئۆقى",
+          "records": 25
+        },
+        {
+          "root": "ايت",
+          "records": 25
+        },
+        {
+          "root": "توپ",
+          "records": 25
+        },
+        {
+          "root": "ىشلا",
+          "records": 25
+        },
+        {
+          "root": "ئۆرگان",
+          "records": 25
+        },
+        {
+          "root": "تۇشۇن",
+          "records": 25
+        },
+        {
+          "root": "يارات",
+          "records": 25
+        },
+        {
+          "root": "ساقلا",
+          "records": 25
+        },
+        {
+          "root": "وكۇل",
+          "records": 25
+        },
+        {
+          "root": "ىنسان",
+          "records": 25
+        },
+        {
+          "root": "بابا",
+          "records": 25
+        },
+        {
+          "root": "اننې",
+          "records": 25
+        }
+      ]
+    },
+    "otk": {
+      "root_count": 3000,
+      "lemma_count": 3000,
+      "lemma_root_consistency": {
+        "base_entries_checked": 3000,
+        "invalid_base_roots": 0,
+        "status": "pass"
+      },
+      "top_100_roots": [
+        {
+          "root": "qan",
+          "records": 179
+        },
+        {
+          "root": "ay",
+          "records": 162
+        },
+        {
+          "root": "bodun",
+          "records": 140
+        },
+        {
+          "root": "beg",
+          "records": 140
+        },
+        {
+          "root": "tegin",
+          "records": 140
+        },
+        {
+          "root": "er",
+          "records": 140
+        },
+        {
+          "root": "kiši",
+          "records": 140
+        },
+        {
+          "root": "ogul",
+          "records": 140
+        },
+        {
+          "root": "qız",
+          "records": 140
+        },
+        {
+          "root": "ata",
+          "records": 140
+        },
+        {
+          "root": "ana",
+          "records": 140
+        },
+        {
+          "root": "ini",
+          "records": 140
+        },
+        {
+          "root": "eči",
+          "records": 140
+        },
+        {
+          "root": "til",
+          "records": 140
+        },
+        {
+          "root": "söz",
+          "records": 140
+        },
+        {
+          "root": "bitig",
+          "records": 140
+        },
+        {
+          "root": "tamga",
+          "records": 140
+        },
+        {
+          "root": "yer",
+          "records": 140
+        },
+        {
+          "root": "sub",
+          "records": 140
+        },
+        {
+          "root": "tağ",
+          "records": 140
+        },
+        {
+          "root": "orman",
+          "records": 140
+        },
+        {
+          "root": "yol",
+          "records": 140
+        },
+        {
+          "root": "eb",
+          "records": 140
+        },
+        {
+          "root": "ot",
+          "records": 140
+        },
+        {
+          "root": "kün",
+          "records": 140
+        },
+        {
+          "root": "yultuz",
+          "records": 140
+        },
+        {
+          "root": "tün",
+          "records": 140
+        },
+        {
+          "root": "yıl",
+          "records": 140
+        },
+        {
+          "root": "öd",
+          "records": 140
+        },
+        {
+          "root": "baş",
+          "records": 139
+        },
+        {
+          "root": "el",
+          "records": 139
+        },
+        {
+          "root": "adak",
+          "records": 139
+        },
+        {
+          "root": "köz",
+          "records": 139
+        },
+        {
+          "root": "qulaq",
+          "records": 139
+        },
+        {
+          "root": "yürek",
+          "records": 139
+        },
+        {
+          "root": "ağıl",
+          "records": 139
+        },
+        {
+          "root": "bilig",
+          "records": 139
+        },
+        {
+          "root": "küč",
+          "records": 139
+        },
+        {
+          "root": "qağan",
+          "records": 139
+        },
+        {
+          "root": "ordu",
+          "records": 139
+        },
+        {
+          "root": "sü",
+          "records": 139
+        },
+        {
+          "root": "yağı",
+          "records": 139
+        },
+        {
+          "root": "törü",
+          "records": 139
+        },
+        {
+          "root": "kut",
+          "records": 139
+        },
+        {
+          "root": "tenri",
+          "records": 139
+        },
+        {
+          "root": "alp",
+          "records": 117
+        },
+        {
+          "root": "edgü",
+          "records": 117
+        },
+        {
+          "root": "yabız",
+          "records": 117
+        },
+        {
+          "root": "uluğ",
+          "records": 117
+        },
+        {
+          "root": "kičig",
+          "records": 117
+        },
+        {
+          "root": "yaŋı",
+          "records": 117
+        },
+        {
+          "root": "eski",
+          "records": 117
+        },
+        {
+          "root": "aq",
+          "records": 117
+        },
+        {
+          "root": "qara",
+          "records": 117
+        },
+        {
+          "root": "qızıl",
+          "records": 117
+        },
+        {
+          "root": "kök",
+          "records": 117
+        },
+        {
+          "root": "bar",
+          "records": 23
+        },
+        {
+          "root": "kel",
+          "records": 23
+        },
+        {
+          "root": "al",
+          "records": 23
+        },
+        {
+          "root": "ber",
+          "records": 23
+        },
+        {
+          "root": "kör",
+          "records": 23
+        },
+        {
+          "root": "bil",
+          "records": 23
+        },
+        {
+          "root": "qıl",
+          "records": 23
+        },
+        {
+          "root": "bit",
+          "records": 23
+        },
+        {
+          "root": "oqı",
+          "records": 23
+        },
+        {
+          "root": "tap",
+          "records": 23
+        },
+        {
+          "root": "tur",
+          "records": 23
+        },
+        {
+          "root": "olur",
+          "records": 23
+        },
+        {
+          "root": "ögren",
+          "records": 23
+        },
+        {
+          "root": "tüşün",
+          "records": 23
+        },
+        {
+          "root": "yarat",
+          "records": 23
+        },
+        {
+          "root": "saq",
+          "records": 23
+        },
+        {
+          "root": "𐱅𐰭",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐱁𐰃",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐰠𐰃𐰶",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐰠𐰃𐰴",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐱁𐰃𐰞",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐰰𐰀𐱁",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐰼𐰃",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐰼𐰃𐱁𐰃",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐰼𐰃𐰠𐰃𐰶",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐰼𐰃𐰠𐰃𐰴",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐰼𐰃𐱁𐰃𐰞",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐰼𐰃𐰰𐰀𐱁",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰭𐰼𐰃𐰼𐰃",
+          "records": 1
+        },
+        {
+          "root": "𐰚𐰃𐱁𐰃",
+          "records": 1
+        },
+        {
+          "root": "𐰚𐰃𐱁𐰃𐱁𐰃",
+          "records": 1
+        },
+        {
+          "root": "𐰚𐰃𐱁𐰃𐰠𐰃𐰶",
+          "records": 1
+        },
+        {
+          "root": "𐰚𐰃𐱁𐰃𐰠𐰃𐰴",
+          "records": 1
+        },
+        {
+          "root": "𐰚𐰃𐱁𐰃𐱁𐰃𐰞",
+          "records": 1
+        },
+        {
+          "root": "𐰚𐰃𐱁𐰃𐰰𐰀𐱁",
+          "records": 1
+        },
+        {
+          "root": "𐰚𐰃𐱁𐰃𐰼𐰃",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰃𐰠",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰃𐰠𐱁𐰃",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰃𐰠𐰠𐰃𐰶",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰃𐰠𐰠𐰃𐰴",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰃𐰠𐱁𐰃𐰞",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰃𐰠𐰰𐰀𐱁",
+          "records": 1
+        },
+        {
+          "root": "𐱅𐰃𐰠𐰼𐰃",
+          "records": 1
+        },
+        {
+          "root": "𐰟𐰇𐰰𐰆𐰣",
+          "records": 1
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_language_roots": 33000,
+    "global_unique_roots": 32776,
+    "lemma_root_consistency_status": "pass"
+  }
+}
