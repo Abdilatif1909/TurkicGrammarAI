@@ -1,0 +1,5 @@
+| Metric Group | N | Mean | Min | Max | Population SD |
+| --- | --- | --- | --- | --- | --- |
+| Semantic Recall@10 categories | 5 | 82.49 | 54.57 | 100.00 | 16.98 |
+| RAG Recall@10 categories | 4 | 84.30 | 70.00 | 100.00 | 11.55 |
+| QA answer accuracy categories | 4 | 83.80 | 68.80 | 100.00 | 11.83 |

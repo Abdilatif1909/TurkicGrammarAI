@@ -300,6 +300,12 @@ TurkicGrammarAI/
       services/
     dist/
   data/
+  paper_package/
+    analysis/
+    figures/
+    reports/
+    tables/
+    validation/
   infra/
     nginx.conf
   scripts/
@@ -307,6 +313,18 @@ TurkicGrammarAI/
 ```
 
 There is no dedicated top-level `reports/` directory in the current repository. Most audit/report Markdown files are stored at the repository root, while generated backend data reports live under `backend/data/reports/`.
+
+## Research Reproducibility Package
+
+`paper_package/` is the manuscript and reviewer reproducibility package. It should remain tracked in Git because it contains compact, publication-facing evidence generated for manuscript preparation and validation.
+
+- `paper_package/figures/`: manuscript figures in PNG and SVG formats.
+- `paper_package/tables/`: manuscript tables in CSV, Markdown, and LaTeX formats.
+- `paper_package/analysis/`: statistical analysis, ablation notes, and embedding error analysis.
+- `paper_package/validation/`: figure/table validation, metric traceability, reviewer questions, threats to validity, and publication evidence reports.
+- `paper_package/reports/`: paper data summaries and package-level documentation.
+
+These files were generated from the repository's research artifacts for manuscript drafting, validation, and reviewer inspection. They document evidence and traceability; they do not modify algorithms, datasets, models, or evaluation results.
 
 ## Scientific Evaluation
 
@@ -337,6 +355,19 @@ Some benchmark and evaluation files are generated from the same datasets or sema
 ### Gold Dataset Status
 
 The current `backend/data/gold/gold_dataset_manifest.json` marks many records as candidates requiring expert review. Expert-reviewed gold datasets are incomplete and should be completed before publication-level claims.
+
+### Reviewer Reproducibility
+
+Reviewers can reproduce the current evaluation artifacts from the committed code and data. The commands below assume dependencies are installed from `backend/requirements.txt` and run from `backend/` unless noted.
+
+- Morphology evaluation: run the relevant Django management commands in `backend/apps/morphology/management/commands/`, including `evaluate_uzbek_morphology`, `evaluate_cross_language_morphology`, and the language-specific morphology evaluators. Compare outputs with root-level morphology reports and `backend/data/benchmark/`.
+- Cognate evaluation: run `python manage.py evaluate_cognate_alignment` and compare with `COGNATE_ALIGNMENT_REPORT.md`, `COGNATE_AWARE_EMBEDDING_REPORT.md`, and `backend/data/benchmark/cross_language_cognate_benchmark.json`.
+- Embedding evaluation: run the embedding evaluation modules in `backend/apps/embeddings/`, especially `evaluate_fasttext_embeddings.py` and `evaluate_embedding_quality.py`, using the local FastText artifacts or regenerated embeddings as configured.
+- Semantic search evaluation: run `backend/apps/embeddings/evaluate_semantic_search.py` and compare with `SEMANTIC_SEARCH_REPORT.md` and `backend/data/embeddings/semantic_search_benchmark.json`.
+- RAG evaluation: run `backend/apps/embeddings/evaluate_rag_retrieval.py` and compare with `TURKIC_RAG_REPORT.md` and `backend/data/embeddings/rag_retrieval_benchmark.json`.
+- QA evaluation: run `backend/apps/embeddings/evaluate_turkic_qa.py` and compare with `TURKIC_QA_REPORT.md`, `backend/data/embeddings/qa_benchmark.json`, and `backend/data/gold/gold_qa_dataset.json`.
+
+The `paper_package/validation/` reports provide reviewer-facing traceability for manuscript tables, figures, metric classification, and known threats to validity.
 
 ## Current Limitations
 

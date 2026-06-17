@@ -1,0 +1,11 @@
+Metric,Value
+Embedding dataset records,100000
+Languages represented,8
+Unique surface forms,88712
+Unique lemmas,26797
+Unique roots,26798
+Records with morphology features,75429
+Records with cognate group,23018
+Unique cognate groups,2000
+Records with historical lineage,25018
+Historical lineage entries,215162

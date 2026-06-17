@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="100%" height="100%" fill="white"/>
+<text x="130" y="52" font-family="Arial" font-size="28" font-weight="700" fill="#141414">Stored Evaluation Metrics</text>
+<line x1="130" y1="95" x2="130" y2="630" stroke="#444" stroke-width="2"/>
+<line x1="130" y1="630" x2="1140" y2="630" stroke="#444" stroke-width="2"/>
+<rect x="143.5" y="376.4" width="152.6" height="253.6" fill="#24806d"/>
+<text x="219.8" y="367.4" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">40.8</text>
+<text x="219.8" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">Top-1</text>
+<rect x="309.6" y="172.1" width="152.6" height="457.9" fill="#24806d"/>
+<text x="385.9" y="163.1" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">73.7</text>
+<text x="385.9" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">Top-5</text>
+<rect x="475.6" y="95.0" width="152.6" height="535.0" fill="#24806d"/>
+<text x="552.0" y="86.0" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">86.1</text>
+<text x="552.0" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">Top-10</text>
+<rect x="641.7" y="118.4" width="152.6" height="511.6" fill="#24806d"/>
+<text x="718.0" y="109.4" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">82.3</text>
+<text x="718.0" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">Sem R@10</text>
+<rect x="807.8" y="105.9" width="152.6" height="524.1" fill="#24806d"/>
+<text x="884.1" y="96.9" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">84.3</text>
+<text x="884.1" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">RAG R@10</text>
+<rect x="973.9" y="109.0" width="152.6" height="521.0" fill="#24806d"/>
+<text x="1050.2" y="100.0" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">83.8</text>
+<text x="1050.2" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">QA Acc</text>
+</svg>

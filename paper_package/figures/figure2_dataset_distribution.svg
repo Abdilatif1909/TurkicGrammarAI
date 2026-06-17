@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="100%" height="100%" fill="white"/>
+<text x="130" y="52" font-family="Arial" font-size="28" font-weight="700" fill="#141414">Dataset Distribution by Language</text>
+<line x1="130" y1="95" x2="130" y2="630" stroke="#444" stroke-width="2"/>
+<line x1="130" y1="630" x2="1140" y2="630" stroke="#444" stroke-width="2"/>
+<rect x="140.1" y="95.0" width="114.9" height="535.0" fill="#285c8f"/>
+<text x="197.5" y="86.0" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">18314.0</text>
+<text x="197.5" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">uz</text>
+<rect x="265.1" y="168.5" width="114.9" height="461.5" fill="#285c8f"/>
+<text x="322.5" y="159.5" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">15798.0</text>
+<text x="322.5" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">tr</text>
+<rect x="390.1" y="327.0" width="114.9" height="303.0" fill="#285c8f"/>
+<text x="447.5" y="318.0" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">10372.0</text>
+<text x="447.5" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">az</text>
+<rect x="515.1" y="320.9" width="114.9" height="309.1" fill="#285c8f"/>
+<text x="572.5" y="311.9" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">10582.0</text>
+<text x="572.5" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">kk</text>
+<rect x="640.0" y="323.3" width="114.9" height="306.7" fill="#285c8f"/>
+<text x="697.5" y="314.3" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">10499.0</text>
+<text x="697.5" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">ky</text>
+<rect x="765.0" y="334.9" width="114.9" height="295.1" fill="#285c8f"/>
+<text x="822.5" y="325.9" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">10102.0</text>
+<text x="822.5" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">tk</text>
+<rect x="890.0" y="223.5" width="114.9" height="406.5" fill="#285c8f"/>
+<text x="947.5" y="214.5" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">13916.0</text>
+<text x="947.5" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">ug</text>
+<rect x="1015.0" y="325.7" width="114.9" height="304.3" fill="#285c8f"/>
+<text x="1072.5" y="316.7" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">10417.0</text>
+<text x="1072.5" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">otk</text>
+</svg>

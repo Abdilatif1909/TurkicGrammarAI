@@ -49,7 +49,6 @@ backend/data/embeddings/
 
 # Generated runtime/evaluation reports
 backend/data/reports/
-paper_package/
 
 # OS/editor
 .DS_Store

@@ -1,0 +1,12 @@
+| Parameter | Value |
+| --- | --- |
+| vector_size | 300 |
+| window | 5 |
+| min_count | 1 |
+| epochs | 20 |
+| workers | 12 |
+| vocabulary_size | 143011 |
+| training_time_seconds | 172.217 |
+| corpus_path | backend\data\embeddings\fasttext_corpus.txt |
+| model_path | backend\models\turkic_fasttext.model |
+| vector_path | backend\models\turkic_fasttext.vec |

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="100%" height="100%" fill="white"/>
+<text x="130" y="52" font-family="Arial" font-size="28" font-weight="700" fill="#141414">Positive vs Negative Similarity</text>
+<line x1="130" y1="95" x2="130" y2="630" stroke="#444" stroke-width="2"/>
+<line x1="130" y1="630" x2="1140" y2="630" stroke="#444" stroke-width="2"/>
+<rect x="156.9" y="95.0" width="300.8" height="535.0" fill="#975627"/>
+<text x="307.3" y="86.0" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">0.6</text>
+<text x="307.3" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">Positive</text>
+<rect x="484.6" y="205.4" width="300.8" height="424.6" fill="#975627"/>
+<text x="635.0" y="196.4" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">0.5</text>
+<text x="635.0" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">Negative</text>
+<rect x="812.3" y="519.6" width="300.8" height="110.4" fill="#975627"/>
+<text x="962.7" y="510.6" font-family="Arial" font-size="16" text-anchor="middle" fill="#222">0.1</text>
+<text x="962.7" y="668" font-family="Arial" font-size="16" text-anchor="middle" fill="#333">Margin</text>
+</svg>
