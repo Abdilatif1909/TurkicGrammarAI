@@ -4,6 +4,12 @@ TurkicGrammarAI is a research-oriented platform for comparative and historical T
 
 The project is intended for reproducible engineering experiments and research prototyping. The current benchmark results are internal measurements and should not be treated as externally validated linguistic accuracy or production readiness.
 
+## Manuscript Status
+
+Manuscript prepared for double-blind peer review. Submission files (anonymized manuscript, title page, full version) are maintained outside this public repository to preserve reviewer anonymity.
+
+References and citations use the Harvard (author-year) style.
+
 ## Scope
 
 - Compare lexical forms across Uzbek, Turkish, Azerbaijani, Kazakh, Kyrgyz, Turkmen, Uyghur, and Old Turkic.

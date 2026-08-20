@@ -60,3 +60,4 @@ backend/data/reports/
 Thumbs.db
 .vscode/
 .idea/
+*.docx
