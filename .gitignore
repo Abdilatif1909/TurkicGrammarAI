@@ -11,6 +11,7 @@ htmlcov/
 # Virtual environments
 .venv/
 venv/
+venv311/
 backend/venv/
 env/
 ENV/
@@ -46,6 +47,10 @@ backend/models/
 
 # Generated embedding/search artifacts
 backend/data/embeddings/
+!backend/data/embeddings/
+backend/data/embeddings/*
+!backend/data/embeddings/embedding_dataset.jsonl
+!backend/data/embeddings/dataset_build_report.json
 
 # Generated runtime/evaluation reports
 backend/data/reports/
