@@ -1,4 +1,5 @@
 from pathlib import Path
+import json
 
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch
@@ -7,8 +8,22 @@ from matplotlib.patches import FancyBboxPatch
 OUTPUT = Path("paper_package/figures")
 OUTPUT.mkdir(parents=True, exist_ok=True)
 
-LANGUAGES = ["Uzbek", "Turkish", "Azerbaijani", "Kazakh", "Kyrgyz", "Turkmen", "Uyghur", "Old Turkic"]
-RECORDS = [18314, 15798, 10372, 10582, 10499, 10102, 13916, 10417]
+LANGUAGE_FILES = {
+    "Uzbek": "uzbek_words.json",
+    "Turkish": "turkish_words.json",
+    "Azerbaijani": "azerbaijani_words.json",
+    "Kazakh": "kazakh_words.json",
+    "Kyrgyz": "kyrgyz_words.json",
+    "Turkmen": "turkmen_words.json",
+    "Uyghur": "uyghur_words.json",
+    "Old Turkic": "old_turkic_words.json",
+}
+DATA_ROOT = Path("backend/data/words")
+LANGUAGES = list(LANGUAGE_FILES)
+RECORDS = [
+    len(json.loads((DATA_ROOT / filename).read_text(encoding="utf-8")))
+    for filename in LANGUAGE_FILES.values()
+]
 BASELINE = [15.62, 25.83, 35.49]
 COGNATE_AWARE = [40.80, 73.66, 86.06]
 

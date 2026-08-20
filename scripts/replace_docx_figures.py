@@ -12,7 +12,6 @@ replacements = {
     "word/media/image3.png": figure_dir / "figure3_embedding_performance_comparison.png",
     "word/media/image4.png": figure_dir / "figure4_positive_negative_similarity.png",
     "word/media/image5.png": figure_dir / "figure5_language_coverage.png",
-    "word/media/image6.png": figure_dir / "figure5_language_coverage.png",
 }
 
 with tempfile.TemporaryDirectory() as directory:
