@@ -105,4 +105,4 @@ The project currently covers 7,844 records and 7 language files, including Old T
 
 ## License
 
-No project license has been selected yet. The MIT License is recommended for a permissive open-source release, but the repository owner must confirm that choice before a `LICENSE` file is added.
+This project is released under the [MIT License](LICENSE). Copyright (c) 2026 TurkicGrammarAI Contributors.
