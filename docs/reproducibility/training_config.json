@@ -1,0 +1,18 @@
+{
+  "architecture": "gensim.models.FastText skip-gram",
+  "corpus_lines": 7844,
+  "corpus_path": "data/processed/fasttext_corpus.txt",
+  "epochs": 20,
+  "finished_at_utc": "2026-09-03T07:10:14.956368+00:00",
+  "gensim_version": "4.4.0",
+  "min_count": 1,
+  "model_path": "models/turkic_fasttext.model",
+  "seed": 42,
+  "started_at_utc": "2026-09-03T07:10:05.829739+00:00",
+  "training_time_seconds": 9.126535000046715,
+  "vector_path": "models/turkic_fasttext.vec",
+  "vector_size": 300,
+  "vocabulary_size": 7394,
+  "window": 5,
+  "workers": 12
+}

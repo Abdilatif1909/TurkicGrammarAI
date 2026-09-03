@@ -1,1 +1,1 @@
-# No third-party runtime dependencies are required for Bosqich 1.
+gensim==4.4.0

@@ -21,3 +21,4 @@ data/processed/*.jsonl
 !data/processed/lexicon_master_with_cognates.jsonl
 !data/processed/lineage_links.jsonl
 !data/processed/.gitkeep
+!data/processed/fasttext_corpus.txt
