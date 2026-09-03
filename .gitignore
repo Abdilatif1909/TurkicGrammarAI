@@ -6,6 +6,9 @@ __pycache__/
 # Environment
 .env
 
+# Original local raw-data drop; tracked copy lives in data/raw/
+words/
+
 # Generated model artifacts
 models/*
 !models/.gitkeep
