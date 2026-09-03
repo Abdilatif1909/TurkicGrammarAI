@@ -1,0 +1,2443 @@
+{
+  "cross_language_surface_form_statistics": {
+    "distribution_by_language_count": {
+      "1": 6642,
+      "2": 468,
+      "3": 68,
+      "4": 13,
+      "5": 2
+    },
+    "shared_surface_forms": {
+      "ak": [
+        "turkish",
+        "turkmen"
+      ],
+      "al": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "aldı": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "algoritm": [
+        "turkmen",
+        "uzbek"
+      ],
+      "algoritmi": [
+        "turkmen",
+        "uzbek"
+      ],
+      "algoritmim": [
+        "turkmen",
+        "uzbek"
+      ],
+      "algoritmli": [
+        "turkmen",
+        "uzbek"
+      ],
+      "alma": [
+        "azerbaijani",
+        "old_turkic",
+        "turkmen"
+      ],
+      "almak": [
+        "turkish",
+        "turkmen"
+      ],
+      "almaz": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "ana": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "analar": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "analıq": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "anaçı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "anaı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "anaım": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "anla": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "anladı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "ata": [
+        "azerbaijani",
+        "old_turkic",
+        "turkmen"
+      ],
+      "ataa": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "atada": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "atadan": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "atalar": [
+        "azerbaijani",
+        "old_turkic",
+        "turkmen"
+      ],
+      "atalıq": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "ataçı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "ataı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "ataım": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "ay": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "aya": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "ayda": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "aydan": [
+        "old_turkic",
+        "turkish"
+      ],
+      "aylar": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "aylı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "aylıq": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "aysız": [
+        "old_turkic",
+        "turkish"
+      ],
+      "ayçı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "ayı": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "ayım": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "ayın": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "ağıl": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "ağıllar": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "ağıllıq": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "ağılçı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "ağılı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "ağılım": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "bahar": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "bahara": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "baharda": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "bahardan": [
+        "turkish",
+        "turkmen"
+      ],
+      "baharlar": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "baharlı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "baharı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "baharım": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "baharın": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "bar": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "barma": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "barmaz": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "baş": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "başa": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "başda": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "başdan": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "başlar": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "başlı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "başlıq": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "başsız": [
+        "old_turkic",
+        "turkish"
+      ],
+      "başçı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "başı": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "başım": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "başın": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "ber": [
+        "old_turkic",
+        "turkmen",
+        "uzbek"
+      ],
+      "berdi": [
+        "old_turkic",
+        "turkmen",
+        "uzbek"
+      ],
+      "berdik": [
+        "turkmen",
+        "uzbek"
+      ],
+      "berdim": [
+        "turkmen",
+        "uzbek"
+      ],
+      "berme": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "bermez": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "bil": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "bildi": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "bildik": [
+        "azerbaijani",
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "bildim": [
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "bilim": [
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "bilimden": [
+        "turkish",
+        "turkmen"
+      ],
+      "bilime": [
+        "turkish",
+        "turkmen"
+      ],
+      "bilimi": [
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "bilimim": [
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "bilimler": [
+        "turkish",
+        "turkmen"
+      ],
+      "bilimli": [
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "bilimsiz": [
+        "turkish",
+        "uzbek"
+      ],
+      "bilme": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "bilmez": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "bilmiş": [
+        "old_turkic",
+        "turkish"
+      ],
+      "dil": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "dilden": [
+        "turkish",
+        "turkmen"
+      ],
+      "dile": [
+        "turkish",
+        "turkmen"
+      ],
+      "dili": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "dilim": [
+        "turkish",
+        "turkmen"
+      ],
+      "dilin": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "diller": [
+        "turkish",
+        "turkmen"
+      ],
+      "dilli": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "dilsiz": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "dilçi": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "dost": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "dosta": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "dostda": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "dostlar": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "dostum": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "el": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "elden": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "ele": [
+        "turkish",
+        "turkmen"
+      ],
+      "eli": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "elim": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "eller": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "elli": [
+        "turkish",
+        "turkmen"
+      ],
+      "elsiz": [
+        "old_turkic",
+        "turkish"
+      ],
+      "eski": [
+        "old_turkic",
+        "turkish",
+        "uzbek"
+      ],
+      "eskili": [
+        "turkish",
+        "uzbek"
+      ],
+      "eskilik": [
+        "turkish",
+        "uzbek"
+      ],
+      "eskisiz": [
+        "old_turkic",
+        "uzbek"
+      ],
+      "et": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "etden": [
+        "turkish",
+        "turkmen"
+      ],
+      "etdi": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "etdik": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "ete": [
+        "turkish",
+        "turkmen"
+      ],
+      "eti": [
+        "turkish",
+        "turkmen"
+      ],
+      "etim": [
+        "turkish",
+        "turkmen"
+      ],
+      "etler": [
+        "turkish",
+        "turkmen"
+      ],
+      "etli": [
+        "turkish",
+        "turkmen"
+      ],
+      "ev": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "evi": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "evin": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "evli": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "evsiz": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "fikir": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "fikiri": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "fikirin": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "fikirli": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "fikirsiz": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "gel": [
+        "turkish",
+        "turkmen"
+      ],
+      "geldi": [
+        "turkish",
+        "turkmen"
+      ],
+      "geldik": [
+        "turkish",
+        "turkmen"
+      ],
+      "geldim": [
+        "turkish",
+        "turkmen"
+      ],
+      "gelme": [
+        "turkish",
+        "turkmen"
+      ],
+      "gelmez": [
+        "turkish",
+        "turkmen"
+      ],
+      "gök": [
+        "turkish",
+        "turkmen"
+      ],
+      "gökli": [
+        "turkish",
+        "turkmen"
+      ],
+      "gör": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "gördi": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "gördik": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "gördim": [
+        "turkish",
+        "turkmen"
+      ],
+      "görme": [
+        "turkish",
+        "turkmen"
+      ],
+      "görmez": [
+        "turkish",
+        "turkmen"
+      ],
+      "göz": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "gözden": [
+        "turkish",
+        "turkmen"
+      ],
+      "göze": [
+        "turkish",
+        "turkmen"
+      ],
+      "gözler": [
+        "turkish",
+        "turkmen"
+      ],
+      "gözli": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "gözsiz": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "gözçi": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "gözü": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "gözüm": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "gözün": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "gül": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "gülli": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "gülçi": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "gülüm": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "gün": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "günden": [
+        "turkish",
+        "turkmen"
+      ],
+      "güne": [
+        "turkish",
+        "turkmen"
+      ],
+      "günler": [
+        "turkish",
+        "turkmen"
+      ],
+      "günli": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "günsiz": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "günçi": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "günü": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "günüm": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "günün": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "halk": [
+        "turkish",
+        "turkmen"
+      ],
+      "halka": [
+        "turkish",
+        "turkmen"
+      ],
+      "halkda": [
+        "turkish",
+        "turkmen"
+      ],
+      "halkdan": [
+        "turkish",
+        "turkmen"
+      ],
+      "halklar": [
+        "turkish",
+        "turkmen"
+      ],
+      "ini": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "iniden": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "inii": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "iniim": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "iniler": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "insan": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "insana": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "insanda": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "insanlar": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "insanlı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "insanı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "insanım": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "insanın": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "internet": [
+        "azerbaijani",
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "internetden": [
+        "turkish",
+        "turkmen"
+      ],
+      "internete": [
+        "turkish",
+        "turkmen"
+      ],
+      "interneti": [
+        "azerbaijani",
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "internetim": [
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "internetin": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "internetlar": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "internetler": [
+        "turkish",
+        "turkmen"
+      ],
+      "internetli": [
+        "azerbaijani",
+        "turkish",
+        "turkmen",
+        "uzbek"
+      ],
+      "internetlik": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "internetsiz": [
+        "azerbaijani",
+        "turkish",
+        "uzbek"
+      ],
+      "internetçi": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "iş": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "işden": [
+        "turkish",
+        "turkmen"
+      ],
+      "işe": [
+        "turkish",
+        "turkmen"
+      ],
+      "işi": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "işim": [
+        "turkish",
+        "turkmen"
+      ],
+      "işin": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "işler": [
+        "turkish",
+        "turkmen"
+      ],
+      "işli": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "işsiz": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "işçi": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "kel": [
+        "old_turkic",
+        "uzbek"
+      ],
+      "keldi": [
+        "old_turkic",
+        "uzbek"
+      ],
+      "kitap": [
+        "turkish",
+        "turkmen"
+      ],
+      "kitapa": [
+        "turkish",
+        "turkmen"
+      ],
+      "kitapda": [
+        "turkish",
+        "turkmen"
+      ],
+      "kitapdan": [
+        "turkish",
+        "turkmen"
+      ],
+      "kitaplar": [
+        "turkish",
+        "turkmen"
+      ],
+      "mavi": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "mavili": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "mavilik": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "model": [
+        "azerbaijani",
+        "turkish",
+        "uzbek"
+      ],
+      "modeli": [
+        "azerbaijani",
+        "turkish",
+        "uzbek"
+      ],
+      "modelim": [
+        "turkish",
+        "uzbek"
+      ],
+      "modelin": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "modellar": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "modelli": [
+        "azerbaijani",
+        "turkish",
+        "uzbek"
+      ],
+      "modellik": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "modelsiz": [
+        "azerbaijani",
+        "turkish",
+        "uzbek"
+      ],
+      "ogul": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "oguldan": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "ogullar": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "ogulum": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "oğul": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "oğula": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "oğulda": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "oğullar": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "oğullı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "oğulu": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "oğulum": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "oğulun": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "qara": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qulaq": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qulaqlar": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qulaqlıq": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qulaqçı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qulaqı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qulaqım": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qız": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qızlar": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qızlıq": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qızçı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qızı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "qızım": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "sakla": [
+        "turkish",
+        "turkmen"
+      ],
+      "saklamak": [
+        "turkish",
+        "turkmen"
+      ],
+      "saklamaz": [
+        "turkish",
+        "turkmen"
+      ],
+      "sayı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "sistem": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "sistemi": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "sistemin": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "sistemli": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "sistemsiz": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "su": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "sua": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "suda": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "sular": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "sulı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "suu": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "suum": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "suun": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "söz": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "sözden": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "söze": [
+        "turkish",
+        "turkmen"
+      ],
+      "sözi": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "sözler": [
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "sözli": [
+        "azerbaijani",
+        "turkish",
+        "turkmen"
+      ],
+      "sözlik": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "sözsiz": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "sözçi": [
+        "azerbaijani",
+        "turkmen"
+      ],
+      "sözü": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "sözüm": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "turkmen"
+      ],
+      "sözün": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "tap": [
+        "azerbaijani",
+        "old_turkic",
+        "turkmen"
+      ],
+      "tapdı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "tapma": [
+        "azerbaijani",
+        "old_turkic",
+        "turkmen"
+      ],
+      "tapmaz": [
+        "old_turkic",
+        "turkmen"
+      ],
+      "texnologiya": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "texnologiyada": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "texnologiyalar": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "texnologiyasiz": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "til": [
+        "old_turkic",
+        "uzbek"
+      ],
+      "tili": [
+        "old_turkic",
+        "uzbek"
+      ],
+      "tilim": [
+        "old_turkic",
+        "uzbek"
+      ],
+      "tillik": [
+        "old_turkic",
+        "uzbek"
+      ],
+      "tilni": [
+        "old_turkic",
+        "uzbek"
+      ],
+      "tilsiz": [
+        "old_turkic",
+        "uzbek"
+      ],
+      "universitet": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "universiteti": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "universitetlar": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "universitetli": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "universitetlik": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "universitetsiz": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "uzak": [
+        "turkish",
+        "turkmen"
+      ],
+      "ver": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "verdi": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "verdik": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "xalq": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "xalqda": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "xalqlar": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "xalqsiz": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "yarat": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "uzbek"
+      ],
+      "yaratdı": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "yaratma": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "yaratmaz": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yavaş": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yavaşca": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yavaşlı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yaz": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yazdı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yeni": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yenili": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yenilik": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yer": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "uzbek"
+      ],
+      "yerden": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yeri": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "uzbek"
+      ],
+      "yerim": [
+        "old_turkic",
+        "turkish",
+        "uzbek"
+      ],
+      "yerin": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yerlar": [
+        "azerbaijani",
+        "uzbek"
+      ],
+      "yerler": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yerli": [
+        "azerbaijani",
+        "turkish",
+        "uzbek"
+      ],
+      "yerlik": [
+        "azerbaijani",
+        "old_turkic",
+        "uzbek"
+      ],
+      "yerni": [
+        "old_turkic",
+        "uzbek"
+      ],
+      "yersiz": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish",
+        "uzbek"
+      ],
+      "yol": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "yola": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yolda": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yoldan": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yollar": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "yollı": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yollıq": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "yolsız": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yolu": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yolum": [
+        "azerbaijani",
+        "old_turkic",
+        "turkish"
+      ],
+      "yolun": [
+        "azerbaijani",
+        "turkish"
+      ],
+      "yolçı": [
+        "azerbaijani",
+        "old_turkic"
+      ],
+      "yürek": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yürekden": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yüreki": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yürekim": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yürekler": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yüreksiz": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yıl": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yıldan": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yıllar": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yılsız": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yılı": [
+        "old_turkic",
+        "turkish"
+      ],
+      "yılım": [
+        "old_turkic",
+        "turkish"
+      ],
+      "адам": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "адамда": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "адамды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "адамлар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "адамсыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "адамы": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "адамым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "адамың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "ай": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айда": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айлар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айсыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айт": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айтды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айтдым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айтдың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айтсың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айтып": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айы": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "айың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "ал": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алгоритм": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алгоритмге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алгоритмде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алгоритмлер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алдым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алдың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алсың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алып": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алыс": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "алыссыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "бала": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "балада": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "балады": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "баласыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "балатар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "балаы": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "балаым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "балаың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "бар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "барды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "бардым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "бардың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "барсың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "барып": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "бер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "берген": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "гүл": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "гүлге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "гүлде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "гүллер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "дос": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "досда": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "досды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "доссыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "достар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "досы": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "досым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "досың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жаз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жазда": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жаздар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жазды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жаздым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жаздың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жазсыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жазсың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жазы": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жазым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жазып": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жазың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жаман": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жамансыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жаса": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жасады": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жасадым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жасадың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жасасың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жасаып": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жерге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жерде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жертер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жол": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жолда": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жолды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жоллар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жолсыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жолы": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жолым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жолың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жыл": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жылда": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жылды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жыллар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жылсыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жылы": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жылым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "жылың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "интернет": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "интернетге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "интернетде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "интернеттер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "кел": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "келген": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "компьютер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "компьютерге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "компьютерде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "компьютертер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "күз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "күзге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "күзде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "күздер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "күн": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "күнге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "күнде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "күнлер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "көз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "көзге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "көзде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "көздер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "көк": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "көр": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "көрген": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "мектеп": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "мектепге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "мектепде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "мектептер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "нан": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "нанда": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "нанды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "нанлар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "нансыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "наны": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "наным": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "наның": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "ой": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "ойда": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "ойды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "ойлар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "ойсыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "ойы": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "ойым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "ойың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "сан": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "санда": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "санды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "санлар": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "сансыз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "саны": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "саным": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "саның": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "студент": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "студентге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "студентде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "студенттер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "сүт": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "сүтге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "сүтде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "сүттер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "сөз": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "сөзге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "сөзде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "сөздер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "тап": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "тапды": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "тапдым": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "тапдың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "тапсың": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "тапып": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "тез": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "технология": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "технологияге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "технологияде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "технологиятер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "түн": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "түнге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "түнде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "түнлер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "университет": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "университетге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "университетде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "университеттер": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "үй": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "үйге": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "үйде": [
+        "kazakh",
+        "kyrgyz"
+      ],
+      "үйлер": [
+        "kazakh",
+        "kyrgyz"
+      ]
+    },
+    "surface_forms_in_2_plus_languages": 551,
+    "surface_forms_in_3_plus_languages": 83
+  },
+  "duplicates_after_normalization": {},
+  "languages": {
+    "azerbaijani": {
+      "lemma_inferred_records": 0,
+      "pos_distribution": {
+        "adjective": 56,
+        "noun": 737,
+        "verb": 144
+      },
+      "records": 937,
+      "root_inferred_records": 0,
+      "unique_lemmas_with_fallback": 97,
+      "unique_lemmas_without_fallback": 97,
+      "unique_roots_with_fallback": 97,
+      "unique_roots_without_fallback": 97,
+      "unique_surface_forms": 937
+    },
+    "kazakh": {
+      "lemma_inferred_records": 0,
+      "pos_distribution": {
+        "adjective": 84,
+        "noun": 1004,
+        "verb": 206
+      },
+      "records": 1294,
+      "root_inferred_records": 0,
+      "unique_lemmas_with_fallback": 96,
+      "unique_lemmas_without_fallback": 96,
+      "unique_roots_with_fallback": 96,
+      "unique_roots_without_fallback": 96,
+      "unique_surface_forms": 1294
+    },
+    "kyrgyz": {
+      "lemma_inferred_records": 0,
+      "pos_distribution": {
+        "adjective": 98,
+        "noun": 1056,
+        "verb": 221
+      },
+      "records": 1375,
+      "root_inferred_records": 0,
+      "unique_lemmas_with_fallback": 95,
+      "unique_lemmas_without_fallback": 95,
+      "unique_roots_with_fallback": 95,
+      "unique_roots_without_fallback": 95,
+      "unique_surface_forms": 1375
+    },
+    "old_turkic": {
+      "lemma_inferred_records": 0,
+      "pos_distribution": {
+        "adjective": 44,
+        "noun": 540,
+        "verb": 135
+      },
+      "records": 719,
+      "root_inferred_records": 0,
+      "unique_lemmas_with_fallback": 72,
+      "unique_lemmas_without_fallback": 72,
+      "unique_roots_with_fallback": 72,
+      "unique_roots_without_fallback": 72,
+      "unique_surface_forms": 719
+    },
+    "turkish": {
+      "lemma_inferred_records": 0,
+      "pos_distribution": {
+        "adjective": 56,
+        "noun": 726,
+        "verb": 127
+      },
+      "records": 909,
+      "root_inferred_records": 0,
+      "unique_lemmas_with_fallback": 95,
+      "unique_lemmas_without_fallback": 95,
+      "unique_roots_with_fallback": 95,
+      "unique_roots_without_fallback": 95,
+      "unique_surface_forms": 909
+    },
+    "turkmen": {
+      "lemma_inferred_records": 0,
+      "pos_distribution": {
+        "adjective": 56,
+        "noun": 670,
+        "verb": 143
+      },
+      "records": 869,
+      "root_inferred_records": 0,
+      "unique_lemmas_with_fallback": 96,
+      "unique_lemmas_without_fallback": 96,
+      "unique_roots_with_fallback": 96,
+      "unique_roots_without_fallback": 96,
+      "unique_surface_forms": 869
+    },
+    "uzbek": {
+      "lemma_inferred_records": 0,
+      "pos_distribution": {
+        "adjective": 112,
+        "noun": 1311,
+        "verb": 318
+      },
+      "records": 1741,
+      "root_inferred_records": 0,
+      "unique_lemmas_with_fallback": 98,
+      "unique_lemmas_without_fallback": 98,
+      "unique_roots_with_fallback": 98,
+      "unique_roots_without_fallback": 98,
+      "unique_surface_forms": 1741
+    }
+  },
+  "total_records": 7844,
+  "totals": {
+    "language_surface_duplicate_pairs": 0,
+    "lemma_inferred_records": 0,
+    "pos_distribution": {
+      "adjective": 506,
+      "noun": 6044,
+      "verb": 1294
+    },
+    "root_inferred_records": 0,
+    "unique_lemmas_with_fallback": 520,
+    "unique_lemmas_without_fallback": 520,
+    "unique_roots_with_fallback": 520,
+    "unique_roots_without_fallback": 520,
+    "unique_surface_forms": 7193
+  }
+}

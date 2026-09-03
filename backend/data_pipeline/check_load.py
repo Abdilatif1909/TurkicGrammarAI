@@ -4,7 +4,10 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from loader import count_by_language, load_raw_lexicon
+try:
+    from .loader import count_by_language, load_raw_lexicon
+except ImportError:  # pragma: no cover - supports direct script execution
+    from loader import count_by_language, load_raw_lexicon
 
 
 def main() -> None:

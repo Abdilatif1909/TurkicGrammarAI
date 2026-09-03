@@ -37,14 +37,8 @@ class RawLexeme:
     ) -> "RawLexeme":
         required_fields = (
             "word",
-            "lemma",
-            "root",
             "pos",
-            "ipa",
-            "meaning",
             "frequency",
-            "source",
-            "notes",
         )
         missing = [
             field
@@ -58,14 +52,14 @@ class RawLexeme:
         return cls(
             surface_form=str(record["word"]),
             language=language,
-            lemma=str(record["lemma"]),
-            root=str(record["root"]),
+            lemma="" if record.get("lemma") is None else str(record.get("lemma", "")),
+            root="" if record.get("root") is None else str(record.get("root", "")),
             pos=str(record["pos"]),
-            ipa=str(record["ipa"]),
-            meaning=str(record["meaning"]),
+            ipa="" if record.get("ipa") is None else str(record.get("ipa", "")),
+            meaning="" if record.get("meaning") is None else str(record.get("meaning", "")),
             frequency=int(record["frequency"]),
-            source=str(record["source"]),
-            notes=str(record["notes"]),
+            source="" if record.get("source") is None else str(record.get("source", "")),
+            notes="" if record.get("notes") is None else str(record.get("notes", "")),
             source_file=source_file,
         )
 

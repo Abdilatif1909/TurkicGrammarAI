@@ -15,4 +15,5 @@ models/*
 
 # Potentially large generated processed exports
 data/processed/*.jsonl
+!data/processed/lexicon_master.jsonl
 !data/processed/.gitkeep
