@@ -1,0 +1,44 @@
+{
+  "benchmark_rows": 205894,
+  "mean_negative_similarity": 0.6657195606260882,
+  "mean_positive_similarity": 0.9048797163573477,
+  "negative_pairs": 102947,
+  "negative_similarity_pairs": 102947,
+  "positive_pairs": 102947,
+  "positive_similarity_pairs": 102947,
+  "separation_margin": 0.23916015573125948,
+  "similarity_evaluated_pairs": 205894,
+  "similarity_skipped_pairs": 0,
+  "topk": {
+    "top_10_accuracy": {
+      "hits": 10602,
+      "n": 102947,
+      "value": 0.1029850311325245,
+      "wilson_95_ci": {
+        "high": 0.10485651149444403,
+        "low": 0.10114317882672366
+      }
+    },
+    "top_1_accuracy": {
+      "hits": 939,
+      "n": 102947,
+      "value": 0.009121198286496936,
+      "wilson_95_ci": {
+        "high": 0.009720526932068,
+        "low": 0.008558502478035582
+      }
+    },
+    "top_5_accuracy": {
+      "hits": 4737,
+      "n": 102947,
+      "value": 0.046013968352647476,
+      "wilson_95_ci": {
+        "high": 0.047310840572020056,
+        "low": 0.04475097577177093
+      }
+    }
+  },
+  "topk_evaluated_positive_pairs": 102947,
+  "topk_methodology": "For each positive pair, check whether form_b appears among the top-K nearest in-vocabulary neighbors of form_a; self-neighbor is excluded.",
+  "topk_skipped_positive_pairs": 0
+}

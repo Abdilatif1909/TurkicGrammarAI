@@ -1,0 +1,46 @@
+{
+  "answer_accuracy": {
+    "hits": 197,
+    "n": 197,
+    "value": 1.0,
+    "wilson_95_ci": {
+      "high": 1.0,
+      "low": 0.9808731780616886
+    }
+  },
+  "by_answer_type": {
+    "lemma_lookup": {
+      "answer_accuracy": 1.0,
+      "answer_hits": 7,
+      "n": 7,
+      "source_accuracy": 1.0,
+      "source_hits": 7
+    },
+    "lineage_descendant_languages": {
+      "answer_accuracy": 1.0,
+      "answer_hits": 43,
+      "n": 43,
+      "source_accuracy": 1.0,
+      "source_hits": 43
+    },
+    "shared_cognate_languages": {
+      "answer_accuracy": 1.0,
+      "answer_hits": 147,
+      "n": 147,
+      "source_accuracy": 1.0,
+      "source_hits": 147
+    }
+  },
+  "evaluated_questions": 197,
+  "methodology": "Template QA engine parses each generated question, retrieves the matching lexicon/cognate/lineage source, and compares generated_answer with expected_answer exactly.",
+  "questions": 197,
+  "source_accuracy": {
+    "hits": 197,
+    "n": 197,
+    "value": 1.0,
+    "wilson_95_ci": {
+      "high": 1.0,
+      "low": 0.9808731780616886
+    }
+  }
+}

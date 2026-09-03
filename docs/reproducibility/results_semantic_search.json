@@ -1,0 +1,35 @@
+{
+  "evaluated_queries": 147,
+  "methodology": "Recall@K is query-level binary recall: 1 if at least one relevant form appears in the top-K nearest neighbors, else 0; averaged over evaluated queries.",
+  "metrics": {
+    "recall_at_1": {
+      "hits": 130,
+      "n": 147,
+      "value": 0.8843537414965986,
+      "wilson_95_ci": {
+        "high": 0.9265304713410932,
+        "low": 0.8226004432194957
+      }
+    },
+    "recall_at_10": {
+      "hits": 137,
+      "n": 147,
+      "value": 0.9319727891156463,
+      "wilson_95_ci": {
+        "high": 0.9626324316502348,
+        "low": 0.8793111625904273
+      }
+    },
+    "recall_at_5": {
+      "hits": 136,
+      "n": 147,
+      "value": 0.9251700680272109,
+      "wilson_95_ci": {
+        "high": 0.957704995217267,
+        "low": 0.8709796447833845
+      }
+    }
+  },
+  "queries": 147,
+  "skipped_queries": 0
+}

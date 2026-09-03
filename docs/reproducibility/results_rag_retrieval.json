@@ -1,0 +1,39 @@
+{
+  "evaluated_queries": 43,
+  "methodology": "Recall@K is query-level binary recall over top-K nearest neighbors. MRR is the mean reciprocal rank of the first relevant item within top 10, or 0 if none appears.",
+  "metrics": {
+    "mrr": {
+      "n": 43,
+      "value": 1.0
+    },
+    "recall_at_1": {
+      "hits": 43,
+      "n": 43,
+      "value": 1.0,
+      "wilson_95_ci": {
+        "high": 1.0,
+        "low": 0.9179901967742088
+      }
+    },
+    "recall_at_10": {
+      "hits": 43,
+      "n": 43,
+      "value": 1.0,
+      "wilson_95_ci": {
+        "high": 1.0,
+        "low": 0.9179901967742088
+      }
+    },
+    "recall_at_5": {
+      "hits": 43,
+      "n": 43,
+      "value": 1.0,
+      "wilson_95_ci": {
+        "high": 1.0,
+        "low": 0.9179901967742088
+      }
+    }
+  },
+  "queries": 43,
+  "skipped_queries": 0
+}
