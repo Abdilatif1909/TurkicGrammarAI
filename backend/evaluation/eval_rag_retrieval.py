@@ -15,7 +15,12 @@ def reciprocal_rank(neighbors: list[str], relevant: set[str]) -> float:
     return 0.0
 
 
-def evaluate(kv, rows: list[dict]) -> dict:
+def evaluate_embedding_only(
+    kv,
+    rows: list[dict],
+    *,
+    cross_language_only: bool = False,
+) -> dict:
     queries = {row["query_form"] for row in rows}
     neighbors_by_query = topn_for_queries(kv, queries, topn=10)
     hits = {1: 0, 5: 0, 10: 0}
@@ -29,7 +34,11 @@ def evaluate(kv, rows: list[dict]) -> dict:
             skipped += 1
             continue
         evaluated += 1
-        relevant = {item["form"] for item in row["relevant"]}
+        relevant = {
+            item["form"]
+            for item in row["relevant"]
+            if not cross_language_only or item["lang"] != row["query_lang"]
+        }
         for k in hits:
             if has_relevant(neighbors, relevant, k):
                 hits[k] += 1
@@ -37,9 +46,11 @@ def evaluate(kv, rows: list[dict]) -> dict:
 
     return {
         "queries": len(rows),
+        "mode": "embedding_only_cross_language" if cross_language_only else "embedding_only",
         "evaluated_queries": evaluated,
         "skipped_queries": skipped,
-        "methodology": "Recall@K is query-level binary recall over top-K nearest neighbors. MRR is the mean reciprocal rank of the first relevant item within top 10, or 0 if none appears.",
+        "methodology": "Recall@K is query-level binary recall over top-K nearest neighbors. MRR is the mean reciprocal rank of the first relevant item within top 10, or 0 if none appears."
+        + (" Same-language relevant entries are excluded." if cross_language_only else ""),
         "metrics": {
             f"recall_at_{k}": {
                 "value": hits[k] / evaluated if evaluated else None,
@@ -58,19 +69,51 @@ def evaluate(kv, rows: list[dict]) -> dict:
     }
 
 
+def evaluate_oracle(rows: list[dict]) -> dict:
+    n = len(rows)
+    return {
+        "queries": n,
+        "mode": "oracle_metadata",
+        "evaluated_queries": n,
+        "skipped_queries": 0,
+        "methodology": "Oracle mode directly accepts the benchmark's metadata-derived relevant set as retrievable. It measures internal metadata pipeline consistency, not model generalization.",
+        "metrics": {
+            f"recall_at_{k}": {
+                "value": 1.0 if n else None,
+                "hits": n,
+                "n": n,
+                "wilson_95_ci": wilson_interval(n, n),
+            }
+            for k in (1, 5, 10)
+        }
+        | {"mrr": {"value": 1.0 if n else None, "n": n}},
+    }
+
+
 def main() -> None:
     root = project_root()
     kv = KeyedVectors.load_word2vec_format(
         str(root / "models" / "turkic_fasttext.vec")
     )
     rows = load_jsonl(root / "data" / "benchmarks" / "rag_retrieval_benchmark.jsonl")
-    result = evaluate(kv, rows)
+    result = {
+        "oracle_metadata": evaluate_oracle(rows),
+        "embedding_only": evaluate_embedding_only(kv, rows),
+        "embedding_only_cross_language": evaluate_embedding_only(
+            kv,
+            rows,
+            cross_language_only=True,
+        ),
+    }
     output_path = root / "docs" / "reproducibility" / "results_rag_retrieval.json"
     write_json(output_path, result)
 
-    print(f"evaluated_queries: {result['evaluated_queries']}")
-    for name, metric in result["metrics"].items():
+    print(f"oracle_evaluated_queries: {result['oracle_metadata']['evaluated_queries']}")
+    print(f"embedding_evaluated_queries: {result['embedding_only']['evaluated_queries']}")
+    for name, metric in result["embedding_only"]["metrics"].items():
         print(f"{name}: {metric['value']:.6f}")
+    for name, metric in result["embedding_only_cross_language"]["metrics"].items():
+        print(f"cross_language_{name}: {metric['value']:.6f}")
     print(f"wrote: {output_path}")
 
 

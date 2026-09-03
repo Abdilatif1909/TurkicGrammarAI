@@ -1,46 +1,93 @@
 {
-  "answer_accuracy": {
-    "hits": 197,
-    "n": 197,
-    "value": 1.0,
-    "wilson_95_ci": {
-      "high": 1.0,
-      "low": 0.9808731780616886
+  "embedding_only": {
+    "answer_accuracy": {
+      "hits": 55,
+      "n": 190,
+      "value": 0.2894736842105263,
+      "wilson_95_ci": {
+        "high": 0.3576258677542733,
+        "low": 0.22966572359718762
+      }
+    },
+    "benchmark_questions": 197,
+    "by_answer_type": {
+      "lineage_descendant_languages": {
+        "answer_accuracy": 0.16279069767441862,
+        "answer_hits": 7,
+        "n": 43,
+        "source_accuracy": 1.0,
+        "source_hits": 43
+      },
+      "shared_cognate_languages": {
+        "answer_accuracy": 0.32653061224489793,
+        "answer_hits": 48,
+        "n": 147,
+        "source_accuracy": 0.9319727891156463,
+        "source_hits": 137
+      }
+    },
+    "evaluated_questions": 190,
+    "methodology": "Embedding QA mode parses the question only to extract the query form, retrieves top-10 vector neighbors, and derives answer languages from retrieved entries. Lemma lookup questions are skipped because embeddings alone cannot produce exact lemmas without direct database lookup.",
+    "mode": "embedding_only",
+    "questions": 190,
+    "skipped_questions": 7,
+    "source_accuracy": {
+      "hits": 180,
+      "n": 190,
+      "value": 0.9473684210526315,
+      "wilson_95_ci": {
+        "high": 0.9711635622076651,
+        "low": 0.9058418061704805
+      }
     }
   },
-  "by_answer_type": {
-    "lemma_lookup": {
-      "answer_accuracy": 1.0,
-      "answer_hits": 7,
-      "n": 7,
-      "source_accuracy": 1.0,
-      "source_hits": 7
+  "oracle_template_lookup": {
+    "answer_accuracy": {
+      "hits": 197,
+      "n": 197,
+      "value": 1.0,
+      "wilson_95_ci": {
+        "high": 1.0,
+        "low": 0.9808731780616886
+      }
     },
-    "lineage_descendant_languages": {
-      "answer_accuracy": 1.0,
-      "answer_hits": 43,
-      "n": 43,
-      "source_accuracy": 1.0,
-      "source_hits": 43
+    "benchmark_questions": 197,
+    "by_answer_type": {
+      "lemma_lookup": {
+        "answer_accuracy": 1.0,
+        "answer_hits": 7,
+        "n": 7,
+        "source_accuracy": 1.0,
+        "source_hits": 7
+      },
+      "lineage_descendant_languages": {
+        "answer_accuracy": 1.0,
+        "answer_hits": 43,
+        "n": 43,
+        "source_accuracy": 1.0,
+        "source_hits": 43
+      },
+      "shared_cognate_languages": {
+        "answer_accuracy": 1.0,
+        "answer_hits": 147,
+        "n": 147,
+        "source_accuracy": 1.0,
+        "source_hits": 147
+      }
     },
-    "shared_cognate_languages": {
-      "answer_accuracy": 1.0,
-      "answer_hits": 147,
-      "n": 147,
-      "source_accuracy": 1.0,
-      "source_hits": 147
-    }
-  },
-  "evaluated_questions": 197,
-  "methodology": "Template QA engine parses each generated question, retrieves the matching lexicon/cognate/lineage source, and compares generated_answer with expected_answer exactly.",
-  "questions": 197,
-  "source_accuracy": {
-    "hits": 197,
-    "n": 197,
-    "value": 1.0,
-    "wilson_95_ci": {
-      "high": 1.0,
-      "low": 0.9808731780616886
+    "evaluated_questions": 197,
+    "methodology": "Template lookup mode parses each generated question and directly retrieves the matching lexicon/cognate/lineage source. This is database lookup consistency, not model generalization.",
+    "mode": "oracle_template_lookup",
+    "questions": 197,
+    "skipped_questions": 0,
+    "source_accuracy": {
+      "hits": 197,
+      "n": 197,
+      "value": 1.0,
+      "wilson_95_ci": {
+        "high": 1.0,
+        "low": 0.9808731780616886
+      }
     }
   }
 }

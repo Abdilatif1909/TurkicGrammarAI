@@ -11,6 +11,7 @@ if str(Path(__file__).resolve().parents[1] / "evaluation") not in sys.path:
     sys.path.append(str(Path(__file__).resolve().parents[1] / "evaluation"))
 
 from common import compact_entry, load_jsonl  # noqa: E402
+from vector_utils import topn_for_queries  # noqa: E402
 
 
 COGNATE_RE = re.compile(
@@ -104,4 +105,94 @@ class SimpleQAEngine:
                 for item in link["old_turkic_entries"] + link["descendant_entries"]
             ],
             "source_ids": [link["lineage_id"], link["source_cognate_id"]],
+        }
+
+
+class EmbeddingQAEngine(SimpleQAEngine):
+    """Answer supported QA templates through nearest-neighbor retrieval only."""
+
+    def __init__(self, project_root: Path, keyed_vectors, topn: int = 10) -> None:
+        super().__init__(project_root)
+        self.keyed_vectors = keyed_vectors
+        self.topn = topn
+        self.entries_by_form: dict[str, list[dict]] = {}
+        for entry in self.entries:
+            self.entries_by_form.setdefault(entry["surface_form"], []).append(entry)
+
+    def answer(self, question: str) -> dict:
+        if match := COGNATE_RE.match(question):
+            return self._answer_cognate_languages_embedding(match.group(1), match.group(2))
+        if LEMMA_RE.match(question):
+            return {
+                "generated_answer": "",
+                "supporting_entries": [],
+                "source_ids": [],
+                "skipped": True,
+                "skip_reason": "lemma_lookup_requires_direct_database_lookup",
+            }
+        if match := LINEAGE_RE.match(question):
+            return self._answer_lineage_languages_embedding(match.group(1))
+        return {
+            "generated_answer": "",
+            "supporting_entries": [],
+            "source_ids": [],
+        }
+
+    def _neighbors(self, form: str) -> list[str]:
+        return topn_for_queries(self.keyed_vectors, {form}, topn=self.topn).get(form, [])
+
+    def _entries_from_neighbor_forms(self, forms: list[str]) -> list[dict]:
+        rows = []
+        seen = set()
+        for form in forms:
+            for entry in self.entries_by_form.get(form, []):
+                key = (entry["language"], entry["surface_form"])
+                if key in seen:
+                    continue
+                seen.add(key)
+                rows.append(entry)
+        return rows
+
+    def _answer_cognate_languages_embedding(self, form: str, language: str) -> dict:
+        neighbor_entries = self._entries_from_neighbor_forms(self._neighbors(form))
+        languages = sorted(
+            {
+                entry["language"]
+                for entry in neighbor_entries
+                if entry["language"] != language
+            }
+        )
+        source_ids = sorted(
+            {
+                cognate_id
+                for entry in neighbor_entries
+                for cognate_id in entry.get("cognate_ids", [])
+            }
+        )
+        return {
+            "generated_answer": ", ".join(languages),
+            "supporting_entries": [compact_entry(entry) for entry in neighbor_entries],
+            "source_ids": source_ids,
+        }
+
+    def _answer_lineage_languages_embedding(self, old_turkic_form: str) -> dict:
+        neighbor_entries = self._entries_from_neighbor_forms(self._neighbors(old_turkic_form))
+        languages = sorted(
+            {
+                entry["language"]
+                for entry in neighbor_entries
+                if entry["language"] != "old_turkic"
+            }
+        )
+        source_ids = sorted(
+            {
+                source_id
+                for entry in neighbor_entries
+                for source_id in entry.get("cognate_ids", []) + entry.get("lineage_ids", [])
+            }
+        )
+        return {
+            "generated_answer": ", ".join(languages),
+            "supporting_entries": [compact_entry(entry) for entry in neighbor_entries],
+            "source_ids": source_ids,
         }

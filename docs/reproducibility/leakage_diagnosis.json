@@ -1,0 +1,280 @@
+{
+  "diagnosis": {
+    "final_recommended_model_metric": "surface_pos_model.embedding_only_cross_language for RAG; surface_pos_model.embedding_only for QA",
+    "qa_template_lookup_tautology_confirmed": true,
+    "rag_oracle_tautology_confirmed": true,
+    "tag_tokens_can_ease_metadata_derived_retrieval": true
+  },
+  "surface_pos_model": {
+    "qa": {
+      "embedding_only": {
+        "answer_accuracy": {
+          "hits": 21,
+          "n": 190,
+          "value": 0.11052631578947368,
+          "wilson_95_ci": {
+            "high": 0.1630536503099326,
+            "low": 0.07343579369027001
+          }
+        },
+        "benchmark_questions": 197,
+        "by_answer_type": {
+          "lineage_descendant_languages": {
+            "answer_accuracy": 0.046511627906976744,
+            "answer_hits": 2,
+            "n": 43,
+            "source_accuracy": 0.8372093023255814,
+            "source_hits": 36
+          },
+          "shared_cognate_languages": {
+            "answer_accuracy": 0.1292517006802721,
+            "answer_hits": 19,
+            "n": 147,
+            "source_accuracy": 0.8027210884353742,
+            "source_hits": 118
+          }
+        },
+        "evaluated_questions": 190,
+        "methodology": "Embedding QA mode parses the question only to extract the query form, retrieves top-10 vector neighbors, and derives answer languages from retrieved entries. Lemma lookup questions are skipped because embeddings alone cannot produce exact lemmas without direct database lookup.",
+        "mode": "embedding_only",
+        "questions": 190,
+        "skipped_questions": 7,
+        "source_accuracy": {
+          "hits": 154,
+          "n": 190,
+          "value": 0.8105263157894737,
+          "wilson_95_ci": {
+            "high": 0.8598820502657925,
+            "low": 0.7488628524908028
+          }
+        }
+      }
+    },
+    "rag": {
+      "embedding_only": {
+        "evaluated_queries": 43,
+        "methodology": "Recall@K is query-level binary recall over top-K nearest neighbors. MRR is the mean reciprocal rank of the first relevant item within top 10, or 0 if none appears.",
+        "metrics": {
+          "mrr": {
+            "n": 43,
+            "value": 0.8391472868217054
+          },
+          "recall_at_1": {
+            "hits": 35,
+            "n": 43,
+            "value": 0.813953488372093,
+            "wilson_95_ci": {
+              "high": 0.9025824857100377,
+              "low": 0.6738299634272562
+            }
+          },
+          "recall_at_10": {
+            "hits": 38,
+            "n": 43,
+            "value": 0.8837209302325582,
+            "wilson_95_ci": {
+              "high": 0.9492957226019584,
+              "low": 0.7552083818991787
+            }
+          },
+          "recall_at_5": {
+            "hits": 38,
+            "n": 43,
+            "value": 0.8837209302325582,
+            "wilson_95_ci": {
+              "high": 0.9492957226019584,
+              "low": 0.7552083818991787
+            }
+          }
+        },
+        "mode": "embedding_only",
+        "queries": 43,
+        "skipped_queries": 0
+      },
+      "embedding_only_cross_language": {
+        "evaluated_queries": 43,
+        "methodology": "Recall@K is query-level binary recall over top-K nearest neighbors. MRR is the mean reciprocal rank of the first relevant item within top 10, or 0 if none appears. Same-language relevant entries are excluded.",
+        "metrics": {
+          "mrr": {
+            "n": 43,
+            "value": 0.4701550387596899
+          },
+          "recall_at_1": {
+            "hits": 16,
+            "n": 43,
+            "value": 0.37209302325581395,
+            "wilson_95_ci": {
+              "high": 0.5214019084031153,
+              "low": 0.2437633900965057
+            }
+          },
+          "recall_at_10": {
+            "hits": 27,
+            "n": 43,
+            "value": 0.627906976744186,
+            "wilson_95_ci": {
+              "high": 0.7562366099034944,
+              "low": 0.4785980915968847
+            }
+          },
+          "recall_at_5": {
+            "hits": 26,
+            "n": 43,
+            "value": 0.6046511627906976,
+            "wilson_95_ci": {
+              "high": 0.7363468524170255,
+              "low": 0.45579063062873904
+            }
+          }
+        },
+        "mode": "embedding_only_cross_language",
+        "queries": 43,
+        "skipped_queries": 0
+      }
+    },
+    "training": {
+      "bucket": 50000,
+      "corpus_lines": 7844,
+      "corpus_path": "data/processed/fasttext_surface_pos_corpus.txt",
+      "epochs": 20,
+      "finished_at_utc": "2026-09-03T10:52:33.168376+00:00",
+      "min_count": 1,
+      "model_path": "models/turkic_fasttext_surface_pos.model",
+      "started_at_utc": "2026-09-03T10:52:31.332716+00:00",
+      "training_time_seconds": 1.83605399999999,
+      "vector_path": "models/turkic_fasttext_surface_pos.vec",
+      "vector_size": 300,
+      "vocabulary_size": 7196,
+      "window": 5,
+      "workers": 12
+    }
+  },
+  "tagged_model": {
+    "qa": {
+      "embedding_only": {
+        "answer_accuracy": {
+          "hits": 55,
+          "n": 190,
+          "value": 0.2894736842105263,
+          "wilson_95_ci": {
+            "high": 0.3576258677542733,
+            "low": 0.22966572359718762
+          }
+        },
+        "benchmark_questions": 197,
+        "by_answer_type": {
+          "lineage_descendant_languages": {
+            "answer_accuracy": 0.16279069767441862,
+            "answer_hits": 7,
+            "n": 43,
+            "source_accuracy": 1.0,
+            "source_hits": 43
+          },
+          "shared_cognate_languages": {
+            "answer_accuracy": 0.32653061224489793,
+            "answer_hits": 48,
+            "n": 147,
+            "source_accuracy": 0.9319727891156463,
+            "source_hits": 137
+          }
+        },
+        "evaluated_questions": 190,
+        "methodology": "Embedding QA mode parses the question only to extract the query form, retrieves top-10 vector neighbors, and derives answer languages from retrieved entries. Lemma lookup questions are skipped because embeddings alone cannot produce exact lemmas without direct database lookup.",
+        "mode": "embedding_only",
+        "questions": 190,
+        "skipped_questions": 7,
+        "source_accuracy": {
+          "hits": 180,
+          "n": 190,
+          "value": 0.9473684210526315,
+          "wilson_95_ci": {
+            "high": 0.9711635622076651,
+            "low": 0.9058418061704805
+          }
+        }
+      }
+    },
+    "rag": {
+      "embedding_only": {
+        "evaluated_queries": 43,
+        "methodology": "Recall@K is query-level binary recall over top-K nearest neighbors. MRR is the mean reciprocal rank of the first relevant item within top 10, or 0 if none appears.",
+        "metrics": {
+          "mrr": {
+            "n": 43,
+            "value": 1.0
+          },
+          "recall_at_1": {
+            "hits": 43,
+            "n": 43,
+            "value": 1.0,
+            "wilson_95_ci": {
+              "high": 1.0,
+              "low": 0.9179901967742088
+            }
+          },
+          "recall_at_10": {
+            "hits": 43,
+            "n": 43,
+            "value": 1.0,
+            "wilson_95_ci": {
+              "high": 1.0,
+              "low": 0.9179901967742088
+            }
+          },
+          "recall_at_5": {
+            "hits": 43,
+            "n": 43,
+            "value": 1.0,
+            "wilson_95_ci": {
+              "high": 1.0,
+              "low": 0.9179901967742088
+            }
+          }
+        },
+        "mode": "embedding_only",
+        "queries": 43,
+        "skipped_queries": 0
+      },
+      "embedding_only_cross_language": {
+        "evaluated_queries": 43,
+        "methodology": "Recall@K is query-level binary recall over top-K nearest neighbors. MRR is the mean reciprocal rank of the first relevant item within top 10, or 0 if none appears. Same-language relevant entries are excluded.",
+        "metrics": {
+          "mrr": {
+            "n": 43,
+            "value": 0.7199612403100775
+          },
+          "recall_at_1": {
+            "hits": 25,
+            "n": 43,
+            "value": 0.5813953488372093,
+            "wilson_95_ci": {
+              "high": 0.716154490721508,
+              "low": 0.43328577386964223
+            }
+          },
+          "recall_at_10": {
+            "hits": 40,
+            "n": 43,
+            "value": 0.9302325581395349,
+            "wilson_95_ci": {
+              "high": 0.9759884104227855,
+              "low": 0.8139101309875801
+            }
+          },
+          "recall_at_5": {
+            "hits": 37,
+            "n": 43,
+            "value": 0.8604651162790697,
+            "wilson_95_ci": {
+              "high": 0.9344427657203511,
+              "low": 0.7273641203261714
+            }
+          }
+        },
+        "mode": "embedding_only_cross_language",
+        "queries": 43,
+        "skipped_queries": 0
+      }
+    }
+  }
+}

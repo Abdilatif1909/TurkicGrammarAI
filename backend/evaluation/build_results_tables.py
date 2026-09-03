@@ -68,7 +68,13 @@ def build_markdown() -> str:
     semantic = load_json(root / "docs" / "reproducibility" / "results_semantic_search.json")
     rag = load_json(root / "docs" / "reproducibility" / "results_rag_retrieval.json")
     qa = load_json(root / "docs" / "reproducibility" / "results_qa.json")
+    leakage_path = root / "docs" / "reproducibility" / "leakage_diagnosis.json"
+    leakage = load_json(leakage_path) if leakage_path.exists() else None
     entries = load_jsonl(root / "data" / "processed" / "lexicon_master_full.jsonl")
+    rag_oracle = rag["oracle_metadata"]
+    rag_embedding = rag["embedding_only_cross_language"]
+    qa_oracle = qa["oracle_template_lookup"]
+    qa_embedding = qa["embedding_only"]
 
     lines = [
         "# Results Tables",
@@ -97,11 +103,11 @@ def build_markdown() -> str:
     for source, metrics in [
         ("Embedding", embedding["topk"]),
         ("Semantic", semantic["metrics"]),
-        ("RAG", {key: value for key, value in rag["metrics"].items() if key.startswith("recall")}),
+        ("RAG embedding cross-language", {key: value for key, value in rag_embedding["metrics"].items() if key.startswith("recall")}),
     ]:
         for key, metric in metrics.items():
             lines.append(f"| {source} {key} | {pct(metric['value'])} | {ci(metric)} | {metric['hits']} | {metric['n']} |")
-    for key, metric in [("QA answer_accuracy", qa["answer_accuracy"]), ("QA source_accuracy", qa["source_accuracy"])]:
+    for key, metric in [("QA embedding answer_accuracy", qa_embedding["answer_accuracy"]), ("QA embedding source_accuracy", qa_embedding["source_accuracy"])]:
         lines.append(f"| {key} | {pct(metric['value'])} | {ci(metric)} | {metric['hits']} | {metric['n']} |")
 
     lines.extend([
@@ -134,31 +140,63 @@ def build_markdown() -> str:
 
     lines.extend([
         "",
-        "## RAG Retrieval Results",
+        "## RAG Retrieval Results - Oracle Vs Embedding",
         "",
-        "| Metric | Value | Hits/N |",
-        "|---|---:|---:|",
+        "Oracle/metadata-based retrieval demonstrates pipeline correctness. Embedding-based retrieval demonstrates model behavior; the cross-language row excludes same-language morphology hits.",
+        "",
+        "| Mode | Recall@1 | Recall@5 | Recall@10 | MRR | N |",
+        "|---|---:|---:|---:|---:|---:|",
     ])
-    for key, metric in rag["metrics"].items():
-        if "hits" in metric:
-            lines.append(f"| {key} | {pct(metric['value'])} | {metric['hits']}/{metric['n']} |")
-        else:
-            lines.append(f"| {key} | {num(metric['value'])} | N={metric['n']} |")
+    for label, result in [
+        ("oracle_metadata", rag_oracle),
+        ("embedding_only_all_relevant", rag["embedding_only"]),
+        ("embedding_only_cross_language", rag_embedding),
+    ]:
+        metrics = result["metrics"]
+        lines.append(
+            f"| {label} | {pct(metrics['recall_at_1']['value'])} | {pct(metrics['recall_at_5']['value'])} | {pct(metrics['recall_at_10']['value'])} | {num(metrics['mrr']['value'])} | {result['evaluated_queries']} |"
+        )
 
     lines.extend([
         "",
-        "## QA Results",
+        "## QA Results - Oracle Vs Embedding",
         "",
-        "| Metric | Value | Hits | N |",
-        "|---|---:|---:|---:|",
-        f"| Answer accuracy | {pct(qa['answer_accuracy']['value'])} | {qa['answer_accuracy']['hits']} | {qa['answer_accuracy']['n']} |",
-        f"| Source accuracy | {pct(qa['source_accuracy']['value'])} | {qa['source_accuracy']['hits']} | {qa['source_accuracy']['n']} |",
+        "Oracle/template lookup demonstrates database consistency. Embedding-based QA derives answer languages from top-10 vector neighbors; lemma lookup questions are skipped because exact lemma answers require direct database lookup.",
+        "",
+        "| Mode | Answer Accuracy | Source Accuracy | Evaluated | Skipped |",
+        "|---|---:|---:|---:|---:|",
+        f"| oracle_template_lookup | {pct(qa_oracle['answer_accuracy']['value'])} | {pct(qa_oracle['source_accuracy']['value'])} | {qa_oracle['evaluated_questions']} | {qa_oracle['skipped_questions']} |",
+        f"| embedding_only_tagged_model | {pct(qa_embedding['answer_accuracy']['value'])} | {pct(qa_embedding['source_accuracy']['value'])} | {qa_embedding['evaluated_questions']} | {qa_embedding['skipped_questions']} |",
+    ])
+
+    if leakage:
+        no_tag_rag = leakage["surface_pos_model"]["rag"]["embedding_only_cross_language"]
+        no_tag_qa = leakage["surface_pos_model"]["qa"]["embedding_only"]
+        lines.extend([
+            "",
+            "## Leakage Diagnostic - No-Tag Model",
+            "",
+            "The no-tag comparison model was trained with only `surface_form POS_<pos>` lines. It removes `LANG_`, `lemma`, `COGNATE_`, and `LINEAGE_` corpus tokens.",
+            "",
+            "| Task | Metric | Tagged model | Surface+POS no-tag model | N |",
+            "|---|---|---:|---:|---:|",
+            f"| RAG cross-language | Recall@1 | {pct(rag_embedding['metrics']['recall_at_1']['value'])} | {pct(no_tag_rag['metrics']['recall_at_1']['value'])} | {no_tag_rag['evaluated_queries']} |",
+            f"| RAG cross-language | Recall@5 | {pct(rag_embedding['metrics']['recall_at_5']['value'])} | {pct(no_tag_rag['metrics']['recall_at_5']['value'])} | {no_tag_rag['evaluated_queries']} |",
+            f"| RAG cross-language | Recall@10 | {pct(rag_embedding['metrics']['recall_at_10']['value'])} | {pct(no_tag_rag['metrics']['recall_at_10']['value'])} | {no_tag_rag['evaluated_queries']} |",
+            f"| RAG cross-language | MRR | {num(rag_embedding['metrics']['mrr']['value'])} | {num(no_tag_rag['metrics']['mrr']['value'])} | {no_tag_rag['evaluated_queries']} |",
+            f"| QA embedding | Answer accuracy | {pct(qa_embedding['answer_accuracy']['value'])} | {pct(no_tag_qa['answer_accuracy']['value'])} | {no_tag_qa['evaluated_questions']} |",
+            f"| QA embedding | Source accuracy | {pct(qa_embedding['source_accuracy']['value'])} | {pct(no_tag_qa['source_accuracy']['value'])} | {no_tag_qa['evaluated_questions']} |",
+        ])
+
+    lines.extend([
         "",
         "## Limitations Of Current Evaluation Scale",
         "",
         "- RAG evaluation uses only 43 queries because it is limited to Old Turkic-attested lineage groups.",
         "- QA evaluation uses 197 generated template questions, so confidence intervals are wider than for the embedding benchmark.",
-        "- The benchmark is derived from the same lexicon used to build the corpus, so results test internal retrieval consistency rather than external generalization.",
+        "- Oracle RAG and template QA are circular by construction and should be reported only as metadata pipeline consistency checks.",
+        "- The tagged training corpus includes `COGNATE_` and `LINEAGE_` tokens, so tagged embedding results can overstate generalization on metadata-derived benchmarks.",
+        "- The benchmark is derived from the same lexicon used to build the corpus, so even embedding-only results test internal retrieval consistency more than external generalization.",
         "- The current dataset lacks an independent semantic category taxonomy, so category-level claims should not be made.",
     ])
     return "\n".join(lines) + "\n"

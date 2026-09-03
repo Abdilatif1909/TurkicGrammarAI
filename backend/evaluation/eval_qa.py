@@ -4,10 +4,12 @@ from __future__ import annotations
 
 import sys
 
+from gensim.models import KeyedVectors
+
 from common import load_jsonl, project_root, write_json, wilson_interval
 
 sys.path.append(str(project_root() / "backend" / "qa"))
-from simple_qa_engine import SimpleQAEngine  # noqa: E402
+from simple_qa_engine import EmbeddingQAEngine, SimpleQAEngine  # noqa: E402
 
 
 def source_matches(row: dict, result: dict) -> bool:
@@ -22,14 +24,17 @@ def source_matches(row: dict, result: dict) -> bool:
     return bool(source_ids & expected_ids)
 
 
-def evaluate(rows: list[dict]) -> dict:
-    engine = SimpleQAEngine(project_root())
+def evaluate_with_engine(rows: list[dict], engine, *, mode: str, methodology: str) -> dict:
     answer_hits = 0
     source_hits = 0
+    skipped = 0
     type_counts: dict[str, dict[str, int]] = {}
 
     for row in rows:
         result = engine.answer(row["question"])
+        if result.get("skipped"):
+            skipped += 1
+            continue
         answer_ok = result["generated_answer"] == row["expected_answer"]
         source_ok = source_matches(row, result)
         answer_hits += int(answer_ok)
@@ -45,7 +50,7 @@ def evaluate(rows: list[dict]) -> dict:
         type_counts[answer_type]["answer_hits"] += int(answer_ok)
         type_counts[answer_type]["source_hits"] += int(source_ok)
 
-    n = len(rows)
+    n = len(rows) - skipped
     by_type = {}
     for answer_type, counts in sorted(type_counts.items()):
         by_type[answer_type] = {
@@ -56,8 +61,11 @@ def evaluate(rows: list[dict]) -> dict:
 
     return {
         "questions": n,
+        "mode": mode,
+        "benchmark_questions": len(rows),
         "evaluated_questions": n,
-        "methodology": "Template QA engine parses each generated question, retrieves the matching lexicon/cognate/lineage source, and compares generated_answer with expected_answer exactly.",
+        "skipped_questions": skipped,
+        "methodology": methodology,
         "answer_accuracy": {
             "value": answer_hits / n if n else None,
             "hits": answer_hits,
@@ -74,16 +82,42 @@ def evaluate(rows: list[dict]) -> dict:
     }
 
 
+def evaluate_oracle(rows: list[dict]) -> dict:
+    return evaluate_with_engine(
+        rows,
+        SimpleQAEngine(project_root()),
+        mode="oracle_template_lookup",
+        methodology="Template lookup mode parses each generated question and directly retrieves the matching lexicon/cognate/lineage source. This is database lookup consistency, not model generalization.",
+    )
+
+
+def evaluate_embedding_only(rows: list[dict], kv) -> dict:
+    return evaluate_with_engine(
+        rows,
+        EmbeddingQAEngine(project_root(), kv, topn=10),
+        mode="embedding_only",
+        methodology="Embedding QA mode parses the question only to extract the query form, retrieves top-10 vector neighbors, and derives answer languages from retrieved entries. Lemma lookup questions are skipped because embeddings alone cannot produce exact lemmas without direct database lookup.",
+    )
+
+
 def main() -> None:
     root = project_root()
     rows = load_jsonl(root / "data" / "benchmarks" / "qa_benchmark.jsonl")
-    result = evaluate(rows)
+    kv = KeyedVectors.load_word2vec_format(
+        str(root / "models" / "turkic_fasttext.vec")
+    )
+    result = {
+        "oracle_template_lookup": evaluate_oracle(rows),
+        "embedding_only": evaluate_embedding_only(rows, kv),
+    }
     output_path = root / "docs" / "reproducibility" / "results_qa.json"
     write_json(output_path, result)
 
-    print(f"evaluated_questions: {result['evaluated_questions']}")
-    print(f"answer_accuracy: {result['answer_accuracy']['value']:.6f}")
-    print(f"source_accuracy: {result['source_accuracy']['value']:.6f}")
+    print(f"oracle_evaluated_questions: {result['oracle_template_lookup']['evaluated_questions']}")
+    print(f"embedding_evaluated_questions: {result['embedding_only']['evaluated_questions']}")
+    print(f"embedding_skipped_questions: {result['embedding_only']['skipped_questions']}")
+    print(f"embedding_answer_accuracy: {result['embedding_only']['answer_accuracy']['value']:.6f}")
+    print(f"embedding_source_accuracy: {result['embedding_only']['source_accuracy']['value']:.6f}")
     print(f"wrote: {output_path}")
 
 

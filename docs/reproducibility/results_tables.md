@@ -23,11 +23,11 @@ Stage: Bosqich 7 - Evaluation
 | Semantic recall_at_1 | 88.44% | 82.26% - 92.65% | 130 | 147 |
 | Semantic recall_at_10 | 93.20% | 87.93% - 96.26% | 137 | 147 |
 | Semantic recall_at_5 | 92.52% | 87.10% - 95.77% | 136 | 147 |
-| RAG recall_at_1 | 100.00% | 91.80% - 100.00% | 43 | 43 |
-| RAG recall_at_10 | 100.00% | 91.80% - 100.00% | 43 | 43 |
-| RAG recall_at_5 | 100.00% | 91.80% - 100.00% | 43 | 43 |
-| QA answer_accuracy | 100.00% | 98.09% - 100.00% | 197 | 197 |
-| QA source_accuracy | 100.00% | 98.09% - 100.00% | 197 | 197 |
+| RAG embedding cross-language recall_at_1 | 58.14% | 43.33% - 71.62% | 25 | 43 |
+| RAG embedding cross-language recall_at_10 | 93.02% | 81.39% - 97.60% | 40 | 43 |
+| RAG embedding cross-language recall_at_5 | 86.05% | 72.74% - 93.44% | 37 | 43 |
+| QA embedding answer_accuracy | 28.95% | 22.97% - 35.76% | 55 | 190 |
+| QA embedding source_accuracy | 94.74% | 90.58% - 97.12% | 180 | 190 |
 
 ## Table 6 - Feature Availability And Benchmark Usage
 
@@ -50,25 +50,43 @@ N/A - insufficient category granularity in the current dataset. The lexicon has 
 | recall_at_10 | 93.20% | 137 | 147 |
 | recall_at_5 | 92.52% | 136 | 147 |
 
-## RAG Retrieval Results
+## RAG Retrieval Results - Oracle Vs Embedding
 
-| Metric | Value | Hits/N |
-|---|---:|---:|
-| mrr | 1.000000 | N=43 |
-| recall_at_1 | 100.00% | 43/43 |
-| recall_at_10 | 100.00% | 43/43 |
-| recall_at_5 | 100.00% | 43/43 |
+Oracle/metadata-based retrieval demonstrates pipeline correctness. Embedding-based retrieval demonstrates model behavior; the cross-language row excludes same-language morphology hits.
 
-## QA Results
+| Mode | Recall@1 | Recall@5 | Recall@10 | MRR | N |
+|---|---:|---:|---:|---:|---:|
+| oracle_metadata | 100.00% | 100.00% | 100.00% | 1.000000 | 43 |
+| embedding_only_all_relevant | 100.00% | 100.00% | 100.00% | 1.000000 | 43 |
+| embedding_only_cross_language | 58.14% | 86.05% | 93.02% | 0.719961 | 43 |
 
-| Metric | Value | Hits | N |
-|---|---:|---:|---:|
-| Answer accuracy | 100.00% | 197 | 197 |
-| Source accuracy | 100.00% | 197 | 197 |
+## QA Results - Oracle Vs Embedding
+
+Oracle/template lookup demonstrates database consistency. Embedding-based QA derives answer languages from top-10 vector neighbors; lemma lookup questions are skipped because exact lemma answers require direct database lookup.
+
+| Mode | Answer Accuracy | Source Accuracy | Evaluated | Skipped |
+|---|---:|---:|---:|---:|
+| oracle_template_lookup | 100.00% | 100.00% | 197 | 0 |
+| embedding_only_tagged_model | 28.95% | 94.74% | 190 | 7 |
+
+## Leakage Diagnostic - No-Tag Model
+
+The no-tag comparison model was trained with only `surface_form POS_<pos>` lines. It removes `LANG_`, `lemma`, `COGNATE_`, and `LINEAGE_` corpus tokens.
+
+| Task | Metric | Tagged model | Surface+POS no-tag model | N |
+|---|---|---:|---:|---:|
+| RAG cross-language | Recall@1 | 58.14% | 37.21% | 43 |
+| RAG cross-language | Recall@5 | 86.05% | 60.47% | 43 |
+| RAG cross-language | Recall@10 | 93.02% | 62.79% | 43 |
+| RAG cross-language | MRR | 0.719961 | 0.470155 | 43 |
+| QA embedding | Answer accuracy | 28.95% | 11.05% | 190 |
+| QA embedding | Source accuracy | 94.74% | 81.05% | 190 |
 
 ## Limitations Of Current Evaluation Scale
 
 - RAG evaluation uses only 43 queries because it is limited to Old Turkic-attested lineage groups.
 - QA evaluation uses 197 generated template questions, so confidence intervals are wider than for the embedding benchmark.
-- The benchmark is derived from the same lexicon used to build the corpus, so results test internal retrieval consistency rather than external generalization.
+- Oracle RAG and template QA are circular by construction and should be reported only as metadata pipeline consistency checks.
+- The tagged training corpus includes `COGNATE_` and `LINEAGE_` tokens, so tagged embedding results can overstate generalization on metadata-derived benchmarks.
+- The benchmark is derived from the same lexicon used to build the corpus, so even embedding-only results test internal retrieval consistency more than external generalization.
 - The current dataset lacks an independent semantic category taxonomy, so category-level claims should not be made.

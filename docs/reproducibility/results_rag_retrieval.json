@@ -1,39 +1,122 @@
 {
-  "evaluated_queries": 43,
-  "methodology": "Recall@K is query-level binary recall over top-K nearest neighbors. MRR is the mean reciprocal rank of the first relevant item within top 10, or 0 if none appears.",
-  "metrics": {
-    "mrr": {
-      "n": 43,
-      "value": 1.0
-    },
-    "recall_at_1": {
-      "hits": 43,
-      "n": 43,
-      "value": 1.0,
-      "wilson_95_ci": {
-        "high": 1.0,
-        "low": 0.9179901967742088
+  "embedding_only": {
+    "evaluated_queries": 43,
+    "methodology": "Recall@K is query-level binary recall over top-K nearest neighbors. MRR is the mean reciprocal rank of the first relevant item within top 10, or 0 if none appears.",
+    "metrics": {
+      "mrr": {
+        "n": 43,
+        "value": 1.0
+      },
+      "recall_at_1": {
+        "hits": 43,
+        "n": 43,
+        "value": 1.0,
+        "wilson_95_ci": {
+          "high": 1.0,
+          "low": 0.9179901967742088
+        }
+      },
+      "recall_at_10": {
+        "hits": 43,
+        "n": 43,
+        "value": 1.0,
+        "wilson_95_ci": {
+          "high": 1.0,
+          "low": 0.9179901967742088
+        }
+      },
+      "recall_at_5": {
+        "hits": 43,
+        "n": 43,
+        "value": 1.0,
+        "wilson_95_ci": {
+          "high": 1.0,
+          "low": 0.9179901967742088
+        }
       }
     },
-    "recall_at_10": {
-      "hits": 43,
-      "n": 43,
-      "value": 1.0,
-      "wilson_95_ci": {
-        "high": 1.0,
-        "low": 0.9179901967742088
-      }
-    },
-    "recall_at_5": {
-      "hits": 43,
-      "n": 43,
-      "value": 1.0,
-      "wilson_95_ci": {
-        "high": 1.0,
-        "low": 0.9179901967742088
-      }
-    }
+    "mode": "embedding_only",
+    "queries": 43,
+    "skipped_queries": 0
   },
-  "queries": 43,
-  "skipped_queries": 0
+  "embedding_only_cross_language": {
+    "evaluated_queries": 43,
+    "methodology": "Recall@K is query-level binary recall over top-K nearest neighbors. MRR is the mean reciprocal rank of the first relevant item within top 10, or 0 if none appears. Same-language relevant entries are excluded.",
+    "metrics": {
+      "mrr": {
+        "n": 43,
+        "value": 0.7199612403100775
+      },
+      "recall_at_1": {
+        "hits": 25,
+        "n": 43,
+        "value": 0.5813953488372093,
+        "wilson_95_ci": {
+          "high": 0.716154490721508,
+          "low": 0.43328577386964223
+        }
+      },
+      "recall_at_10": {
+        "hits": 40,
+        "n": 43,
+        "value": 0.9302325581395349,
+        "wilson_95_ci": {
+          "high": 0.9759884104227855,
+          "low": 0.8139101309875801
+        }
+      },
+      "recall_at_5": {
+        "hits": 37,
+        "n": 43,
+        "value": 0.8604651162790697,
+        "wilson_95_ci": {
+          "high": 0.9344427657203511,
+          "low": 0.7273641203261714
+        }
+      }
+    },
+    "mode": "embedding_only_cross_language",
+    "queries": 43,
+    "skipped_queries": 0
+  },
+  "oracle_metadata": {
+    "evaluated_queries": 43,
+    "methodology": "Oracle mode directly accepts the benchmark's metadata-derived relevant set as retrievable. It measures internal metadata pipeline consistency, not model generalization.",
+    "metrics": {
+      "mrr": {
+        "n": 43,
+        "value": 1.0
+      },
+      "recall_at_1": {
+        "hits": 43,
+        "n": 43,
+        "value": 1.0,
+        "wilson_95_ci": {
+          "high": 1.0,
+          "low": 0.9179901967742088
+        }
+      },
+      "recall_at_10": {
+        "hits": 43,
+        "n": 43,
+        "value": 1.0,
+        "wilson_95_ci": {
+          "high": 1.0,
+          "low": 0.9179901967742088
+        }
+      },
+      "recall_at_5": {
+        "hits": 43,
+        "n": 43,
+        "value": 1.0,
+        "wilson_95_ci": {
+          "high": 1.0,
+          "low": 0.9179901967742088
+        }
+      }
+    },
+    "mode": "oracle_metadata",
+    "queries": 43,
+    "skipped_queries": 0
+  }
 }
