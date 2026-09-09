@@ -1,11 +1,10 @@
 # Reproducibility Package
 
-This directory is the entry point for auditing and reproducing the TurkicGrammarAI dataset, derived linguistic layers, training setup, benchmarks, and reported results. The current release covers **7,844 records in 7 language files**; Uyghur is not present.
+This directory is the entry point for auditing and reproducing the TurkicGrammarAI dataset, derived linguistic layers, training setup, benchmarks, and reported results. The current release covers **7,844 records in 7 language files**;
 
 ## Recommended reading order
 
 1. **Audit — [`../data_audit.md`](../data_audit.md)**  
-   Start with the raw-data inventory, schema audit, per-language record counts, duplicate checks, and the explicit note that `uyghur_words.json` is absent.
 
 2. **Dataset — [`dataset_manifest.json`](dataset_manifest.json)**  
    Read the machine-readable normalization manifest for language counts, totals, POS distribution, unique forms, and cross-language surface-form statistics. [`normalization_rules.md`](normalization_rules.md) and [`raw_data_strategy.md`](raw_data_strategy.md) document how that manifest and the normalized lexicon are produced.
