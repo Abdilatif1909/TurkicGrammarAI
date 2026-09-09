@@ -101,7 +101,7 @@ Oracle/metadata modes directly reuse metadata-derived relationships and verify i
 
 ### Current scale
 
-The project currently covers 7,844 records and 7 language files, including Old Turkic as the historical source. Uyghur data is absent. RAG evaluation has 43 Old Turkic-attested queries and QA has 197 generated template questions, of which 190 can be evaluated in embedding-only mode.
+The project currently covers 7,844 records and 7 language files, including Old Turkic as the historical source. RAG evaluation has 43 Old Turkic-attested queries and QA has 197 generated template questions, of which 190 can be evaluated in embedding-only mode.
 
 ## License
 
