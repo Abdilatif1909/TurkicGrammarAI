@@ -2,7 +2,7 @@
 
 TurkicGrammarAI is a reproducible lexical pipeline for building cognate-aware FastText embeddings, Old Turkic-attested lineage links, retrieval benchmarks, and template-based QA evaluations for Turkic language resources.
 
-The current dataset contains **7,844 lexical records across 7 language files**: Azerbaijani, Kazakh, Kyrgyz, Old Turkic, Turkish, Turkmen, and Uzbek. Uyghur is **not yet included**; adding it would make the collection eight-language, but no eight-language claim applies to the current release.
+The current dataset contains **7,844 lexical records across 7 language files**: Azerbaijani, Kazakh, Kyrgyz, Old Turkic, Turkish, Turkmen, and Uzbek.
 
 ## Installation
 
